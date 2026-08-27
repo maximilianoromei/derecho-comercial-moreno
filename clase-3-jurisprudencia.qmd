@@ -1,0 +1,433 @@
+---
+title: "Jurisprudencia sobre personalidad societaria"
+subtitle: "Inoponibilidad y responsabilidad de socios y administradores"
+author: "Prof. Maximiliano Lucas Romei"
+format:
+  revealjs:
+    slide-number: true
+    transition: fade
+    center: false
+    width: 1600
+    height: 900
+    margin: 0.06
+    scrollable: true
+---
+
+# Personalidad jurídica e inoponibilidad
+
+## Dos decisiones de la Corte Suprema
+
+**Carballo, Atilano c/ Kanmar S.A. (en liquidación) y otros**  
+CSJN · 31/10/2002
+
+**Palomeque, Aldo René c/ Benemeth S.A. y otro**  
+CSJN · 03/04/2003 · Fallos 326:1062
+
+### Pregunta que atraviesa ambos casos
+
+> ¿Cuándo puede dejarse de lado la separación entre la sociedad y las
+> personas que la integran o administran para responsabilizar directamente
+> a estas últimas?
+
+---
+
+# 1. El problema jurídico
+
+## De la regla a la excepción
+
+### Regla: artículo 2 LGS
+
+La sociedad constituye un **sujeto de derecho diferente de sus integrantes**.
+
+Esto implica distinguir:
+
+- patrimonio social y patrimonio de los socios;
+- obligaciones sociales y obligaciones personales;
+- actuación de la sociedad y actuación de sus administradores.
+
+### Excepción: artículo 54 LGS
+
+En determinados supuestos puede declararse la **inoponibilidad de la personalidad jurídica**.
+
+Pero aparece entonces el problema central:
+
+> **¿Todo incumplimiento de la sociedad permite responsabilizar personalmente
+> a sus socios, controlantes o administradores?**
+
+La respuesta de la Corte en estos precedentes es **negativa**.
+
+---
+
+# 2. Carballo c/ Kanmar
+
+## CSJN · 31 de octubre de 2002
+
+El caso se origina en un **reclamo laboral**.
+
+El trabajador había demandado a:
+
+- Kanmar S.A.;
+- otras sociedades;
+- personas físicas vinculadas con ellas.
+
+La sentencia había extendido la responsabilidad derivada de las obligaciones
+laborales a personas físicas vinculadas con la sociedad.
+
+La cuestión llegó a la Corte mediante recurso extraordinario.
+
+### Problema
+
+¿La existencia de irregularidades o incumplimientos de la sociedad permite,
+por sí sola, trasladar sus obligaciones a sus integrantes o administradores?
+
+[⚖️ Consultar referencia y fallo](https://ar.microjuris.com/docDetail?Idx=MJ-JU-M-4377-AR&links=CARBALL%2C+ATIL%2C+C%2C+KANM%2C+SA)
+
+---
+
+# 3. Carballo
+
+## La personalidad diferenciada como punto de partida
+
+La Corte deja sin efecto la sentencia que había extendido la condena.
+
+Un elemento fundamental del razonamiento consiste en reconocer la importancia
+de la **personalidad diferenciada** dentro del sistema societario.
+
+### La sociedad no se confunde con sus integrantes
+
+La utilización de una estructura societaria implica, como regla:
+
+**Sociedad**
+
+↓
+
+sujeto jurídicamente diferenciado
+
+↓
+
+**Socios / administradores**
+
+Por ello, para trasladar las consecuencias de una obligación social a una
+persona física debe existir una **justificación jurídica concreta**.
+
+### Consecuencia
+
+No puede partirse del razonamiento:
+
+**La sociedad incumplió**
+
+↓
+
+**alguien la administra o integra**
+
+↓
+
+**esa persona responde automáticamente**
+
+---
+
+# 4. Carballo
+
+## ¿Qué cuestiona la Corte?
+
+El problema no consiste en negar que pueda existir responsabilidad personal.
+
+El problema consiste en **cómo se llega a ella**.
+
+La extensión de responsabilidad requiere:
+
+- identificar la norma que la justifica;
+- acreditar sus presupuestos;
+- analizar la conducta de la persona a quien se pretende responsabilizar;
+- respetar las reglas probatorias aplicables.
+
+### Idea para recordar
+
+> La existencia de una persona jurídica impide confundir automáticamente
+> las obligaciones sociales con las obligaciones de quienes participan
+> en ella.
+
+Esto no significa inmunidad.
+
+Significa que la responsabilidad personal debe encontrar un **fundamento
+jurídico específico**.
+
+---
+
+# 5. Palomeque c/ Benemeth
+
+## CSJN · 3 de abril de 2003
+
+Pocos meses después de *Carballo*, la Corte vuelve a analizar un problema
+semejante.
+
+También se trataba de un **conflicto laboral**.
+
+La Cámara había extendido la condena a personas físicas que eran:
+
+- accionistas de Benemeth S.A.;
+- y miembros de su directorio.
+
+Uno de los fundamentos utilizados había sido la existencia de una parte
+de la remuneración del trabajador que no se encontraba correctamente registrada.
+
+### La Cámara había aplicado
+
+**art. 54 LGS → inoponibilidad de la personalidad jurídica**
+
+La cuestión era determinar si los hechos acreditados justificaban esa consecuencia.
+
+[⚖️ Consultar fallo](https://d.documentop.com/fallo-palomeque-aldo-rene-c-benemeth-sa-y-otro-s_5985a7d81723ddb404628105.html)
+
+---
+
+# 6. Palomeque
+
+## La discusión sobre el artículo 54 LGS
+
+El razonamiento que había permitido extender la condena podía esquematizarse:
+
+**Existencia de remuneraciones incorrectamente registradas**
+
+↓
+
+fraude laboral y previsional
+
+↓
+
+violación de normas de orden público
+
+↓
+
+aplicación del art. 54 LGS
+
+↓
+
+responsabilidad personal de socios/directores
+
+### La Corte no convalidó ese razonamiento
+
+Hizo lugar a la queja y dejó sin efecto la sentencia.
+
+El punto relevante para derecho societario consiste en que la aplicación
+del art. 54 no puede transformarse en un mecanismo **automático de extensión
+de responsabilidad** ante cualquier incumplimiento cometido por una sociedad.
+
+---
+
+# 7. ¿Qué exige el artículo 54?
+
+## No basta con identificar un incumplimiento
+
+La norma contempla supuestos calificados.
+
+Debe analizarse si la actuación societaria:
+
+- encubre fines extrasocietarios;
+- constituye un mero recurso para violar la ley;
+- vulnera el orden público;
+- vulnera la buena fe;
+- frustra derechos de terceros.
+
+Y además debe determinarse:
+
+> **¿Quién hizo posible esa utilización abusiva de la estructura societaria?**
+
+Porque la consecuencia del art. 54 no es una responsabilidad abstracta.
+
+La actuación se imputa a los **socios o controlantes que la hicieron posible**.
+
+---
+
+# 8. Carballo + Palomeque
+
+## Una lectura conjunta
+
+Los dos precedentes permiten construir una secuencia conceptual.
+
+### 1. Punto de partida
+
+**Personalidad jurídica diferenciada**
+
+Art. 2 LGS
+
+↓
+
+### 2. Existencia de un incumplimiento
+
+La sociedad viola una obligación.
+
+↓
+
+### 3. Esto no basta
+
+No existe una comunicación automática de responsabilidad.
+
+↓
+
+### 4. Debe buscarse un fundamento específico
+
+Por ejemplo:
+
+**art. 54 LGS**
+
+↓
+
+### 5. Deben acreditarse sus presupuestos
+
+No basta la mera condición de:
+
+- socio;
+- accionista;
+- director;
+- controlante.
+
+---
+
+# 9. Lo que los fallos NO dicen
+
+## Evitar una interpretación excesiva
+
+**Carballo** y **Palomeque** no significan:
+
+> “Los socios y administradores nunca responden por las obligaciones
+> de una sociedad.”
+
+Tampoco significan:
+
+> “La personalidad jurídica siempre es oponible.”
+
+Lo que impiden es un razonamiento automático:
+
+**incumplimiento societario = responsabilidad personal**
+
+### La pregunta correcta es otra
+
+> ¿Existe una norma que permita imputar esa actuación o responsabilidad
+> a la persona física y están acreditados sus presupuestos?
+
+Según el caso podrán resultar relevantes:
+
+- art. 54 LGS;
+- régimen de responsabilidad de administradores;
+- reglas propias del tipo societario;
+- otras normas específicas.
+
+---
+
+# 10. Aplicación práctica
+
+## Tres sociedades, tres problemas
+
+### Caso 1
+
+Una SA atraviesa una crisis financiera y deja de pagar salarios durante dos meses.
+
+**¿El accionista mayoritario responde automáticamente?**
+
+No.
+
+---
+
+### Caso 2
+
+Una SA registra incorrectamente determinadas obligaciones.
+
+**¿Todo director responde automáticamente por todas las deudas sociales?**
+
+No.
+
+Debe analizarse el fundamento jurídico de su responsabilidad y su conducta.
+
+---
+
+### Caso 3
+
+Una sociedad es deliberadamente utilizada por su controlante para trasladar
+activos, vaciar el patrimonio y frustrar la ejecución de sus acreedores.
+
+**¿Es igual a los casos anteriores?**
+
+No.
+
+Aquí existen elementos que pueden conducir al análisis del **art. 54 LGS**.
+
+---
+
+# 11. Actividad
+
+## ¿Aplicamos el artículo 54?
+
+Una SA posee un inmueble y desarrolla normalmente su actividad.
+
+Ante una importante deuda personal de su accionista controlante, éste:
+
+1. transfiere bienes personales a la sociedad;
+2. utiliza las cuentas sociales para sus gastos particulares;
+3. hace pagar a la sociedad obligaciones personales;
+4. continúa utilizando personalmente los bienes transferidos;
+5. sostiene frente a sus acreedores que esos bienes pertenecen a otra
+   persona jurídica.
+
+### Discutir
+
+**A.** ¿Alcanza con demostrar que posee el 95 % de las acciones?
+
+**B.** ¿Alcanza con demostrar que controla la sociedad?
+
+**C.** ¿Qué hechos resultan jurídicamente relevantes?
+
+**D.** ¿Qué supuesto del art. 54 podría encontrarse comprometido?
+
+**E.** ¿Declarar la inoponibilidad significa declarar nula a la sociedad?
+
+---
+
+# 12. Cierre
+
+## Regla, excepción y prueba
+
+### Artículo 2 LGS
+
+**Personalidad jurídica diferenciada**
+
+La sociedad constituye un sujeto distinto de sus integrantes.
+
+### Artículo 54 LGS
+
+**Inoponibilidad**
+
+La separación no puede ser utilizada como instrumento para alcanzar los
+resultados reprochados por la norma.
+
+### Carballo + Palomeque
+
+**Aplicación restrictiva y fundada**
+
+La responsabilidad personal no deriva automáticamente de:
+
+- integrar la sociedad;
+- administrarla;
+- controlarla;
+- ni del mero incumplimiento de una obligación social.
+
+---
+
+## Para recordar
+
+> **La pregunta no es simplemente si la sociedad incumplió.**
+>
+> **La pregunta es si existen los presupuestos jurídicos y fácticos que
+> permiten imputar esa actuación a quienes se encuentran detrás de ella.**
+
+### Fallos
+
+**CSJN, “Carballo, Atilano c/ Kanmar S.A. (en liquidación) y otros”,
+31/10/2002.**
+
+[⚖️ Consultar fallo](https://ar.microjuris.com/docDetail?Idx=MJ-JU-M-4377-AR&links=CARBALL%2C+ATIL%2C+C%2C+KANM%2C+SA)
+
+**CSJN, “Palomeque, Aldo René c/ Benemeth S.A. y otro”,
+03/04/2003, Fallos 326:1062.**
+
+[⚖️ Consultar fallo](https://d.documentop.com/fallo-palomeque-aldo-rene-c-benemeth-sa-y-otro-s_5985a7d81723ddb404628105.html)

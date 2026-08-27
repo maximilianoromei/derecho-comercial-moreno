@@ -1,0 +1,247 @@
+:root {
+  --azul: #16324F;
+  --azul-claro: #2D5D7B;
+  --dorado: #C9963B;
+  --dorado-claro: #E8C77B;
+  --crema: #F7F3EA;
+  --gris: #ECEFF1;
+  --gris-claro: #F7F9FA;
+  --oscuro: #1F2933;
+}
+
+/* =========================
+   BASE
+   ========================= */
+
+.reveal {
+  font-family: "Aptos", "Segoe UI", sans-serif;
+  color: var(--oscuro);
+}
+
+.reveal .slides section {
+  text-align: left;
+  padding-top: 0.25em;
+}
+
+/* pequeña línea institucional superior */
+.reveal .slides section::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 90px;
+  height: 6px;
+  background: var(--dorado);
+}
+
+/* =========================
+   TÍTULOS
+   ========================= */
+
+.reveal h1 {
+  color: var(--azul);
+  font-size: 2.05em;
+  font-weight: 750;
+  text-transform: none;
+  margin-bottom: 0.55em;
+  border-bottom: 3px solid var(--dorado);
+  padding-bottom: 0.15em;
+}
+
+.reveal h2 {
+  color: var(--azul-claro);
+  font-size: 1.40em;
+  font-weight: 650;
+  margin-top: 0.55em;
+}
+
+.reveal h3 {
+  color: #9A6A16;
+  font-weight: 600;
+}
+
+.reveal strong {
+  color: var(--azul);
+}
+
+/* =========================
+   LISTAS
+   ========================= */
+
+.reveal ul,
+.reveal ol {
+  line-height: 1.35;
+}
+
+.reveal li {
+  margin-bottom: 0.20em;
+}
+
+.reveal ul li::marker {
+  color: var(--dorado);
+}
+
+.reveal ol li::marker {
+  color: var(--azul-claro);
+  font-weight: bold;
+}
+
+/* =========================
+   CITAS
+   ========================= */
+
+.reveal blockquote {
+  border-left: 8px solid var(--dorado);
+  background: var(--crema);
+  padding: 0.7em 1em;
+  width: 90%;
+  box-shadow: none;
+  border-radius: 0 8px 8px 0;
+}
+
+/* =========================
+   TABLAS
+   ========================= */
+
+.reveal table {
+  font-size: 0.72em;
+  border-collapse: collapse;
+}
+
+.reveal th {
+  background: var(--azul);
+  color: white;
+  padding: 0.55em;
+}
+
+.reveal td {
+  vertical-align: middle;
+  padding: 0.45em;
+}
+
+.reveal tr:nth-child(even) {
+  background: var(--gris-claro);
+}
+
+/* =========================
+   ENLACES
+   ========================= */
+
+.reveal a {
+  color: var(--azul-claro);
+  text-decoration-color: var(--dorado);
+  text-decoration-thickness: 2px;
+}
+
+.reveal a:hover {
+  color: var(--dorado);
+}
+
+/* =========================
+   CLASES QUE YA TENÍAS
+   ========================= */
+
+.reveal .highlight-box {
+  background: var(--crema);
+  border-left: 8px solid var(--dorado);
+  padding: 1em 1.2em;
+  border-radius: 8px;
+}
+
+.reveal .blue-box {
+  background: var(--azul);
+  color: white;
+  padding: 1em 1.2em;
+  border-radius: 10px;
+}
+
+.reveal .blue-box h2,
+.reveal .blue-box h3,
+.reveal .blue-box strong {
+  color: white;
+}
+
+.reveal .big-number {
+  font-size: 3em;
+  font-weight: 800;
+  color: var(--dorado);
+}
+
+.reveal .small-source {
+  font-size: 0.42em;
+  opacity: .7;
+  margin-top: 1.5em;
+}
+
+.reveal .centered {
+  text-align: center;
+}
+
+/* =========================
+   MERMAID
+   ========================= */
+
+.reveal .mermaid {
+  margin-top: 0.7em;
+}
+
+/* =========================
+   NÚMERO DE DIAPOSITIVA
+   ========================= */
+
+.reveal .slide-number {
+  background: var(--azul);
+  color: white;
+  border-radius: 5px;
+  padding: 4px 8px;
+}
+
+/* =========================
+   BARRA DE PROGRESO
+   ========================= */
+
+.reveal .progress {
+  color: var(--dorado);
+}
+
+/* =========================
+   DIAPOSITIVAS CON IMAGEN
+   ========================= */
+
+.reveal img {
+  border-radius: 8px;
+}
+
+/* Las infografías grandes no llevan sombra exagerada */
+.reveal img[src*="infografia"] {
+  border: 2px solid var(--azul);
+  box-shadow: 0 5px 18px rgba(22, 50, 79, 0.18);
+}
+
+.reveal .slides section {
+  overflow-y: auto !important;
+  overflow-x: hidden !important;
+  max-height: 100%;
+  box-sizing: border-box;
+  padding-bottom: 2rem;
+}
+
+.reveal .slides section::-webkit-scrollbar {
+  width: 10px;
+}
+
+.reveal .slides section::-webkit-scrollbar-thumb {
+  background: rgba(80, 80, 80, 0.35);
+  border-radius: 6px;
+}
+
+.reveal .slides section::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+@media print {
+  .reveal .slides section {
+    overflow: visible !important;
+    max-height: none !important;
+  }
+}

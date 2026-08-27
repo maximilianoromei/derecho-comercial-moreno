@@ -1,0 +1,103 @@
+---
+title: "Derecho Comercial I"
+subtitle: "Anexo jurisprudencial · Guía introductoria de lectura de fallos"
+author: "Maximiliano Romei"
+slide-level: 1
+format:
+  revealjs:
+    slide-number: true
+    transition: fade
+    hash: true
+    width: 1600
+    height: 900
+    margin: 0.08
+    center: false
+    navigation-mode: linear
+    controls: true
+    progress: true
+    history: true
+    link-external-newwindow: true
+    css: styles.css
+---
+
+# Fernández, Mirtha Magdalena s/ concurso preventivo
+
+## CNCom., Sala C · 19/09/2018
+
+Este fallo permite observar una consecuencia concreta de la unificación del Derecho Privado.
+
+### La pregunta central
+
+Si el Código Civil y Comercial ya no utiliza al **comerciante** como categoría central:
+
+## ¿quiénes están obligados actualmente a llevar contabilidad?
+
+# El problema del caso
+
+Mirtha Fernández solicitó la apertura de su concurso preventivo.
+
+Desarrollaba una actividad de **peluquería** en un local alquilado, en el que además vivía con su hijo.
+
+Manifestó que:
+
+- obtenía ingresos variables según la cantidad de clientes;
+- no llevaba libros contables rubricados;
+- poseía únicamente los bienes necesarios para desarrollar su actividad y para su vida cotidiana.
+
+# ¿Por qué se rechazó inicialmente el concurso?
+
+El juez de primera instancia consideró insuficiente la presentación.
+
+Entre otras cuestiones, señaló que:
+
+- no se habían individualizado adecuadamente los bienes;
+- no se había precisado suficientemente el pasivo;
+- no se habían acreditado claramente los ingresos;
+- no estaba suficientemente demostrada la cesación de pagos.
+
+Además, entendió que Fernández debía llevar la contabilidad exigida por el artículo 320 CCyC.
+
+# Dos leyes aparecen en el caso
+
+## Ley de Concursos y Quiebras
+
+El artículo 11 establece los requisitos que debe cumplir quien solicita su concurso preventivo.
+
+Entre ellos, el inciso 6 contempla información vinculada con los registros contables.
+
+## Código Civil y Comercial
+
+El artículo 320 determina quiénes están obligados a llevar contabilidad.
+
+# Artículo 320 CCyC
+
+El Código ya no estructura esta obligación alrededor de la antigua categoría de:
+
+## COMERCIANTE
+
+El artículo 320 utiliza otras categorías.
+
+Están obligadas a llevar contabilidad, entre otros sujetos, las personas humanas que:
+
+### realizan una actividad económica organizada
+
+o
+
+### son titulares de una empresa o establecimiento comercial, industrial, agropecuario o de servicios.
+
+# Un cambio conceptual importante
+
+```{mermaid}
+flowchart LR
+    A["CÓDIGO DE COMERCIO"] --> B["COMERCIANTE"]
+    C["CCyC"] --> D["ACTIVIDAD ECONÓMICA ORGANIZADA"]
+    C --> E["EMPRESA"]
+    C --> F["ESTABLECIMIENTO"]
+
+    style A fill:#6C757D,color:#ffffff
+    style B fill:#6C757D,color:#ffffff
+    style C fill:#16324F,color:#ffffff
+    style D fill:#C9963B,color:#ffffff
+    style E fill:#2D5D7B,color:#ffffff
+    style F fill:#2D5D7B,color:#ffffff
+```

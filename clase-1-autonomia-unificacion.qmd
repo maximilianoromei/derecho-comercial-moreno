@@ -1,0 +1,730 @@
+---
+title: "Derecho Comercial I"
+subtitle: "Autonomía, unificación y proyección contemporánea"
+author: "Maximiliano Romei"
+slide-level: 1
+format:
+  revealjs:
+    slide-number: true
+    transition: fade
+    hash: true
+    width: 1600
+    height: 900
+    margin: 0.08
+    center: false
+    navigation-mode: linear
+    controls: true
+    progress: true
+    history: true
+    link-external-newwindow: true
+    css: styles.css
+---
+
+# Punto de partida
+
+## El Código de Comercio fue derogado.
+
+## El Derecho Privado fue unificado.
+
+## ¿Sigue existiendo el Derecho Comercial?
+
+# El problema de la clase
+
+La clase trabaja una tensión central:
+
+## unidad normativa
+
+frente a
+
+## especialidad de los fenómenos comerciales
+
+# Recorrido
+
+1. Autonomía del Derecho Comercial  
+2. Unificación del Derecho Privado  
+3. Ley 26.994 y Código Civil y Comercial  
+4. Prelación normativa y artículo 963 CCyC  
+5. Derecho Empresario, de los Negocios y Económico  
+6. Jurisdicción, competencia, arbitraje y transacción  
+7. Integración, MERCOSUR y globalización
+
+# La pregunta inicial
+
+## Si ya no hay Código de Comercio...
+
+### ¿por qué seguimos estudiando Derecho Comercial?
+
+# Autonomía del Derecho Comercial
+
+La autonomía puede analizarse en distintos planos.
+
+No toda autonomía depende de la existencia de un código separado.
+
+# Tres planos de autonomía
+
+```{mermaid}
+flowchart LR
+    A["AUTONOMÍA<br/>DEL DERECHO COMERCIAL"] --> C["Legislativa"]
+    A --> D["Didáctica"]
+    A --> S["Científica"]
+
+    C --> C1["Código o leyes propias"]
+    D --> D1["Materia universitaria"]
+    S --> S1["Principios, problemas e instituciones específicas"]
+
+    style A fill:#16324F,color:#fff
+    style C fill:#C9963B,color:#fff
+    style D fill:#2D5D7B,color:#fff
+    style S fill:#6C757D,color:#fff
+```
+
+# Autonomía legislativa
+
+Durante mucho tiempo, la autonomía comercial se expresó mediante:
+
+- Código de Comercio
+- actos de comercio
+- comerciante
+- obligaciones comerciales
+- jurisdicción comercial
+
+# Autonomía didáctica
+
+Aunque se unifique el Derecho Privado, puede seguir teniendo sentido enseñar Derecho Comercial como disciplina.
+
+¿Por qué?
+
+Porque permite estudiar de manera sistemática:
+
+- empresa
+- mercado
+- crédito
+- sociedades
+- contratos empresarios
+- insolvencia
+- circulación de bienes y servicios
+
+# Autonomía científica
+
+La autonomía científica depende de la existencia de:
+
+- objeto propio de estudio
+- problemas específicos
+- instituciones características
+- principios o técnicas recurrentes
+- necesidades prácticas diferenciadas
+
+# Tesis de trabajo
+
+## La autonomía legislativa se debilitó.
+
+## La autonomía científica y didáctica subsisten.
+
+# Unificación del Derecho Privado
+
+La unificación no significa que todas las relaciones jurídicas sean iguales.
+
+Significa que muchas reglas civiles y comerciales pasan a convivir dentro de un mismo cuerpo normativo.
+
+# Antes de la unificación
+
+```{mermaid}
+flowchart LR
+    DP["DERECHO PRIVADO"] --> CC["Código Civil"]
+    DP --> CCOM["Código de Comercio"]
+
+    CC --> CIV["Relaciones civiles"]
+    CCOM --> COM["Relaciones comerciales"]
+
+    style DP fill:#16324F,color:#fff
+    style CC fill:#2D5D7B,color:#fff
+    style CCOM fill:#C9963B,color:#fff
+```
+
+# Después de la unificación
+
+```{mermaid}
+flowchart LR
+    DP["DERECHO PRIVADO"] --> CCYC["Código Civil y Comercial"]
+
+    CCYC --> P["Parte general"]
+    CCYC --> O["Obligaciones"]
+    CCYC --> C["Contratos"]
+    CCYC --> R["Relaciones civiles y comerciales"]
+
+    style DP fill:#16324F,color:#fff
+    style CCYC fill:#C9963B,color:#fff
+```
+
+# Ley 26.994
+
+La Ley 26.994 aprobó el Código Civil y Comercial de la Nación.
+
+También dispuso derogaciones y sustituciones relevantes.
+
+Fuente sugerida: Infoleg, Ley 26.994.
+
+# Vigencia
+
+La Ley 27.077 modificó la entrada en vigencia de la Ley 26.994.
+
+El Código Civil y Comercial comenzó a regir el 1 de agosto de 2015.
+
+Fuente sugerida: Infoleg, Ley 27.077.
+
+# ¿Qué cambia con el CCyC?
+
+Desaparecen como categorías generales:
+
+- el comerciante
+- el acto de comercio
+- la dualidad general entre contratos civiles y comerciales
+- el Código de Comercio como cuerpo separado
+
+# ¿Qué no desaparece?
+
+No desaparecen los fenómenos económicos que justifican la especialidad comercial:
+
+- empresa
+- crédito
+- contratación en masa
+- mercado
+- sociedades
+- títulos valores
+- seguros
+- insolvencia
+- consumidores
+- competencia
+
+# Idea central
+
+## La unificación modifica la técnica legislativa.
+
+## No elimina la realidad económica comercial.
+
+# Un Código unificado con leyes especiales
+
+El Derecho Comercial actual no está encerrado en el Código Civil y Comercial.
+
+Convive con leyes especiales.
+
+# Leyes especiales relevantes
+
+- Ley General de Sociedades
+- Ley de Concursos y Quiebras
+- Ley de Seguros
+- Ley de Entidades Financieras
+- Ley de Mercado de Capitales
+- Ley de Defensa de la Competencia
+- Ley de Defensa del Consumidor
+- Ley de Firma Digital
+- normas registrales y administrativas
+
+# El nuevo mapa normativo
+
+```{mermaid}
+flowchart TB
+    R["RELACIÓN JURÍDICA COMERCIAL"] --> CCYC["Código Civil y Comercial"]
+    R --> LE["Leyes especiales"]
+    R --> CN["Constitución y tratados"]
+    R --> USOS["Usos, prácticas y autonomía privada"]
+    R --> REG["Regulación administrativa"]
+
+    style R fill:#16324F,color:#fff
+    style CCYC fill:#C9963B,color:#fff
+    style LE fill:#2D5D7B,color:#fff
+```
+
+# Prelación normativa
+
+La unificación hace más importante saber qué norma se aplica primero.
+
+Especialmente cuando concurren:
+
+- Código Civil y Comercial
+- ley especial
+- contrato
+- normas imperativas
+- normas supletorias
+
+# Artículo 963 CCyC
+
+## Prelación normativa
+
+Cuando concurren disposiciones del Código y de una ley especial, se aplican en un orden determinado.
+
+# Orden del artículo 963
+
+```{mermaid}
+flowchart TB
+    A["1. Normas indisponibles<br/>de la ley especial y del CCyC"]
+    B["2. Normas particulares<br/>del contrato"]
+    C["3. Normas supletorias<br/>de la ley especial"]
+    D["4. Normas supletorias<br/>del CCyC"]
+
+    A --> B --> C --> D
+
+    style A fill:#16324F,color:#fff
+    style B fill:#C9963B,color:#fff
+    style C fill:#2D5D7B,color:#fff
+    style D fill:#6C757D,color:#fff
+```
+
+# Clave de lectura
+
+El artículo 963 no dice simplemente:
+
+## primero ley especial y después Código
+
+Sino que distingue entre:
+
+- normas indisponibles
+- cláusulas particulares del contrato
+- normas supletorias especiales
+- normas supletorias generales
+
+# Normas indisponibles
+
+Son normas que las partes no pueden dejar de lado.
+
+Expresan límites a la autonomía privada.
+
+Ejemplos posibles:
+
+- protección de consumidores
+- orden público societario
+- reglas concursales imperativas
+- defensa de la competencia
+- normas regulatorias
+
+# Normas particulares del contrato
+
+En segundo lugar aparecen las cláusulas concretas pactadas por las partes.
+
+Esto reconoce la importancia de la autonomía de la voluntad.
+
+Pero esa autonomía opera dentro de los límites impuestos por las normas indisponibles.
+
+# Normas supletorias
+
+Las normas supletorias rigen cuando las partes no pactaron algo distinto.
+
+El artículo 963 distingue:
+
+- supletorias de la ley especial
+- supletorias del Código Civil y Comercial
+
+# Caso breve
+
+Una empresa celebra un contrato de distribución.
+
+El contrato guarda silencio sobre un punto.
+
+Existe una ley especial aplicable con regla supletoria.
+
+El CCyC también regula el punto en forma supletoria.
+
+## ¿Qué norma se aplica primero?
+
+# Respuesta esperada
+
+Primero se aplican las normas indisponibles.
+
+Luego las reglas particulares del contrato.
+
+Si el contrato guarda silencio, se aplica antes la norma supletoria de la ley especial.
+
+Recién después, la norma supletoria del CCyC.
+
+# Artículo 963 como herramienta
+
+El artículo 963 sirve para ordenar el sistema.
+
+Permite evitar dos errores:
+
+1. creer que el CCyC absorbe todo;
+2. creer que toda ley especial desplaza automáticamente cualquier pacto.
+
+# Derecho Empresario
+
+El Derecho Empresario pone el eje en la empresa como organización económica.
+
+Su objeto no es sólo el comerciante ni el acto aislado.
+
+El centro es la actividad económica organizada.
+
+# Temas típicos del Derecho Empresario
+
+- empresa
+- empresario
+- establecimiento
+- sociedades
+- contratos de organización
+- financiamiento
+- responsabilidad
+- insolvencia
+- gobierno corporativo
+- cumplimiento normativo
+
+# Derecho de los Negocios
+
+El Derecho de los Negocios tiene una mirada más funcional y práctica.
+
+Se concentra en las herramientas jurídicas utilizadas para estructurar operaciones económicas.
+
+# Temas típicos del Derecho de los Negocios
+
+- contratación
+- garantías
+- financiamiento
+- inversión
+- distribución
+- franquicia
+- comercio electrónico
+- operaciones complejas
+- resolución de conflictos
+
+# Derecho Económico
+
+El Derecho Económico tiene una mirada más amplia.
+
+Estudia la ordenación jurídica de la economía.
+
+Incluye la intervención del Estado y la regulación de mercados.
+
+# Temas típicos del Derecho Económico
+
+- política económica
+- regulación estatal
+- defensa de la competencia
+- servicios públicos
+- mercado financiero
+- consumidores
+- comercio exterior
+- integración económica
+- control de actividades estratégicas
+
+# Comparación
+
+| Categoría | Eje | Pregunta principal |
+|---|---|---|
+| Derecho Comercial | empresa, negocios y mercado | ¿qué reglas ordenan el tráfico comercial? |
+| Derecho Empresario | empresa | ¿cómo se organiza jurídicamente la actividad empresaria? |
+| Derecho de los Negocios | operación | ¿cómo se estructura jurídicamente un negocio? |
+| Derecho Económico | economía regulada | ¿cómo interviene el Derecho en la economía? |
+
+# No son compartimentos cerrados
+
+Estas categorías se superponen.
+
+Sirven como lentes distintos para observar fenómenos económicos complejos.
+
+# Ejemplo integrador
+
+Una plataforma digital presta servicios de pago, financia consumidores, opera con bancos y registra sociedades vinculadas.
+
+Puede analizarse desde:
+
+- Derecho Comercial
+- Derecho Empresario
+- Derecho de los Negocios
+- Derecho Económico
+
+# Jurisdicción y competencia comercial
+
+La unificación del Derecho Privado no elimina automáticamente la especialidad judicial.
+
+La competencia depende de normas procesales y de organización judicial.
+
+# Distinción importante
+
+## Derecho de fondo
+
+Regula relaciones jurídicas sustanciales.
+
+## Derecho procesal y organización judicial
+
+Determina jueces, competencia y procedimiento.
+
+# Fuero comercial
+
+En algunas jurisdicciones existe justicia comercial especializada.
+
+En otras, las cuestiones comerciales pueden tramitar ante jueces civiles, civiles y comerciales o fueros mixtos.
+
+# Pregunta práctica
+
+Si el Derecho Privado está unificado:
+
+## ¿por qué puede seguir existiendo competencia comercial?
+
+# Respuesta
+
+Porque la especialidad judicial no depende sólo de la existencia de un Código de Comercio.
+
+También depende de:
+
+- organización judicial
+- reglas procesales
+- materia del conflicto
+- sujetos involucrados
+- tradición institucional
+- necesidad de especialización
+
+# Conflictos comerciales
+
+Los conflictos comerciales suelen requerir:
+
+- rapidez
+- especialización
+- confidencialidad
+- conocimiento técnico
+- preservación de relaciones económicas
+- soluciones transaccionales
+
+# Arbitraje
+
+El arbitraje es un mecanismo de solución de controversias basado en el acuerdo de las partes.
+
+Permite sustraer determinados conflictos de la decisión judicial ordinaria y someterlos a árbitros.
+
+# ¿Por qué interesa en Derecho Comercial?
+
+Porque muchos negocios comerciales valoran:
+
+- especialización técnica
+- flexibilidad
+- neutralidad
+- confidencialidad
+- ejecutabilidad
+- rapidez relativa
+
+# Arbitraje y autonomía privada
+
+El arbitraje expresa una fuerte confianza en la autonomía de la voluntad.
+
+Pero no todos los conflictos son arbitrables.
+
+Hay límites vinculados con orden público y materias indisponibles.
+
+# Transacción
+
+La transacción es un contrato por el cual las partes, haciéndose concesiones recíprocas, extinguen obligaciones dudosas o litigiosas.
+
+En materia comercial es importante porque evita o termina conflictos.
+
+# Transacción en conflictos comerciales
+
+La transacción permite:
+
+- reducir costos
+- evitar incertidumbre
+- preservar vínculos
+- acelerar soluciones
+- cerrar litigios
+- reasignar riesgos
+
+# Arbitraje y transacción
+
+```{mermaid}
+flowchart LR
+    CON["CONFLICTO COMERCIAL"] --> NEG["Negociación"]
+    NEG --> T["Transacción"]
+    NEG --> A["Arbitraje"]
+    A --> LAUDO["Laudo arbitral"]
+    T --> CIERRE["Acuerdo y cierre del conflicto"]
+
+    style CON fill:#16324F,color:#fff
+    style T fill:#C9963B,color:#fff
+    style A fill:#2D5D7B,color:#fff
+```
+
+# Actividad breve
+
+Una sociedad argentina celebra un contrato de suministro con una empresa extranjera.
+
+El contrato incluye una cláusula arbitral.
+
+Luego surge un conflicto por incumplimiento.
+
+Preguntas:
+
+1. ¿pueden transar?
+2. ¿pueden ir a arbitraje?
+3. ¿qué ventajas tendría el arbitraje?
+4. ¿qué límites podrían aparecer?
+
+# Integración internacional
+
+La actividad comercial tiende a superar fronteras.
+
+Los Estados responden mediante acuerdos internacionales y procesos de integración económica.
+
+# Etapas de integración económica
+
+```{mermaid}
+flowchart LR
+    A["Zona de preferencias"] --> B["Zona de libre comercio"]
+    B --> C["Unión aduanera"]
+    C --> D["Mercado común"]
+    D --> E["Unión económica"]
+
+    style D fill:#C9963B,color:#fff
+```
+
+# Mercado común
+
+Un mercado común supone una integración más intensa que la simple reducción arancelaria.
+
+Busca facilitar la circulación de factores económicos.
+
+# MERCOSUR
+
+El MERCOSUR se origina con el Tratado de Asunción de 1991.
+
+Sus Estados fundadores fueron Argentina, Brasil, Paraguay y Uruguay.
+
+Fuente sugerida: sitio oficial del MERCOSUR, Textos fundacionales.
+
+# Finalidad económica
+
+El MERCOSUR nace como proyecto de integración económica regional.
+
+Su denominación expresa el objetivo de construir un Mercado Común del Sur.
+
+# Integración y Derecho Comercial
+
+La integración exige reglas sobre:
+
+- circulación de bienes
+- circulación de servicios
+- aranceles
+- competencia
+- inversiones
+- defensa comercial
+- reconocimiento de normas
+- solución de controversias
+
+# Globalización
+
+La globalización intensifica relaciones económicas, tecnológicas y comerciales más allá de las fronteras nacionales.
+
+Modifica el contexto en el que operan las empresas.
+
+# Globalización y empresa
+
+La empresa contemporánea puede:
+
+- producir en un país
+- contratar en otro
+- financiarse en otro
+- vender globalmente
+- usar plataformas digitales
+- almacenar datos en múltiples jurisdicciones
+
+# Globalización y conflicto
+
+Los conflictos comerciales globales plantean preguntas sobre:
+
+- jurisdicción competente
+- ley aplicable
+- arbitraje internacional
+- ejecución de decisiones
+- consumidores transfronterizos
+- plataformas digitales
+- protección de datos
+
+# Globalización y autonomía
+
+La globalización refuerza la pregunta inicial:
+
+## ¿puede el Derecho Comercial limitarse al derecho interno?
+
+# Respuesta
+
+No completamente.
+
+El Derecho Comercial contemporáneo debe dialogar con:
+
+- normas nacionales
+- tratados
+- usos internacionales
+- arbitraje
+- integración regional
+- regulación transnacional
+- estándares técnicos y contractuales
+
+# Cierre del recorrido
+
+```{mermaid}
+flowchart TB
+    A["Autonomía"] --> B["Unificación"]
+    B --> C["Prelación normativa"]
+    C --> D["Empresa · negocios · economía"]
+    D --> E["Jurisdicción · arbitraje · transacción"]
+    E --> F["MERCOSUR · globalización"]
+
+    style A fill:#16324F,color:#fff
+    style C fill:#C9963B,color:#fff
+    style F fill:#2D5D7B,color:#fff
+```
+
+# Volvamos al comienzo
+
+## El Código de Comercio fue derogado.
+
+## El Derecho Privado fue unificado.
+
+## ¿Sigue existiendo el Derecho Comercial?
+
+# Respuesta final
+
+Sí, pero ya no se identifica principalmente por la existencia de un Código propio.
+
+Se identifica por los problemas que plantea la actividad económica organizada:
+
+- empresa
+- negocios
+- mercado
+- crédito
+- conflicto comercial
+- integración
+- globalización
+
+# Actividad de cierre
+
+Analizar el siguiente caso:
+
+Una empresa argentina celebra con una empresa brasileña un contrato de distribución para vender productos en Argentina, Brasil y Uruguay.
+
+El contrato tiene una cláusula arbitral y regula parcialmente la relación.
+
+Surge un conflicto por exclusividad territorial y terminación anticipada.
+
+# Preguntas del caso
+
+1. ¿Qué normas podrían concurrir?
+2. ¿Cómo ordenaría el artículo 963 la prelación normativa?
+3. ¿Qué aspectos pertenecen al Derecho Comercial?
+4. ¿Qué aspectos al Derecho de los Negocios?
+5. ¿Qué rol cumple el arbitraje?
+6. ¿Dónde aparece la integración regional?
+7. ¿Qué problemas genera la dimensión internacional?
+
+# Ideas centrales
+
+1. La unificación no elimina la especialidad comercial.
+2. La autonomía comercial puede subsistir en sentido científico y didáctico.
+3. El artículo 963 CCyC ordena la relación entre Código, ley especial y contrato.
+4. Derecho Comercial, Empresario, de los Negocios y Económico son categorías relacionadas pero no idénticas.
+5. La solución de conflictos comerciales requiere herramientas específicas.
+6. MERCOSUR y globalización muestran que lo comercial excede el marco puramente nacional.
+
+# Bibliografía y fuentes
+
+- Código Civil y Comercial de la Nación.
+- Ley 26.994.
+- Ley 27.077.
+- Favier Dubois, Eduardo M. (dir.), *Manual de Derecho Comercial*.
+- Vítolo, Daniel Roque, *Manual de Derecho Comercial*.
+- Sitio oficial del MERCOSUR: Textos fundacion

@@ -1,0 +1,683 @@
+---
+title: "Nulidades societarias"
+subtitle: "Régimen general y particularidades en materia societaria"
+author: "Prof. Maximiliano Romei · Derecho Comercial · Universidad Nacional de Moreno"
+format:
+  revealjs:
+    slide-number: true
+    transition: fade
+    center: false
+    controls: true
+    progress: true
+    hash: true
+    width: 1600
+    height: 900
+    margin: 0.06
+    slide-level: 1
+    css: styles.css
+---
+
+# Las nulidades societarias
+
+**Punto de partida**
+
+Vítolo define la **nulidad** como una sanción legal que priva de sus efectos propios a un acto jurídico por una causa existente **al momento de su celebración**.
+
+El Código Civil y Comercial estableció un nuevo régimen de nulidades, tanto respecto de su concepto como de su sistematización.
+
+Pero trasladar directamente ese régimen al derecho societario presenta dificultades.
+
+La sociedad no constituye simplemente un acto aislado: genera una organización, actividad, relaciones patrimoniales y vínculos con socios, acreedores y terceros.
+
+# Nulidad e inoponibilidad
+
+El régimen general distingue dos formas de ineficacia.
+
+**Nulidad**
+
+El acto jurídico puede resultar ineficaz por encontrarse afectado por una causa de nulidad.
+
+**Inoponibilidad**
+
+El acto puede conservar su validez pero resultar ineficaz respecto de determinadas personas.
+
+Vítolo parte del art. 382 CCyC: los actos jurídicos pueden ser ineficaces **en razón de su nulidad o de su inoponibilidad respecto de determinadas personas**.
+
+La distinción será relevante posteriormente al trasladar el problema al ámbito societario.
+
+# La nulidad puede invocarse de distintas maneras
+
+El art. 383 CCyC permite que la nulidad:
+
+- sea articulada **por vía de acción**;
+- o sea opuesta **como excepción**.
+
+En todos los casos debe sustanciarse.
+
+Por lo tanto, la nulidad no queda limitada al supuesto en que una persona promueva una demanda cuyo objeto principal sea obtener la declaración de invalidez.
+
+También puede hacerse valer defensivamente frente a una pretensión fundada en el acto afectado.
+
+# Conversión del acto nulo
+
+El nuevo régimen incorpora la posibilidad de **conversión**.
+
+Un acto nulo puede convertirse en otro diferente y válido cuando:
+
+- satisfaga los requisitos esenciales del nuevo acto;
+- y el fin práctico perseguido por las partes permita suponer que ellas lo habrían querido si hubieran previsto la nulidad.
+
+La conversión procura preservar, cuando resulte jurídicamente posible, la finalidad práctica perseguida.
+
+Vítolo vincula esta solución con el art. 384 CCyC.
+
+# El acto indirecto
+
+El art. 385 CCyC contempla además el denominado **acto indirecto**.
+
+Un acto jurídico celebrado para obtener un resultado propio de los efectos de otro acto es válido cuando:
+
+- no se otorgue para eludir una prohibición legal;
+- ni para perjudicar a un tercero.
+
+El nuevo régimen de ineficacia no se agota, por lo tanto, en una oposición simple entre acto válido y acto nulo.
+
+Existen mecanismos destinados a determinar qué efectos jurídicos pueden conservarse.
+
+# Nulidad absoluta
+
+Son de **nulidad absoluta** los actos que contravienen:
+
+- el orden público;
+- la moral;
+- las buenas costumbres.
+
+Vítolo remite al art. 386 CCyC.
+
+La nulidad absoluta puede ser declarada por el juez **aun sin petición de parte**, cuando resulte manifiesta al momento de dictar sentencia.
+
+También puede ser alegada por el Ministerio Público y por cualquier interesado, con la excepción prevista respecto de quien invoque su propia torpeza para obtener un provecho.
+
+# Régimen de la nulidad absoluta
+
+La nulidad absoluta presenta dos características particularmente relevantes:
+
+**No puede sanearse por confirmación.**
+
+El vicio que afecta al acto no puede eliminarse mediante una posterior manifestación de voluntad destinada a mantenerlo.
+
+**No puede sanearse por prescripción.**
+
+El transcurso del tiempo tampoco elimina esta nulidad.
+
+Estas características permiten diferenciarla claramente de la nulidad relativa.
+
+Vítolo remite al art. 387 CCyC.
+
+# Nulidad relativa
+
+Son de **nulidad relativa** los actos a los cuales la ley impone esta sanción únicamente en protección del interés de determinadas personas.
+
+A diferencia de la nulidad absoluta:
+
+- sólo puede declararse a instancia de las personas en cuyo beneficio fue establecida;
+- excepcionalmente puede invocarla la otra parte si es de buena fe y sufrió un perjuicio importante.
+
+La nulidad relativa responde, por lo tanto, a la protección de un **interés particular** y no directamente a la tutela del orden público.
+
+# Saneamiento de la nulidad relativa
+
+La nulidad relativa puede sanearse.
+
+Vítolo menciona dos mecanismos:
+
+- **confirmación del acto**;
+- **prescripción de la acción**.
+
+Existe además una limitación para quien obró con ausencia de capacidad de ejercicio: esa persona no puede alegar posteriormente la nulidad si actuó con **dolo**.
+
+El contraste con la nulidad absoluta resulta claro:
+
+**absoluta → insanable**
+
+**relativa → susceptible de saneamiento**
+
+# Nulidad total y nulidad parcial
+
+El Código distingue también según la extensión del defecto.
+
+**Nulidad total**
+
+Se extiende a todo el acto jurídico.
+
+**Nulidad parcial**
+
+Afecta únicamente una o varias de sus disposiciones.
+
+La nulidad de una disposición no afecta las demás disposiciones válidas **si éstas son separables**.
+
+Si no pueden separarse porque el acto no puede subsistir sin cumplir su finalidad, corresponde declarar la **nulidad total**.
+
+# Integración en la nulidad parcial
+
+La nulidad parcial no se limita a eliminar mecánicamente la cláusula inválida.
+
+Cuando resulte necesario, el juez debe **integrar el acto**.
+
+Esa integración debe realizarse:
+
+- de acuerdo con la naturaleza del acto;
+- teniendo en cuenta los intereses que razonablemente puedan considerarse perseguidos por las partes.
+
+La solución del art. 389 CCyC procura, cuando sea posible, preservar el acto válido en lugar de destruirlo íntegramente.
+
+# ¿Qué efectos produce la nulidad?
+
+La nulidad pronunciada judicialmente vuelve las cosas al mismo estado en que se encontraban **antes del acto declarado nulo**.
+
+Como consecuencia:
+
+- las partes deben restituirse mutuamente aquello que hubieran recibido;
+- las restituciones se rigen por las normas correspondientes a la buena o mala fe.
+
+Vítolo remite al art. 390 CCyC.
+
+Éste es el régimen general. Más adelante mostrará por qué su aplicación estricta genera dificultades especialmente importantes cuando el acto afectado es el **contrato de sociedad**.
+
+# El acto nulo puede producir consecuencias
+
+Que un acto sea nulo no significa que carezca de toda consecuencia jurídica.
+
+Vítolo recuerda que los actos jurídicos nulos, aunque no produzcan los efectos propios de los actos válidos, pueden generar:
+
+- las consecuencias jurídicas propias de los hechos en general;
+- las reparaciones que correspondan.
+
+La nulidad elimina los efectos propios que el ordenamiento hubiera reconocido al acto válido, pero no necesariamente borra **todo efecto jurídico derivado de lo ocurrido**.
+
+# Nulidad y derechos de terceros
+
+El régimen también contempla la transmisión de derechos a terceros.
+
+Los derechos reales o personales transmitidos sobre un inmueble o mueble registrable por quien adquirió mediante un acto nulo quedan, como principio, sin valor.
+
+Pueden ser reclamados directamente al tercero.
+
+Sin embargo, Vítolo destaca la protección de los **subadquirentes de derechos reales o personales de buena fe y a título oneroso**, en los términos previstos por el art. 392 CCyC.
+
+La nulidad debe, entonces, relacionarse también con la seguridad del tráfico jurídico.
+
+# Confirmación: sólo para la nulidad relativa
+
+Vítolo enfatiza una diferencia fundamental:
+
+> **la nulidad absoluta no puede sanearse mediante confirmación.**
+
+La confirmación sí puede operar respecto de la **nulidad relativa**.
+
+Existe confirmación cuando la parte legitimada para articular la nulidad relativa:
+
+- manifiesta expresa o tácitamente su voluntad de considerar válido el acto;
+- después de haber desaparecido la causa de nulidad.
+
+La confirmación no requiere la conformidad de la otra parte.
+
+# Confirmación expresa y tácita
+
+La confirmación puede asumir dos modalidades.
+
+**Confirmación expresa**
+
+El instrumento debe cumplir las formas exigidas para el acto que se pretende sanear y contener:
+
+- mención precisa de la causa de nulidad;
+- indicación de su desaparición;
+- voluntad de confirmar el acto.
+
+**Confirmación tácita**
+
+Resulta del cumplimiento total o parcial del acto nulo, realizado con conocimiento de la causa de nulidad, o de otro acto que revele inequívocamente la voluntad de sanearlo.
+
+# Efectos de la confirmación
+
+La confirmación de un acto entre vivos originariamente nulo tiene **efecto retroactivo** a la fecha de su celebración.
+
+Cuando se trata de disposiciones de última voluntad, la confirmación opera desde la muerte del causante.
+
+Sin embargo, existe un límite fundamental:
+
+> la retroactividad de la confirmación no puede perjudicar los derechos de terceros de buena fe.
+
+El saneamiento del acto no puede utilizarse para destruir situaciones jurídicas de terceros protegidas por el ordenamiento.
+
+# La otra cara de la ineficacia: inoponibilidad
+
+Vítolo vuelve luego a la **inoponibilidad**.
+
+El acto inoponible:
+
+- no produce efectos respecto de terceros;
+- salvo en los casos previstos por la ley.
+
+La inoponibilidad puede hacerse valer **en cualquier momento**, sin perjuicio del derecho de la otra parte a oponer:
+
+- prescripción;
+- caducidad.
+
+Nulidad e inoponibilidad constituyen, de este modo, categorías distintas dentro del régimen general de ineficacia.
+
+# El problema específico del derecho societario
+
+Vítolo advierte que en materia mercantil existen casos sometidos a un régimen especial.
+
+La Ley 26.994 contempla **nulidades con efectos especiales**.
+
+En estos supuestos, el acto puede:
+
+- conservar sus efectos propios;
+- imputar responsabilidad a quienes lo ejecutaron;
+- responsabilizar a quienes consintieron o posibilitaron la situación.
+
+Esto anticipa una idea central:
+
+> **la nulidad societaria no puede comprenderse trasladando automáticamente las reglas generales de la nulidad civil.**
+
+# ¿Por qué la nulidad societaria es especial?
+
+La nulidad del acto constitutivo de una sociedad constituye, según Vítolo —recordando a Halperin—, uno de los problemas más difíciles de la materia.
+
+El régimen común fue construido pensando esencialmente en **negocios jurídicos de cambio**.
+
+La sociedad presenta otra estructura:
+
+- es un contrato plurilateral de organización;
+- crea una organización;
+- despliega una actividad;
+- se relaciona con terceros;
+- genera una persona jurídica diferenciada.
+
+Por ello, las reglas tradicionales resultan muchas veces insuficientes o inaplicables.
+
+# La sociedad no es un acto instantáneo
+
+La sociedad despliega **actividad**, no simplemente actos aislados.
+
+En el tráfico mercantil se relaciona con:
+
+- terceros;
+- otros sujetos;
+- socios;
+- acreedores sociales;
+- acreedores particulares de los socios.
+
+Además, crea una **persona jurídica distinta** de quienes la integran.
+
+Todo esto dificulta aplicar una solución concebida para un negocio de cambio en el cual la nulidad puede retrotraer los efectos al momento inmediatamente anterior a su celebración.
+
+# La nulidad societaria mira hacia el futuro
+
+En el contrato de sociedad, el acto puede haber desplegado efectos durante un período considerable.
+
+Por ello, según Vítolo:
+
+> **la nulidad opera con efectos hacia el futuro y nunca retroactivamente hacia el pasado.**
+
+La nulidad societaria no puede erradicar el pasado real, económico y jurídico producido por la actuación de la sociedad.
+
+Esta característica constituye una diferencia fundamental respecto del régimen general de restitución propio de los actos jurídicos nulos.
+
+# Nulidad y responsabilidad
+
+Vítolo agrega una advertencia conceptual importante.
+
+En materia societaria no debe confundirse:
+
+**nulidad**
+
+con
+
+**responsabilidad**.
+
+La nulidad opera fundamentalmente respecto de la eficacia del vínculo o de la estructura societaria.
+
+La responsabilidad constituye una consecuencia jurídica diferente y, en determinados supuestos societarios, puede adquirir una importancia incluso mayor que la propia sanción de nulidad.
+
+El régimen societario combina mecanismos de ineficacia con mecanismos específicos de responsabilidad.
+
+# Nulidad del vínculo de un socio
+
+Bajo la Ley 19.550 rige una regla particular.
+
+La nulidad o anulación que afecte el vínculo de **alguno de los socios** no produce, como principio:
+
+- la nulidad del contrato;
+- la anulación del contrato;
+- ni su resolución.
+
+La afectación individual del vínculo de un socio no destruye automáticamente la sociedad.
+
+El contrato y los vínculos correspondientes a los demás socios permanecen, en principio, indemnes.
+
+Esta solución responde a la estructura plurilateral del contrato societario.
+
+# La excepción: prestación esencial
+
+La regla anterior admite una excepción.
+
+La nulidad del vínculo puede afectar al contrato cuando la participación o prestación del socio afectado deba considerarse **esencial**.
+
+Vítolo propone ejemplos:
+
+- sociedad destinada a explotar un fondo de comercio determinado, cuando el socio debía aportarlo;
+- socio vinculado con un activo fundamental para la actividad;
+- inmueble determinado;
+- licencia de uso de una marca;
+- franquicia;
+- otros derechos intelectuales esenciales.
+
+La clave es determinar si la sociedad puede cumplir su objeto sin esa prestación.
+
+# Sociedad unipersonal y vicio de la voluntad
+
+La solución necesariamente cambia en una **sociedad unipersonal**.
+
+Si existe un vicio en la declaración unilateral de voluntad del único constituyente, la consecuencia puede ser la **anulación de la sociedad nacida de esa declaración**.
+
+Vítolo vincula esta solución con el art. 1800 CCyC.
+
+La diferencia se explica fácilmente:
+
+en una sociedad pluripersonal puede desaparecer un vínculo y subsistir los restantes;
+
+en una sociedad unipersonal **no existen otros vínculos societarios que puedan conservarse**.
+
+# Nulidades estructurales: arts. 18, 19 y 20
+
+Vítolo agrupa determinados supuestos de los arts. **18, 19 y 20 LGS** bajo la denominación de **nulidades estructurales**.
+
+El régimen combina dos mecanismos:
+
+**Disolución y liquidación**
+
+La nulidad determina el cese y liquidación de la organización.
+
+**Responsabilidad**
+
+En ciertos supuestos se impone un régimen especialmente severo respecto de socios, administradores y quienes actuaron en la gestión social.
+
+Las consecuencias varían según el defecto estructural involucrado.
+
+# Sociedad con objeto ilícito — art. 18
+
+Las sociedades que tengan un **objeto ilícito** son consideradas nulas de nulidad absoluta.
+
+Los terceros de buena fe pueden alegar contra los socios la existencia de la sociedad.
+
+Los socios, en cambio, no pueden alegar la existencia de la sociedad:
+
+- entre sí;
+- frente a terceros;
+- para reclamar restitución de aportes;
+- para reclamar división de ganancias;
+- para reclamar contribución a las pérdidas.
+
+Declarada la nulidad, se procede a la **liquidación**.
+
+# Objeto ilícito: liquidación y responsabilidad
+
+La liquidación puede disponerse a pedido de parte o de oficio.
+
+Realizado el activo y cancelado el pasivo social y los perjuicios causados, el remanente:
+
+> ingresa al patrimonio estatal para el fomento de la educación común de la jurisdicción respectiva.
+
+Además, los:
+
+- socios;
+- administradores;
+- y quienes actúen como tales en la gestión social
+
+responden **ilimitada y solidariamente** por el pasivo social y los perjuicios causados.
+
+Es el régimen del art. 18 LGS descripto por Vítolo.
+
+# Objeto lícito con actividad ilícita — art. 19
+
+El segundo supuesto corresponde a sociedades que tienen:
+
+**objeto lícito + actividad ilícita.**
+
+Declarada la nulidad, debe procederse a:
+
+- disolución;
+- liquidación de la sociedad.
+
+El régimen se aproxima al previsto para el objeto ilícito, pero presenta una diferencia importante:
+
+los socios que acrediten su **buena fe** quedan excluidos:
+
+- del destino especial del remanente liquidatorio;
+- de la responsabilidad ilimitada y solidaria por el pasivo social y los perjuicios causados.
+
+# Objeto prohibido en razón del tipo — art. 20
+
+El tercer supuesto corresponde a sociedades con un **objeto prohibido en razón del tipo societario**.
+
+Vítolo menciona como ejemplo las actividades financieras o de seguros, que requieren determinados tipos específicos.
+
+Estas sociedades son tratadas como las de objeto ilícito en cuanto a la nulidad.
+
+Sin embargo, existe una diferencia fundamental respecto de la liquidación:
+
+> se aplica el régimen ordinario de liquidación previsto en la Sección XIII de la LGS.
+
+No se aplica, por lo tanto, el destino extraordinario del remanente previsto para el objeto ilícito.
+
+# Un problema de lenguaje legislativo
+
+Vítolo critica expresamente el lenguaje utilizado por la Ley 19.550.
+
+El legislador no fue suficientemente claro y utilizó distintas expresiones para situaciones que, desde el punto de vista jurídico, comparten una misma naturaleza.
+
+Por ejemplo:
+
+- los arts. 18 y 20 hablan de sociedades **nulas de nulidad absoluta**;
+- otras disposiciones utilizaron históricamente la expresión **simplemente nulas**.
+
+Una lectura puramente literal podría conducir a conclusiones equivocadas sobre la posibilidad de confirmar o subsanar determinadas nulidades.
+
+# La posición de Vítolo sobre los arts. 18, 19 y 20
+
+Vítolo rechaza que las diferencias terminológicas alteren la verdadera naturaleza de estos supuestos.
+
+Las nulidades contempladas por los arts. **18, 19 y 20 LGS** son todas:
+
+- **absolutas**;
+- **inconfirmables**;
+- **insubsanables**.
+
+Las diferencias de lenguaje empleadas por el legislador constituyen, para el autor, una cuestión **enfática en el lenguaje**, pero sin verdadera trascendencia jurídica.
+
+El interés protegido impide su saneamiento.
+
+# Cuatro grupos de nulidades societarias
+
+Vítolo advierte que la LGS no contiene un capítulo que sistematice conjuntamente todas las nulidades societarias.
+
+Las disposiciones aparecen dispersas.
+
+Sin perjuicio de ello, pueden reconocerse **cuatro grandes grupos**:
+
+1. nulidades referidas al **vínculo societario**;
+2. nulidades de **cláusulas contractuales o estatutarias**;
+3. nulidades de **las sociedades**;
+4. nulidad de **determinados actos societarios**.
+
+Esta clasificación permite ordenar un régimen legal que carece de una sistematización unitaria.
+
+# ¿Dónde aparecen esas nulidades?
+
+Vítolo identifica, entre otras, las siguientes disposiciones:
+
+**Vínculo societario**  
+Art. 16 LGS.
+
+**Cláusulas contractuales o estatutarias**  
+Arts. 13, 69, 185, 194, 240, 245, 248, 287 y 322, entre otros.
+
+**Nulidades de las sociedades**  
+Arts. 18, 19, 20, 27 y 29.
+
+**Nulidad de determinados actos societarios**  
+Arts. 32, 38, 39, 199, 202, 227, 246, 271 y 337, entre otros.
+
+La nulidad societaria constituye, por ello, un régimen **disperso dentro de la LGS**.
+
+# Vínculo societario y prestación esencial
+
+Vítolo vuelve sobre la nulidad del vínculo para precisar la excepción de la **prestación esencial**.
+
+Puede tratarse del socio que aporta un elemento sin el cual la sociedad no puede desarrollar adecuadamente su objeto:
+
+- fondo de comercio;
+- inmueble fundamental;
+- licencia;
+- marca;
+- franquicia;
+- derecho intelectual esencial.
+
+En estos casos, la afectación del vínculo individual adquiere una dimensión estructural porque compromete la posibilidad misma de funcionamiento de la sociedad.
+
+# ¿Qué puede ocurrir si la prestación era esencial?
+
+Vítolo señala que pueden presentarse distintas consecuencias según la naturaleza del vicio.
+
+Puede producirse:
+
+- **nulidad del contrato**, si el vicio determina un supuesto de nulidad absoluta;
+- **anulación**, cuando dependa de decisión judicial dictada a pedido del interesado;
+- **resolución**, según la expresión utilizada por la ley.
+
+Sin embargo, Vítolo formula una precisión importante respecto de esta última expresión.
+
+No debe interpretarse necesariamente como extinción retroactiva de todo el contrato social.
+
+# La “resolución” y el principio de conservación
+
+Para Vítolo, la palabra **resolución** utilizada por la ley no resulta técnicamente adecuada si se la entiende como extinción del contrato con efectos retroactivos.
+
+Debe comprenderse como una:
+
+> **resolución parcial del contrato respecto del socio afectado por el vínculo.**
+
+La solución se relaciona con el **principio de conservación de la empresa**.
+
+La sociedad puede subsistir si:
+
+- la prestación esencial del socio afectado puede ser reemplazada por la de un tercero que se incorpore;
+- o la sociedad modifica su objeto o actividad para que esa prestación deje de resultar necesaria.
+
+# La eliminación de la nulidad por atipicidad
+
+Vítolo cierra el fragmento analizando la **tipicidad**.
+
+La tipicidad constituye uno de los parámetros utilizados por la Ley 19.550 para organizar el régimen societario.
+
+A través de los tipos legales se procura que quienes pretenden constituir una sociedad puedan adecuarse organizativamente a estructuras conocidas.
+
+Esto permite a los terceros conocer anticipadamente aspectos esenciales vinculados con:
+
+- responsabilidad;
+- representación;
+- funcionamiento;
+- relaciones entre la sociedad y quienes se vinculan con ella.
+
+# El antiguo régimen de atipicidad
+
+Originariamente, el art. 17 LGS sancionaba con **nulidad** la constitución de una sociedad bajo tipos no autorizados por la ley.
+
+La tipicidad funcionaba así como una exigencia cuya infracción comprometía directamente la validez de la sociedad.
+
+La Ley 26.994 modificó profundamente este régimen.
+
+La atipicidad dejó de ser tratada como una causa de nulidad societaria.
+
+Esta reforma altera de manera significativa las consecuencias derivadas de apartarse de los tipos previstos legalmente.
+
+# El régimen actual de las sociedades atípicas
+
+Según el nuevo texto del art. 17, las sociedades previstas en el Capítulo II de la LGS —colectiva, capital e industria, comandita simple, comandita por acciones, sociedad anónima y SRL— no pueden:
+
+- omitir requisitos esenciales **tipificantes**;
+- incorporar elementos incompatibles con el tipo legal.
+
+Pero la infracción ya **no determina la nulidad**.
+
+La sociedad constituida:
+
+- no produce los efectos propios del tipo;
+- queda regida por la **Sección IV del Capítulo I**.
+
+# Atipicidad: la valoración de Vítolo
+
+Vítolo considera acertada la modificación introducida por la Ley 26.994.
+
+La nueva solución elimina la sanción de nulidad prevista por el antiguo art. 17.
+
+Como consecuencia:
+
+**la sociedad es plenamente válida y eficaz.**
+
+Además:
+
+**las cláusulas del contrato social o estatuto son plenamente oponibles entre los socios**, conforme al nuevo art. 22 LGS.
+
+La reforma sustituye así la destrucción de la sociedad por un régimen jurídico específico aplicable a la organización que no se adecua al tipo.
+
+# Síntesis: régimen general y régimen societario
+
+**Régimen general**
+
+La nulidad puede ser absoluta o relativa, total o parcial. Puede producir restituciones y, cuando es relativa, admite confirmación.
+
+**Régimen societario**
+
+La aplicación de esas categorías exige adaptación porque la sociedad:
+
+- crea una organización;
+- desarrolla actividad;
+- se relaciona con terceros;
+- genera una persona jurídica;
+- produce una realidad económica y jurídica que no puede simplemente borrarse.
+
+Por ello, la nulidad societaria opera fundamentalmente **hacia el futuro**.
+
+# Síntesis de los supuestos estructurales
+
+**Art. 18 — objeto ilícito**
+
+Nulidad absoluta + liquidación + régimen especial del remanente + responsabilidad ilimitada y solidaria.
+
+**Art. 19 — objeto lícito con actividad ilícita**
+
+Disolución y liquidación + posibilidad de protección de los socios que acrediten buena fe.
+
+**Art. 20 — objeto prohibido en razón del tipo**
+
+Nulidad absoluta + liquidación conforme al régimen ordinario.
+
+Para Vítolo, los tres supuestos contienen nulidades **absolutas, inconfirmables e insubsanables**.
+
+# Ideas centrales para retener
+
+**1.** La nulidad societaria no puede explicarse trasladando mecánicamente el régimen de los contratos de cambio.
+
+**2.** La nulidad del vínculo de un socio no destruye, como regla, todo el contrato social.
+
+**3.** La prestación esencial constituye una excepción relevante.
+
+**4.** Los arts. 18, 19 y 20 contienen nulidades estructurales con consecuencias diferentes.
+
+**5.** En materia societaria, la nulidad opera hacia el futuro y debe distinguirse de la responsabilidad.
+
+**6.** La Ley 26.994 eliminó la nulidad por atipicidad: la sociedad queda sometida al régimen de la Sección IV.

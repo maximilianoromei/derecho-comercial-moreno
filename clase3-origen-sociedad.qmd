@@ -1,0 +1,471 @@
+---
+title: "Las sociedades"
+subtitle: "Origen histórico y naturaleza jurídica del acto constitutivo"
+author: "Prof. Maximiliano Romei · Derecho Comercial · Universidad Nacional de Moreno"
+format:
+  revealjs:
+    slide-number: true
+    transition: fade
+    center: false
+    controls: true
+    progress: true
+    hash: true
+    width: 1600
+    height: 900
+    margin: 0.08
+    slide-level: 1
+---
+
+# Las sociedades comerciales
+
+**Dos cuestiones organizan esta clase**
+
+**Origen histórico.** Las formas societarias no surgieron simultáneamente ni respondieron a una única necesidad económica. La sociedad colectiva, la comandita y la sociedad anónima aparecen vinculadas con contextos históricos diferentes.
+
+**Naturaleza jurídica del acto constitutivo.** La constitución de una sociedad genera derechos y obligaciones entre quienes participan del acto, pero también produce algo más: el nacimiento de **un nuevo sujeto de derecho**.
+
+Esta segunda característica explica las distintas construcciones doctrinarias analizadas por Vítolo.
+
+# El origen de las sociedades comerciales
+
+Vítolo sitúa el origen de las sociedades comerciales, con características semejantes a las actuales, en la **Edad Media**.
+
+Los distintos tipos, sin embargo, recorrieron caminos diferentes:
+
+- la **sociedad colectiva** se vincula inicialmente con organizaciones familiares;
+- la **sociedad en comandita** presenta antecedentes discutidos;
+- la **sociedad anónima** es posterior y aparece en la Edad Moderna.
+
+La evolución societaria acompaña las transformaciones económicas: las necesidades de organización, financiación, distribución de riesgos y circulación del capital fueron impulsando nuevas estructuras jurídicas.
+
+# La sociedad colectiva: origen familiar
+
+Las primeras formas societarias fueron agrupaciones mediante las cuales los integrantes de una comunidad se reunían para desarrollar **un emprendimiento común**.
+
+Uno de ellos actuaba en nombre de todos.
+
+De esta práctica se desarrollaron posteriormente las denominadas sociedades **en nombre colectivo o colectivas**.
+
+Vítolo ubica el origen de estos instrumentos mercantiles en las **ciudades italianas de la Edad Media**, como derivación del vínculo familiar.
+
+Las primeras sociedades de este tipo estuvieron integradas principalmente por **hermanos**.
+
+# ¿Por qué hermanos?
+
+Vítolo relaciona aquella organización con las condiciones materiales de las ciudades medievales:
+
+- ciudades amuralladas;
+- escasez de espacio y de capital;
+- dificultades derivadas de la división del patrimonio hereditario.
+
+Frente a esas circunstancias, los hermanos continuaban la actividad paterna **bajo el mismo techo y con la misma organización**.
+
+La sociedad aparece inicialmente como una forma de preservar la continuidad económica del grupo familiar, evitando que la sucesión y la división patrimonial destruyeran la unidad productiva.
+
+# De la familia al tipo societario
+
+El sistema fue perfeccionándose progresivamente.
+
+Una de las preocupaciones centrales fue intentar limitar, en cierta medida, la responsabilidad de quienes participaban de la actividad.
+
+Al mismo tiempo:
+
+- la actividad ya no quedó confinada exclusivamente al núcleo familiar;
+- comenzaron a incorporarse personas ajenas a la familia;
+- las pequeñas industrias domésticas y los talleres encontraron en estas formas una estructura adecuada.
+
+La sociedad dejó de ser únicamente una prolongación de la familia y comenzó a transformarse en una **técnica jurídica de organización económica**.
+
+# El origen de la sociedad en comandita
+
+Vítolo presenta distintas explicaciones doctrinarias sobre su origen.
+
+**Primera explicación:** algunos autores encuentran antecedentes en el derecho romano, particularmente en la *institoria romana*.
+
+**Segunda explicación:** otros vinculan el tipo con el préstamo marítimo a la gruesa, el *foenus nauticum*.
+
+**Tercera explicación:** una importante cantidad de autores considera que la comandita tiene origen medieval y deriva del contrato de **comanda o encomienda**.
+
+Esta última construcción permite comprender claramente la separación entre capital y actividad comercial.
+
+# La comanda o encomienda
+
+El mecanismo era sencillo.
+
+Una persona confiaba **capital** a un mercader o a un marino para que éste lo utilizara productivamente.
+
+Luego:
+
+- el comerciante desarrollaba la actividad;
+- el capital se empleaba en el negocio;
+- quien había proporcionado los fondos recibía una parte de los beneficios.
+
+La estructura permitía participar económicamente en el comercio sin necesidad de intervenir personalmente en la explotación.
+
+Aquí comienza a distinguirse con claridad entre **aportante de capital** y **ejecutor de la actividad comercial**.
+
+# Una solución a restricciones sociales y económicas
+
+Vítolo destaca dos circunstancias históricas.
+
+**Los nobles** no podían, en razón de su clase, ejercer abiertamente el comercio.
+
+**La Iglesia** prohibía el préstamo a interés.
+
+La comanda permitía canalizar recursos hacia actividades mercantiles sin recurrir necesariamente a un préstamo tradicional y sin exigir que el aportante ejerciera personalmente el comercio.
+
+La figura ofrecía así una solución económica que permitía separar:
+
+**financiación del negocio**  
+de  
+**gestión del negocio**.
+
+# La sociedad anónima: un origen distinto
+
+La sociedad anónima es, para Vítolo, **el más reciente de los tipos societarios tradicionales**.
+
+Su origen se encuentra ligado a asociaciones privadas destinadas a realizar **empresas de interés público**.
+
+Estas organizaciones requerían autorización estatal.
+
+El Estado concedía a sus participantes dos ventajas particularmente relevantes:
+
+- **limitación de la responsabilidad**;
+- posibilidad de **ceder la cuota social**.
+
+La lógica empieza a separarse claramente de las organizaciones familiares características de las primeras sociedades.
+
+# SA, colonización y grandes emprendimientos
+
+El surgimiento de la sociedad anónima está estrechamente relacionado con:
+
+- colonización;
+- expediciones a grandes distancias;
+- empresas de gran magnitud;
+- necesidad de reunir grandes cantidades de capital.
+
+La nueva estructura permitía:
+
+**concentrar capitales** provenientes de numerosos participantes;
+
+**fraccionar el capital** en múltiples participaciones;
+
+**representar esas participaciones mediante títulos negociables**, facilitando su circulación en el mercado.
+
+La magnitud del emprendimiento comenzaba a exigir una organización independiente de las cualidades personales de cada inversor.
+
+# De la empresa personal a la empresa capitalista
+
+Vítolo ubica el nacimiento de la sociedad anónima moderna entre los comerciantes holandeses del **siglo XVII**.
+
+El desarrollo mercantil de Ámsterdam y la actividad de los grandes navegantes impulsaron nuevas formas empresariales.
+
+Estas organizaciones se constituían fundamentalmente mediante **aportaciones de dinero**.
+
+Se reemplazaba así:
+
+- la base personal de la empresa individual;
+- la base personal de la compañía colectiva;
+
+por una estructura de carácter **estrictamente capitalista**.
+
+El capital pasaba a ocupar el centro de la organización societaria.
+
+# La Compañía Holandesa de las Indias Orientales
+
+Vítolo destaca especialmente la **Compañía Holandesa de las Indias Orientales**.
+
+Fue fundada en **1602** sobre la base de ocho sociedades de navegación.
+
+Es presentada como la primera compañía constituida con características propias de una **sociedad anónima moderna**.
+
+En ella pueden observarse elementos que posteriormente serán típicos de la SA:
+
+- concentración de grandes capitales;
+- organización autónoma;
+- disminución de la relevancia personal del inversor;
+- participaciones susceptibles de circulación.
+
+# Otros antecedentes
+
+Vítolo menciona también experiencias señaladas por distintos especialistas.
+
+**Banco di San Giorgio**, en Génova.
+
+**Monte dei Paschi**, en Siena.
+
+En ambos casos se trataba de organizaciones autónomas que desarrollaban negocios en provecho propio.
+
+También aparecen las **maone**, en las que parte de la doctrina observa un antecedente de las sociedades coloniales de los siglos XVII y XVIII.
+
+La sociedad anónima moderna es, por lo tanto, resultado de una **evolución progresiva** y no de una creación jurídica instantánea.
+
+# Las maone
+
+La palabra árabe *maone* significa **socorro o ayuda**.
+
+Estas organizaciones estaban constituidas por grupos de ciudadanos que, bajo directivas estatales, aportaban los recursos necesarios para organizar una expedición naval.
+
+Generalmente se trataba de:
+
+- expediciones de ultramar;
+- empresas vinculadas con conquista o colonización;
+- emprendimientos que requerían importantes recursos.
+
+Nuevamente aparecen tres elementos centrales:
+
+**reunión de capitales + organización colectiva + grandes emprendimientos**.
+
+# El Código de Napoleón de 1807
+
+Vítolo identifica un salto jurídico fundamental con el **Código de Napoleón de 1807**.
+
+A partir de allí pudo constituirse una sociedad anónima sin necesidad de un **acto legislativo particular para cada sociedad**.
+
+El Estado, sin embargo, conservaba la facultad de valorar la existencia de interés público mediante una decisión administrativa.
+
+Las autorizaciones para funcionar eran generalmente concedidas.
+
+Este esquema fue recibido posteriormente en Argentina por el **Código de Comercio de 1862** y su reforma de **1890**.
+
+# Del origen histórico al problema jurídico
+
+Vítolo abandona luego el análisis histórico para formular otra pregunta:
+
+**¿Cuál es la naturaleza jurídica del acto constitutivo de una sociedad?**
+
+No se pregunta cuál es la naturaleza de la sociedad una vez constituida.
+
+La sociedad es un **sujeto de derecho**.
+
+La cuestión consiste en determinar cómo debe calificarse jurídicamente el acto que produce su nacimiento.
+
+El problema es complejo porque ese acto produce simultáneamente efectos entre sus participantes y respecto de una nueva persona jurídica.
+
+# El acto constitutivo produce dos efectos
+
+El acuerdo de voluntades —o la declaración unilateral en una sociedad unipersonal— produce dos consecuencias.
+
+**Primera:** establece un conjunto de derechos y obligaciones para quienes intervienen en el acto constitutivo.
+
+**Segunda:** genera el nacimiento de **un nuevo sujeto de derecho**, dotado de personalidad jurídica y titular de derechos y obligaciones propios.
+
+La sociedad creada no se confunde con las personas que participaron en su constitución.
+
+Esta doble dimensión explica la diversidad de teorías formuladas por la doctrina.
+
+# Las respuestas doctrinarias
+
+Vítolo agrupa las explicaciones principales en cuatro categorías:
+
+**Acto colectivo**  
+Las voluntades individuales convergen hacia una voluntad colectiva.
+
+**Acto complejo**  
+Las distintas declaraciones se funden en una voluntad única.
+
+**Institución**  
+Se pone el acento en la organización reconocida por el Estado.
+
+**Contrato**  
+La sociedad surge de un acuerdo contractual, aunque con características diferentes de los contratos clásicos.
+
+Dentro del contractualismo aparecerán luego distintas variantes.
+
+# La teoría del acto colectivo
+
+Messineo fue uno de sus principales defensores.
+
+La constitución sería un acto jurídico celebrado por quienes desean convertirse en socios.
+
+Las voluntades:
+
+- se expresan paralelamente;
+- no se enfrentan como en los contratos de cambio;
+- se orientan hacia una finalidad coincidente.
+
+La suma de esas manifestaciones produciría una **voluntad colectiva**.
+
+Cada participante expresa su voluntad, pero todas convergen en una dirección común.
+
+Vítolo señala que la **mayoría de la doctrina rechazó** esta explicación.
+
+# La teoría del acto complejo
+
+Otra corriente calificó la constitución como **acto complejo**.
+
+La diferencia con el acto colectivo se encuentra en el destino de las voluntades individuales.
+
+**Acto complejo:** las voluntades se funden en una voluntad única y pierden su individualidad.
+
+**Acto colectivo:** las voluntades permanecen diferenciables dentro del acto, aunque converjan hacia un resultado común.
+
+Para algunos autores, el acto complejo constituye un **negocio unilateral de sustrato pluripersonal**: varias personas conforman una sola parte y actúan en una misma dirección.
+
+También esta construcción fue rechazada mayoritariamente.
+
+# La teoría de la institución
+
+Según esta concepción, la sociedad comercial constituye un **ente o idea fuerza** al cual la comunidad reconoce valor por su aptitud para desarrollar actividades económicas consideradas beneficiosas.
+
+El Estado:
+
+- reconoce jurídicamente a la agrupación;
+- le atribuye carácter de sujeto de derecho;
+- o permite su nacimiento para cumplir determinados fines.
+
+La expresión *institución* se vincula precisamente con esa intervención estatal.
+
+El poder público **instituye o reconoce** la organización como instrumento para determinadas finalidades.
+
+# Institucionalismo e intervención estatal
+
+Vítolo señala que en Argentina la teoría institucionalista fue especialmente sostenida por **Videla Escalada** y fuertemente criticada por **Halperin**.
+
+No obstante, algunos criterios institucionalistas fueron considerados aplicables a la **sociedad anónima**, dada su estructura predominantemente organizativa.
+
+La discusión tiene una consecuencia práctica importante:
+
+aceptar una visión institucional puede justificar una **mayor intervención del Estado en las actividades económicas privadas**.
+
+La naturaleza jurídica elegida condiciona, entonces, el equilibrio entre autonomía privada e intervención pública.
+
+# Las tesis contractualistas
+
+Frente al institucionalismo aparecen las **teorías contractualistas**.
+
+Según ellas, la sociedad constituye un **contrato**.
+
+Sin embargo, dentro del contractualismo no existe una única posición.
+
+Vítolo distingue:
+
+- quienes identifican la sociedad con los **contratos clásicos**;
+- quienes la consideran un **contrato plurilateral**;
+- quienes la ubican dentro de los **contratos plurilaterales de organización**.
+
+El problema consiste en determinar qué tipo de contrato puede explicar adecuadamente una relación que involucra múltiples participantes y que, además, crea una nueva organización.
+
+# ¿Puede ser un contrato bilateral?
+
+Una primera posición intentó explicar la sociedad como **contrato bilateral**.
+
+Cada socio quedaría obligado individualmente frente a la sociedad que nace del acuerdo.
+
+Vítolo considera que esta explicación no resulta satisfactoria.
+
+La dificultad es doble:
+
+- no parece adecuado considerar a los demás socios como una única contraparte contractual;
+- tampoco puede considerarse contraparte originaria a la **sociedad**, porque ésta recién nace como sujeto de derecho como consecuencia del contrato.
+
+La sociedad no existe antes del acto constitutivo como para contratar con sus futuros socios.
+
+# El contrato plurilateral
+
+Los contratos plurilaterales presentan, originaria o potencialmente, **más de dos centros de intereses diferenciados**.
+
+A diferencia del contrato bilateral clásico:
+
+- no existe reciprocidad entre todas las prestaciones;
+- tampoco existe necesariamente interdependencia entre todas ellas.
+
+Vítolo identifica tres notas frecuentes:
+
+- **finalidad común**;
+- organización administrativa y patrimonial de cierta complejidad y duración;
+- posibilidad de incorporación de terceros sin desnaturalizar la figura.
+
+Por ello suelen ser considerados también **contratos de colaboración**, en oposición a los contratos de cambio.
+
+# Contratos de cambio y contratos asociativos
+
+En los **contratos de cambio**, las prestaciones son contrapuestas.
+
+La prestación de una parte constituye la contraprestación que satisface el interés de la otra.
+
+En los **contratos asociativos**, en cambio:
+
+- las prestaciones no están enfrentadas;
+- las obligaciones se encuentran yuxtapuestas;
+- todos colaboran hacia una **finalidad común**.
+
+Cada contratante conserva su interés individual, pero procura satisfacerlo mediante la participación en una actividad común.
+
+Esta estructura se aproxima mucho más al fenómeno societario que el intercambio bilateral clásico.
+
+# Los contratos de organización
+
+Los **contratos de organización** tienen por finalidad organizar grupos o categorías destinados a mantener una existencia más o menos duradera.
+
+Vítolo señala que generalmente presentan también carácter plurilateral.
+
+La sociedad reúne precisamente estas características:
+
+- pluralidad de participantes;
+- finalidad común;
+- organización administrativa;
+- organización patrimonial;
+- vocación de permanencia.
+
+Por ello, la categoría permite explicar no sólo el acuerdo inicial entre los socios, sino también la estructura organizada que ese acuerdo pone en funcionamiento.
+
+# La posición de Vítolo
+
+Bajo el régimen de la Ley 19.550, Vítolo formula una distinción clara.
+
+**Cuando existen dos o más socios**
+
+El acto constitutivo debe ser considerado:
+
+**contrato plurilateral de organización.**
+
+El autor vincula esta solución con la tesis de Ascarelli.
+
+**Cuando existe un único constituyente**
+
+No puede hablarse de contrato.
+
+El acto constitutivo de la sociedad unipersonal debe considerarse:
+
+**declaración unilateral de voluntad.**
+
+Vítolo remite en este caso al art. 1800 del Código Civil y Comercial.
+
+# Una cuestión todavía abierta
+
+Vítolo acepta como punto de partida el **contrato plurilateral de organización** para las sociedades constituidas por dos o más sujetos.
+
+Sin embargo, advierte que la evolución contemporánea introduce nuevas dificultades.
+
+El acto constitutivo:
+
+- crea relaciones entre quienes participan;
+- genera un nuevo sujeto de derecho;
+- organiza una estructura;
+- produce separación patrimonial;
+- combina componentes negociales e institucionales.
+
+Las modificaciones introducidas por la Ley 26.994 llevan al autor a considerar necesaria una revisión de algunos aspectos tradicionales de la explicación societaria.
+
+# Síntesis final
+
+**Sociedad colectiva**
+
+Origen familiar medieval. Continuidad de la actividad económica común y progresiva generalización del tipo.
+
+**Sociedad en comandita**
+
+Separación entre quien aporta capital y quien desarrolla materialmente la actividad comercial.
+
+**Sociedad anónima**
+
+Grandes emprendimientos, concentración y fraccionamiento del capital, circulación de participaciones y limitación de responsabilidad.
+
+**Naturaleza del acto constitutivo según Vítolo**
+
+Dos o más socios → **contrato plurilateral de organización**.
+
+Sociedad unipersonal → **declaración unilateral de voluntad**.
+
+En ambos casos nace un **sujeto de derecho diferente de quienes lo constituyen**.
