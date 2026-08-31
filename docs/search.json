@@ -663,5 +663,82 @@
     "title": "Jurisprudencia sobre personalidad societaria",
     "section": "Para recordar",
     "text": "Para recordar\n\nLa pregunta no es simplemente si la sociedad incumplió.\nLa pregunta es si existen los presupuestos jurídicos y fácticos que permiten imputar esa actuación a quienes se encuentran detrás de ella.\n\nFallos\nCSJN, “Carballo, Atilano c/ Kanmar S.A. (en liquidación) y otros”, 31/10/2002.\n⚖️ Consultar fallo\nCSJN, “Palomeque, Aldo René c/ Benemeth S.A. y otro”, 03/04/2003, Fallos 326:1062.\n⚖️ Consultar fallo"
+  },
+  {
+    "objectID": "clase3-responsabilidad.html",
+    "href": "clase3-responsabilidad.html",
+    "title": "Responsabilidad de los socios",
+    "section": "",
+    "text": "from pathlib import Path\nout = r’’’— title: “Clase 3 — Responsabilidad” subtitle: “Sociedades Civiles y Comerciales · UBA · Curso intensivo 2026” author: “Prof. Maximiliano Lucas Romei” format: revealjs: theme: simple slide-number: c/t hash: true navigation-mode: linear scrollable: true slide-level: 1 center: false transition: none width: 1600 height: 900 margin: 0.05 controls: true progress: true lang: es —"
+  },
+  {
+    "objectID": "clase3-responsabilidad.html#quién-responde-por-las-deudas-sociales",
+    "href": "clase3-responsabilidad.html#quién-responde-por-las-deudas-sociales",
+    "title": "Responsabilidad de los socios",
+    "section": "¿Quién responde por las deudas sociales?",
+    "text": "¿Quién responde por las deudas sociales?\nCuando una sociedad contrae una obligación surge una pregunta fundamental:\n\n¿Quién responde frente al acreedor?\n\nLa respuesta depende del régimen de responsabilidad previsto para cada tipo societario.\nLa primera obligada es siempre la sociedad, porque posee personalidad jurídica y patrimonio propio.\nLa cuestión consiste en determinar si, además de la sociedad, pueden responder también los socios."
+  },
+  {
+    "objectID": "clase3-responsabilidad.html#cuándo-puede-reclamarse-al-socio",
+    "href": "clase3-responsabilidad.html#cuándo-puede-reclamarse-al-socio",
+    "title": "Responsabilidad de los socios",
+    "section": "¿Cuándo puede reclamarse al socio?",
+    "text": "¿Cuándo puede reclamarse al socio?\nEsta pregunta no se refiere al monto.\nSe refiere al orden en que pueden perseguirse los distintos patrimonios.\nLas respuestas posibles son:\n\nresponsabilidad directa;\nresponsabilidad subsidiaria."
+  },
+  {
+    "objectID": "clase3-responsabilidad.html#por-cuánto-puede-reclamarse-a-cada-socio",
+    "href": "clase3-responsabilidad.html#por-cuánto-puede-reclamarse-a-cada-socio",
+    "title": "Responsabilidad de los socios",
+    "section": "¿Por cuánto puede reclamarse a cada socio?",
+    "text": "¿Por cuánto puede reclamarse a cada socio?\nAhora debemos analizar cómo se distribuye la deuda entre varios obligados.\nLas alternativas son:\n\nsolidaridad;\nmancomunidad.\n\nEsta pregunta es distinta de saber cuándo responde el socio y hasta dónde queda comprometido su patrimonio."
+  },
+  {
+    "objectID": "clase3-responsabilidad.html#no.",
+    "href": "clase3-responsabilidad.html#no.",
+    "title": "Responsabilidad de los socios",
+    "section": "No.",
+    "text": "No.\nTiene acción de regreso contra Bruno y Carlos.\nRecorrido completo:\nDeuda $150 M → patrimonio social $40 M → saldo $110 M → Ana paga → regreso contra Bruno y Carlos."
+  },
+  {
+    "objectID": "clase3-responsabilidad.html#sociedad-colectiva",
+    "href": "clase3-responsabilidad.html#sociedad-colectiva",
+    "title": "Responsabilidad de los socios",
+    "section": "Sociedad colectiva",
+    "text": "Sociedad colectiva\n\n\n\n\n\n\n\nCaracterística\nSignificado\n\n\n\n\nSubsidiaria\nPrimero se persigue el patrimonio social.\n\n\nSolidaria\nEl saldo puede reclamarse íntegramente a cualquiera de los socios.\n\n\nIlimitada\nLa responsabilidad no queda limitada al aporte.\n\n\n\nNo son sinónimos.\nSe complementan."
+  },
+  {
+    "objectID": "clase3-responsabilidad.html#incorrecto.",
+    "href": "clase3-responsabilidad.html#incorrecto.",
+    "title": "Responsabilidad de los socios",
+    "section": "Incorrecto.",
+    "text": "Incorrecto.\nLa ilimitación solamente indica que el patrimonio comprometido no se limita al aporte.\nQue pueda reclamar toda la deuda dependerá de que exista solidaridad."
+  },
+  {
+    "objectID": "clase3-responsabilidad.html#incorrecto.-1",
+    "href": "clase3-responsabilidad.html#incorrecto.-1",
+    "title": "Responsabilidad de los socios",
+    "section": "Incorrecto.",
+    "text": "Incorrecto.\nLa subsidiariedad sólo modifica el orden del reclamo.\nNo disminuye el monto de la obligación."
+  },
+  {
+    "objectID": "clase3-responsabilidad.html#incorrecto.-2",
+    "href": "clase3-responsabilidad.html#incorrecto.-2",
+    "title": "Responsabilidad de los socios",
+    "section": "Incorrecto.",
+    "text": "Incorrecto.\nEl socio puede responder:\n\npor aportes no integrados;\npor garantías personales;\npor actos ilícitos propios;\npor responsabilidad como administrador;\npor otros supuestos previstos por la ley."
+  },
+  {
+    "objectID": "clase3-responsabilidad.html#incorrecto.-3",
+    "href": "clase3-responsabilidad.html#incorrecto.-3",
+    "title": "Responsabilidad de los socios",
+    "section": "Incorrecto.",
+    "text": "Incorrecto.\nPuede reclamar el total a cualquiera de los obligados.\nPero sólo puede cobrar una única vez el importe total de la deuda."
+  },
+  {
+    "objectID": "clase3-responsabilidad.html#no-lo-son.",
+    "href": "clase3-responsabilidad.html#no-lo-son.",
+    "title": "Responsabilidad de los socios",
+    "section": "No lo son.",
+    "text": "No lo son.\nUna misma responsabilidad puede ser, al mismo tiempo:\n\nilimitada;\nsubsidiaria;\nsolidaria.\n\nCada palabra responde una pregunta distinta."
   }
 ]
