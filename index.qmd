@@ -20,3 +20,19 @@ subtitle: "Universidad Nacional de Moreno"
 [🎓 Origen de las sociedades](clase3-origen-sociedad.html){.btn .btn-primary target="_blank"}
 
 [🎓 Nulidades societarias](clase3-nulidades-societarias.html){.btn .btn-primary target="_blank"}
+
+## Clase 3 · Sociedades
+
+[🎓 Sociedades](clase-3-sociedades.html){.btn .btn-primary target="_blank"}
+
+[🎓 Origen de las sociedades](clase3-origen-sociedad.html){.btn .btn-primary target="_blank"}
+
+[🎓 Nulidades societarias](clase3-nulidades-societarias.html){.btn .btn-primary target="_blank"}
+
+[🎓 Concepto de sociedad y unipersonalidad](clase3-sociedades-unipersonalidad.html){.btn .btn-primary target="_blank"}
+
+[🎓 Artículo 11 · Instrumento constitutivo](clase3-articulo11.html){.btn .btn-primary target="_blank"}
+
+[🎓 Tipos societarios](clase3-tipos-societarios.html){.btn .btn-primary target="_blank"}
+
+[🎓 Sociedades de la Sección IV](clase3-seccion-IV.html){.btn .btn-primary target="_blank"}

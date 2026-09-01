@@ -1,0 +1,640 @@
+---
+title: "Tipos societarios"
+subtitle: "Tipicidad · Estructura · Capital · Aportes · Administración"
+author: "Prof. Maximiliano Romei · Derecho Comercial · Universidad Nacional de Moreno"
+format:
+  revealjs:
+    theme: simple
+    slide-number: c/t
+    hash: true
+    navigation-mode: linear
+    scrollable: true
+    slide-level: 1
+    center: false
+    transition: none
+    width: 1600
+    height: 900
+    margin: 0.05
+    controls: true
+    progress: true
+lang: es
+---
+
+# Los tipos societarios
+
+La Ley General de Sociedades no establece una única forma de organización.
+
+El legislador ofrece distintos **tipos societarios**, cada uno con una determinada combinación de:
+
+- responsabilidad de los socios;
+- organización del capital;
+- formas de participación;
+- régimen de administración;
+- mecanismos de decisión;
+- mayor o menor relevancia de la persona del socio.
+
+La elección del tipo determina buena parte del régimen jurídico aplicable.
+
+---
+
+# Tipicidad societaria
+
+El artículo 1 LGS exige que la sociedad se organice:
+
+> **“conforme a uno de los tipos previstos en esta ley”**
+
+La tipicidad significa que quienes constituyen una sociedad no pueden inventar libremente una estructura societaria completamente diferente de las previstas por la ley.
+
+Pueden diseñar múltiples aspectos del contrato, pero deben respetar los elementos esenciales del tipo elegido.
+
+---
+
+# Artículo 17 LGS
+
+El artículo 17 establece que las sociedades previstas en el Capítulo II:
+
+- no pueden omitir **requisitos esenciales tipificantes**;
+- ni incorporar elementos **incompatibles con el tipo legal**.
+
+Si ello ocurre:
+
+> la sociedad no produce los efectos propios del tipo elegido.
+
+Queda sometida al régimen de la **Sección IV**.
+
+La consecuencia actual ya no es necesariamente la nulidad de la sociedad.
+
+---
+
+# ¿Por qué existen diferentes tipos?
+
+Los distintos tipos permiten combinar de manera diferente varios factores:
+
+| Variable | Pregunta |
+|---|---|
+| Responsabilidad | ¿Hasta dónde responden los socios? |
+| Capital | ¿Cómo se estructura la participación? |
+| Aportes | ¿Qué puede aportar cada socio? |
+| Administración | ¿Quién gestiona? |
+| Gobierno | ¿Cómo se adoptan decisiones? |
+| Transmisión | ¿Cómo circula la participación? |
+| Personalización | ¿Cuánto importa quién es el socio? |
+
+No todos los tipos responden a la misma lógica económica.
+
+---
+
+# Los tipos del Capítulo II
+
+La Ley General de Sociedades regula:
+
+1. **Sociedad Colectiva**
+2. **Sociedad en Comandita Simple**
+3. **Sociedad de Capital e Industria**
+4. **Sociedad de Responsabilidad Limitada**
+5. **Sociedad Anónima**
+6. **Sociedad en Comandita por Acciones**
+
+Todos pertenecen al régimen general de la Ley 19.550.
+
+---
+
+# Dos grandes tendencias
+
+Sin pretender una clasificación rígida, puede advertirse una diferencia entre:
+
+### Sociedades con fuerte elemento personal
+
+- colectiva;
+- comandita simple;
+- capital e industria.
+
+### Sociedades con mayor relevancia del capital
+
+- SRL;
+- SA;
+- comandita por acciones.
+
+La diferencia influye especialmente en:
+
+- responsabilidad;
+- administración;
+- transmisión de participaciones;
+- estructura del capital.
+
+---
+
+# Sociedad Colectiva
+
+Es el modelo clásico de sociedad personalista.
+
+Sus socios responden por las obligaciones sociales:
+
+- **subsidiariamente**;
+- **ilimitadamente**;
+- **solidariamente**.
+
+La sociedad posee patrimonio propio, pero si éste resulta insuficiente, los acreedores pueden avanzar contra el patrimonio personal de los socios.
+
+Es el tipo más útil para comprender la lógica de la responsabilidad personal societaria.
+
+---
+
+# Colectiva — Capital y participación
+
+La LGS no divide necesariamente el capital de la sociedad colectiva en acciones o cuotas.
+
+La participación de cada socio surge del contrato y de los aportes comprometidos.
+
+Los aportes pueden consistir, conforme al régimen general, en obligaciones de:
+
+- dar;
+- o hacer,
+
+según las reglas aplicables.
+
+La estructura pone mayor énfasis en la **persona del socio** que en la circulación de una participación estandarizada.
+
+---
+
+# Colectiva — Administración
+
+El contrato social determina el régimen de administración.
+
+Si nada dispone, cualquiera de los socios puede administrar.
+
+La administración puede organizarse:
+
+- individualmente;
+- conjuntamente;
+- o mediante el régimen que establezca el contrato.
+
+La fuerte vinculación entre condición de socio y gestión refleja su carácter predominantemente personalista.
+
+---
+
+# Sociedad en Comandita Simple
+
+La comandita simple presenta **dos categorías de socios**:
+
+### Socios comanditados
+
+Responden como los socios de la colectiva:
+
+- subsidiaria;
+- solidaria;
+- ilimitadamente.
+
+### Socios comanditarios
+
+Limitan su responsabilidad al capital que se obligan a aportar.
+
+La sociedad combina, por lo tanto, dos regímenes de responsabilidad dentro de una misma estructura.
+
+---
+
+# Comandita simple — Capital y aportes
+
+La particularidad central está en la diferenciación de las categorías.
+
+El capital comanditario se integra solamente mediante:
+
+> **obligaciones de dar.**
+
+El socio comanditario realiza un aporte de capital y obtiene una posición de responsabilidad limitada.
+
+El comanditado ocupa, en cambio, una posición más cercana a la sociedad colectiva.
+
+---
+
+# Comandita simple — Administración
+
+La administración y representación corresponde:
+
+- a los socios **comanditados**;
+- o a terceros designados.
+
+El socio comanditario no puede, como principio, inmiscuirse en la administración.
+
+La lógica es clara:
+
+> quien conserva responsabilidad limitada no ocupa ordinariamente la posición de administrador propia del comanditado.
+
+---
+
+# Sociedad de Capital e Industria
+
+También distingue dos categorías.
+
+### Socio capitalista
+
+Aporta capital y responde como el socio de la colectiva.
+
+### Socio industrial
+
+Aporta exclusivamente su **industria**, es decir, su trabajo o actividad.
+
+Su responsabilidad queda limitada, conforme al artículo 141, hasta la concurrencia de las ganancias no percibidas.
+
+Este tipo separa claramente aporte de capital y aporte de trabajo.
+
+---
+
+# Capital e Industria — Aportes
+
+El rasgo distintivo se encuentra precisamente en la naturaleza de las prestaciones.
+
+| Socio | Aporte |
+|---|---|
+| Capitalista | Bienes o capital |
+| Industrial | Trabajo o actividad |
+
+El socio industrial no realiza un aporte de capital tradicional.
+
+Su incorporación responde al valor económico de su actividad personal.
+
+---
+
+# Capital e Industria — Administración
+
+La administración y representación puede ser ejercida:
+
+> **por cualquiera de los socios**
+
+conforme al régimen legal.
+
+Esto permite que tanto capitalistas como industriales puedan intervenir en la administración.
+
+La ley, sin embargo, mantiene diferencias relevantes entre ambas categorías en materia de responsabilidad.
+
+---
+
+# Sociedad de Responsabilidad Limitada
+
+La SRL abandona la responsabilidad personal ilimitada como característica normal del socio.
+
+Los socios limitan su responsabilidad a la integración de las cuotas que suscriben o adquieren, sin perjuicio de las garantías legales vinculadas con integración y valuación.
+
+El tipo busca combinar:
+
+- responsabilidad limitada;
+- estructura relativamente sencilla;
+- organización societaria estable.
+
+---
+
+# SRL — Capital
+
+El capital se divide en:
+
+> **cuotas**
+
+Las cuotas poseen igual valor.
+
+Cada socio puede ser titular de una o más cuotas.
+
+A diferencia de la sociedad anónima:
+
+> **el capital de la SRL no se representa mediante acciones.**
+
+Esta diferencia es básica para comprender ambos tipos.
+
+---
+
+# SRL — Aportes
+
+Los aportes pueden realizarse conforme al régimen legal correspondiente.
+
+Cuando son dinerarios:
+
+- debe integrarse el porcentaje legal al momento de constitución;
+- el saldo puede completarse dentro del plazo permitido.
+
+Los aportes en especie deben integrarse totalmente.
+
+La valuación de los aportes adquiere especial importancia por la limitación de responsabilidad.
+
+---
+
+# SRL — Administración
+
+La administración y representación corresponde a uno o más:
+
+> **gerentes**
+
+Los gerentes pueden ser:
+
+- socios;
+- o terceros.
+
+Puede establecerse:
+
+- gerencia individual;
+- gerencia plural;
+- actuación conjunta;
+- actuación indistinta.
+
+La gerencia constituye el órgano típico de administración de la SRL.
+
+---
+
+# Sociedad Anónima
+
+La sociedad anónima representa el modelo clásico de sociedad de capital.
+
+Los socios limitan su responsabilidad:
+
+> **a la integración de las acciones suscriptas.**
+
+La persona del accionista tiende a perder relevancia frente a la participación representada por acciones.
+
+La estructura jurídica se encuentra más intensamente organizada mediante órganos diferenciados.
+
+---
+
+# SA — Capital
+
+El capital social se representa por:
+
+> **acciones**
+
+La acción cumple varias funciones:
+
+- representa una fracción del capital;
+- determina la participación del accionista;
+- atribuye derechos políticos;
+- atribuye derechos patrimoniales;
+- facilita la circulación de la participación.
+
+Ésta constituye una de las diferencias estructurales con la SRL.
+
+---
+
+# SA — Aportes
+
+Las obligaciones de los accionistas se vinculan con la suscripción e integración de las acciones.
+
+Los aportes pueden ser:
+
+- dinerarios;
+- o en especie,
+
+con las exigencias legales correspondientes.
+
+Los aportes no dinerarios requieren integración total y están sujetos a reglas especiales de valuación.
+
+La organización del capital es más formalizada que en las sociedades personalistas.
+
+---
+
+# SA — Administración
+
+La administración corresponde al:
+
+> **directorio**
+
+El directorio puede ser:
+
+- unipersonal;
+- o plural,
+
+según el régimen aplicable.
+
+La representación legal corresponde, como principio, al presidente del directorio.
+
+La SA presenta así una clara diferenciación entre:
+
+- gobierno;
+- administración;
+- fiscalización.
+
+---
+
+# SA — Organización orgánica
+
+Puede visualizarse de manera sencilla:
+
+| Función | Órgano típico |
+|---|---|
+| Gobierno | Asamblea |
+| Administración | Directorio |
+| Representación | Presidente |
+| Fiscalización | Sindicatura / consejo de vigilancia, cuando corresponda |
+
+La intensidad de la organización depende también de si la sociedad se encuentra o no comprendida en los supuestos de fiscalización estatal permanente.
+
+---
+
+# Sociedad Anónima Unipersonal
+
+La SAU no constituye un tipo societario diferente.
+
+Es una:
+
+> **sociedad anónima con un único accionista**
+
+Por eso mantiene como estructura básica:
+
+- capital representado por acciones;
+- responsabilidad limitada;
+- directorio;
+- régimen de sociedad anónima.
+
+Pero incorpora reglas especiales derivadas de la unipersonalidad.
+
+---
+
+# Sociedad en Comandita por Acciones
+
+La SCA combina elementos de:
+
+- la sociedad en comandita;
+- y la sociedad anónima.
+
+Existen nuevamente dos categorías:
+
+### Comanditados
+
+Responden como los socios colectivos.
+
+### Comanditarios
+
+Limitan su responsabilidad al capital suscripto.
+
+La gran diferencia con la comandita simple radica en la representación de parte del capital.
+
+---
+
+# SCA — Capital
+
+El artículo 315 establece:
+
+> **Sólo los aportes de los comanditarios se representan por acciones.**
+
+Por lo tanto:
+
+| Categoría | Participación |
+|---|---|
+| Comanditados | No representada necesariamente por acciones |
+| Comanditarios | Representada por acciones |
+
+La sociedad combina así un núcleo personalista con una estructura de capital accionario.
+
+---
+
+# SCA — Administración
+
+La sociedad en comandita por acciones se encuentra sometida, como principio, a las reglas de la sociedad anónima, salvo las disposiciones especiales de su sección.
+
+La administración corresponde a los socios comanditados o a quienes legalmente puedan ejercerla conforme a su régimen particular.
+
+La figura del comanditado conserva una importancia estructural mucho mayor que la del accionista común de una SA.
+
+---
+
+# Comparación general
+
+| Tipo | Participación | Responsabilidad | Administración típica |
+|---|---|---|---|
+| Colectiva | Parte social | Ilimitada, solidaria y subsidiaria | Socios / régimen contractual |
+| Comandita simple | Partes sociales | Diferenciada | Comanditados o terceros |
+| Capital e industria | Partes diferenciadas | Diferenciada | Cualquiera de los socios |
+| SRL | **Cuotas** | Limitada | Gerencia |
+| SA | **Acciones** | Limitada | Directorio |
+| SCA | Acciones para comanditarios | Diferenciada | Régimen especial |
+
+Este cuadro sirve como mapa; cada régimen deberá luego estudiarse individualmente.
+
+---
+
+# ¿Qué cambia de un tipo a otro?
+
+La diferencia no consiste solamente en el nombre.
+
+Elegir un tipo determina:
+
+- cómo se estructura el capital;
+- cómo se instrumenta la participación;
+- qué responsabilidad asumen los socios;
+- quién administra;
+- cómo se adoptan decisiones;
+- cómo puede transmitirse la participación;
+- qué exigencias formales deben cumplirse.
+
+Por eso la tipicidad tiene consecuencias prácticas muy concretas.
+
+---
+
+# Sociedades personalistas y sociedades de capital
+
+La distinción permite comprender una tendencia general.
+
+| Personalistas | De capital |
+|---|---|
+| Mayor importancia de quién es el socio | Mayor importancia de la participación |
+| Mayor presencia de responsabilidad personal | Predominio de responsabilidad limitada |
+| Menor facilidad de circulación | Participaciones más objetivadas |
+| Administración vinculada frecuentemente a socios | Órganos de administración diferenciados |
+
+La SRL ocupa una posición intermedia particularmente interesante.
+
+---
+
+# Lo que no constituye un tipo
+
+### Sociedad Anónima Unipersonal
+
+No es un tipo nuevo: es una modalidad de **SA**.
+
+### Sociedades de la Sección IV
+
+No forman un tipo legal autónomo.
+
+El artículo 21 somete a ese régimen a sociedades que:
+
+- no se constituyen conforme a un tipo del Capítulo II;
+- omiten requisitos esenciales;
+- o incumplen formalidades exigidas por la ley.
+
+### SAS
+
+No se incluyen aquí porque su régimen proviene de una **legislación especial distinta de la LGS**.
+
+---
+
+# Tipicidad y autonomía de la voluntad
+
+Los socios poseen un importante espacio para organizar contractualmente la sociedad.
+
+Pueden regular, dentro de los límites legales:
+
+- administración;
+- mayorías;
+- funcionamiento;
+- transmisión;
+- derechos y obligaciones.
+
+Pero no pueden alterar los elementos esenciales hasta convertir el tipo elegido en algo incompatible con su estructura legal.
+
+> **Autonomía contractual sí; creación libre de tipos societarios, no.**
+
+---
+
+# Una forma sencilla de estudiarlos
+
+Para analizar cualquier tipo societario conviene hacerse siempre las mismas preguntas:
+
+1. **¿Cómo se divide o representa el capital?**
+2. **¿Qué puede aportar el socio?**
+3. **¿Cómo responde por las deudas sociales?**
+4. **¿Quién administra?**
+5. **¿Cómo se toman las decisiones?**
+6. **¿Cómo se transmite la participación?**
+7. **¿Cuánto importa la persona del socio?**
+
+Esta matriz permite comparar tipos sin memorizar artículos aislados.
+
+---
+
+# Ideas fuerza
+
+La LGS ofrece **seis tipos societarios básicos** dentro de su Capítulo II.
+
+No son simples denominaciones distintas.
+
+Cada tipo representa una combinación diferente de:
+
+- capital;
+- responsabilidad;
+- administración;
+- participación;
+- organización.
+
+En términos generales puede observarse un recorrido:
+
+> **mayor relevancia personal → mayor objetivación del capital**
+
+desde sociedades como la colectiva hacia estructuras como la sociedad anónima.
+
+---
+
+# Para la próxima etapa
+
+Esta presentación ofrece solamente el **mapa general**.
+
+A partir de aquí cada tipo deberá analizarse individualmente:
+
+- constitución;
+- responsabilidad;
+- capital;
+- aportes;
+- administración;
+- gobierno;
+- fiscalización;
+- transmisión de participaciones;
+- modificaciones;
+- conflictos típicos.
+
+El objetivo ahora no es dominar cada régimen, sino comprender:
+
+> **qué tipos existen y qué lógica básica diferencia a unos de otros.**

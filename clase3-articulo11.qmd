@@ -1,0 +1,692 @@
+---
+title: "El instrumento constitutivo"
+subtitle: "Contenido · Artículos 11 a 13 de la Ley General de Sociedades"
+author: "Prof. Maximiliano Romei · Derecho Comercial · Universidad Nacional de Moreno"
+format:
+  revealjs:
+    theme: simple
+    slide-number: c/t
+    hash: true
+    navigation-mode: linear
+    scrollable: true
+    slide-level: 1
+    center: false
+    transition: none
+    width: 1600
+    height: 900
+    margin: 0.05
+    controls: true
+    progress: true
+lang: es
+---
+
+# El instrumento constitutivo
+
+El **artículo 11 LGS** determina el contenido que debe reunir el instrumento de constitución de la sociedad.
+
+La norma contiene requisitos comunes a las sociedades, sin perjuicio de las exigencias adicionales correspondientes a cada tipo societario.
+
+Su función es estructural: permite determinar, desde el nacimiento de la sociedad,
+
+- quiénes la integran;
+- cómo se individualiza;
+- a qué actividad se destina;
+- con qué capital cuenta;
+- durante cuánto tiempo existirá;
+- cómo se organiza;
+- cómo se distribuyen resultados;
+- cuáles son los derechos y obligaciones de los socios;
+- y cómo se producirá su disolución y liquidación.
+
+---
+
+# Artículo 11: una norma organizadora
+
+El artículo 11 puede ordenarse en **cuatro grandes bloques**:
+
+| Dimensión | Incisos |
+|---|---|
+| Identificación | Socios, denominación, domicilio y sede |
+| Estructura económica | Objeto, capital y plazo |
+| Organización interna | Administración, fiscalización y reuniones |
+| Relaciones jurídicas | Resultados, derechos, obligaciones, funcionamiento, disolución y liquidación |
+
+No se trata simplemente de una enumeración de datos.
+
+El instrumento constitutivo funciona como la **regla básica de organización de la sociedad**.
+
+---
+
+# Inciso 1 — Identificación de los socios
+
+El instrumento debe contener respecto de los socios:
+
+- nombre;
+- edad;
+- estado civil;
+- nacionalidad;
+- profesión;
+- domicilio;
+- número de documento de identidad.
+
+La finalidad inmediata es **individualizar a quienes participan en la constitución de la sociedad**.
+
+Esta información permite establecer quiénes asumieron las obligaciones derivadas del acto constitutivo y quiénes adquieren originariamente la calidad de socios.
+
+---
+
+# ¿Por qué importa identificar a los socios?
+
+La identificación no constituye un dato puramente formal.
+
+Permite determinar:
+
+- quién realizó o comprometió cada aporte;
+- quién asumió las obligaciones originarias;
+- quién posee los derechos derivados de la participación social;
+- quién queda sometido al régimen de responsabilidad correspondiente al tipo.
+
+La relevancia posterior de la identidad de cada socio dependerá también del tipo societario.
+
+> En las sociedades personalistas, la identidad del socio tiene una importancia diferente de la que presenta en una sociedad típicamente capitalista.
+
+---
+
+# Inciso 2 — Nombre de la sociedad
+
+El instrumento debe establecer:
+
+> **la razón social o la denominación**
+
+Ambas cumplen una función común:
+
+### individualizar jurídicamente a la sociedad.
+
+La sociedad, como sujeto de derecho distinto de sus integrantes, necesita una identificación propia para actuar en el tráfico jurídico.
+
+El nombre permite distinguir:
+
+**sociedad → socios → terceros**
+
+y evita confundir el patrimonio y las relaciones jurídicas correspondientes a cada sujeto.
+
+---
+
+# Razón social y denominación
+
+Aunque ambas identifican a la sociedad, no son conceptos idénticos.
+
+### Razón social
+
+Tradicionalmente se estructura utilizando el nombre de uno o más socios y aparece vinculada especialmente con tipos en los cuales existe responsabilidad personal de determinados integrantes.
+
+### Denominación
+
+Funciona como un nombre societario autónomo y puede contener expresiones de fantasía, sujeto a las reglas correspondientes al tipo.
+
+Las normas particulares de cada sociedad determinan las exigencias específicas.
+
+---
+
+# Inciso 2 — Domicilio y sede
+
+El artículo 11 menciona el:
+
+> **domicilio de la sociedad**
+
+Pero domicilio y sede deben distinguirse.
+
+### Domicilio
+
+Determina la **jurisdicción** en la cual se encuentra jurídicamente domiciliada la sociedad.
+
+### Sede
+
+Es la **dirección concreta** en la que funciona la administración social.
+
+Ejemplo:
+
+**Domicilio:** Ciudad de Buenos Aires  
+**Sede:** Av. Corrientes 1500, piso 4.º
+
+---
+
+# ¿Por qué distinguir domicilio y sede?
+
+La distinción tiene consecuencias prácticas.
+
+Si el contrato indica solamente el **domicilio**, la dirección exacta de la sede puede inscribirse separadamente mediante petición suscripta por el órgano de administración.
+
+Esto evita que cada cambio de calle, número o piso implique necesariamente modificar el contrato social.
+
+El domicilio permanece.
+
+La sede puede trasladarse dentro de esa jurisdicción conforme al régimen aplicable.
+
+---
+
+# La sede y las notificaciones
+
+El artículo 11 establece una consecuencia especialmente importante:
+
+> Las notificaciones efectuadas en la **sede inscripta** se tienen por válidas y vinculantes para la sociedad.
+
+La regla protege la seguridad del tráfico.
+
+La sociedad exterioriza registralmente una dirección y los terceros pueden confiar en esa información.
+
+Por eso mantener actualizada la sede registral no constituye una cuestión meramente administrativa.
+
+---
+
+# Inciso 3 — El objeto social
+
+El instrumento debe contener:
+
+> **“La designación de su objeto, que debe ser preciso y determinado.”**
+
+El objeto describe las actividades que la sociedad se propone desarrollar.
+
+Ejemplo:
+
+> comercialización, distribución e importación de equipamiento informático.
+
+No basta una formulación que impida conocer razonablemente cuál es la actividad para la cual se organizó la sociedad.
+
+---
+
+# Objeto y actividad
+
+Conviene distinguir:
+
+### Objeto social
+
+Es la actividad **prevista jurídicamente** en el instrumento constitutivo.
+
+### Actividad
+
+Es aquello que la sociedad **efectivamente realiza** en la realidad económica.
+
+Por eso:
+
+> **objeto ≠ actividad**
+
+Pueden coincidir normalmente, pero conceptualmente pertenecen a planos diferentes.
+
+El objeto pertenece al diseño jurídico de la sociedad; la actividad muestra su desenvolvimiento efectivo.
+
+---
+
+# ¿Por qué importa el objeto?
+
+El objeto permite identificar el ámbito económico para el cual fue organizada la sociedad.
+
+Se relaciona con cuestiones tales como:
+
+- organización societaria;
+- actuación de los administradores;
+- interés social;
+- información de socios y terceros;
+- determinación de ciertas capacidades operativas;
+- eventual aplicación de regulaciones especiales.
+
+Por eso el artículo 11 exige que sea:
+
+> **preciso y determinado.**
+
+---
+
+# Inciso 4 — Capital social
+
+El instrumento debe determinar:
+
+- el **capital social**;
+- expresado en **moneda argentina**;
+- y el aporte correspondiente a cada socio.
+
+El capital constituye una cifra jurídica establecida en el instrumento constitutivo.
+
+Debe distinguirse del patrimonio social.
+
+---
+
+# Capital y patrimonio no son sinónimos
+
+| Capital social | Patrimonio |
+|---|---|
+| Cifra jurídica establecida conforme al régimen societario | Conjunto económico de bienes, derechos y obligaciones |
+| Se determina en el acto constitutivo | Varía permanentemente |
+| Su modificación requiere los mecanismos legales correspondientes | Cambia con la actividad económica |
+| Se vincula con los aportes comprometidos | Refleja la situación económica efectiva |
+
+Una sociedad puede tener:
+
+**capital: $10 millones**
+
+y posteriormente:
+
+**patrimonio neto: $30 millones**
+
+o:
+
+**patrimonio neto: $4 millones**
+
+---
+
+# Capital y aporte
+
+El artículo 11 exige también identificar:
+
+> **el aporte de cada socio**
+
+El aporte constituye la prestación que el socio compromete a favor de la sociedad.
+
+Los aportes permiten formar inicialmente el patrimonio societario y constituyen un elemento esencial de la relación societaria.
+
+La participación de cada socio se vincula, conforme al régimen correspondiente, con los aportes asumidos.
+
+---
+
+# La regla especial de la sociedad unipersonal
+
+El inciso 4 contiene una previsión específica:
+
+> En las sociedades unipersonales el capital debe ser **integrado totalmente en el acto constitutivo**.
+
+La norma complementa el régimen del artículo 1.
+
+Por lo tanto:
+
+**un único socio → SAU → integración total del capital al constituirse**
+
+No basta simplemente con asumir el compromiso de integración futura en los términos admitidos para otros supuestos.
+
+---
+
+# Inciso 5 — Plazo de duración
+
+El instrumento debe establecer:
+
+> **un plazo de duración determinado**
+
+La sociedad no se constituye, bajo la regla del artículo 11, por tiempo indefinido.
+
+Debe establecerse un término que permita determinar cuándo se producirá el vencimiento del plazo societario.
+
+Ejemplo:
+
+> duración de 30 años desde su inscripción registral.
+
+---
+
+# ¿Qué ocurre cuando vence el plazo?
+
+El plazo no es una cláusula decorativa.
+
+Su vencimiento constituye una **causal de disolución** prevista por la LGS.
+
+Esto no significa necesariamente que toda sociedad deba inexorablemente desaparecer al llegar esa fecha.
+
+El ordenamiento contempla mecanismos vinculados con la continuación de la sociedad.
+
+Pero la existencia de un plazo determinado permite establecer jurídicamente el horizonte temporal de la organización.
+
+---
+
+# Inciso 6 — Organización societaria
+
+El instrumento debe prever la organización de:
+
+- la **administración**;
+- la **fiscalización**;
+- las **reuniones de socios**.
+
+Aquí aparece con claridad que una sociedad no es solamente un patrimonio separado.
+
+Es también una:
+
+> **organización jurídica.**
+
+Deben existir mecanismos que permitan formar decisiones, administrar los bienes sociales, representar a la sociedad y controlar la actuación de quienes gestionan.
+
+---
+
+# Tres funciones diferentes
+
+| Función | Pregunta |
+|---|---|
+| Administración | ¿Quién gestiona la actividad social? |
+| Fiscalización | ¿Quién controla la administración cuando corresponde? |
+| Gobierno / reuniones | ¿Cómo adoptan decisiones los socios? |
+
+La configuración concreta dependerá del tipo societario.
+
+Por ejemplo, una SRL y una SA no poseen exactamente la misma estructura orgánica.
+
+El artículo 11 establece la exigencia general; las normas de cada tipo completan su contenido.
+
+---
+
+# Inciso 7 — Utilidades y pérdidas
+
+El contrato debe establecer:
+
+> las reglas para distribuir las utilidades y soportar las pérdidas.
+
+La sociedad presupone una actividad económica cuyo resultado puede ser:
+
+**positivo → utilidad**
+
+o
+
+**negativo → pérdida**
+
+El instrumento debe determinar cómo se proyectan esos resultados sobre los socios.
+
+---
+
+# ¿Qué ocurre si el contrato guarda silencio?
+
+El propio artículo 11 proporciona una regla supletoria.
+
+### Regla general
+
+Los resultados se distribuyen:
+
+> **en proporción a los aportes.**
+
+Además:
+
+- si sólo se regula cómo distribuir utilidades, esa proporción se aplica también a las pérdidas;
+- si sólo se regula cómo soportar pérdidas, se utiliza también para las utilidades.
+
+La ley evita así que el silencio contractual impida determinar la participación económica de los socios.
+
+---
+
+# Un ejemplo
+
+Tres socios aportan:
+
+| Socio | Aporte | Participación |
+|---|---:|---:|
+| Ana | $50 M | 50 % |
+| Bruno | $30 M | 30 % |
+| Carlos | $20 M | 20 % |
+
+Si el contrato no establece otra regla y existen utilidades distribuibles por **$10 millones**:
+
+- Ana: $5 M;
+- Bruno: $3 M;
+- Carlos: $2 M.
+
+La misma proporción funciona, como principio supletorio, para soportar las pérdidas.
+
+---
+
+# Inciso 8 — Derechos y obligaciones
+
+El instrumento debe contener las cláusulas necesarias para establecer con precisión:
+
+### relaciones entre los socios
+
+y
+
+### relaciones respecto de terceros.
+
+La sociedad crea una compleja red de relaciones jurídicas.
+
+Los socios no solamente realizan aportes: adquieren derechos y asumen obligaciones dentro de una organización que, además, actúa externamente.
+
+---
+
+# Derechos y obligaciones societarias
+
+Entre las cuestiones que el instrumento puede necesitar regular se encuentran:
+
+- ejercicio de derechos políticos;
+- derechos económicos;
+- obligaciones derivadas de los aportes;
+- procedimientos internos;
+- relaciones entre categorías de socios;
+- mecanismos de decisión;
+- actuación frente a terceros.
+
+El alcance concreto dependerá nuevamente del **tipo societario elegido** y de las normas imperativas aplicables.
+
+La autonomía contractual societaria existe, pero **no es ilimitada**.
+
+---
+
+# Inciso 9 — Funcionamiento, disolución y liquidación
+
+Finalmente, el instrumento debe prever cláusulas relativas a:
+
+- **funcionamiento**;
+- **disolución**;
+- **liquidación**.
+
+Podemos distinguir tres momentos:
+
+| Etapa | Situación |
+|---|---|
+| Funcionamiento | Sociedad desarrollando normalmente su actividad |
+| Disolución | Se verifica una causal que conduce hacia el fin de la actividad ordinaria |
+| Liquidación | Se realizan las operaciones necesarias para extinguir relaciones pendientes y distribuir el remanente |
+
+El contrato debe contemplar cómo se organizarán esas situaciones.
+
+---
+
+# El artículo 11 como arquitectura de la sociedad
+
+Los nueve incisos pueden ahora leerse como un sistema.
+
+| Pregunta | Respuesta del art. 11 |
+|---|---|
+| ¿Quiénes? | Socios |
+| ¿Cómo se identifica? | Nombre, domicilio y sede |
+| ¿Para qué? | Objeto |
+| ¿Con qué recursos iniciales? | Capital y aportes |
+| ¿Por cuánto tiempo? | Plazo |
+| ¿Cómo decide y funciona? | Organización |
+| ¿Cómo distribuye resultados? | Utilidades y pérdidas |
+| ¿Qué relaciones genera? | Derechos y obligaciones |
+| ¿Cómo termina? | Disolución y liquidación |
+
+El artículo 11 contiene, en definitiva, el **diseño jurídico básico de la organización societaria**.
+
+---
+
+# Artículo 12 — ¿Qué pasa con las modificaciones?
+
+Una sociedad puede modificar posteriormente su contrato.
+
+Pero aparece nuevamente la importancia de la **publicidad registral**.
+
+El artículo 12 establece como regla que las modificaciones no inscriptas regularmente:
+
+> **obligan a los socios otorgantes**
+
+pero son:
+
+> **inoponibles a los terceros.**
+
+La norma diferencia el plano interno de la eficacia frente a terceros.
+
+---
+
+# Artículo 12 — La lógica de la oponibilidad
+
+Puede representarse sin diagramas:
+
+| Situación | Consecuencia |
+|---|---|
+| Socios celebran una modificación | Los otorgantes quedan vinculados |
+| Modificación no se inscribe regularmente | No puede, como regla, oponerse al tercero |
+| El tercero pretende invocarla | La ley admite esa posibilidad con las excepciones previstas en el propio art. 12 |
+
+La publicidad registral vuelve a funcionar como instrumento de **seguridad jurídica y protección del tráfico**.
+
+---
+
+# Del artículo 11 al artículo 13
+
+El artículo 11 reconoce un espacio importante para la autonomía de los socios.
+
+Pueden establecer reglas sobre:
+
+- resultados;
+- derechos;
+- obligaciones;
+- funcionamiento;
+- organización;
+- relaciones internas.
+
+Pero esa autonomía encuentra **límites**.
+
+No toda cláusula incorporada al contrato societario es jurídicamente admisible.
+
+El artículo 13 establece ciertos límites particularmente importantes.
+
+---
+
+# Artículo 13 — Las cláusulas leoninas
+
+Tradicionalmente se conocen como **cláusulas leoninas** aquellas estipulaciones que rompen de manera inadmisible la lógica de participación societaria.
+
+El artículo 13 declara **nulas determinadas estipulaciones**.
+
+La nulidad recae sobre la cláusula prohibida.
+
+La idea general consiste en impedir que la organización contractual elimine para determinados socios la participación en el riesgo o concentre indebidamente los beneficios.
+
+---
+
+# Primera cláusula prohibida
+
+Es nula la estipulación que determine que uno o algunos socios:
+
+- reciban **todos los beneficios**;
+- sean **excluidos de los beneficios**;
+- o sean liberados de **contribuir a las pérdidas**.
+
+Ejemplos:
+
+> “Todas las ganancias corresponderán exclusivamente a Ana.”
+
+o:
+
+> “Bruno nunca participará de las pérdidas.”
+
+Ambas previsiones contradicen elementos esenciales de la relación societaria.
+
+---
+
+# Segunda y tercera cláusulas prohibidas
+
+También son nulas las cláusulas que permitan:
+
+### Restitución privilegiada del aporte
+
+Que al socio capitalista se le restituya su aporte:
+
+- con un premio;
+- con sus frutos;
+- o con una cantidad adicional;
+
+**haya o no ganancias.**
+
+### Garantía del resultado
+
+También es nula la estipulación que asegure al socio:
+
+- su capital;
+- o las ganancias eventuales.
+
+El socio no puede transformar su participación societaria en una inversión completamente ajena al riesgo propio de esa participación.
+
+---
+
+# Cuarta cláusula prohibida
+
+El artículo 13 también prohíbe que:
+
+> la totalidad de las ganancias, e incluso las prestaciones a la sociedad, pertenezcan al socio o socios sobrevivientes.
+
+La norma impide estructurar la relación de manera que el fallecimiento de un integrante produzca una apropiación íntegra de esos valores por los sobrevivientes en los términos prohibidos legalmente.
+
+Nuevamente aparece un límite a la autonomía contractual.
+
+---
+
+# Quinta cláusula prohibida
+
+Finalmente, es nula la cláusula que permita determinar para la adquisición de la parte de un socio por otro:
+
+> un precio que se aparte **notablemente de su valor real** al momento de hacerse efectiva.
+
+No se prohíbe establecer contractualmente mecanismos para determinar el precio.
+
+Lo prohibido es utilizar esos mecanismos para producir una **desproporción notable respecto del valor real**.
+
+---
+
+# ¿Qué tienen en común las cláusulas del artículo 13?
+
+Aunque contemplan situaciones diferentes, existe una lógica común.
+
+El contrato societario no puede utilizarse para:
+
+- excluir completamente a alguien de los beneficios;
+- liberar completamente a un socio de las pérdidas;
+- garantizarle absolutamente su inversión;
+- apropiarse de resultados en los supuestos prohibidos;
+- imponer mecanismos de adquisición manifiestamente apartados del valor real.
+
+> **La autonomía de la voluntad existe dentro del derecho societario, pero encuentra límites en la estructura y finalidad de la relación societaria.**
+
+---
+
+# Caso para discutir
+
+Cuatro personas constituyen una sociedad.
+
+El contrato establece:
+
+1. Ana aporta el 40 % del capital.
+2. Bruno aporta el 30 %.
+3. Carlos aporta el 20 %.
+4. Daniela aporta el 10 %.
+5. Ana recibirá siempre, como mínimo, la devolución íntegra de su aporte aunque la sociedad tenga pérdidas.
+6. Carlos no participará de ninguna utilidad durante los primeros cinco años.
+7. Si Daniela desea retirarse, Bruno podrá adquirir su participación por el 10 % de su valor real.
+
+### Preguntas
+
+- ¿Son todas estas cláusulas válidas?
+- ¿Qué incisos del artículo 13 resultan relevantes?
+- ¿Puede la autonomía contractual justificar cualquiera de estas estipulaciones?
+- ¿Qué diferencia existe entre modificar la distribución de resultados y eliminar completamente la participación de un socio?
+
+---
+
+# Síntesis: artículos 11 a 13
+
+### Artículo 11
+
+Establece el **contenido básico del instrumento constitutivo**.
+
+### Artículo 12
+
+Determina las consecuencias de las **modificaciones no inscriptas** frente a socios y terceros.
+
+### Artículo 13
+
+Establece **límites a la autonomía contractual**, declarando nulas determinadas estipulaciones.
+
+Los tres artículos pueden leerse conjuntamente:
+
+> **organizar → modificar → limitar**
+
+La sociedad dispone de un amplio espacio de organización contractual, pero esa autonomía se desarrolla dentro del marco establecido por la Ley General de Sociedades.

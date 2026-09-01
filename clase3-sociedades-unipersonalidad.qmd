@@ -1,0 +1,573 @@
+---
+title: "La sociedad"
+subtitle: "Concepto · Unipersonalidad · Publicidad societaria"
+author: "Prof. Maximiliano Romei · Derecho Comercial · Universidad Nacional de Moreno"
+format:
+  revealjs:
+    theme: simple
+    slide-number: true
+    controls: true
+    progress: true
+    navigation-mode: linear
+    scrollable: true
+    center: false
+    transition: fade
+    width: 1600
+    height: 900
+    margin: 0.06
+lang: es
+---
+
+# La sociedad como instrumento jurídico de organización
+
+El derecho societario ofrece una estructura jurídica para organizar una actividad económica mediante:
+
+- una **organización**;
+- la realización de **aportes**;
+- su aplicación a la producción o intercambio de bienes o servicios;
+- una determinada distribución de beneficios y pérdidas;
+- y la creación de un **sujeto de derecho diferenciado**.
+
+La sociedad no debe confundirse con la empresa.
+
+La **empresa** refiere fundamentalmente a la actividad económica organizada; la **sociedad** constituye una de las formas jurídicas mediante las cuales esa actividad puede organizarse.
+
+> **Sociedad y empresa pueden coincidir en la realidad económica, pero jurídicamente no son conceptos equivalentes.**
+
+---
+
+# El punto de partida: artículo 1 LGS
+
+El artículo 1 de la Ley General de Sociedades establece:
+
+> “Habrá sociedad si una o más personas en forma organizada conforme a uno de los tipos previstos en esta ley, se obligan a realizar aportes para aplicarlos a la producción o intercambio de bienes o servicios, participando de los beneficios y soportando las pérdidas.”
+
+Y agrega:
+
+> “La sociedad unipersonal sólo se podrá constituir como sociedad anónima. La sociedad unipersonal no puede constituirse por una sociedad unipersonal.”
+
+La definición legal permite identificar los **elementos estructurales del fenómeno societario**.
+
+---
+
+# Desarmando el artículo 1
+
+Del concepto legal pueden extraerse distintos elementos:
+
+| Elemento | Manifestación |
+|---|---|
+| Sujetos | **Una o más personas** |
+| Organización | Actuación organizada |
+| Tipicidad | Conforme a alguno de los tipos legales |
+| Aportes | Obligación de efectuar aportes |
+| Destino | Producción o intercambio de bienes o servicios |
+| Resultado positivo | Participación en los beneficios |
+| Resultado negativo | Soportación de las pérdidas |
+
+La reforma de 2015 alteró particularmente el **elemento subjetivo**: ya no resulta indispensable la pluralidad de personas.
+
+---
+
+# Antes de 2015: la pluralidad como presupuesto
+
+En la concepción tradicional de la Ley 19.550, la sociedad requería necesariamente la existencia de **dos o más personas**.
+
+La sociedad era explicada, en consecuencia, desde una matriz predominantemente contractual:
+
+**dos o más personas → acuerdo → aportes → organización común → sociedad**
+
+La pluralidad aparecía tanto:
+
+- en el momento constitutivo;
+- como durante la vida de la sociedad.
+
+La sociedad de un solo socio no constituía el modelo admitido por la legislación general.
+
+---
+
+# La reforma de la Ley 26.994
+
+La sanción del Código Civil y Comercial produjo una modificación profunda del régimen societario.
+
+La Ley 26.994:
+
+- modificó diversas disposiciones de la Ley 19.550;
+- sustituyó su denominación por **Ley General de Sociedades**;
+- reformuló el artículo 1;
+- incorporó expresamente la posibilidad de una **sociedad unipersonal**;
+- modificó otras normas de la LGS para adecuarlas a esa nueva realidad.
+
+La reforma entró en vigencia el **1 de agosto de 2015**.
+
+---
+
+# El cambio decisivo
+
+## De “dos o más personas” a “una o más personas”
+
+La modificación parece pequeña desde el punto de vista lingüístico.
+
+Jurídicamente es enorme.
+
+La sociedad deja de ser necesariamente el resultado de un acuerdo entre varias personas.
+
+Puede existir:
+
+### Sociedad pluripersonal
+
+**A + B + C → sociedad**
+
+pero también:
+
+### Sociedad unipersonal
+
+**A → sociedad**
+
+La pluralidad deja de constituir un requisito universal del concepto legal de sociedad.
+
+---
+
+# Una consecuencia conceptual
+
+La admisión de la sociedad unipersonal obliga a revisar una afirmación tradicional:
+
+> **¿Toda sociedad nace necesariamente de un contrato?**
+
+En la sociedad pluripersonal existe un acuerdo entre dos o más sujetos.
+
+En la sociedad unipersonal originaria, en cambio, no existe acuerdo posible entre partes diferentes.
+
+Existe una **declaración unilateral de voluntad** dirigida a constituir la sociedad.
+
+Por eso, el régimen actual permite advertir que el fenómeno societario **no puede explicarse exclusivamente desde la categoría contractual**.
+
+---
+
+# Lo que no cambió
+
+La reforma eliminó la pluralidad obligatoria, pero mantuvo los restantes elementos fundamentales del artículo 1.
+
+Continúan siendo relevantes:
+
+- la organización;
+- la adopción de una estructura societaria;
+- los aportes;
+- la afectación de esos aportes a una actividad;
+- la producción o intercambio de bienes o servicios;
+- la participación en los beneficios;
+- la soportación de las pérdidas.
+
+> **Unipersonalidad no significa ausencia de organización societaria.**
+
+---
+
+# Sociedad y sujeto de derecho
+
+El artículo 2 LGS establece:
+
+> **“La sociedad es un sujeto de derecho con el alcance fijado en esta Ley.”**
+
+Esta norma resulta fundamental.
+
+La sociedad no constituye simplemente un conjunto de personas o bienes.
+
+El ordenamiento reconoce un **centro de imputación jurídica diferenciado**.
+
+---
+
+# La separación jurídica
+
+La personalidad societaria permite distinguir:
+
+| Sociedad | Socio |
+|---|---|
+| Tiene patrimonio propio | Tiene patrimonio personal |
+| Adquiere derechos | Adquiere sus propios derechos |
+| Contrae obligaciones | No se identifica automáticamente con las obligaciones sociales |
+| Puede contratar | Puede contratar incluso con la sociedad |
+| Posee organización propia | Integra esa organización en la posición que corresponda |
+
+La sociedad es jurídicamente distinta de quienes participan en ella.
+
+Esta separación también existe cuando hay **un solo socio**.
+
+---
+
+# La utilidad de la unipersonalidad
+
+La sociedad unipersonal permite separar jurídicamente:
+
+**persona del socio único**
+
+de
+
+**persona jurídica societaria**
+
+Esto posibilita organizar jurídicamente una actividad sin necesidad de incorporar un segundo socio únicamente para satisfacer una exigencia formal de pluralidad.
+
+La reforma reconoce así una realidad económica:
+
+> una actividad organizada puede requerir una estructura societaria aun cuando exista un único titular del capital.
+
+---
+
+# Pero la unipersonalidad tiene límites
+
+La LGS no habilitó indiscriminadamente sociedades unipersonales de cualquier tipo.
+
+El artículo 1 dispone:
+
+> **La sociedad unipersonal sólo se podrá constituir como sociedad anónima.**
+
+Por lo tanto, dentro del régimen de la LGS:
+
+| Tipo | ¿Puede constituirse originariamente con un único socio? |
+|---|:---:|
+| Sociedad Colectiva | No |
+| Sociedad en Comandita Simple | No |
+| SRL | No |
+| Sociedad Anónima | **Sí: SAU** |
+| Sociedad en Comandita por Acciones | No |
+
+---
+
+# La Sociedad Anónima Unipersonal
+
+La unipersonalidad prevista por la LGS se canaliza mediante la:
+
+## Sociedad Anónima Unipersonal — SAU
+
+No constituye un tipo societario completamente distinto de la sociedad anónima.
+
+Es una **sociedad anónima caracterizada por la existencia de un único socio** y sometida a las reglas especiales que la ley establece para esa situación.
+
+---
+
+# Identificación de la SAU
+
+El artículo 164 LGS exige que la denominación contenga:
+
+> **“sociedad anónima unipersonal”**
+
+o:
+
+> **“S.A.U.”**
+
+La denominación cumple aquí una función de **información hacia terceros**.
+
+Quien contrata con la sociedad puede conocer inmediatamente que se encuentra frente a una sociedad anónima integrada por un único accionista.
+
+---
+
+# Un límite a la unipersonalidad
+
+El propio artículo 1 establece:
+
+> **“La sociedad unipersonal no puede constituirse por una sociedad unipersonal.”**
+
+Por lo tanto:
+
+**Persona humana → SAU**  
+✔ Posible
+
+**Sociedad pluripersonal → SAU**  
+✔ Posible
+
+**SAU → nueva SAU**  
+✘ No permitido
+
+La ley evita de esta manera una cadena de sociedades unipersonales constituidas unas por otras.
+
+---
+
+# Capital y sociedad unipersonal
+
+El artículo 11, inciso 4, contiene una regla específica:
+
+> En las sociedades unipersonales, el capital debe ser **integrado totalmente en el acto constitutivo**.
+
+Esto diferencia a la SAU del régimen general aplicable a determinadas sociedades pluripersonales.
+
+La existencia de un único socio conduce al legislador a exigir una mayor efectividad inicial del capital comprometido.
+
+---
+
+# Unipersonalidad no significa confusión patrimonial
+
+Éste es un punto particularmente importante.
+
+Aunque exista un único accionista:
+
+**Socio único ≠ sociedad**
+
+Continúan existiendo:
+
+- dos sujetos jurídicamente diferenciados;
+- patrimonios diferenciados;
+- relaciones jurídicas diferenciadas;
+- órganos societarios;
+- reglas de administración;
+- reglas de representación;
+- contabilidad societaria.
+
+La concentración de la totalidad del capital en una persona **no elimina la personalidad jurídica de la sociedad**.
+
+---
+
+# Del concepto a la publicidad
+
+Hasta aquí analizamos cómo **nace y se estructura** la sociedad.
+
+Pero el derecho societario plantea otro problema:
+
+> **¿Cómo conocen los terceros la existencia y las características relevantes de esa organización?**
+
+Aparece entonces la **publicidad societaria**.
+
+La publicidad resulta esencial porque la sociedad actúa permanentemente frente a terceros:
+
+- proveedores;
+- clientes;
+- trabajadores;
+- entidades financieras;
+- organismos públicos;
+- acreedores.
+
+---
+
+# Publicidad societaria: función
+
+La publicidad procura hacer cognoscibles determinados datos jurídicamente relevantes de la sociedad.
+
+Permite exteriorizar, entre otros aspectos:
+
+- existencia de la sociedad;
+- denominación;
+- domicilio;
+- objeto;
+- capital;
+- administración;
+- representación;
+- modificaciones relevantes.
+
+No constituye una mera formalidad burocrática.
+
+> **Cumple una función de seguridad del tráfico jurídico.**
+
+---
+
+# Artículo 5 LGS: inscripción
+
+El artículo 5 dispone la inscripción en el **Registro Público** de:
+
+- el acto constitutivo;
+- sus modificaciones;
+- el reglamento, si existiese.
+
+La inscripción debe realizarse:
+
+- en el Registro Público correspondiente al domicilio social;
+- y, respecto de las sucursales, en el registro correspondiente a su asiento.
+
+La inscripción constituye una de las principales manifestaciones de la publicidad societaria.
+
+---
+
+# Publicidad en la documentación
+
+El propio artículo 5 establece además que las sociedades deben hacer constar en la documentación que emitan:
+
+- la **dirección de su sede**;
+- los datos que permitan identificar su **inscripción en el Registro**.
+
+La publicidad, por lo tanto, no se agota en el momento de constitución.
+
+También acompaña la actuación cotidiana de la sociedad.
+
+---
+
+# Artículo 10 LGS: publicación
+
+Para determinados tipos existe además una publicidad específica.
+
+El artículo 10 exige publicación por **un día** en el diario de publicaciones legales para:
+
+- las **sociedades de responsabilidad limitada**;
+- las **sociedades por acciones**.
+
+La publicación debe realizarse tanto en oportunidad de la constitución como respecto de determinadas modificaciones y de la disolución.
+
+---
+
+# ¿Qué se publica al constituirse?
+
+El artículo 10 exige exteriorizar información relevante, entre ella:
+
+- identificación de los socios;
+- fecha del instrumento constitutivo;
+- razón social o denominación;
+- domicilio;
+- objeto;
+- plazo;
+- capital;
+- composición de los órganos de administración y fiscalización;
+- representación legal;
+- fecha de cierre del ejercicio.
+
+La finalidad es permitir que los terceros conozcan los elementos fundamentales de la organización con la cual contratan.
+
+---
+
+# Publicidad e inscripción no son lo mismo
+
+Conviene distinguir dos mecanismos.
+
+| Publicación | Inscripción |
+|---|---|
+| Exterioriza información mediante el medio legal previsto. | Incorpora jurídicamente el acto al Registro Público. |
+| Art. 10 para SRL y sociedades por acciones. | Arts. 5 y 6 LGS. |
+| Informa determinados datos relevantes. | Registra el acto constitutivo y sus modificaciones. |
+
+Ambos mecanismos integran el sistema de **publicidad societaria**, pero cumplen funciones diferentes.
+
+---
+
+# ¿Por qué importa la inscripción?
+
+El derecho societario organiza relaciones que exceden a los socios.
+
+La sociedad contrata y actúa frente a terceros.
+
+Por ello resulta necesario determinar:
+
+- qué información puede hacerse valer;
+- desde cuándo;
+- y frente a quién.
+
+La inscripción permite dotar de **cognoscibilidad jurídica** a determinados actos societarios.
+
+---
+
+# Artículo 12: modificaciones no inscriptas
+
+La importancia de la publicidad aparece con claridad en el artículo 12.
+
+Las modificaciones no inscriptas regularmente:
+
+- **obligan a los socios otorgantes**;
+- pero resultan, como principio, **inoponibles a terceros**.
+
+Los terceros pueden, en los términos y con las excepciones previstas por la norma, invocarlas contra la sociedad y los socios.
+
+La norma muestra que **validez interna y oponibilidad frente a terceros son problemas diferentes**.
+
+---
+
+# Un ejemplo
+
+Supongamos que los socios modifican una cláusula societaria pero no cumplen con la inscripción correspondiente.
+
+Entre quienes participaron de la modificación:
+
+> el acto puede producir consecuencias.
+
+Frente al tercero:
+
+> la falta de publicidad puede impedir que esa modificación le sea opuesta.
+
+El sistema protege así la confianza de quien actúa tomando como referencia la información societaria jurídicamente exteriorizada.
+
+---
+
+# Artículo 14: regla general de publicidad
+
+El artículo 14 completa el sistema.
+
+Cuando la LGS ordena una publicación pero:
+
+- no determina el órgano de publicidad;
+- o no establece el número de días,
+
+la publicación debe realizarse:
+
+> **por una sola vez en el diario de publicaciones legales de la jurisdicción correspondiente.**
+
+La ley establece así una regla supletoria para asegurar la efectividad de la publicidad exigida.
+
+---
+
+# Sociedad, personalidad y publicidad
+
+Podemos ahora integrar los conceptos.
+
+| Institución | Función |
+|---|---|
+| **Art. 1** | Define cuándo existe sociedad |
+| **Art. 2** | Reconoce a la sociedad como sujeto de derecho |
+| **Art. 5** | Impone inscripción registral y publicidad documental |
+| **Art. 10** | Establece publicidad para SRL y sociedades por acciones |
+| **Art. 11** | Determina contenido del instrumento constitutivo |
+| **Art. 12** | Regula efectos de modificaciones no inscriptas |
+| **Art. 14** | Establece regla general de publicación |
+
+No son disposiciones aisladas: forman parte de un **sistema de organización y exteriorización jurídica de la sociedad**.
+
+---
+
+# Caso para discutir
+
+Una persona constituye una sociedad anónima unipersonal.
+
+Se cumplen los siguientes extremos:
+
+- existe un único accionista;
+- se adopta la forma de SA;
+- se integra totalmente el capital;
+- se utiliza la denominación “Tecnología del Oeste S.A.U.”;
+- se inscribe el acto constitutivo;
+- se cumple la publicación legal.
+
+### Preguntas
+
+1. ¿La existencia de un único accionista afecta la personalidad jurídica?
+2. ¿Por qué la ley exige identificarla como S.A.U.?
+3. ¿Qué función cumplen la inscripción y la publicación?
+4. ¿Qué interés tienen los terceros en acceder a esa información?
+
+---
+
+# Ideas fuerza
+
+### 1. La sociedad ya no exige necesariamente pluralidad
+
+Desde 2015 el artículo 1 habla de **“una o más personas”**.
+
+### 2. La unipersonalidad está limitada
+
+Dentro de la LGS sólo puede constituirse originariamente bajo la forma de **sociedad anónima unipersonal**.
+
+### 3. Sociedad y socio siguen siendo sujetos distintos
+
+La existencia de un único accionista no elimina la personalidad societaria.
+
+### 4. La publicidad es estructural
+
+Inscripción, publicación y exteriorización documental permiten que determinados aspectos de la organización societaria sean cognoscibles y oponibles frente a terceros.
+
+---
+
+# Para cerrar
+
+El artículo 1 permite observar una de las transformaciones más importantes del derecho societario argentino contemporáneo.
+
+El modelo dejó de identificar necesariamente:
+
+> **sociedad = pluralidad de personas**
+
+y pasó a admitir:
+
+> **sociedad = organización jurídica que puede tener uno o varios integrantes**
+
+Pero esa autonomía patrimonial y organizativa se proyecta hacia terceros.
+
+Por eso, junto con la **personalidad jurídica**, aparece necesariamente la **publicidad societaria** como mecanismo de seguridad del tráfico.

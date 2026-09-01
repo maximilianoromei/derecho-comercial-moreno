@@ -1,0 +1,600 @@
+---
+title: "Sociedades de la Sección IV"
+subtitle: "Arts. 21 a 26 · Ley General de Sociedades"
+author: "Prof. Maximiliano Romei · Derecho Comercial · Universidad Nacional de Moreno"
+format:
+  revealjs:
+    theme: simple
+    slide-number: c/t
+    hash: true
+    navigation-mode: linear
+    scrollable: true
+    slide-level: 1
+    center: false
+    transition: none
+    width: 1600
+    height: 900
+    margin: 0.05
+    controls: true
+    progress: true
+lang: es
+---
+
+# Sección IV: punto de partida
+
+La Sección IV de la Ley General de Sociedades regula las:
+
+> **“Sociedades no constituidas según los tipos del Capítulo II y otros supuestos”**
+
+Comprende los artículos **21 a 26 LGS**.
+
+No estamos frente a un nuevo tipo societario.
+
+Estamos frente a un **régimen legal aplicable a sociedades que presentan determinados defectos de tipicidad, requisitos esenciales o forma**.
+
+---
+
+# Empecemos por la responsabilidad
+
+Antes de determinar qué sociedades quedan comprendidas, partamos de una consecuencia práctica fundamental.
+
+## Artículo 24 LGS
+
+Como regla:
+
+> **los socios responden frente a terceros como obligados simplemente mancomunados y por partes iguales.**
+
+Esto resulta especialmente importante porque rompe con una idea histórica muy arraigada:
+
+### Sección IV no significa automáticamente responsabilidad solidaria e ilimitada.
+
+---
+
+# ¿Qué significa responsabilidad simplemente mancomunada?
+
+Supongamos una sociedad de la Sección IV con tres socios.
+
+Existe una deuda social de:
+
+## $90.000.000
+
+Como regla del artículo 24:
+
+| Socio | Parte de la obligación |
+|---|---:|
+| Ana | $30.000.000 |
+| Bruno | $30.000.000 |
+| Carlos | $30.000.000 |
+
+El acreedor no puede, por la sola aplicación del art. 24, reclamar los $90 millones íntegramente a cualquiera de ellos.
+
+---
+
+# Artículo 24: la regla admite excepciones
+
+La responsabilidad simplemente mancomunada y por partes iguales cede cuando la solidaridad o una proporción diferente resultan de alguno de los supuestos previstos por la ley.
+
+El artículo 24 contempla **tres fuentes posibles**:
+
+1. una estipulación expresa respecto de una relación o conjunto de relaciones;
+2. una estipulación del contrato social oponible en los términos del art. 22;
+3. las reglas del tipo que los socios manifestaron adoptar pero respecto del cual incumplieron requisitos sustanciales o formales.
+
+Por eso:
+
+> **primero identificamos la regla; después debemos verificar si existe una excepción.**
+
+---
+
+# Primera excepción del artículo 24
+
+Puede existir una:
+
+> **estipulación expresa respecto de una relación o conjunto de relaciones.**
+
+Ejemplo:
+
+Una sociedad de la Sección IV obtiene determinado financiamiento.
+
+Los socios pactan expresamente con el acreedor que responderán solidariamente por esa operación.
+
+Para esa relación:
+
+### la regla de mancomunidad puede ser desplazada por lo expresamente convenido.
+
+No necesariamente se modifica por ello el régimen de todas las demás relaciones de la sociedad.
+
+---
+
+# Segunda excepción del artículo 24
+
+La solidaridad o una proporción diferente también puede resultar:
+
+> **del contrato social, en los términos del artículo 22.**
+
+Esto obliga a conectar dos disposiciones:
+
+**art. 24 → responsabilidad**
+
+con
+
+**art. 22 → eficacia del contrato**
+
+Si el contrato resulta oponible al tercero conforme al art. 22, las reglas de responsabilidad allí establecidas pueden producir efectos respecto de esa relación.
+
+---
+
+# Tercera excepción del artículo 24
+
+Finalmente, pueden aplicarse:
+
+> **las reglas comunes del tipo que los socios manifestaron adoptar**
+
+cuando dejaron de cumplir requisitos sustanciales o formales.
+
+Ejemplo conceptual:
+
+Los socios pretendieron organizarse bajo determinado tipo legal, pero un defecto impide que la sociedad produzca plenamente los efectos propios de ese tipo.
+
+El art. 24 permite considerar, en materia de responsabilidad, las reglas del tipo que manifestaron adoptar.
+
+---
+
+# Ahora sí: ¿qué sociedades comprende?
+
+## Artículo 21 LGS
+
+La Sección IV comprende a la sociedad que:
+
+1. **no se constituya con sujeción a los tipos del Capítulo II;**
+2. **omita requisitos esenciales;**
+3. **incumpla las formalidades exigidas por la ley.**
+
+La norma establece así el ámbito de aplicación del régimen.
+
+No existe una única causa que conduzca a la Sección IV.
+
+---
+
+# Artículo 21: tres caminos
+
+| Supuesto | Problema |
+|---|---|
+| No sujeción a un tipo | La organización no responde a uno de los tipos del Capítulo II |
+| Omisión de requisitos esenciales | Falta un elemento esencial exigido legalmente |
+| Incumplimiento de formalidades | Existe un defecto formal relevante |
+
+El elemento común es que la sociedad **no queda sometida plenamente al régimen propio de uno de los tipos regulares del Capítulo II**.
+
+En lugar de ignorar jurídicamente esa realidad, la ley le asigna un régimen específico.
+
+---
+
+# El cambio producido en 2015
+
+La Ley 26.994 reformuló profundamente este régimen.
+
+La legislación anterior estaba construida alrededor de categorías como:
+
+- sociedades irregulares;
+- sociedades de hecho con objeto comercial.
+
+La reforma reemplazó esa estructura por un régimen mucho más amplio:
+
+> **sociedades de la Sección IV.**
+
+El cambio no es solamente terminológico.
+
+La ley actual reconoce importantes efectos:
+
+- al contrato;
+- a la organización;
+- a la representación;
+- a la titularidad de bienes;
+- y a la separación patrimonial.
+
+---
+
+# Artículo 22: eficacia entre los socios
+
+El artículo 22 comienza con una regla contundente:
+
+> **“El contrato social puede ser invocado entre los socios.”**
+
+Por lo tanto, los socios no pueden comportarse como si el contrato careciera de efectos simplemente porque la sociedad quedó comprendida en la Sección IV.
+
+Entre ellos, el contrato regula:
+
+- derechos;
+- obligaciones;
+- organización;
+- participación;
+- relaciones internas.
+
+---
+
+# Artículo 22: el contrato frente a terceros
+
+La situación cambia frente a terceros.
+
+El contrato es oponible al tercero:
+
+> **sólo si se prueba que lo conoció efectivamente al tiempo de la contratación o del nacimiento de la relación obligatoria.**
+
+No basta, entonces, con la mera existencia del contrato.
+
+Es necesario demostrar:
+
+### conocimiento efectivo del tercero.
+
+Esta exigencia protege la confianza de quien contrata con la sociedad.
+
+---
+
+# Artículo 22: el tercero está mejor protegido
+
+El propio artículo establece que el contrato:
+
+> puede ser invocado por los terceros contra la sociedad, los socios y los administradores.
+
+Tenemos entonces una situación deliberadamente asimétrica:
+
+| Quién invoca el contrato | Regla |
+|---|---|
+| Socio contra socio | Puede invocarlo |
+| Sociedad/socios contra tercero | Deben probar conocimiento efectivo |
+| Tercero contra sociedad/socios/administradores | Puede invocarlo |
+
+La norma privilegia la protección del tercero.
+
+---
+
+# Artículo 23: organización interna
+
+El artículo 23 se ocupa de:
+
+- representación;
+- administración;
+- organización;
+- gobierno.
+
+Las cláusulas contractuales relativas a estas materias:
+
+> **pueden ser invocadas entre los socios.**
+
+Por ejemplo, el contrato puede establecer:
+
+- quién administra;
+- quién representa;
+- cómo se adoptan decisiones;
+- qué facultades corresponden a cada integrante.
+
+Nuevamente, el contrato conserva eficacia en las relaciones internas.
+
+---
+
+# Artículo 23: representación frente a terceros
+
+En las relaciones con terceros:
+
+> **cualquiera de los socios representa a la sociedad exhibiendo el contrato.**
+
+Pero existe una precisión importante.
+
+Las disposiciones contractuales que limiten o regulen esa representación pueden ser opuestas al tercero si se prueba que:
+
+> **las conoció efectivamente al tiempo del nacimiento de la relación jurídica.**
+
+Vuelve a aparecer la misma lógica del artículo 22:
+
+### conocimiento efectivo del tercero.
+
+---
+
+# Un ejemplo de representación
+
+El contrato establece:
+
+> “La sociedad será representada exclusivamente por Ana.”
+
+Sin embargo, Bruno celebra una operación en nombre de la sociedad.
+
+Para analizar los efectos frente al tercero no alcanza con afirmar:
+
+> “el contrato decía que sólo Ana podía representar”.
+
+Habrá que analizar, conforme al art. 23, si el tercero **conocía efectivamente** esa disposición contractual al nacer la relación jurídica.
+
+La regulación busca evitar que reglas internas desconocidas perjudiquen al tercero.
+
+---
+
+# Artículo 23: bienes registrables
+
+La reforma introdujo una regla particularmente importante.
+
+Las sociedades de la Sección IV pueden adquirir:
+
+> **bienes registrables a nombre de la sociedad.**
+
+Para ello deben acreditar ante el Registro:
+
+- su existencia;
+- las facultades de su representante;
+- mediante un acto de reconocimiento de todos quienes afirman ser sus socios.
+
+Ese reconocimiento debe cumplir las formalidades previstas por el artículo 23.
+
+---
+
+# ¿Cómo se instrumenta?
+
+El acto de reconocimiento debe realizarse mediante:
+
+- **escritura pública**, o
+- **instrumento privado con firma autenticada por escribano**.
+
+El bien se inscribe:
+
+> **a nombre de la sociedad**
+
+y debe indicarse la proporción en que participan los socios.
+
+Esto resulta conceptualmente muy importante.
+
+La sociedad de la Sección IV no es simplemente una relación informal entre personas sin posibilidad de titularidad patrimonial propia.
+
+---
+
+# Artículo 23: prueba
+
+El último párrafo establece:
+
+> **“La existencia de la sociedad puede acreditarse por cualquier medio de prueba.”**
+
+La norma flexibiliza notablemente la acreditación de la existencia societaria.
+
+Pueden adquirir relevancia, según las circunstancias:
+
+- documentación;
+- contratos;
+- comunicaciones;
+- operaciones;
+- registros;
+- facturación;
+- conductas de las partes;
+- otros elementos probatorios.
+
+La existencia de un instrumento escrito no constituye el único medio posible de acreditar la sociedad.
+
+---
+
+# Artículo 25: subsanación
+
+La pertenencia a la Sección IV **no tiene necesariamente carácter definitivo**.
+
+El artículo 25 permite subsanar:
+
+- omisión de requisitos esenciales tipificantes;
+- omisión de requisitos esenciales no tipificantes;
+- elementos incompatibles con el tipo elegido;
+- incumplimiento de requisitos formales.
+
+La subsanación puede ser promovida:
+
+> **por la sociedad o por los socios.**
+
+---
+
+# ¿Cuándo puede subsanarse?
+
+El artículo 25 permite la subsanación:
+
+> **en cualquier tiempo durante el plazo de duración previsto en el contrato.**
+
+La finalidad es conservar la organización societaria y corregir el defecto.
+
+Por ejemplo:
+
+**sociedad afectada por defecto**
+
+→ **subsanación**
+
+→ **adecuación al régimen jurídico correspondiente**
+
+La ley favorece así la continuidad antes que la destrucción automática de la organización.
+
+---
+
+# ¿Y si los socios no están de acuerdo?
+
+No siempre existe unanimidad para subsanar.
+
+El artículo 25 establece que, a falta de acuerdo unánime:
+
+> **la subsanación puede ser ordenada judicialmente en procedimiento sumarísimo.**
+
+El juez puede, cuando resulte necesario:
+
+> **suplir la falta de acuerdo**
+
+pero existe un límite:
+
+### no puede imponer mayor responsabilidad a los socios que no lo consientan.
+
+---
+
+# El socio disconforme
+
+Si la subsanación es ordenada judicialmente, el socio disconforme cuenta con una protección adicional.
+
+Puede ejercer:
+
+> **derecho de receso**
+
+dentro de los **diez días** de quedar firme la decisión judicial.
+
+El artículo remite a los términos del **artículo 92 LGS**.
+
+De esta manera se procura equilibrar:
+
+- conservación de la sociedad;
+- decisión mayoritaria o judicial;
+- protección del socio que no acepta la nueva configuración.
+
+---
+
+# Artículo 25: disolución
+
+El mismo artículo contempla otra situación.
+
+Cuando **no existe estipulación escrita del pacto de duración**, cualquiera de los socios puede provocar la disolución.
+
+Debe:
+
+> **notificar fehacientemente su decisión a todos los socios.**
+
+Los efectos se producen de pleno derecho entre ellos:
+
+> **a los 90 días de la última notificación.**
+
+La ausencia de un pacto escrito de duración permite, por lo tanto, esta vía de disolución.
+
+---
+
+# ¿Qué ocurre con quienes quieren continuar?
+
+La decisión de un socio de provocar la disolución no significa necesariamente que todos deban abandonar la actividad.
+
+El artículo 25 dispone:
+
+> los socios que deseen permanecer en la sociedad deben pagar a los salientes su parte social.
+
+La norma permite compatibilizar:
+
+- salida de determinados integrantes;
+- continuidad de quienes desean permanecer.
+
+Finalmente:
+
+> **la liquidación se rige por las normas del contrato y de la ley.**
+
+---
+
+# Artículo 26: dos clases de acreedores
+
+El último artículo de la Sección IV diferencia:
+
+### Acreedores sociales
+
+Son acreedores de la **sociedad**.
+
+### Acreedores particulares
+
+Son acreedores personales de **alguno de los socios**.
+
+Ejemplo:
+
+- Banco X prestó dinero a la sociedad → acreedor social.
+- Banco Y prestó dinero personalmente a Ana → acreedor particular de Ana.
+
+El artículo 26 determina cómo deben relacionarse esas dos categorías.
+
+---
+
+# Artículo 26: separación patrimonial
+
+La norma dispone que las relaciones entre:
+
+- acreedores sociales;
+- acreedores particulares de los socios;
+
+incluso en caso de **quiebra**, se juzgan:
+
+> como si se tratara de una sociedad de los tipos previstos en el Capítulo II.
+
+La regla comprende incluso:
+
+> **los bienes registrables.**
+
+Esto consolida una consecuencia fundamental:
+
+### existe una diferenciación jurídicamente relevante entre patrimonio social y patrimonio particular de los socios.
+
+---
+
+# Una lectura integral de la Sección IV
+
+| Artículo | Pregunta que responde |
+|---|---|
+| **21** | ¿Qué sociedades quedan comprendidas? |
+| **22** | ¿Qué eficacia tiene el contrato? |
+| **23** | ¿Quién administra, representa y cómo se prueba la sociedad? |
+| **24** | ¿Cómo responden los socios? |
+| **25** | ¿Cómo puede subsanarse o disolverse? |
+| **26** | ¿Cómo se relacionan acreedores sociales y particulares? |
+
+Los seis artículos forman un régimen coherente.
+
+No deben estudiarse como reglas aisladas.
+
+---
+
+# Caso integrador
+
+Ana, Bruno y Carlos desarrollan una actividad común bajo una sociedad comprendida en la Sección IV.
+
+El contrato establece:
+
+- Ana administra;
+- participación: 50 %, 30 % y 20 %;
+- duración: 20 años.
+
+La sociedad adquiere un inmueble y posteriormente contrae una deuda de $100 millones.
+
+### Para resolver
+
+1. ¿Puede invocarse el contrato entre los socios?
+2. ¿Cuándo puede oponerse al acreedor?
+3. ¿Puede la sociedad ser titular registral del inmueble?
+4. ¿Cómo responden los socios frente al acreedor?
+5. ¿Puede subsanarse la situación?
+6. ¿Puede Bruno provocar unilateralmente la disolución alegando simplemente que quiere retirarse?
+
+---
+
+# Ideas fuerza
+
+### 1. Sección IV no es un tipo societario
+
+Es un **régimen legal** para los supuestos del artículo 21.
+
+### 2. El contrato produce efectos
+
+Puede invocarse entre socios y, bajo las condiciones legales, frente a terceros.
+
+### 3. La responsabilidad no es automáticamente solidaria
+
+La regla del artículo 24 es la **simple mancomunidad y por partes iguales**, salvo las excepciones legales.
+
+### 4. Puede existir patrimonio social registrable
+
+La sociedad puede adquirir bienes registrables conforme al artículo 23.
+
+### 5. Los defectos pueden subsanarse
+
+La ley privilegia la **conservación de la sociedad**.
+
+---
+
+# Del artículo 21 al 26
+
+La reforma transformó profundamente el tratamiento de estas sociedades.
+
+El sistema puede resumirse así:
+
+> **reconocimiento de la sociedad + eficacia del contrato + representación + responsabilidad mancomunada + subsanación + separación patrimonial**
+
+Por eso, la Sección IV no debe pensarse simplemente como una sanción por haber constituido “mal” una sociedad.
+
+Constituye un verdadero **régimen jurídico de organización, actuación y responsabilidad** aplicable a las sociedades comprendidas por el artículo 21.
