@@ -6,6 +6,7 @@ format:
   revealjs:
     theme: simple
     slide-number: true
+    slide-level: 1
     controls: true
     progress: true
     navigation-mode: linear
@@ -512,62 +513,4 @@ Podemos ahora integrar los conceptos.
 
 No son disposiciones aisladas: forman parte de un **sistema de organización y exteriorización jurídica de la sociedad**.
 
----
 
-# Caso para discutir
-
-Una persona constituye una sociedad anónima unipersonal.
-
-Se cumplen los siguientes extremos:
-
-- existe un único accionista;
-- se adopta la forma de SA;
-- se integra totalmente el capital;
-- se utiliza la denominación “Tecnología del Oeste S.A.U.”;
-- se inscribe el acto constitutivo;
-- se cumple la publicación legal.
-
-### Preguntas
-
-1. ¿La existencia de un único accionista afecta la personalidad jurídica?
-2. ¿Por qué la ley exige identificarla como S.A.U.?
-3. ¿Qué función cumplen la inscripción y la publicación?
-4. ¿Qué interés tienen los terceros en acceder a esa información?
-
----
-
-# Ideas fuerza
-
-### 1. La sociedad ya no exige necesariamente pluralidad
-
-Desde 2015 el artículo 1 habla de **“una o más personas”**.
-
-### 2. La unipersonalidad está limitada
-
-Dentro de la LGS sólo puede constituirse originariamente bajo la forma de **sociedad anónima unipersonal**.
-
-### 3. Sociedad y socio siguen siendo sujetos distintos
-
-La existencia de un único accionista no elimina la personalidad societaria.
-
-### 4. La publicidad es estructural
-
-Inscripción, publicación y exteriorización documental permiten que determinados aspectos de la organización societaria sean cognoscibles y oponibles frente a terceros.
-
----
-
-# Para cerrar
-
-El artículo 1 permite observar una de las transformaciones más importantes del derecho societario argentino contemporáneo.
-
-El modelo dejó de identificar necesariamente:
-
-> **sociedad = pluralidad de personas**
-
-y pasó a admitir:
-
-> **sociedad = organización jurídica que puede tener uno o varios integrantes**
-
-Pero esa autonomía patrimonial y organizativa se proyecta hacia terceros.
-
-Por eso, junto con la **personalidad jurídica**, aparece necesariamente la **publicidad societaria** como mecanismo de seguridad del tráfico.
