@@ -36,3 +36,11 @@ subtitle: "Universidad Nacional de Moreno"
 [🎓 Tipos societarios](clase3-tipos-societarios.html){.btn .btn-primary target="_blank"}
 
 [🎓 Sociedades de la Sección IV](clase3-seccion-IV.html){.btn .btn-primary target="_blank"}
+
+## Clase 4
+
+[🎓 Nacionalidad](clase4-nacionalidad.html){.btn .btn-primary target="_blank"}
+
+[🎓 Contratos Colaboracion ](clase4-contratos-colaboracion.html){.btn .btn-primary target="_blank"}
+
+[🎓 Sociedades partes de interes](clase4-sociedades-por-partes-de-interes.html){.btn .btn-primary target="_blank"}

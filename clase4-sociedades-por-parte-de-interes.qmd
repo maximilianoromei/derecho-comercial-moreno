@@ -1,0 +1,764 @@
+---
+title: "Sociedades por partes de interés"
+subtitle: "Sociedad colectiva · Comandita simple · Capital e industria"
+author: "Prof. Maximiliano Romei · Derecho Comercial · Universidad Nacional de Moreno"
+format:
+  revealjs:
+    theme: simple
+    slide-number: c/t
+    hash: true
+    navigation-mode: linear
+    scrollable: true
+    slide-level: 1
+    center: false
+    transition: none
+    width: 1600
+    height: 900
+    margin: 0.05
+    controls: true
+    progress: true
+lang: es
+---
+
+# Sociedades por partes de interés
+
+Dentro de la LGS existen tipos en los cuales la participación del socio no se representa:
+
+- por cuotas;
+- ni por acciones.
+
+Se representa mediante una:
+
+> **parte de interés**
+
+Esta categoría comprende:
+
+- sociedad colectiva;
+- sociedad en comandita simple;
+- sociedad de capital e industria.
+
+Son tipos con fuerte presencia del elemento personal.
+
+---
+
+# ¿Qué es una parte de interés?
+
+La parte de interés representa la participación proporcional del socio en la sociedad.
+
+No está incorporada a:
+
+- una acción;
+- una cuota;
+- un título circulatorio.
+
+Vítolo la describe como un concepto abstracto que refleja la participación del socio en el ente.
+
+Su valor se relaciona con:
+
+- el capital;
+- los aportes;
+- la participación atribuida al socio.
+
+:contentReference[oaicite:1]{index=1}
+
+---
+
+# Partes de interés y sociedades personalistas
+
+La estructura presenta algunas características comunes:
+
+- fuerte consideración de la persona del socio;
+- mayor dificultad para transmitir la participación;
+- administración frecuentemente vinculada a los socios;
+- relevancia especial del régimen de responsabilidad.
+
+En estas sociedades:
+
+> **quién es el socio importa jurídicamente.**
+
+Esto explica que muchas decisiones estructurales requieran unanimidad, salvo pacto en contrario.
+
+---
+
+# Sociedad colectiva
+
+La sociedad colectiva constituye el modelo clásico de sociedad personalista.
+
+La LGS no la define mediante una fórmula general.
+
+El artículo 125 se concentra en su rasgo más característico:
+
+> **el régimen de responsabilidad de los socios.**
+
+Todos los socios se encuentran, en principio, en una misma categoría jurídica.
+
+---
+
+# Artículo 125 — Responsabilidad
+
+Los socios responden por las obligaciones sociales:
+
+- **subsidiariamente**;
+- **ilimitadamente**;
+- **solidariamente**.
+
+Las tres características deben analizarse separadamente.
+
+### Subsidiaria
+Primero responde el patrimonio social.
+
+### Ilimitada
+No existe un límite equivalente al aporte.
+
+### Solidaria
+El saldo puede reclamarse íntegramente a cualquiera de los socios.
+
+Vítolo desarrolla expresamente estas tres dimensiones. :contentReference[oaicite:2]{index=2}
+
+---
+
+# El patrimonio social responde primero
+
+La responsabilidad del socio colectivo no significa que el acreedor pueda ignorar a la sociedad.
+
+La sociedad:
+
+- es sujeto de derecho;
+- posee patrimonio propio;
+- es la obligada principal.
+
+El socio funciona como:
+
+> **patrimonio subsidiario de garantía.**
+
+La insuficiencia del patrimonio social habilita el avance contra el patrimonio personal.
+
+---
+
+# Beneficio de excusión
+
+La subsidiariedad permite al socio exigir que el acreedor dirija primero su pretensión contra la sociedad.
+
+No debe entenderse de manera extrema.
+
+Vítolo señala que no es necesario acreditar materialmente la ejecución absoluta de cada bien social.
+
+Resulta suficiente demostrar:
+
+> **la insuficiencia del patrimonio social para satisfacer la deuda.**
+
+Además, el beneficio debe ser invocado por el socio. :contentReference[oaicite:3]{index=3}
+
+---
+
+# ¿Pueden los socios limitar su responsabilidad?
+
+Internamente:
+
+> **sí.**
+
+Los socios pueden pactar entre ellos una distribución diferente del riesgo.
+
+Pero el artículo 125 establece una regla esencial:
+
+> esa limitación contractual es **inoponible a terceros**.
+
+Por lo tanto:
+
+| Plano interno | Plano externo |
+|---|---|
+| Puede pactarse otra distribución | Rige la responsabilidad legal |
+| Vincula a los socios | No perjudica al acreedor |
+
+:contentReference[oaicite:4]{index=4}
+
+---
+
+# Razón social y denominación
+
+La sociedad colectiva puede actuar mediante:
+
+### Razón social
+
+Integrada con el nombre de uno o más socios.
+
+Si no aparecen todos:
+
+> puede agregarse “y compañía”.
+
+### Denominación social
+
+Puede utilizarse un nombre de fantasía acompañado de la indicación del tipo.
+
+La identificación tiene especial relevancia porque la razón social puede proyectar hacia terceros quiénes asumen responsabilidad personal.
+
+---
+
+# Administración de la colectiva
+
+## Artículo 127
+
+El contrato social determina:
+
+> **cómo se administra la sociedad.**
+
+Puede establecer administración:
+
+- a cargo de socios;
+- a cargo de terceros;
+- individual;
+- plural;
+- conjunta;
+- indistinta.
+
+Existe una amplitud importante para organizar la gestión.
+
+Vítolo remarca esa libertad contractual. :contentReference[oaicite:5]{index=5}
+
+---
+
+# ¿Qué ocurre si el contrato nada dice?
+
+Rige una norma supletoria:
+
+> **cualquiera de los socios puede administrar indistintamente.**
+
+Esto significa que cada socio puede realizar por sí mismo actos de administración y representación dentro del régimen legal.
+
+La regla refleja la fuerte vinculación entre:
+
+> calidad de socio + confianza personal + gestión.
+
+---
+
+# Administración indistinta y conjunta
+
+### Administración indistinta
+
+Cualquiera de los administradores puede actuar individualmente.
+
+### Administración conjunta
+
+Si el contrato exige que actúen conjuntamente:
+
+> ninguno puede actuar válidamente por sí solo.
+
+La diferencia es fundamental frente a terceros y dentro de la propia organización.
+
+El artículo 128 regula estas situaciones.
+
+---
+
+# Remoción del administrador
+
+Como regla:
+
+> el administrador puede ser removido por decisión de la mayoría, aun sin justa causa.
+
+Esto vale aunque:
+
+- sea socio;
+- haya sido designado en el contrato.
+
+Pero:
+
+> puede pactarse lo contrario.
+
+Si el contrato exige justa causa, la remoción queda sometida a ese régimen.
+
+---
+
+# Modificación del contrato
+
+## Artículo 131
+
+La sociedad colectiva conserva una fuerte lógica personalista.
+
+Por ello:
+
+> toda modificación del contrato requiere unanimidad,
+
+salvo que el propio contrato establezca otro régimen.
+
+Esto comprende también, como regla, la:
+
+> **transferencia de la parte de interés.**
+
+Vítolo explica que la transferencia implica modificación del contrato social. :contentReference[oaicite:6]{index=6}
+
+---
+
+# Mayorías
+
+## Artículo 132
+
+Cuando el contrato no establece otra cosa:
+
+> se entiende por mayoría la **mayoría absoluta de capital**.
+
+Esto es importante.
+
+A pesar del carácter personalista:
+
+> **no se computa simplemente una persona = un voto.**
+
+La participación en el capital conserva relevancia para la formación de la voluntad social.
+
+---
+
+# Acreedores sociales y particulares
+
+Debemos distinguir:
+
+### Acreedor social
+
+Es acreedor de la **sociedad**.
+
+### Acreedor particular
+
+Es acreedor personal de **uno de los socios**.
+
+La personalidad jurídica genera una separación patrimonial:
+
+> patrimonio social ≠ patrimonio personal del socio.
+
+Vítolo destaca que los acreedores particulares no pueden dirigirse directamente contra los bienes sociales. :contentReference[oaicite:7]{index=7}
+
+---
+
+# ¿Qué puede atacar el acreedor particular?
+
+El acreedor del socio no puede cobrar su crédito personal mediante ejecución directa de:
+
+> bienes pertenecientes a la sociedad.
+
+Pero sí puede atacar:
+
+> **la participación societaria del socio deudor**
+
+en los términos permitidos por la ley.
+
+En una sociedad por partes de interés, el objeto económico perseguible será precisamente esa participación.
+
+---
+
+# Sociedad en comandita simple
+
+La comandita simple introduce una diferencia decisiva:
+
+> **existen dos categorías de socios.**
+
+### Comanditados
+
+Responden como los socios colectivos.
+
+### Comanditarios
+
+Limitan su responsabilidad al capital que se obligan a aportar.
+
+Vítolo la caracteriza como una variante de la colectiva con una estructura de responsabilidad mixta. :contentReference[oaicite:8]{index=8}
+
+---
+
+# Dos categorías indispensables
+
+Para conservar su estructura típica deben existir:
+
+- al menos un socio **comanditado**;
+- al menos un socio **comanditario**.
+
+La diferencia no es meramente nominal.
+
+Determina:
+
+- responsabilidad;
+- aportes;
+- administración;
+- actuación frente a terceros.
+
+Por eso la dualidad de categorías integra la estructura básica del tipo.
+
+---
+
+# Responsabilidad en la comandita simple
+
+| Socio | Responsabilidad |
+|---|---|
+| Comanditado | Subsidiaria, solidaria e ilimitada |
+| Comanditario | Limitada al aporte comprometido |
+
+Por eso Vítolo la incluye dentro de las sociedades con:
+
+> **régimen mixto de responsabilidad.**
+
+:contentReference[oaicite:9]{index=9}
+
+---
+
+# Aportes en la comandita
+
+Los comanditados pueden efectuar una amplia variedad de aportes.
+
+Los comanditarios tienen una restricción:
+
+> el capital comanditario sólo puede integrarse mediante **obligaciones de dar**.
+
+No pueden integrar su aporte mediante:
+
+- obligaciones de hacer;
+- trabajo;
+- industria.
+
+La restricción se vincula con su responsabilidad limitada.
+
+:contentReference[oaicite:10]{index=10}
+
+---
+
+# Administración de la comandita
+
+## Artículo 136
+
+La administración y representación corresponde:
+
+- a los socios comanditados;
+- o a terceros.
+
+El socio comanditario:
+
+> **no puede administrar ni representar ordinariamente a la sociedad.**
+
+La ley separa así:
+
+> responsabilidad limitada del comanditario
+
+de
+
+> facultad de comprometer patrimonialmente a la sociedad y a los comanditados.
+
+---
+
+# Prohibición de inmiscuirse
+
+## Artículo 137
+
+El socio comanditario no puede:
+
+- intervenir en la administración;
+- representar;
+- actuar como mandatario de la sociedad.
+
+Si se inmiscuye:
+
+> puede perder el beneficio de la limitación de responsabilidad.
+
+Vítolo entiende que la sanción lo coloca, respecto de los actos alcanzados, en una situación semejante a la del comanditado. :contentReference[oaicite:11]{index=11}
+
+---
+
+# ¿El comanditario no puede hacer nada?
+
+No.
+
+El artículo 138 admite actos de:
+
+- examen;
+- inspección;
+- vigilancia;
+- verificación;
+- opinión;
+- consejo.
+
+Por lo tanto:
+
+> **controlar no es administrar.**
+
+El comanditario conserva derechos propios de su condición de socio sin adquirir por ello facultades de gestión.
+
+:contentReference[oaicite:12]{index=12}
+
+---
+
+# Falta de todos los comanditados
+
+## Artículo 140
+
+Puede ocurrir que todos los comanditados sufran:
+
+- quiebra;
+- concurso;
+- muerte;
+- incapacidad;
+- inhabilitación.
+
+En ese supuesto, el comanditario puede realizar:
+
+> **actos urgentes necesarios para la gestión.**
+
+Eso no lo hace automáticamente ilimitadamente responsable.
+
+---
+
+# Tres meses para recomponer
+
+La situación excepcional no puede prolongarse indefinidamente.
+
+Dentro de los **tres meses** corresponde:
+
+1. incorporar un nuevo comanditado;
+2. transformar la sociedad;
+3. o disolverla y liquidarla.
+
+Si no se recompone la estructura:
+
+> la sociedad queda sometida a las consecuencias legales correspondientes.
+
+:contentReference[oaicite:13]{index=13}
+
+---
+
+# Liquidación de la comandita
+
+Producida la disolución, corresponde aplicar el régimen general de liquidación.
+
+La finalidad cambia:
+
+### antes
+
+desarrollo del objeto social;
+
+### después de la disolución
+
+realización del activo, cancelación del pasivo y distribución del remanente.
+
+Vítolo admite que, en los supuestos excepcionales del art. 140, los comanditarios puedan llevar adelante los actos necesarios para la liquidación.
+
+:contentReference[oaicite:14]{index=14}
+
+---
+
+# Sociedad de capital e industria
+
+La sociedad de capital e industria también presenta:
+
+> **dos categorías de socios.**
+
+### Socio capitalista
+
+Aporta capital y responde como un socio colectivo.
+
+### Socio industrial
+
+Aporta exclusivamente:
+
+> **trabajo o industria.**
+
+La estructura busca combinar capital y actividad personal dentro de un mismo tipo societario.
+
+---
+
+# Responsabilidad en capital e industria
+
+## Artículo 141
+
+El socio capitalista responde:
+
+- subsidiariamente;
+- solidariamente;
+- ilimitadamente.
+
+El socio industrial responde:
+
+> **hasta la concurrencia de las ganancias no percibidas.**
+
+Por eso también se trata de un tipo con:
+
+> **responsabilidad mixta.**
+
+Vítolo identifica expresamente esta diferencia estructural. :contentReference[oaicite:15]{index=15}
+
+---
+
+# El aporte del socio industrial
+
+El socio industrial:
+
+> sólo puede aportar su trabajo o industria.
+
+Ese aporte debe ser valorado contractualmente para determinar su participación.
+
+No debe confundirse:
+
+> socio industrial
+
+con
+
+> trabajador dependiente.
+
+Vítolo advierte precisamente que esta figura históricamente generó conflictos cuando se utilizaba para encubrir relaciones laborales. :contentReference[oaicite:16]{index=16}
+
+---
+
+# Administración en capital e industria
+
+A diferencia de la comandita simple:
+
+> **el socio industrial puede administrar.**
+
+La administración puede ser ejercida por cualquiera de los socios.
+
+Rigen, por remisión, las reglas propias de la sociedad colectiva:
+
+- libertad contractual;
+- administración indistinta;
+- administración conjunta;
+- remoción;
+- renuncia.
+
+:contentReference[oaicite:17]{index=17}
+
+---
+
+# Beneficios del socio industrial
+
+El contrato debe determinar:
+
+> **qué participación corresponde al socio industrial en los beneficios.**
+
+Si el contrato guarda silencio:
+
+> la participación debe ser determinada judicialmente.
+
+Esto se explica porque su aporte no consiste en una suma dineraria fácilmente comparable con la aportada por los socios capitalistas.
+
+:contentReference[oaicite:18]{index=18}
+
+---
+
+# Mayorías en capital e industria
+
+El régimen remite a las reglas de las sociedades personalistas.
+
+Como principio:
+
+- las modificaciones contractuales requieren unanimidad, salvo pacto en contrario;
+- las demás decisiones se adoptan por mayoría;
+- la mayoría se computa sobre el capital.
+
+A los efectos del voto, el capital del socio industrial se computa como el del socio capitalista de menor aporte.
+
+:contentReference[oaicite:19]{index=19}
+
+---
+
+# Pérdida de la categoría capitalista
+
+Si desaparecen todos los socios capitalistas por:
+
+- muerte;
+- quiebra;
+- concurso;
+- incapacidad;
+- inhabilitación,
+
+debe recomponerse la estructura.
+
+Dentro de tres meses corresponde:
+
+- incorporar un nuevo capitalista;
+- transformar;
+- o disolver y liquidar.
+
+Mientras tanto, el socio industrial puede realizar los actos urgentes permitidos.
+
+---
+
+# Disolución y liquidación
+
+Si transcurre el plazo sin recomponer la estructura:
+
+> la sociedad se disuelve.
+
+El socio industrial puede intervenir en la liquidación.
+
+Pero existe un límite:
+
+> debe circunscribirse a los actos necesarios para liquidar.
+
+Si excede ese marco, puede asumir responsabilidad ilimitada y solidaria por las obligaciones contraídas.
+
+:contentReference[oaicite:20]{index=20}
+
+---
+
+# Comparación de los tres tipos
+
+| Característica | Colectiva | Comandita simple | Capital e industria |
+|---|---|---|---|
+| Partes de interés | Sí | Sí | Sí |
+| Categorías de socios | Una | Dos | Dos |
+| Responsabilidad ilimitada | Todos | Comanditados | Capitalistas |
+| Responsabilidad limitada/especial | No | Comanditarios | Industriales |
+| Administración | Socios o terceros | Comanditados o terceros | Cualquier socio |
+| Elemento personal | Muy fuerte | Muy fuerte | Muy fuerte |
+
+---
+
+# La lógica detrás de los tres tipos
+
+Las tres sociedades comparten:
+
+- participación mediante partes de interés;
+- fuerte componente personal;
+- menor facilidad de circulación de la participación;
+- importancia contractual;
+- estructura relativamente simple.
+
+Pero difieren en un punto decisivo:
+
+> **cómo se distribuyen el capital, la gestión y el riesgo entre los socios.**
+
+---
+
+# Caso integrador
+
+Tres personas quieren explotar conjuntamente un negocio.
+
+- Ana aporta dinero.
+- Bruno aporta un inmueble.
+- Carlos aporta únicamente su trabajo.
+- Carlos quiere participar de las ganancias.
+- Ana no quiere que Carlos comprometa ilimitadamente su patrimonio.
+
+### Preguntas
+
+1. ¿Qué tipo podría resultar adecuado?
+2. ¿Quién sería socio capitalista?
+3. ¿Quién podría ser socio industrial?
+4. ¿Cómo respondería cada uno?
+5. ¿Puede Carlos administrar?
+6. ¿Qué ocurriría si desaparecen todos los socios capitalistas?
+
+---
+
+# Ideas fuerza
+
+### Sociedad colectiva
+
+> Todos los socios responden **subsidiaria, ilimitada y solidariamente**.
+
+### Comandita simple
+
+> Comanditados con responsabilidad amplia + comanditarios con responsabilidad limitada.
+
+### Capital e industria
+
+> Capitalistas con responsabilidad amplia + industriales que aportan trabajo y tienen un régimen especial.
+
+Las tres son:
+
+> **sociedades por partes de interés**
+
+y muestran distintas maneras de combinar:
+
+**persona + aporte + administración + responsabilidad.**
