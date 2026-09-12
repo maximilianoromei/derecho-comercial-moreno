@@ -1,7 +1,6 @@
 ---
 title: "Derecho aeronáutico"
 subtitle: "Instituciones fundamentales, transporte, responsabilidad y régimen internacional"
-author: "Prof. Maximiliano Lucas Romei"
 lang: es
 format:
   revealjs:
