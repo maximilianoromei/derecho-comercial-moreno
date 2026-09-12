@@ -44,3 +44,7 @@ subtitle: "Universidad Nacional de Moreno"
 [🎓 Contratos Colaboracion ](clase4-contratos-colaboracion.html){.btn .btn-primary target="_blank"}
 
 [🎓 Sociedades partes de interes](clase4-sociedades-por-partes-de-interes.html){.btn .btn-primary target="_blank"}
+
+## Clase Derecho Aeronáutico
+
+[🎓 Abrir presentación](presentaciones/derecho_aeronautico_reveal.html){.btn .btn-primary target="_blank"}
