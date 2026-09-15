@@ -1027,5 +1027,432 @@
     "title": "Derecho Comercial I",
     "section": "Empresa y empresario",
     "text": "Empresa y empresario\n\nempresa\nempresario\nestablecimiento\nhacienda comercial\nfondo de comercio\nregistración\ncontabilidad\n\n¿La empresa es un sujeto de derecho?"
+  },
+  {
+    "objectID": "derecho-aeronautico.html#derecho-aeronáutico-idea-inicial",
+    "href": "derecho-aeronautico.html#derecho-aeronáutico-idea-inicial",
+    "title": "Derecho aeronáutico",
+    "section": "Derecho aeronáutico: idea inicial",
+    "text": "Derecho aeronáutico: idea inicial\n\nEl derecho aeronáutico regula la actividad aeronáutica y las relaciones jurídicas que nacen de ella o resultan modificadas por ella.\n\nLa materia combina normas de derecho público y privado, interno e internacional.\nSu punto de partida no es sólo el contrato de transporte, sino la actividad aérea como fenómeno técnico, económico y jurídico.\n\nVidela Escalada, cap. 1; Folchi, t. I."
+  },
+  {
+    "objectID": "derecho-aeronautico.html#caracteres-principales",
+    "href": "derecho-aeronautico.html#caracteres-principales",
+    "title": "Derecho aeronáutico",
+    "section": "Caracteres principales",
+    "text": "Caracteres principales\n\nDinamismo: la técnica transforma continuamente la actividad regulada.\nInternacionalidad: la aeronave atraviesa fronteras y exige coordinación normativa.\nReglamentarismo: la ley necesita normas técnicas complementarias.\nIntegralidad: convergen derecho administrativo, comercial, civil, penal, laboral e internacional.\nAutonomía: existen principios, instituciones y método propios.\n\n\nVidela Escalada, cap. 1."
+  },
+  {
+    "objectID": "derecho-aeronautico.html#fuentes-del-derecho-aeronáutico",
+    "href": "derecho-aeronautico.html#fuentes-del-derecho-aeronáutico",
+    "title": "Derecho aeronáutico",
+    "section": "Fuentes del derecho aeronáutico",
+    "text": "Fuentes del derecho aeronáutico\n\n\n\n\n\n\n\nFuente\nFunción en la materia\n\n\n\n\nTratados internacionales\nOcupan lugar preponderante por la internacionalidad de la actividad.\n\n\nCódigo Aeronáutico\nOrdenamiento legal interno básico.\n\n\nReglamentación técnica\nConcreta seguridad, navegación, operación e infraestructura.\n\n\nUsos y costumbres\nIntegran soluciones propias de la actividad aérea.\n\n\nDoctrina y jurisprudencia\nInterpretan el sistema y sus instituciones.\n\n\n\n\nCódigo Aeronáutico, art. 2; Videla Escalada, cap. 2."
+  },
+  {
+    "objectID": "derecho-aeronautico.html#el-código-aeronáutico-en-la-clase",
+    "href": "derecho-aeronautico.html#el-código-aeronáutico-en-la-clase",
+    "title": "Derecho aeronáutico",
+    "section": "El Código Aeronáutico en la clase",
+    "text": "El Código Aeronáutico en la clase\n\nEl Código suministrado estructura la materia por títulos: generalidades, circulación, infraestructura, aeronaves, personal, aeronáutica comercial, responsabilidad, búsqueda y salvamento, investigación, seguros, jurisdicción y competencia.\n\nEsto permite leer la disciplina como un sistema:\n\n\n\n\n\nflowchart LR\nA[Espacio aéreo] --&gt; B[Infraestructura]\nB --&gt; C[Aeronave]\nC --&gt; D[Sujetos]\nD --&gt; E[Transporte]\nE --&gt; F[Responsabilidad]\nF --&gt; G[Seguro]\nG --&gt; H[Jurisdicción]\n\n\n\n\n\n\n\nCódigo Aeronáutico, índice temático y art. 2."
+  },
+  {
+    "objectID": "derecho-aeronautico.html#integración-ante-lagunas",
+    "href": "derecho-aeronautico.html#integración-ante-lagunas",
+    "title": "Derecho aeronáutico",
+    "section": "Integración ante lagunas",
+    "text": "Integración ante lagunas\nCuando una cuestión no está prevista por la ley, tratados, reglamentos o normas complementarias, el Código ordena acudir a:\n\nprincipios generales del derecho aeronáutico;\nusos y costumbres de la actividad aérea;\nleyes análogas;\nprincipios generales del derecho común.\n\n\nLa autonomía no significa aislamiento: significa una prelación metodológica propia.\n\n\nCódigo Aeronáutico, art. 2."
+  },
+  {
+    "objectID": "derecho-aeronautico.html#espacio-aéreo-problema-jurídico",
+    "href": "derecho-aeronautico.html#espacio-aéreo-problema-jurídico",
+    "title": "Derecho aeronáutico",
+    "section": "Espacio aéreo: problema jurídico",
+    "text": "Espacio aéreo: problema jurídico\nLa actividad aérea se desarrolla en un medio físicamente continuo, pero jurídicamente sometido a soberanías estatales.\nPreguntas centrales:\n\n¿Qué poder tiene el Estado sobre el espacio aéreo que cubre su territorio?\n¿Cómo se compatibiliza esa soberanía con la navegación aérea internacional?\n¿Qué límites impone la seguridad del vuelo?\n\n\nVidela Escalada, cap. 3; Folchi, t. I."
+  },
+  {
+    "objectID": "derecho-aeronautico.html#soberanía-sobre-el-espacio-aéreo",
+    "href": "derecho-aeronautico.html#soberanía-sobre-el-espacio-aéreo",
+    "title": "Derecho aeronáutico",
+    "section": "Soberanía sobre el espacio aéreo",
+    "text": "Soberanía sobre el espacio aéreo\n\nEl Código reconoce soberanía plena y exclusiva de la Argentina sobre el espacio aéreo que cubre su territorio, mar territorial y aguas adyacentes, con reserva de los tratados vigentes.\n\nLa soberanía permite regular circulación, ingreso, salida, seguridad, defensa, fiscalización y responsabilidad.\n\nCódigo Aeronáutico, art. 1; Videla Escalada, cap. 3."
+  },
+  {
+    "objectID": "derecho-aeronautico.html#libertad-de-circulación-aérea",
+    "href": "derecho-aeronautico.html#libertad-de-circulación-aérea",
+    "title": "Derecho aeronáutico",
+    "section": "Libertad de circulación aérea",
+    "text": "Libertad de circulación aérea\n\nEl despegue, la circulación y el aterrizaje son libres en el espacio aéreo argentino, mientras no estén limitados por la legislación vigente.\n\nLa libertad opera dentro de un marco de:\n\nseguridad operacional;\nordenamiento del tránsito;\ndefensa nacional;\nfiscalización estatal.\n\n\nCódigo Aeronáutico, arts. 3, 7, 8, 12 y 13."
+  },
+  {
+    "objectID": "derecho-aeronautico.html#aeródromos-y-aeropuertos",
+    "href": "derecho-aeronautico.html#aeródromos-y-aeropuertos",
+    "title": "Derecho aeronáutico",
+    "section": "Aeródromos y aeropuertos",
+    "text": "Aeródromos y aeropuertos\n\n\n\n\n\n\n\nFigura\nNota distintiva\n\n\n\n\nAeródromo público\nDestinado al uso público.\n\n\nAeródromo privado\nNo destinado al uso público.\n\n\nAeropuerto\nAeródromo público con servicios o intensidad de movimiento que justifican esa denominación.\n\n\nAeropuerto internacional\nAeródromo o aeropuerto destinado a tráfico exterior, con sanidad, aduana, migraciones y otros servicios.\n\n\n\n\nLa condición del propietario del inmueble no determina si el aeródromo es público o privado.\n\n\nCódigo Aeronáutico, arts. 25 y 26."
+  },
+  {
+    "objectID": "derecho-aeronautico.html#habilitación-y-funcionamiento",
+    "href": "derecho-aeronautico.html#habilitación-y-funcionamiento",
+    "title": "Derecho aeronáutico",
+    "section": "Habilitación y funcionamiento",
+    "text": "Habilitación y funcionamiento\nTodo aeródromo debe ser habilitado por la autoridad aeronáutica.\nLa autoridad fija el régimen y las condiciones de funcionamiento de cada caso.\nLos servicios aeroportuarios son regulados y fiscalizados bajo principios de seguridad, libre competencia y acceso a mercados.\n\nCódigo Aeronáutico, arts. 27 a 29 bis."
+  },
+  {
+    "objectID": "derecho-aeronautico.html#limitaciones-al-dominio",
+    "href": "derecho-aeronautico.html#limitaciones-al-dominio",
+    "title": "Derecho aeronáutico",
+    "section": "Limitaciones al dominio",
+    "text": "Limitaciones al dominio\nLas superficies de despeje de obstáculos son áreas imaginarias, oblicuas y horizontales que se extienden sobre cada aeródromo y sus inmediaciones.\nFinalidad:\n\nlimitar altura de construcciones, plantaciones o estructuras;\nevitar peligros para la circulación aérea;\nimponer señalamiento de obstáculos.\n\n\nCódigo Aeronáutico, arts. 30 a 35; Videla Escalada, cap. 4."
+  },
+  {
+    "objectID": "derecho-aeronautico.html#concepto-legal-de-aeronave",
+    "href": "derecho-aeronautico.html#concepto-legal-de-aeronave",
+    "title": "Derecho aeronáutico",
+    "section": "Concepto legal de aeronave",
+    "text": "Concepto legal de aeronave\n\nSon aeronaves tripuladas y no tripuladas los aparatos o mecanismos que puedan circular en el espacio aéreo y sean aptos para transportar personas o cosas.\n\nElementos del concepto:\n\ncirculación en el espacio aéreo;\naptitud de transporte;\ninclusión expresa de aeronaves no tripuladas.\n\n\nCódigo Aeronáutico, art. 36; Videla Escalada, cap. 5; Folchi, t. I."
+  },
+  {
+    "objectID": "derecho-aeronautico.html#clasificación-de-aeronaves",
+    "href": "derecho-aeronautico.html#clasificación-de-aeronaves",
+    "title": "Derecho aeronáutico",
+    "section": "Clasificación de aeronaves",
+    "text": "Clasificación de aeronaves\n\n\n\nClase\nCriterio\n\n\n\n\nPúblicas\nDestinadas al servicio del poder público.\n\n\nPrivadas\nLas demás, aunque pertenezcan al Estado.\n\n\n\n\nNo interesa sólo la titularidad dominial: importa el destino funcional de la aeronave.\n\n\nCódigo Aeronáutico, art. 37."
+  },
+  {
+    "objectID": "derecho-aeronautico.html#matrícula-y-nacionalidad",
+    "href": "derecho-aeronautico.html#matrícula-y-nacionalidad",
+    "title": "Derecho aeronáutico",
+    "section": "Matrícula y nacionalidad",
+    "text": "Matrícula y nacionalidad\nLa inscripción en el Registro Nacional de Aeronaves confiere nacionalidad argentina y cancela toda matrícula anterior.\nLa aeronave pierde nacionalidad argentina al ser inscripta en un Estado extranjero.\nLas marcas de nacionalidad y matrícula identifican jurídicamente a la aeronave.\n\nCódigo Aeronáutico, arts. 38 a 40; Videla Escalada, cap. 5."
+  },
+  {
+    "objectID": "derecho-aeronautico.html#registro-nacional-de-aeronaves",
+    "href": "derecho-aeronautico.html#registro-nacional-de-aeronaves",
+    "title": "Derecho aeronáutico",
+    "section": "Registro Nacional de Aeronaves",
+    "text": "Registro Nacional de Aeronaves\nSe inscriben, entre otros:\n\npropiedad, transferencia, modificación o extinción;\nhipotecas sobre aeronaves y motores;\nembargos, medidas precautorias e interdicciones;\nmatrículas;\ncontratos de locación y otros oponibles a terceros;\nhechos o actos que alteren la situación jurídica de la aeronave.\n\n\nRegistro = publicidad + individualización + oponibilidad.\n\n\nCódigo Aeronáutico, arts. 45 a 47."
+  },
+  {
+    "objectID": "derecho-aeronautico.html#propiedad-de-aeronaves",
+    "href": "derecho-aeronautico.html#propiedad-de-aeronaves",
+    "title": "Derecho aeronáutico",
+    "section": "Propiedad de aeronaves",
+    "text": "Propiedad de aeronaves\nLas aeronaves son cosas muebles registrables.\nLa transferencia de dominio y los actos previstos por el Código no producen efectos contra terceros si no son seguidos de inscripción registral.\n\nActo jurídico + forma exigida + inscripción = oponibilidad frente a terceros.\n\n\nCódigo Aeronáutico, arts. 48 a 51."
+  },
+  {
+    "objectID": "derecho-aeronautico.html#hipoteca-aeronáutica",
+    "href": "derecho-aeronautico.html#hipoteca-aeronáutica",
+    "title": "Derecho aeronáutico",
+    "section": "Hipoteca aeronáutica",
+    "text": "Hipoteca aeronáutica\nLa hipoteca puede recaer sobre:\n\naeronaves completas;\npartes indivisas;\naeronaves en construcción;\nmotores inscriptos.\n\nDebe constituirse por instrumento público o privado autenticado e inscribirse en el Registro Nacional de Aeronaves.\n\nCódigo Aeronáutico, arts. 52 y 53; Videla Escalada, cap. 6."
+  },
+  {
+    "objectID": "derecho-aeronautico.html#efectos-de-la-hipoteca",
+    "href": "derecho-aeronautico.html#efectos-de-la-hipoteca",
+    "title": "Derecho aeronáutico",
+    "section": "Efectos de la hipoteca",
+    "text": "Efectos de la hipoteca\nLa inscripción confiere al acreedor hipotecario derecho de preferencia según el orden registral.\nEl privilegio hipotecario se extiende a:\n\nindemnización del seguro por pérdida o avería;\nindemnizaciones debidas al propietario por daños causados por terceros;\nmateriales o efectos recuperados en caso de destrucción o inutilización.\n\n\nCódigo Aeronáutico, arts. 53 a 57."
+  },
+  {
+    "objectID": "derecho-aeronautico.html#privilegios-aeronáuticos",
+    "href": "derecho-aeronautico.html#privilegios-aeronáuticos",
+    "title": "Derecho aeronáutico",
+    "section": "Privilegios aeronáuticos",
+    "text": "Privilegios aeronáuticos\nTienen privilegio sobre la aeronave, entre otros:\n\ngastos causídicos que beneficien al acreedor hipotecario;\ntasas y tributos vinculados a la aviación civil;\ncréditos de búsqueda, asistencia o salvamento;\nreparaciones extraordinarias fuera del destino para continuar el viaje;\nemolumentos de la tripulación por el último mes.\n\n\nCódigo Aeronáutico, arts. 58 a 64; Videla Escalada, cap. 7."
+  },
+  {
+    "objectID": "derecho-aeronautico.html#hipoteca-y-privilegios",
+    "href": "derecho-aeronautico.html#hipoteca-y-privilegios",
+    "title": "Derecho aeronáutico",
+    "section": "Hipoteca y privilegios",
+    "text": "Hipoteca y privilegios\n\n\n\n\n\n\n\nInstitución\nRasgo principal\n\n\n\n\nHipoteca\nGarantía real registral constituida por acto jurídico.\n\n\nPrivilegio\nPreferencia legal otorgada a ciertos créditos aeronáuticos.\n\n\nRegistro\nDa publicidad y oponibilidad en los supuestos previstos.\n\n\nOrden de cobro\nLos privilegios del Código tienen preferencia especial.\n\n\n\n\nCódigo Aeronáutico, arts. 57 a 64."
+  },
+  {
+    "objectID": "derecho-aeronautico.html#explotador-de-aeronave",
+    "href": "derecho-aeronautico.html#explotador-de-aeronave",
+    "title": "Derecho aeronáutico",
+    "section": "Explotador de aeronave",
+    "text": "Explotador de aeronave\n\nEl explotador es la persona que utiliza legítimamente la aeronave por cuenta propia, aun sin fines de lucro.\n\nReglas centrales:\n\nel propietario se presume explotador;\npuede transferirse esa calidad por contrato;\nla transferencia debe inscribirse;\nsin inscripción, propietario y explotador responden solidariamente por infracciones o daños.\n\n\nCódigo Aeronáutico, arts. 65 a 68; Videla Escalada, cap. 7."
+  },
+  {
+    "objectID": "derecho-aeronautico.html#contratos-sobre-aeronaves",
+    "href": "derecho-aeronautico.html#contratos-sobre-aeronaves",
+    "title": "Derecho aeronáutico",
+    "section": "Contratos sobre aeronaves",
+    "text": "Contratos sobre aeronaves\nEl Código adopta el principio de libertad contractual.\nPero cuando el contrato transfiere la calidad de explotador, debe:\n\ncelebrarse por escrito;\ninscribirse en el Registro Nacional de Aeronaves;\nproducir efectos conforme los arts. 66 y 67.\n\n\nCódigo Aeronáutico, arts. 68 a 70."
+  },
+  {
+    "objectID": "derecho-aeronautico.html#personal-aeronáutico",
+    "href": "derecho-aeronautico.html#personal-aeronáutico",
+    "title": "Derecho aeronáutico",
+    "section": "Personal aeronáutico",
+    "text": "Personal aeronáutico\nLas personas que cumplen funciones aeronáuticas a bordo o en superficie deben poseer certificación de idoneidad expedida por la autoridad aeronáutica.\nLa reglamentación determina:\n\ndenominación de los certificados;\nfacultades conferidas;\nrequisitos de obtención;\ncondiciones de fiscalización.\n\n\nCódigo Aeronáutico, arts. 76 y 77; Videla Escalada, cap. 8."
+  },
+  {
+    "objectID": "derecho-aeronautico.html#piloto-y-comandante",
+    "href": "derecho-aeronautico.html#piloto-y-comandante",
+    "title": "Derecho aeronáutico",
+    "section": "Piloto y comandante",
+    "text": "Piloto y comandante\n\n\n\n\n\n\n\nFigura\nFunción\n\n\n\n\nPiloto\nPersona habilitada técnicamente para conducir la aeronave.\n\n\nComandante\nPiloto investido de mando, autoridad y representación durante el viaje.\n\n\n\nToda aeronave tripulada debe tener a bordo un piloto habilitado investido como comandante.\nEn aeronaves no tripuladas, el piloto a distancia es el comandante.\n\nCódigo Aeronáutico, art. 79."
+  },
+  {
+    "objectID": "derecho-aeronautico.html#facultades-del-comandante",
+    "href": "derecho-aeronautico.html#facultades-del-comandante",
+    "title": "Derecho aeronáutico",
+    "section": "Facultades del comandante",
+    "text": "Facultades del comandante\nEl comandante:\n\nrepresenta al explotador;\ntiene poder de disciplina sobre la tripulación;\nejerce autoridad sobre pasajeros;\ndebe velar por la seguridad de personas y bienes;\npuede suspender el vuelo bajo su responsabilidad si las condiciones lo justifican.\n\n\nCódigo Aeronáutico, arts. 79 a 84; Videla Escalada, cap. 8."
+  },
+  {
+    "objectID": "derecho-aeronautico.html#deberes-extraordinarios-del-comandante",
+    "href": "derecho-aeronautico.html#deberes-extraordinarios-del-comandante",
+    "title": "Derecho aeronáutico",
+    "section": "Deberes extraordinarios del comandante",
+    "text": "Deberes extraordinarios del comandante\nEn situaciones críticas, el comandante debe:\n\npermanecer en su puesto hasta adoptar medidas útiles de salvamento;\ntomar medidas para salvar pasajeros, tripulación y bienes;\nevitar daños en la superficie;\nregistrar hechos relevantes ocurridos a bordo;\narrojar mercaderías o equipajes si es indispensable para la seguridad.\n\n\nCódigo Aeronáutico, arts. 81 a 86."
+  },
+  {
+    "objectID": "derecho-aeronautico.html#tripulación",
+    "href": "derecho-aeronautico.html#tripulación",
+    "title": "Derecho aeronáutico",
+    "section": "Tripulación",
+    "text": "Tripulación\nLa autoridad aeronáutica determina la integración mínima de la tripulación de vuelo para aeronaves destinadas al transporte aéreo.\nPuede extender exigencias a otras aeronaves cuando lo requiera la seguridad del vuelo.\n\nLa seguridad operacional ordena la relación entre idoneidad, mando, tripulación y fiscalización.\n\n\nCódigo Aeronáutico, art. 78."
+  },
+  {
+    "objectID": "derecho-aeronautico.html#aeronáutica-comercial",
+    "href": "derecho-aeronautico.html#aeronáutica-comercial",
+    "title": "Derecho aeronáutico",
+    "section": "Aeronáutica comercial",
+    "text": "Aeronáutica comercial\nLa aeronáutica comercial comprende:\n\nservicios de transporte aéreo;\nservicios de trabajo aéreo.\n\nEl servicio de transporte aéreo es una serie de actos destinados a trasladar personas o cosas en aeronave de un aeródromo a otro.\n\nCódigo Aeronáutico, arts. 91 y 92; Videla Escalada, caps. 13 y 14."
+  },
+  {
+    "objectID": "derecho-aeronautico.html#clasificaciones-del-transporte-aéreo",
+    "href": "derecho-aeronautico.html#clasificaciones-del-transporte-aéreo",
+    "title": "Derecho aeronáutico",
+    "section": "Clasificaciones del transporte aéreo",
+    "text": "Clasificaciones del transporte aéreo\n\n\n\nClasificación\nCategorías\n\n\n\n\nSegún regularidad\nRegular / no regular.\n\n\nSegún ámbito\nInterno / internacional.\n\n\nSegún objeto\nPersonas / equipajes / mercancías.\n\n\n\nEl transporte regular se sujeta a itinerario y horario prefijados; el no regular no.\n\nCódigo Aeronáutico, arts. 93 y 94."
+  },
+  {
+    "objectID": "derecho-aeronautico.html#explotación-de-servicios-aerocomerciales",
+    "href": "derecho-aeronautico.html#explotación-de-servicios-aerocomerciales",
+    "title": "Derecho aeronáutico",
+    "section": "Explotación de servicios aerocomerciales",
+    "text": "Explotación de servicios aerocomerciales\nLa explotación de actividad comercial aérea requiere autorización previa.\nPara empresas extranjeras, la autorización se sujeta a normas y acuerdos internacionales aplicables.\nEn el transporte interno se exige autorización y comprobación de capacidad técnica y económico-financiera.\n\nCódigo Aeronáutico, arts. 95 a 105."
+  },
+  {
+    "objectID": "derecho-aeronautico.html#contrato-de-transporte-aéreo",
+    "href": "derecho-aeronautico.html#contrato-de-transporte-aéreo",
+    "title": "Derecho aeronáutico",
+    "section": "Contrato de transporte aéreo",
+    "text": "Contrato de transporte aéreo\n\nEl contrato de transporte aéreo articula transportador, pasajero o expedidor, aeronave, traslado, documentación y responsabilidad.\n\nEn la práctica, el régimen contractual no puede separarse de:\n\nseguridad del vuelo;\ninfraestructura utilizada;\nautorización del servicio;\nreglas especiales de responsabilidad.\n\n\nVidela Escalada, cap. 14; Folchi, t. I y II."
+  },
+  {
+    "objectID": "derecho-aeronautico.html#pasajeros-equipajes-y-mercancías",
+    "href": "derecho-aeronautico.html#pasajeros-equipajes-y-mercancías",
+    "title": "Derecho aeronáutico",
+    "section": "Pasajeros, equipajes y mercancías",
+    "text": "Pasajeros, equipajes y mercancías\n\n\n\nObjeto\nRiesgo típico\n\n\n\n\nPasajero\nMuerte, lesión corporal, retraso.\n\n\nEquipaje\nDestrucción, pérdida, avería, retraso.\n\n\nMercancía\nDestrucción, pérdida, avería, retraso.\n\n\n\nLa diferencia afecta hecho generador, período relevante, prueba y límites indemnizatorios.\n\nCódigo Aeronáutico, arts. 139 a 145; Videla Escalada, cap. 20."
+  },
+  {
+    "objectID": "derecho-aeronautico.html#sistema-especial-de-responsabilidad",
+    "href": "derecho-aeronautico.html#sistema-especial-de-responsabilidad",
+    "title": "Derecho aeronáutico",
+    "section": "Sistema especial de responsabilidad",
+    "text": "Sistema especial de responsabilidad\nLa responsabilidad aeronáutica se explica por los riesgos propios de la navegación aérea:\n\nvelocidad;\ninternacionalidad;\ndependencia técnica;\nposible daño masivo;\nintervención de sujetos no vinculados contractualmente.\n\n\nLa especialidad del régimen busca equilibrar reparación, previsibilidad económica y aseguramiento.\n\n\nVidela Escalada, caps. 20 a 22; Folchi, t. II."
+  },
+  {
+    "objectID": "derecho-aeronautico.html#daños-a-pasajeros",
+    "href": "derecho-aeronautico.html#daños-a-pasajeros",
+    "title": "Derecho aeronáutico",
+    "section": "Daños a pasajeros",
+    "text": "Daños a pasajeros\nEl transportador responde por muerte o lesión corporal del pasajero cuando el accidente ocurre:\n\na bordo de la aeronave;\ndurante operaciones de embarque;\ndurante operaciones de desembarque.\n\n\nCódigo Aeronáutico, art. 139."
+  },
+  {
+    "objectID": "derecho-aeronautico.html#equipajes-y-mercancías",
+    "href": "derecho-aeronautico.html#equipajes-y-mercancías",
+    "title": "Derecho aeronáutico",
+    "section": "Equipajes y mercancías",
+    "text": "Equipajes y mercancías\nEl transportador responde por destrucción, pérdida o avería cuando el hecho causante se produce durante el transporte aéreo.\nEse período comprende el tiempo durante el cual equipajes o mercancías están al cuidado del transportador:\n\nen aeródromo;\na bordo;\nen lugar de aterrizaje fuera de aeródromo.\n\n\nCódigo Aeronáutico, art. 140."
+  },
+  {
+    "objectID": "derecho-aeronautico.html#retraso",
+    "href": "derecho-aeronautico.html#retraso",
+    "title": "Derecho aeronáutico",
+    "section": "Retraso",
+    "text": "Retraso\nEl transportador responde por daños resultantes del retraso en el transporte de:\n\npasajeros;\nequipajes;\nmercancías.\n\nLa demora debe ser analizada dentro del régimen especial, con sus eximentes y límites.\n\nCódigo Aeronáutico, arts. 141 a 143."
+  },
+  {
+    "objectID": "derecho-aeronautico.html#exoneración-y-atenuación",
+    "href": "derecho-aeronautico.html#exoneración-y-atenuación",
+    "title": "Derecho aeronáutico",
+    "section": "Exoneración y atenuación",
+    "text": "Exoneración y atenuación\nEl transportador puede eximirse si prueba que él y sus dependientes tomaron todas las medidas necesarias para evitar el daño o que fue imposible tomarlas.\nLa responsabilidad puede atenuarse o excluirse si la víctima causó el daño o contribuyó a causarlo.\n\nCódigo Aeronáutico, arts. 142 y 143; Videla Escalada, cap. 20."
+  },
+  {
+    "objectID": "derecho-aeronautico.html#límites-de-responsabilidad",
+    "href": "derecho-aeronautico.html#límites-de-responsabilidad",
+    "title": "Derecho aeronáutico",
+    "section": "Límites de responsabilidad",
+    "text": "Límites de responsabilidad\nEl Código prevé límites cuantitativos para la responsabilidad del transportador.\nEstos límites se conectan con:\n\nprevisibilidad del riesgo;\nasegurabilidad;\nrégimen uniforme;\npérdida del beneficio en supuestos especialmente graves.\n\n\nCódigo Aeronáutico, arts. 144 a 163; Videla Escalada, cap. 20."
+  },
+  {
+    "objectID": "derecho-aeronautico.html#daños-a-terceros-en-la-superficie",
+    "href": "derecho-aeronautico.html#daños-a-terceros-en-la-superficie",
+    "title": "Derecho aeronáutico",
+    "section": "Daños a terceros en la superficie",
+    "text": "Daños a terceros en la superficie\n\nQuien sufre un daño en la superficie no participa de la actividad aérea, pero soporta sus riesgos.\n\nEl régimen se orienta a proteger al tercero afectado por aeronave en vuelo o por personas o cosas caídas o arrojadas desde ella.\nLa responsabilidad se estructura alrededor del explotador.\n\nCódigo Aeronáutico, arts. 155 a 163; Videla Escalada, cap. 21; Folchi, t. II."
+  },
+  {
+    "objectID": "derecho-aeronautico.html#abordaje",
+    "href": "derecho-aeronautico.html#abordaje",
+    "title": "Derecho aeronáutico",
+    "section": "Abordaje",
+    "text": "Abordaje\nEl abordaje comprende daños derivados de colisión o interferencia entre aeronaves en movimiento.\nReglas principales:\n\nculpa de una aeronave: responde su explotador;\nconcurrencia de culpa: distribución proporcional o por partes iguales;\ndolo: pérdida del beneficio de limitación;\nsolidaridad en ciertos supuestos frente a damnificados.\n\n\nCódigo Aeronáutico, arts. 165 a 174; Videla Escalada, cap. 22."
+  },
+  {
+    "objectID": "derecho-aeronautico.html#terceros-en-superficie-por-abordaje",
+    "href": "derecho-aeronautico.html#terceros-en-superficie-por-abordaje",
+    "title": "Derecho aeronáutico",
+    "section": "Terceros en superficie por abordaje",
+    "text": "Terceros en superficie por abordaje\nCuando el daño a terceros en superficie proviene del abordaje de dos o más aeronaves en vuelo, los explotadores responden solidariamente.\nLuego se habilitan acciones de regreso según:\n\nculpa de una aeronave;\nconcurrencia de culpa;\ncaso fortuito o fuerza mayor.\n\n\nCódigo Aeronáutico, arts. 170 a 174."
+  },
+  {
+    "objectID": "derecho-aeronautico.html#socorro-aeronáutico",
+    "href": "derecho-aeronautico.html#socorro-aeronáutico",
+    "title": "Derecho aeronáutico",
+    "section": "Socorro aeronáutico",
+    "text": "Socorro aeronáutico\nLa doctrina distingue:\n\n\n\nFigura\nIdea central\n\n\n\n\nBúsqueda\nLocalizar aeronaves desaparecidas o en peligro.\n\n\nAsistencia\nAyuda a una aeronave en peligro.\n\n\nSalvamento\nRescate de personas o bienes.\n\n\n\n\nCódigo Aeronáutico, arts. 175 a 184; Videla Escalada, cap. 19; Folchi, t. II."
+  },
+  {
+    "objectID": "derecho-aeronautico.html#deber-de-colaboración-y-socorro",
+    "href": "derecho-aeronautico.html#deber-de-colaboración-y-socorro",
+    "title": "Derecho aeronáutico",
+    "section": "Deber de colaboración y socorro",
+    "text": "Deber de colaboración y socorro\nExplotadores y comandantes deben colaborar en la búsqueda de aeronaves a requerimiento de la autoridad aeronáutica, en la medida de sus posibilidades.\nEl comandante debe prestar asistencia a aeronaves en peligro y salvamento de personas a bordo.\n\nCódigo Aeronáutico, arts. 175 y 176."
+  },
+  {
+    "objectID": "derecho-aeronautico.html#límites-al-deber-de-socorro",
+    "href": "derecho-aeronautico.html#límites-al-deber-de-socorro",
+    "title": "Derecho aeronáutico",
+    "section": "Límites al deber de socorro",
+    "text": "Límites al deber de socorro\nNo hay obligación de prestar socorro cuando:\n\nel socorro está asegurado en mejores condiciones;\nla prestación implica riesgos para quienes están a bordo;\nno existen posibilidades de prestar un socorro útil.\n\n\nCódigo Aeronáutico, art. 177."
+  },
+  {
+    "objectID": "derecho-aeronautico.html#consecuencias-patrimoniales",
+    "href": "derecho-aeronautico.html#consecuencias-patrimoniales",
+    "title": "Derecho aeronáutico",
+    "section": "Consecuencias patrimoniales",
+    "text": "Consecuencias patrimoniales\nQuien colabora en búsqueda, asistencia o salvamento puede tener derecho a:\n\nindemnización por gastos y daños emergentes;\nremuneración por salvamento de bienes;\nparticipación equitativa cuando se salvan personas y bienes.\n\nLa remuneración nunca puede exceder el valor de los bienes salvados.\n\nCódigo Aeronáutico, arts. 178 a 184."
+  },
+  {
+    "objectID": "derecho-aeronautico.html#seguros-aeronáuticos",
+    "href": "derecho-aeronautico.html#seguros-aeronáuticos",
+    "title": "Derecho aeronáutico",
+    "section": "Seguros aeronáuticos",
+    "text": "Seguros aeronáuticos\nEl régimen de seguros conecta riesgo, responsabilidad y garantía patrimonial.\nEl explotador debe asegurar:\n\npersonal con función a bordo;\ndaños comprendidos en el régimen de responsabilidad;\ndaños causados a personas o cosas transportadas y terceros, cuando corresponda.\n\n\nCódigo Aeronáutico, arts. 191 a 196; Videla Escalada, cap. 23; Folchi, t. II."
+  },
+  {
+    "objectID": "derecho-aeronautico.html#seguro-y-aeronaves-extranjeras",
+    "href": "derecho-aeronautico.html#seguro-y-aeronaves-extranjeras",
+    "title": "Derecho aeronáutico",
+    "section": "Seguro y aeronaves extranjeras",
+    "text": "Seguro y aeronaves extranjeras\nNo se autoriza la circulación en el espacio aéreo nacional de aeronaves extranjeras que no justifiquen seguros por daños a:\n\npersonas transportadas;\ncosas transportadas;\nterceros en la superficie.\n\nCuando rigen acuerdos o convenciones internacionales, el seguro debe cubrir los límites allí previstos.\n\nCódigo Aeronáutico, art. 193."
+  },
+  {
+    "objectID": "derecho-aeronautico.html#legislación-nacional-y-competencia-federal",
+    "href": "derecho-aeronautico.html#legislación-nacional-y-competencia-federal",
+    "title": "Derecho aeronáutico",
+    "section": "Legislación nacional y competencia federal",
+    "text": "Legislación nacional y competencia federal\nEl Código declara materia de legislación nacional la regulación de circulación aérea, aeródromos, títulos habilitantes, matrícula, aeronavegabilidad y servicios comerciales aéreos.\nLas causas sobre navegación aérea o comercio aéreo corresponden a la Corte Suprema y tribunales inferiores de la Nación.\n\nCódigo Aeronáutico, arts. 197 y 198."
+  },
+  {
+    "objectID": "derecho-aeronautico.html#aeronave-privada-argentina",
+    "href": "derecho-aeronautico.html#aeronave-privada-argentina",
+    "title": "Derecho aeronáutico",
+    "section": "Aeronave privada argentina",
+    "text": "Aeronave privada argentina\nLos hechos, actos y delitos ocurridos en aeronave privada argentina se rigen por ley argentina y son juzgados por tribunales argentinos cuando ocurren:\n\nen espacio aéreo argentino;\ndonde ningún Estado ejerce soberanía.\n\nTambién puede haber jurisdicción argentina en territorio extranjero si existe conexión calificada con el Estado argentino o personas domiciliadas en él.\n\nCódigo Aeronáutico, art. 199."
+  },
+  {
+    "objectID": "derecho-aeronautico.html#aeronave-privada-extranjera",
+    "href": "derecho-aeronautico.html#aeronave-privada-extranjera",
+    "title": "Derecho aeronáutico",
+    "section": "Aeronave privada extranjera",
+    "text": "Aeronave privada extranjera\nEn aeronave privada extranjera en vuelo sobre espacio aéreo argentino, la jurisdicción argentina y la aplicación de ley nacional proceden en supuestos determinados.\nEntre ellos:\n\ninfracción a leyes de seguridad pública, militares o fiscales;\ninfracción a leyes o reglamentos de circulación aérea;\nafectación de intereses protegidos por el Código.\n\n\nCódigo Aeronáutico, art. 200; Videla Escalada, cap. 27."
+  },
+  {
+    "objectID": "derecho-aeronautico.html#aeronave-pública-extranjera",
+    "href": "derecho-aeronautico.html#aeronave-pública-extranjera",
+    "title": "Derecho aeronáutico",
+    "section": "Aeronave pública extranjera",
+    "text": "Aeronave pública extranjera\n\nLos hechos, actos y delitos cometidos en aeronave pública extranjera en espacio aéreo argentino se rigen por la ley del pabellón y son juzgados por sus tribunales.\n\nAquí aparece con especial fuerza la dimensión soberana e interestatal de la aeronáutica.\n\nCódigo Aeronáutico, art. 201."
+  },
+  {
+    "objectID": "derecho-aeronautico.html#convenciones-internacionales",
+    "href": "derecho-aeronautico.html#convenciones-internacionales",
+    "title": "Derecho aeronáutico",
+    "section": "Convenciones internacionales",
+    "text": "Convenciones internacionales\n\n\n\nInstrumento\nEje principal\n\n\n\n\nParís 1919\nPrimer gran sistema internacional de navegación aérea.\n\n\nChicago 1944\nMarco de aviación civil internacional y OACI.\n\n\nVarsovia 1929\nTransporte aéreo internacional.\n\n\nLa Haya 1955 / Guadalajara 1961\nEvolución del sistema de Varsovia.\n\n\nRoma 1952\nDaños a terceros en la superficie.\n\n\nMontreal 1999\nRégimen moderno del transporte aéreo internacional.\n\n\n\n\nVidela Escalada, caps. 2, 20 y 21; Folchi, t. I y II."
+  },
+  {
+    "objectID": "derecho-aeronautico.html#chicago-1944-y-oaci",
+    "href": "derecho-aeronautico.html#chicago-1944-y-oaci",
+    "title": "Derecho aeronáutico",
+    "section": "Chicago 1944 y OACI",
+    "text": "Chicago 1944 y OACI\nEl Convenio de Chicago parte de la soberanía estatal sobre el espacio aéreo y organiza cooperación internacional para una aviación civil segura y ordenada.\nEjes:\n\nsoberanía;\nuniformidad técnica;\ncertificados y estándares;\ninstitucionalización mediante OACI.\n\n\nVidela Escalada, cap. 2; Folchi, t. I y II."
+  },
+  {
+    "objectID": "derecho-aeronautico.html#libertades-del-aire",
+    "href": "derecho-aeronautico.html#libertades-del-aire",
+    "title": "Derecho aeronáutico",
+    "section": "Libertades del aire",
+    "text": "Libertades del aire\n\nLas libertades del aire son derechos de acceso y tráfico reconocidos entre Estados para hacer posible la operación internacional de servicios aéreos.\n\nNo niegan la soberanía: dependen del consentimiento estatal, usualmente mediante tratados o acuerdos bilaterales o multilaterales.\n\nFolchi, t. II; Videla Escalada, servicios de transporte aéreo internacional."
+  },
+  {
+    "objectID": "derecho-aeronautico.html#libertades-técnicas",
+    "href": "derecho-aeronautico.html#libertades-técnicas",
+    "title": "Derecho aeronáutico",
+    "section": "Libertades técnicas",
+    "text": "Libertades técnicas\n\n\n\nLibertad\nContenido\n\n\n\n\nPrimera\nSobrevolar territorio de otro Estado sin aterrizar.\n\n\nSegunda\nAterrizar por razones técnicas o no comerciales.\n\n\n\nNo autorizan por sí mismas embarcar o desembarcar tráfico comercial.\n\nFolchi, t. II."
+  },
+  {
+    "objectID": "derecho-aeronautico.html#libertades-comerciales-clásicas",
+    "href": "derecho-aeronautico.html#libertades-comerciales-clásicas",
+    "title": "Derecho aeronáutico",
+    "section": "Libertades comerciales clásicas",
+    "text": "Libertades comerciales clásicas\n\n\n\n\n\n\n\nLibertad\nContenido\n\n\n\n\nTercera\nDesembarcar en otro Estado tráfico embarcado en el Estado de nacionalidad del transportista.\n\n\nCuarta\nEmbarcar en otro Estado tráfico con destino al Estado de nacionalidad del transportista.\n\n\nQuinta\nTransportar tráfico entre dos Estados extranjeros dentro de un servicio vinculado al Estado de nacionalidad del transportista.\n\n\n\n\nFolchi, t. II; Videla Escalada, transporte aéreo internacional."
+  },
+  {
+    "objectID": "derecho-aeronautico.html#libertades-sucesivas-y-cabotaje",
+    "href": "derecho-aeronautico.html#libertades-sucesivas-y-cabotaje",
+    "title": "Derecho aeronáutico",
+    "section": "Libertades sucesivas y cabotaje",
+    "text": "Libertades sucesivas y cabotaje\nLas denominadas sexta, séptima, octava y novena libertades describen combinaciones más amplias de tráfico internacional y cabotaje.\nEl cabotaje consiste en transportar tráfico entre dos puntos del territorio de un mismo Estado.\n\nCuanto más se avanza hacia libertades comerciales amplias, mayor es el peso de la política aerocomercial y de la autorización estatal.\n\n\nFolchi, t. II; Videla Escalada, servicios internacionales."
+  },
+  {
+    "objectID": "derecho-aeronautico.html#cómo-se-conectan-las-piezas",
+    "href": "derecho-aeronautico.html#cómo-se-conectan-las-piezas",
+    "title": "Derecho aeronáutico",
+    "section": "Cómo se conectan las piezas",
+    "text": "Cómo se conectan las piezas\n\n\n\n\n\nflowchart TD\nA[Espacio aéreo soberano] --&gt; B[Circulación regulada]\nB --&gt; C[Infraestructura aeronáutica]\nC --&gt; D[Aeronave matriculada]\nD --&gt; E[Explotador, comandante y tripulación]\nE --&gt; F[Transporte aéreo]\nF --&gt; G[Responsabilidad]\nG --&gt; H[Seguro obligatorio]\nH --&gt; I[Jurisdicción y acuerdos internacionales]\n\n\n\n\n\n\n\nSíntesis construida sobre Videla Escalada, Folchi y Código Aeronáutico suministrado."
+  },
+  {
+    "objectID": "derecho-aeronautico.html#caso-integrador",
+    "href": "derecho-aeronautico.html#caso-integrador",
+    "title": "Derecho aeronáutico",
+    "section": "Caso integrador",
+    "text": "Caso integrador\nUn vuelo regular Buenos Aires–Madrid permite observar todo el sistema:\n\ndespega desde infraestructura habilitada;\nutiliza una aeronave matriculada y asegurada;\nopera bajo responsabilidad de un explotador;\nes conducido por comandante y tripulación habilitada;\ntransporta pasajeros, equipajes y carga;\ncruza espacios sometidos a distintas soberanías;\npuede generar responsabilidad contractual o extracontractual;\ndepende de derechos aerocomerciales reconocidos entre Estados."
+  },
+  {
+    "objectID": "derecho-aeronautico.html#preguntas-finales",
+    "href": "derecho-aeronautico.html#preguntas-finales",
+    "title": "Derecho aeronáutico",
+    "section": "Preguntas finales",
+    "text": "Preguntas finales\n\n¿Por qué la soberanía aérea no elimina la circulación internacional?\n¿Qué diferencia al propietario del explotador?\n¿Por qué la matrícula tiene función jurídica y no sólo identificatoria?\n¿Qué justifica límites especiales de responsabilidad?\n¿Qué función cumple el seguro obligatorio?\n¿Por qué las libertades del aire dependen de acuerdos estatales?"
+  },
+  {
+    "objectID": "derecho-aeronautico.html#fuentes-utilizadas",
+    "href": "derecho-aeronautico.html#fuentes-utilizadas",
+    "title": "Derecho aeronáutico",
+    "section": "Fuentes utilizadas",
+    "text": "Fuentes utilizadas\n\nVidela Escalada, Federico N., Manual de Derecho Aeronáutico.\nFolchi, Mario O., Tratado de derecho aeronáutico y política de la aeronáutica civil, tomos I y II.\nCódigo Aeronáutico, Ley 17.285, texto suministrado por el docente.\n\n\nNo se incorporó jurisprudencia ni doctrina externa a los materiales indicados."
   }
 ]
