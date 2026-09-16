@@ -7,12 +7,12 @@
   --gris: #ECEFF1;
   --gris-claro: #F7F9FA;
   --oscuro: #1F2933;
-  --blanco: #FFFFFF;
 }
 
 /* =========================
-   BASE GENERAL
+   BASE
    ========================= */
+
 .reveal {
   font-family: "Aptos", "Segoe UI", sans-serif;
   color: var(--oscuro);
@@ -21,13 +21,9 @@
 .reveal .slides section {
   text-align: left;
   padding-top: 0.25em;
-  overflow-y: auto !important;
-  overflow-x: hidden !important;
-  max-height: 100%;
-  box-sizing: border-box;
-  padding-bottom: 2rem;
 }
 
+/* pequeña línea institucional superior */
 .reveal .slides section::before {
   content: "";
   position: absolute;
@@ -38,21 +34,10 @@
   background: var(--dorado);
 }
 
-.reveal .slides section.title-slide,
-.reveal .slides section.section-title {
-  text-align: center;
-}
-
-.reveal .slides section.title-slide::before,
-.reveal .slides section.section-title::before {
-  left: 50%;
-  transform: translateX(-50%);
-  width: 140px;
-}
-
 /* =========================
    TÍTULOS
    ========================= */
+
 .reveal h1 {
   color: var(--azul);
   font-size: 2.05em;
@@ -80,12 +65,8 @@
 }
 
 /* =========================
-   LISTAS Y PÁRRAFOS
+   LISTAS
    ========================= */
-.reveal p,
-.reveal li {
-  font-size: 0.78em;
-}
 
 .reveal ul,
 .reveal ol {
@@ -106,12 +87,25 @@
 }
 
 /* =========================
+   CITAS
+   ========================= */
+
+.reveal blockquote {
+  border-left: 8px solid var(--dorado);
+  background: var(--crema);
+  padding: 0.7em 1em;
+  width: 90%;
+  box-shadow: none;
+  border-radius: 0 8px 8px 0;
+}
+
+/* =========================
    TABLAS
    ========================= */
+
 .reveal table {
-  font-size: 0.66em;
+  font-size: 0.72em;
   border-collapse: collapse;
-  width: 100%;
 }
 
 .reveal th {
@@ -121,7 +115,7 @@
 }
 
 .reveal td {
-  vertical-align: top;
+  vertical-align: middle;
   padding: 0.45em;
 }
 
@@ -132,6 +126,7 @@
 /* =========================
    ENLACES
    ========================= */
+
 .reveal a {
   color: var(--azul-claro);
   text-decoration-color: var(--dorado);
@@ -143,57 +138,27 @@
 }
 
 /* =========================
-   BLOQUES REUTILIZABLES
+   CLASES QUE YA TENÍAS
    ========================= */
-.reveal .highlight-box,
-.reveal .idea,
-.reveal .ejemplo,
-.reveal .regla {
+
+.reveal .highlight-box {
   background: var(--crema);
   border-left: 8px solid var(--dorado);
-  padding: 0.75em 1em;
+  padding: 1em 1.2em;
   border-radius: 8px;
-  margin: 0.8em 0;
 }
 
 .reveal .blue-box {
   background: var(--azul);
   color: white;
-  padding: 0.9em 1.1em;
+  padding: 1em 1.2em;
   border-radius: 10px;
-  margin: 0.8em 0;
 }
 
 .reveal .blue-box h2,
 .reveal .blue-box h3,
-.reveal .blue-box strong,
-.reveal .blue-box p,
-.reveal .blue-box li {
+.reveal .blue-box strong {
   color: white;
-}
-
-.reveal .green-box {
-  background: #E8F3EE;
-  border-left: 8px solid #2E7D5B;
-  padding: 0.75em 1em;
-  border-radius: 8px;
-  margin: 0.8em 0;
-}
-
-.reveal .purple-box {
-  background: #F0ECFA;
-  border-left: 8px solid #7353BA;
-  padding: 0.75em 1em;
-  border-radius: 8px;
-  margin: 0.8em 0;
-}
-
-.reveal .warning-box {
-  background: #FFF7E5;
-  border-left: 8px solid var(--dorado);
-  padding: 0.75em 1em;
-  border-radius: 8px;
-  margin: 0.8em 0;
 }
 
 .reveal .big-number {
@@ -204,46 +169,26 @@
 
 .reveal .small-source {
   font-size: 0.42em;
-  opacity: .75;
-  margin-top: 1.4em;
-  border-top: 1px solid var(--gris);
-  padding-top: 0.45em;
+  opacity: .7;
+  margin-top: 1.5em;
 }
 
 .reveal .centered {
   text-align: center;
 }
 
-.reveal .compact li,
-.reveal .compact p {
-  font-size: 0.70em;
-}
-
-.reveal .two-cols {
-  columns: 2;
-  column-gap: 2.2em;
-}
-
-.reveal .card-list li {
-  background: var(--gris-claro);
-  border-left: 5px solid var(--dorado);
-  border-radius: 7px;
-  list-style: none;
-  padding: 0.45em 0.65em;
-  margin-bottom: 0.35em;
-}
-
 /* =========================
    MERMAID
    ========================= */
+
 .reveal .mermaid {
   margin-top: 0.7em;
-  font-size: 0.72em;
 }
 
 /* =========================
-   CONTROLES REVEAL
+   NÚMERO DE DIAPOSITIVA
    ========================= */
+
 .reveal .slide-number {
   background: var(--azul);
   color: white;
@@ -251,25 +196,36 @@
   padding: 4px 8px;
 }
 
+/* =========================
+   BARRA DE PROGRESO
+   ========================= */
+
 .reveal .progress {
   color: var(--dorado);
 }
 
 /* =========================
-   IMÁGENES
+   DIAPOSITIVAS CON IMAGEN
    ========================= */
+
 .reveal img {
   border-radius: 8px;
 }
 
+/* Las infografías grandes no llevan sombra exagerada */
 .reveal img[src*="infografia"] {
   border: 2px solid var(--azul);
   box-shadow: 0 5px 18px rgba(22, 50, 79, 0.18);
 }
 
-/* =========================
-   SCROLL Y PDF
-   ========================= */
+.reveal .slides section {
+  overflow-y: auto !important;
+  overflow-x: hidden !important;
+  max-height: 100%;
+  box-sizing: border-box;
+  padding-bottom: 2rem;
+}
+
 .reveal .slides section::-webkit-scrollbar {
   width: 10px;
 }
