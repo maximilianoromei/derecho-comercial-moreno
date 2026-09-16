@@ -1,0 +1,909 @@
+---
+title: "Sociedad Anónima"
+subtitle: "Ley General de Sociedades 19.550"
+author: "Prof. Maximiliano Lucas Romei"
+format:
+  revealjs:
+    theme: simple
+    slide-number: true
+    progress: true
+    controls: true
+    history: true
+    scrollable: true
+    width: 1600
+    height: 900
+    margin: 0.06
+    center: false
+    transition: slide
+    navigation-mode: linear
+    pdf-separate-fragments: false
+execute:
+  echo: false
+---
+
+## Sociedad Anónima
+
+### Una primera aproximación
+
+::: {.callout-note}
+La **sociedad anónima (SA)** es una sociedad de capital en la que:
+
+- el **capital se representa por acciones**;
+- los accionistas **limitan su responsabilidad a la integración de las acciones suscriptas**;
+- la organización societaria se estructura mediante órganos diferenciados de **gobierno, administración, representación y fiscalización**.
+:::
+
+**Norma central:** art. 163 LGS.
+
+---
+
+## ¿Por qué es una sociedad de capital?
+
+En la SA adquiere especial relevancia la **participación en el capital**, antes que las condiciones personales del accionista.
+
+- La participación del socio se representa mediante **acciones**.
+- Las acciones son, en principio, **libremente transmisibles**.
+- La muerte, incapacidad o insolvencia personal de un accionista no determina, por sí sola, la disolución de la sociedad.
+- La organización permite separar la condición de **accionista** de la función de **administrador**.
+
+::: {.callout-tip}
+Esta estructura facilita la circulación de las participaciones y la incorporación o salida de inversores sin modificar necesariamente la estructura jurídica de la sociedad.
+:::
+
+---
+
+## Caracterización legal — art. 163 LGS
+
+::: {.callout-important}
+**Capital representado por acciones + responsabilidad limitada a la integración de las acciones suscriptas.**
+:::
+
+De esta caracterización surgen dos elementos esenciales:
+
+1. **Capital dividido en acciones:** cada acción representa una fracción del capital social.
+2. **Limitación de responsabilidad:** el accionista no responde, como regla, con su patrimonio personal por las obligaciones sociales.
+
+La sociedad, como sujeto de derecho, posee un **patrimonio propio y diferenciado** del patrimonio de sus accionistas.
+
+---
+
+## Responsabilidad del accionista
+
+La obligación típica del accionista consiste en **integrar el aporte comprometido**.
+
+::: {.callout-note}
+Si suscribió acciones por $10.000.000 y sólo integró inicialmente $2.500.000, continúa obligado frente a la sociedad por los $7.500.000 pendientes.
+:::
+
+Esto **no significa** que responda ilimitadamente por las deudas sociales.
+
+La limitación de responsabilidad debe distinguirse de otros supuestos excepcionales de responsabilidad que puedan surgir, por ejemplo, por aplicación del **art. 54 LGS** cuando exista actuación societaria utilizada con fines extrasocietarios, para violar la ley, el orden público, la buena fe o frustrar derechos de terceros.
+
+---
+
+## SA y SAU
+
+La LGS admite la **sociedad anónima unipersonal (SAU)**.
+
+- La sociedad unipersonal sólo puede constituirse bajo el tipo **sociedad anónima**.
+- Una SAU no puede ser constituida por otra sociedad unipersonal.
+- La denominación debe contener la expresión **“Sociedad Anónima Unipersonal”**, su abreviatura o la sigla **S.A.U.**
+- La unipersonalidad no elimina la diferenciación entre el patrimonio social y el patrimonio del accionista único.
+
+::: {.callout-tip}
+La SAU no constituye un tipo societario distinto: funciona dentro del régimen de la sociedad anónima con reglas especiales.
+:::
+
+---
+
+## Constitución de la SA
+
+**Art. 165 LGS:** la sociedad anónima se constituye por **instrumento público**.
+
+La ley contempla:
+
+- constitución por **acto único**;
+- constitución por **suscripción pública**.
+
+En la práctica, la constitución por acto único es la modalidad habitual.
+
+El instrumento constitutivo debe reunir los requisitos generales del **art. 11 LGS** y los requisitos específicos previstos para la SA.
+
+---
+
+## Capital social
+
+El capital cumple una función central en la estructura de la SA.
+
+- Debe estar **totalmente suscripto** al momento de la constitución.
+- El capital mínimo exigido por el art. 186 LGS es actualmente de **$30.000.000**.
+- Cada accionista asume la obligación de efectuar los aportes correspondientes a las acciones que suscribe.
+
+::: {.callout-warning}
+**Suscripción** e **integración** no son sinónimos.
+:::
+
+**Suscribir** = asumir el compromiso de aportar.  
+**Integrar** = cumplir efectivamente ese aporte.
+
+---
+
+## Integración de aportes
+
+### Aportes dinerarios
+
+Debe integrarse como mínimo el **25 %** al constituirse la sociedad. El saldo debe completarse dentro del plazo legal, que no puede exceder de **dos años**.
+
+### Aportes en especie
+
+Deben integrarse **totalmente** al momento correspondiente a la constitución.
+
+::: {.callout-important}
+En la SA los aportes no dinerarios deben consistir en obligaciones de dar y encontrarse totalmente integrados.
+:::
+
+
+### Ejemplo: suscripción e integración
+
+Una SA se constituye con un capital de **$40.000.000**.
+
+Lucía suscribe acciones por **$12.000.000** y su aporte es dinerario.
+
+Puede integrar inicialmente:
+
+- mínimo legal: **$3.000.000** (25 %);
+- saldo pendiente: **$9.000.000**;
+- ese saldo deberá integrarse dentro del plazo fijado, sin exceder los dos años.
+
+::: {.callout-tip}
+Su responsabilidad societaria típica continúa vinculada a completar la integración de los $12.000.000 suscriptos.
+:::
+
+---
+
+## Mora en la integración
+
+**Art. 192 LGS**
+
+La mora en la integración produce la **suspensión automática de los derechos inherentes a las acciones en mora**.
+
+Mientras subsista el incumplimiento, el accionista no puede ejercer normalmente los derechos correspondientes a esas acciones, entre ellos:
+
+- participar y votar en asamblea;
+- percibir dividendos;
+- ejercer derechos vinculados a la participación accionaria.
+
+Además, el estatuto puede prever los mecanismos contemplados por el art. 193 frente al incumplimiento.
+
+::: {.callout-important}
+ARTICULO 193. — El estatuto podrá disponer que los derechos de suscripción correspondientes a las acciones en mora sean vendidos en remate público o por medio de un agente de Bolsa si se tratara de acciones cotizables. Son de cuenta del suscriptor moroso los gastos del remate y los intereses moratorios, sin perjuicio de su responsabilidad por los daños.
+
+También podrá establecer que se produce la caducidad de los derechos; en este caso la sanción producirá sus efectos previa intimación a integrar en un plazo no mayor de treinta (30) días, con pérdida de las sumas abonadas. Sin perjuicio de ello, la sociedad podrá optar por el cumplimiento del contrato de suscripción.
+:::
+
+---
+
+## Las acciones
+
+La acción cumple varias funciones simultáneamente:
+
+1. representa una **fracción del capital social**;
+2. determina la **participación del accionista**;
+3. atribuye un conjunto de **derechos políticos y patrimoniales**;
+4. constituye el instrumento mediante el cual esa participación puede **circular**.
+
+::: {.callout-note}
+No debe confundirse la **acción** con el patrimonio concreto de la sociedad: el accionista no es copropietario de cada uno de los bienes sociales.
+:::
+
+---
+
+## Principio de igualdad
+
+**Art. 207 LGS**
+
+Las acciones serán siempre de **igual valor**, expresado en moneda argentina.
+
+Dentro de cada clase deben otorgar los **mismos derechos**.
+
+Esto permite que una misma sociedad emita distintas **clases de acciones**, siempre que exista igualdad entre las acciones pertenecientes a una misma clase.
+
+---
+
+## Clases de acciones
+
+Desde el punto de vista de los derechos que atribuyen, podemos distinguir principalmente:
+
+| Acciones ordinarias | Acciones preferidas |
+|---|---|
+| Predominio de derechos políticos | Incorporan una ventaja patrimonial |
+| Normalmente tienen derecho a voto | Pueden carecer de voto en ciertos casos |
+| Pueden existir clases diferentes | La preferencia debe surgir de las condiciones de emisión |
+
+La existencia de distintas clases permite diseñar diferentes combinaciones entre **poder político** y **derechos económicos**.
+
+---
+
+## Acciones ordinarias
+
+Las acciones ordinarias atribuyen los derechos comunes correspondientes a la calidad de accionista.
+
+Pueden conferir:
+
+- **un voto por acción**;
+- o, si el estatuto lo autoriza, **voto plural**, hasta el límite legal.
+
+::: {.callout-warning}
+El voto plural tiene restricciones legales y no puede utilizarse en todos los supuestos societarios.
+:::
+
+El número de votos de una acción no modifica su valor nominal ni implica que represente una mayor fracción económica del capital.
+
+
+### Acciones preferidas
+
+Las acciones preferidas conceden una **preferencia patrimonial** respecto de las acciones ordinarias.
+
+La preferencia puede referirse, por ejemplo, a:
+
+- prioridad en la percepción de dividendos;
+- dividendo preferente según las condiciones de emisión;
+- prioridad patrimonial en determinados supuestos de liquidación.
+
+Pueden tener derecho a voto o carecer de él en los casos admitidos por la ley.
+
+::: {.callout-important}
+No pueden emitirse acciones preferidas con **voto plural**.
+:::
+
+---
+
+## Derechos del accionista
+
+Podemos agruparlos pedagógicamente en dos grandes categorías.
+
+### Derechos políticos
+
+- participar en las asambleas;
+- votar;
+- impugnar decisiones cuando corresponda;
+- intervenir en mecanismos de elección de autoridades;
+- ejercer derechos de información en los términos legales.
+
+### Derechos patrimoniales
+
+- participar en las ganancias distribuidas;
+- participar en el remanente de liquidación;
+- suscripción preferente y acrecer;
+- receso en los supuestos previstos legalmente.
+
+---
+
+## Transmisibilidad de las acciones
+
+**Art. 214 LGS**
+
+::: {.callout-important}
+La transmisión de las acciones es **libre**.
+:::
+
+El estatuto puede limitar la transmisibilidad de las acciones nominativas o escriturales, pero **no puede prohibir su transferencia**.
+
+Las restricciones deben constar:
+
+- en el título o en las inscripciones correspondientes;
+- y en el libro o cuenta pertinente.
+
+La regla revela una diferencia importante respecto de sociedades donde las condiciones personales de los socios tienen mayor relevancia.
+
+---
+
+## ¿Qué puede limitar el estatuto?
+
+El estatuto puede diseñar mecanismos que condicionen la transmisión sin llegar a impedirla.
+
+Por ejemplo, podría establecer determinadas condiciones o procedimientos para la transferencia, siempre que no se conviertan en una **prohibición encubierta**.
+
+::: {.callout-note}
+La diferencia conceptual es importante:
+
+**limitar ≠ prohibir.**
+:::
+
+La limitación busca ordenar la circulación de las acciones; una prohibición absoluta contradice el principio del art. 214 LGS.
+
+---
+
+## Transferencia y oponibilidad
+
+**Art. 215 LGS**
+
+La transmisión de acciones nominativas o escriturales y de los derechos reales que las graven debe notificarse por escrito a la sociedad emisora —o entidad que lleve el registro— e inscribirse en el registro correspondiente.
+
+::: {.callout-important}
+La inscripción es decisiva para la **oponibilidad frente a la sociedad y terceros**.
+:::
+
+Por eso no alcanza con analizar solamente el negocio celebrado entre transmitente y adquirente: debe atenderse también al régimen registral societario.
+
+
+### Ejemplo de transmisión
+
+Martín vende a Paula 1.000 acciones de una SA.
+
+### Entre las partes
+
+Existe un negocio jurídico destinado a transmitir la participación.
+
+### Frente a la sociedad
+
+Debe cumplirse la comunicación e inscripción exigida por el **art. 215 LGS**.
+
+::: {.callout-tip}
+El registro permite a la sociedad determinar quién se encuentra legitimado para ejercer los derechos correspondientes a las acciones.
+:::
+
+---
+
+## Aumento de capital
+
+La sociedad puede necesitar nuevos recursos para financiar su actividad.
+
+El aumento de capital implica una modificación cuantitativa del capital social y debe realizarse mediante los procedimientos previstos por la LGS y el estatuto.
+
+Según el supuesto, la decisión corresponderá a:
+
+- **asamblea ordinaria**, cuando opere el régimen del art. 188 dentro del límite autorizado estatutariamente;
+- **asamblea extraordinaria**, en los demás casos que impliquen modificación estatutaria.
+
+---
+
+## Suscripción preferente
+
+**Art. 194 LGS**
+
+Cuando se emiten nuevas acciones ordinarias, el accionista tiene, como regla, derecho a suscribirlas **en proporción a las acciones que ya posee**.
+
+### ¿Para qué sirve?
+
+Evita que el aumento de capital produzca una dilución involuntaria de su participación.
+
+::: {.callout-note}
+Si tengo el 30 % de una SA, el derecho de preferencia procura que pueda conservar ese 30 % suscribiendo proporcionalmente la nueva emisión.
+:::
+
+---
+
+## Ejemplo: derecho de preferencia
+
+Capital antes del aumento:
+
+- Ana: **40 %**
+- Bruno: **30 %**
+- Carla: **30 %**
+
+Nueva emisión: **$10.000.000**.
+
+Para conservar sus porcentajes, podrán suscribir:
+
+- Ana: **$4.000.000**
+- Bruno: **$3.000.000**
+- Carla: **$3.000.000**
+
+El aumento no obliga al accionista a invertir: le concede el **derecho** de hacerlo preferentemente.
+
+---
+
+## Derecho de acrecer
+
+El art. 194 reconoce también el **derecho de acrecer**.
+
+Si algunos accionistas no ejercen íntegramente su derecho de preferencia, los demás pueden tener derecho a suscribir las acciones remanentes en la proporción correspondiente.
+
+::: {.callout-tip}
+**Preferencia:** conservar mi participación frente a la nueva emisión.  
+**Acrecer:** tomar parte de aquello que otros accionistas no suscribieron.
+:::
+
+Ambos mecanismos protegen la posición del accionista frente al aumento de capital.
+
+
+### Limitación de la preferencia
+
+La preferencia no puede eliminarse libremente.
+
+**Art. 197 LGS:** la asamblea extraordinaria puede resolver, en casos particulares y excepcionales, la limitación o suspensión del derecho cuando el **interés de la sociedad lo exija** y se cumplan los requisitos legales.
+
+::: {.callout-warning}
+No es una facultad discrecional para desplazar accionistas: la ley exige circunstancias y condiciones específicas.
+:::
+
+---
+
+## Derecho de receso
+
+**Art. 245 LGS**
+
+En determinados cambios estructurales especialmente relevantes, el accionista disconforme puede **separarse de la sociedad y obtener el reembolso del valor de sus acciones**, conforme al régimen legal.
+
+El receso funciona como protección de la minoría frente a ciertas decisiones mayoritarias que alteran sustancialmente las condiciones de la inversión societaria.
+
+::: {.callout-important}
+No existe un derecho general del accionista a exigir que la sociedad le compre sus acciones cuando quiera retirarse.
+:::
+
+
+### Receso: legitimación y plazo
+
+El art. 245 distingue:
+
+- accionistas **presentes que votaron en contra**: deben ejercerlo dentro del plazo legal correspondiente;
+- accionistas **ausentes** que acrediten su calidad al tiempo de la asamblea: cuentan con el plazo especial previsto por la norma.
+
+La ley también regula:
+
+- valuación de las acciones;
+- oportunidad del pago;
+- caducidad si la resolución que originó el receso es revocada oportunamente.
+
+Toda cláusula que excluya el receso o agrave sus condiciones legales es **nula**.
+
+---
+
+## Organización de la SA
+
+La SA presenta una estructura orgánica diferenciada.
+
+| Función | Órgano |
+|---|---|
+| **Gobierno** | Asamblea de accionistas |
+| **Administración** | Directorio |
+| **Representación** | Presidente del directorio |
+| **Fiscalización interna** | Sindicatura / Consejo de Vigilancia, según el caso |
+
+::: {.callout-tip}
+La sociedad actúa mediante órganos, pero cada órgano tiene **competencias diferentes**.
+:::
+
+---
+
+## Asamblea de accionistas
+
+La **asamblea** es el órgano de gobierno de la SA.
+
+Está integrada por los accionistas legitimados para participar y adopta decisiones sobre materias atribuidas por la ley y el estatuto.
+
+Entre otras cuestiones, puede intervenir en:
+
+- aprobación de estados contables;
+- destino de resultados;
+- designación y remoción de autoridades;
+- responsabilidad de administradores;
+- modificaciones estatutarias;
+- reorganizaciones y decisiones estructurales.
+
+---
+
+## Asamblea: competencia
+
+**Art. 233 LGS**
+
+Las asambleas tienen competencia exclusiva para tratar los asuntos incluidos en los arts. 234 y 235.
+
+Sus resoluciones, adoptadas conforme a la ley y el estatuto, son **obligatorias para todos los accionistas** y deben ser cumplidas por el directorio, salvo los supuestos legalmente impugnables.
+
+::: {.callout-note}
+La mayoría societaria no es poder ilimitado: debe actuar dentro de la ley, el estatuto y el interés social.
+:::
+
+---
+
+## Asamblea ordinaria
+
+**Art. 234 LGS**
+
+Corresponde a la asamblea ordinaria considerar, entre otras materias:
+
+- balance general, estado de resultados, distribución de ganancias y demás documentación correspondiente;
+- designación, retribución, remoción y responsabilidad de directores, síndicos y miembros del consejo de vigilancia;
+- aumento de capital dentro del régimen del art. 188 cuando corresponda;
+- otras medidas relativas a la gestión que la ley atribuya a su competencia.
+
+---
+
+## Asamblea extraordinaria
+
+**Art. 235 LGS**
+
+Trata los asuntos que no correspondan a la asamblea ordinaria y, especialmente, decisiones que afectan la estructura societaria, como:
+
+- modificación del estatuto;
+- aumentos de capital fuera del supuesto del art. 188;
+- reducción y reintegro de capital;
+- transformación, fusión y escisión;
+- disolución anticipada;
+- determinadas emisiones y operaciones previstas por la ley.
+
+---
+
+## Convocatoria a asamblea
+
+Como regla, la convocatoria corresponde al **directorio**.
+
+También puede intervenir la sindicatura en los casos legalmente previstos.
+
+Los accionistas que representen por lo menos el **5 % del capital social** —salvo porcentaje menor fijado por el estatuto— pueden requerir la convocatoria indicando los temas a tratar.
+
+Si los órganos societarios no atienden el pedido, la ley contempla la posibilidad de convocatoria por la **autoridad de contralor o judicialmente**.
+
+
+### Asamblea unánime
+
+La LGS admite la llamada **asamblea unánime**.
+
+Puede celebrarse sin publicación de convocatoria cuando:
+
+- se encuentran presentes accionistas que representan la **totalidad del capital social**;
+- las decisiones se adoptan por **unanimidad de las acciones con derecho a voto**.
+
+::: {.callout-warning}
+No alcanza con que estén presentes “todos los que suelen ir”: debe verificarse la totalidad del capital y la unanimidad exigida por el art. 237.
+:::
+
+---
+
+## Asistencia a la asamblea
+
+**Art. 238 LGS**
+
+Los titulares de acciones nominativas o escriturales deben cumplir el procedimiento legal de comunicación para participar de la asamblea.
+
+La comunicación debe realizarse con la anticipación prevista legalmente para su inscripción en el libro de asistencia.
+
+::: {.callout-note}
+La finalidad es determinar quiénes se encuentran legitimados para participar y cuántos votos pueden emitir.
+:::
+
+---
+
+## Quórum y mayoría: no son lo mismo
+
+### Quórum
+
+Cantidad de capital con derecho a voto que debe estar **presente para que la asamblea pueda constituirse válidamente**.
+
+### Mayoría
+
+Cantidad de votos necesaria para **aprobar una decisión** una vez constituida la asamblea.
+
+::: {.callout-important}
+Primero preguntamos: **¿puede sesionar?** → quórum.  
+Después: **¿se aprobó la decisión?** → mayoría.
+:::
+
+---
+
+## Asamblea ordinaria: quórum y mayoría
+
+**Art. 243 LGS**
+
+### Primera convocatoria
+
+Se requiere la presencia de accionistas que representen la **mayoría de las acciones con derecho a voto**.
+
+### Segunda convocatoria
+
+Puede constituirse **cualquiera sea el número** de acciones presentes con derecho a voto.
+
+### Decisiones
+
+Como regla, se adoptan por **mayoría absoluta de los votos presentes que puedan emitirse en la decisión**, salvo exigencia estatutaria mayor.
+
+---
+
+## Asamblea extraordinaria: quórum y mayoría
+
+**Art. 244 LGS**
+
+### Primera convocatoria
+
+Presencia de accionistas que representen el **60 %** de las acciones con derecho a voto, salvo exigencia estatutaria mayor.
+
+### Segunda convocatoria
+
+Se requiere el **30 %**, salvo que el estatuto establezca un quórum mayor o menor.
+
+### Mayoría general
+
+Mayoría absoluta de los votos presentes que puedan emitirse en la respectiva decisión, salvo exigencia estatutaria mayor.
+
+---
+
+## Art. 244: supuestos especiales
+
+Algunas decisiones extraordinarias reciben un régimen de mayoría agravado.
+
+Entre ellas aparecen decisiones estructurales de especial importancia, como determinados supuestos de:
+
+- transformación;
+- prórroga o reconducción;
+- transferencia del domicilio al extranjero;
+- cambio fundamental del objeto;
+- reintegración total o parcial del capital;
+- fusión y escisión, con las particularidades legales.
+
+::: {.callout-warning}
+En estos casos no debe aplicarse mecánicamente la regla general de “mayoría de presentes”: hay que leer el régimen especial del **art. 244**.
+:::
+
+---
+
+## Conflicto de interés del accionista
+
+**Art. 248 LGS**
+
+El accionista o su representante que tenga, en una operación determinada, un **interés contrario al de la sociedad** debe abstenerse de votar los acuerdos relativos a ella.
+
+Si incumple esta obligación y su voto fue necesario para formar la mayoría, puede responder por los daños y perjuicios cuando la operación ocasione perjuicio a la sociedad.
+
+::: {.callout-tip}
+La condición de accionista no habilita a utilizar el voto desconociendo el interés social.
+:::
+
+---
+
+## Directorio: órgano de administración
+
+**Art. 255 LGS**
+
+La administración de la SA está a cargo de un **directorio** compuesto por uno o más directores designados por la asamblea o, cuando corresponda, por el consejo de vigilancia.
+
+- El estatuto determina su composición o fija un mínimo y un máximo.
+- Cuando establece mínimo y máximo, la asamblea determina el número concreto.
+- En ciertos supuestos del art. 299 la ley exige directorio plural.
+
+El directorio administra: **no reemplaza a la asamblea en sus competencias propias**.
+
+---
+
+## ¿El director debe ser accionista?
+
+**No.**
+
+El art. 256 LGS establece que **no es obligatorio que el director sea accionista**, salvo que el estatuto disponga otra configuración dentro del marco legal.
+
+Los directores:
+
+- son designados por el término previsto legal y estatutariamente;
+- pueden ser reelegidos;
+- deben cumplir los requisitos e incompatibilidades correspondientes;
+- permanecen en funciones hasta ser reemplazados, conforme al régimen legal.
+
+---
+
+## Funcionamiento del directorio
+
+El directorio es un órgano **colegiado** cuando está integrado por varios miembros.
+
+Debe reunirse con la periodicidad mínima legal y siempre que lo requiera el funcionamiento societario.
+
+Las decisiones deben documentarse en las **actas correspondientes**.
+
+::: {.callout-note}
+Una cosa es la decisión del **directorio** como órgano de administración y otra la actuación del **presidente** en ejercicio de la representación social.
+:::
+
+---
+
+## Representación de la sociedad
+
+**Art. 268 LGS**
+
+La representación de la sociedad corresponde al **presidente del directorio**.
+
+El estatuto puede autorizar la actuación de uno o más directores, pero ello no altera el régimen legal aplicable frente a terceros.
+
+### Distinción fundamental
+
+- **Directorio:** administra y adopta decisiones de administración.
+- **Presidente:** exterioriza jurídicamente la voluntad social en ejercicio de la representación.
+
+Esta distinción se conecta con el régimen general del **art. 58 LGS**.
+
+---
+
+## Deberes de los directores
+
+Los administradores deben observar el estándar general del **art. 59 LGS**:
+
+::: {.callout-important}
+**Lealtad + diligencia de un buen hombre de negocios.**
+:::
+
+Esto exige, entre otras conductas:
+
+- actuar en interés de la sociedad;
+- informarse adecuadamente antes de decidir;
+- evitar utilizar el cargo en beneficio propio incompatible con el interés social;
+- cumplir la ley y el estatuto;
+- ejercer activamente las funciones asumidas.
+
+---
+
+## Responsabilidad de los directores
+
+**Art. 274 LGS**
+
+Los directores responden frente a:
+
+- la sociedad;
+- los accionistas;
+- los terceros;
+
+por el mal desempeño de su cargo, según el criterio del art. 59, así como por violación de la ley, estatuto o reglamento y por daños producidos por dolo, abuso de facultades o culpa grave.
+
+::: {.callout-warning}
+La responsabilidad puede derivar tanto de una **acción** como de una **omisión** jurídicamente relevante.
+:::
+
+
+### ¿Siempre responden todos los directores?
+
+La responsabilidad del directorio debe analizarse conforme al régimen de los arts. 274 y siguientes.
+
+La ley contempla la posibilidad de individualizar responsabilidad cuando exista asignación personal de funciones bajo los requisitos legales.
+
+Además, el director que participó de una deliberación o conoció una resolución puede procurar quedar exento si:
+
+- deja constancia escrita de su **protesta**;
+- y cumple la comunicación exigida legalmente antes de que su responsabilidad sea denunciada.
+
+::: {.callout-tip}
+No basta con afirmar después: “yo no estaba de acuerdo”. La oposición debe exteriorizarse conforme a la ley.
+:::
+
+
+### Fiscalización interna
+
+La SA puede contar con mecanismos específicos de fiscalización interna.
+
+Los principales son:
+
+### Sindicatura
+
+Órgano técnico de fiscalización societaria regulado por los arts. 284 y siguientes.
+
+### Consejo de Vigilancia
+
+Órgano integrado por accionistas, regulado por los arts. 280 y siguientes, con competencias de fiscalización y las facultades que legal y estatutariamente correspondan.
+
+No debe confundirse **fiscalización** con **administración**.
+
+---
+
+## Sindicatura
+
+Los síndicos son designados por la asamblea y deben reunir las condiciones profesionales previstas por la LGS.
+
+**Art. 285:** deben ser abogados o contadores públicos —o sociedades profesionales en los términos admitidos legalmente— y cumplir los requisitos correspondientes.
+
+Entre sus funciones se encuentran:
+
+- fiscalizar la administración;
+- verificar disponibilidades y obligaciones en los términos legales;
+- asistir con voz y sin voto a reuniones de directorio y asambleas;
+- controlar el cumplimiento de la ley, estatuto y decisiones asamblearias;
+- convocar asambleas en los supuestos previstos por la LGS.
+
+---
+
+## Responsabilidad de los síndicos
+
+**Arts. 296 y 297 LGS**
+
+Los síndicos son **ilimitada y solidariamente responsables** por el incumplimiento de las obligaciones que les imponen la ley, el estatuto y el reglamento.
+
+También pueden responder solidariamente con los directores por hechos u omisiones de éstos cuando el daño **no se hubiera producido si hubieran actuado conforme a sus deberes de fiscalización**.
+
+::: {.callout-important}
+Fiscalizar no significa administrar, pero la pasividad frente a irregularidades puede generar responsabilidad propia.
+:::
+
+---
+
+## ¿Puede prescindirse de la sindicatura?
+
+**Art. 284 LGS**
+
+En determinadas sociedades que **no están comprendidas en los supuestos legales que imponen fiscalización**, el estatuto puede prescindir de la sindicatura.
+
+En ese caso, los accionistas conservan los derechos de contralor previstos por la ley.
+
+::: {.callout-warning}
+No debe afirmarse que “toda SA debe tener síndico”. La respuesta depende de las características de la sociedad y de su encuadre legal.
+:::
+
+---
+
+## Consejo de Vigilancia
+
+**Arts. 280 y ss. LGS**
+
+Es un órgano integrado por **accionistas**, en número de **tres a quince**.
+
+Puede ejercer funciones de fiscalización y el estatuto puede atribuirle competencias relevantes dentro del marco legal.
+
+Entre otras posibilidades, el estatuto puede disponer que determinados actos o contratos requieran su aprobación.
+
+::: {.callout-tip}
+A diferencia de la sindicatura, el Consejo de Vigilancia se integra con **accionistas** y puede incorporar un control de gestión más intenso según el diseño estatutario.
+:::
+
+---
+
+## Fiscalización estatal — art. 299
+
+Determinadas sociedades anónimas quedan sujetas a **fiscalización estatal permanente** por reunir alguno de los supuestos previstos por el art. 299 LGS.
+
+La norma contempla sociedades que, por determinadas características —por ejemplo, su vinculación con el ahorro público, ciertas actividades o situaciones societarias— justifican un control estatal más intenso.
+
+::: {.callout-note}
+No debe confundirse:
+
+**fiscalización interna** → órganos societarios.  
+**fiscalización estatal** → autoridad pública de contralor.
+:::
+
+---
+
+## Mapa final de la SA
+
+```{mermaid}
+flowchart TD
+    A[ACCIONISTAS] -->|integran| B[ASAMBLEA]
+    B -->|designa / remueve| C[DIRECTORIO]
+    C -->|administra| D[SOCIEDAD]
+    P[PRESIDENTE] -->|representa| D
+    C --> P
+    B -->|designa| S[SINDICATURA / FISCALIZACIÓN]
+    S -->|controla legalidad y administración| C
+    A -->|titularidad| X[ACCIONES]
+    X -->|derechos políticos| B
+    X -->|derechos patrimoniales| A
+```
+
+---
+
+## Caso integrador
+
+**Delta S.A.** tiene tres accionistas:
+
+- Ana: 50 % de acciones ordinarias;
+- Bruno: 30 % de acciones ordinarias;
+- Carla: 20 % de acciones preferidas.
+
+El directorio propone aumentar el capital en un 50 %. Carla quiere vender sus acciones a un tercero y Bruno anuncia que no participará del aumento.
+
+### Para resolver
+
+1. ¿Qué derechos puede ejercer Ana frente al aumento?
+2. ¿Puede Carla transmitir sus acciones libremente? ¿Qué habría que revisar?
+3. ¿Cuándo será oponible la transferencia a la sociedad?
+4. ¿Qué órgano debe decidir el aumento según las circunstancias?
+5. ¿Qué diferencia existe entre la decisión del directorio y la de la asamblea?
+
+---
+
+## Sociedad Anónima — ideas para retener
+
+::: {.callout-important}
+### Cinco claves
+
+1. **Capital representado por acciones.**
+2. **Responsabilidad del accionista limitada a la integración de las acciones suscriptas.**
+3. **Acciones transmisibles**, aunque el estatuto puede establecer limitaciones que no equivalgan a prohibición.
+4. Separación orgánica entre **gobierno, administración, representación y fiscalización**.
+5. La regla de la mayoría convive con **mecanismos de protección del accionista**: preferencia, acrecer, receso, impugnación y reglas sobre conflicto de interés.
+:::
+
+**Normativa central:** Ley General de Sociedades 19.550, arts. 163 y ss.
