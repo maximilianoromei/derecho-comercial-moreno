@@ -1,0 +1,795 @@
+---
+title: "Contratos asociativos y formas de organización empresaria"
+subtitle: "Colaboración · Negocio en participación · Agrupaciones · Uniones transitorias · Consorcios"
+author: "Prof. Maximiliano Romei · Derecho Comercial · Universidad Nacional de Moreno"
+format:
+  revealjs:
+    theme: simple
+    slide-number: c/t
+    hash: true
+    navigation-mode: linear
+    scrollable: true
+    slide-level: 1
+    center: false
+    transition: none
+    width: 1600
+    height: 900
+    margin: 0.05
+    controls: true
+    progress: true
+lang: es
+---
+
+# Cooperar sin constituir una sociedad
+
+No toda actividad económica conjunta exige crear una sociedad.
+
+Dos o más sujetos pueden coordinar recursos, inversiones o actividades mediante un:
+
+> **contrato asociativo**
+
+La finalidad es organizar una cooperación o participación común sin constituir necesariamente:
+
+- una sociedad;
+- una persona jurídica;
+- un nuevo sujeto de derecho.
+
+El CCyC regula estas figuras en los **arts. 1442 a 1478**.
+
+---
+
+# Contratos de cambio y contratos asociativos
+
+Vítolo diferencia dos grandes lógicas contractuales.
+
+### Contratos de cambio
+
+Las prestaciones aparecen contrapuestas:
+
+> prestación de A ↔ contraprestación de B
+
+### Contratos asociativos
+
+Las prestaciones no se intercambian entre sí.
+
+Se encuentran:
+
+> **yuxtapuestas hacia una finalidad común.**
+
+Cada parte conserva su interés individual, pero coopera para alcanzar un objetivo compartido.
+
+
+---
+
+# Artículo 1442 — Regla fundamental
+
+El art. 1442 se aplica a contratos:
+
+- de colaboración;
+- de organización;
+- participativos;
+- con comunidad de fin;
+
+siempre que:
+
+> **no sean sociedad.**
+
+Y establece expresamente:
+
+> no se les aplican las normas societarias y no constituyen personas jurídicas, sociedades ni sujetos de derecho.
+
+La consecuencia es fundamental:
+
+### contrato asociativo ≠ sociedad.
+
+::: {.callout-important}
+ARTICULO 1442.- Normas aplicables. Las disposiciones de este Capítulo se aplican a todo contrato de colaboración, de organización o participativo, con comunidad de fin, que no sea sociedad.
+
+A estos contratos no se les aplican las normas sobre la sociedad, no son, ni por medio de ellos se constituyen, personas jurídicas, sociedades ni sujetos de derecho.
+
+A las comuniones de derechos reales y a la indivisión hereditaria no se les aplican las disposiciones sobre contratos asociativos ni las de la sociedad.
+:::
+
+---
+
+# Sociedad y contrato asociativo
+
+| Sociedad | Contrato asociativo |
+|---|---|
+| Surge un sujeto de derecho | No surge un sujeto de derecho |
+| Existe patrimonio social | No necesariamente existe patrimonio separado |
+| Hay socios | Hay partes contratantes |
+| Organización societaria | Organización contractual |
+| Régimen principal: LGS | Régimen principal: CCyC |
+| Personalidad jurídica | No hay personalidad jurídica |
+
+Los materiales que ya venimos utilizando resumen precisamente esta diferencia. :contentReference[oaicite:2]{index=2}
+
+---
+
+# Artículos 1443 a 1447 — Régimen general
+
+El CCyC establece reglas comunes.
+
+### Art. 1443 — Nulidad
+
+Si participan más de dos partes, la nulidad respecto de una no destruye necesariamente todo el contrato.
+
+### Art. 1444 — Forma
+
+Como regla general:
+
+> **no están sujetos a requisitos de forma.**
+
+### Art. 1445 — Actuación frente a terceros
+
+Los efectos dependen de las reglas de representación y del contrato.
+
+---
+
+# Libertad contractual
+
+El art. 1446 establece un principio importante:
+
+> **libertad de contenidos.**
+
+Las partes pueden:
+
+- adoptar alguna de las figuras tipificadas;
+- o crear otras formas de colaboración asociativa.
+
+Por lo tanto, el Código no establece una tipicidad cerrada comparable con la societaria.
+
+Y el art. 1447 agrega:
+
+> aun cuando esté prevista inscripción, el contrato no inscripto produce efectos entre las partes.
+
+---
+
+# Los cuatro modelos regulados
+
+El CCyC regula específicamente:
+
+1. **Negocio en participación**
+2. **Agrupación de colaboración**
+3. **Unión transitoria**
+4. **Consorcio de cooperación**
+
+No constituyen cuatro tipos societarios.
+
+Son:
+
+> **modelos contractuales de colaboración económica.**
+
+Cada uno responde a una finalidad diferente.
+
+---
+
+# Negocio en participación
+
+## Artículo 1448
+
+Existe negocio en participación cuando se busca realizar:
+
+> **una o más operaciones determinadas**
+
+mediante:
+
+- aportaciones comunes;
+- actuación a nombre personal del **gestor**.
+
+Es la figura más simple del sistema.
+
+No existe una organización que se exteriorice necesariamente frente a terceros.
+
+---
+
+# Gestor y partícipe
+
+En el negocio en participación aparecen dos posiciones.
+
+### Gestor
+
+- desarrolla el negocio;
+- actúa en nombre propio;
+- se vincula con terceros.
+
+### Partícipe
+
+- realiza la aportación convenida;
+- participa de los resultados;
+- permanece, como principio, fuera de la relación externa.
+
+La operación común existe internamente.
+
+Frente al tercero, la figura central es el **gestor**.
+
+---
+
+# ¿Quién responde frente a terceros?
+
+Como regla:
+
+> el tercero adquiere derechos y contrae obligaciones respecto del gestor.
+
+El partícipe no aparece en la relación externa ordinaria.
+
+Esto permite diferenciar claramente:
+
+### relación interna
+
+gestor ↔ partícipe
+
+de:
+
+### relación externa
+
+gestor ↔ tercero
+
+El negocio funciona, por lo tanto, sin crear un sujeto nuevo.
+
+---
+
+# Negocio en participación — Forma y publicidad
+
+El negocio en participación:
+
+- no está sujeto a una forma especial;
+- no requiere inscripción en el Registro Público.
+
+Esto lo diferencia notablemente de las restantes figuras reguladas.
+
+| Figura | Inscripción |
+|---|:---:|
+| Negocio en participación | **No** |
+| Agrupación de colaboración | Sí |
+| Unión transitoria | Sí |
+| Consorcio de cooperación | Sí |
+
+---
+
+# Agrupación de colaboración
+
+## Artículo 1453
+
+Existe cuando las partes establecen una **organización común** para:
+
+- facilitar;
+- desarrollar;
+
+determinadas fases de la actividad de sus miembros,
+
+o para:
+
+- perfeccionar;
+- incrementar;
+
+el resultado de esas actividades.
+
+La agrupación actúa como un **instrumento auxiliar de las empresas integrantes**.
+
+---
+
+# Ejemplo de agrupación
+
+Cinco pequeñas industrias realizan separadamente su producción.
+
+Deciden crear una organización común para:
+
+- comprar insumos;
+- desarrollar controles de calidad;
+- compartir tecnología;
+- organizar logística.
+
+Cada empresa continúa realizando su propia actividad.
+
+La agrupación:
+
+> **facilita o mejora una fase de las actividades de sus miembros.**
+
+No reemplaza a las empresas participantes.
+
+---
+
+# Agrupación — Sin finalidad lucrativa propia
+
+El art. 1454 establece:
+
+> la agrupación, en cuanto tal, **no puede perseguir fines de lucro.**
+
+Esto no significa que las empresas participantes sean entidades sin fines de lucro.
+
+Significa que:
+
+### los beneficios económicos generados deben recaer directamente sobre sus miembros.
+
+La agrupación funciona como instrumento de mejora de las actividades de los participantes.
+
+Tampoco puede ejercer funciones de dirección sobre ellos.
+
+---
+
+# Agrupación — Forma y duración
+
+El contrato debe instrumentarse mediante:
+
+- instrumento público;
+- o instrumento privado con firma certificada notarialmente.
+
+Y debe inscribirse en el:
+
+> **Registro Público.**
+
+Su duración:
+
+> **no puede exceder de diez años**
+
+aunque puede ser prorrogada en los términos legales.
+
+El contrato debe además regular detalladamente la organización común.
+
+---
+
+# Agrupación — Fondo común operativo
+
+Los miembros efectúan contribuciones a un:
+
+> **fondo común operativo.**
+
+Ese fondo permite financiar las actividades de la agrupación.
+
+No debe confundirse con el capital social.
+
+No estamos frente a una sociedad.
+
+La organización existe para permitir el cumplimiento del objeto contractual común.
+
+---
+
+# Agrupación — Responsabilidad
+
+La lógica de la agrupación exige distinguir:
+
+- actuación del representante;
+- obligaciones asumidas por los miembros;
+- responsabilidad frente a terceros.
+
+El régimen legal contempla responsabilidad de los participantes respecto de determinadas obligaciones derivadas de la actividad común.
+
+Por ello:
+
+> cooperación contractual no significa ausencia de responsabilidad patrimonial.
+
+---
+
+# Unión transitoria
+
+## Artículo 1463
+
+Existe cuando las partes se reúnen para:
+
+> **desarrollar o ejecutar obras, servicios o suministros concretos**
+
+dentro o fuera de la República.
+
+La característica distintiva es:
+
+### objeto concreto + duración vinculada al proyecto.
+
+La unión puede realizar además actividades complementarias y accesorias al objeto principal.
+
+---
+
+# Ejemplo típico de unión transitoria
+
+Tres empresas:
+
+- una constructora;
+- una empresa de ingeniería;
+- una empresa de instalaciones eléctricas;
+
+se unen para ejecutar:
+
+> **una obra pública determinada.**
+
+Cada empresa conserva:
+
+- su personalidad;
+- su patrimonio;
+- su organización.
+
+Pero coordinan sus capacidades para desarrollar el proyecto común.
+
+---
+
+# Unión transitoria — Duración
+
+A diferencia de la agrupación, la duración no se fija mediante un máximo abstracto.
+
+El art. 1464 establece que debe ser:
+
+> **igual a la duración de la obra, servicio o suministro.**
+
+Por eso la unión transitoria está estructuralmente vinculada a un proyecto específico.
+
+Terminado el proyecto:
+
+> desaparece la razón económica de la unión.
+
+---
+
+# Unión transitoria — Representante
+
+Debe designarse un representante.
+
+El representante posee poderes suficientes de todos los miembros para:
+
+- ejercer derechos;
+- contraer obligaciones;
+
+relacionados con la obra, servicio o suministro.
+
+El contrato y la designación del representante:
+
+> **deben inscribirse en el Registro Público.**
+
+La representación es una pieza central de su funcionamiento.
+
+---
+
+# Unión transitoria — Responsabilidad
+
+## Artículo 1467
+
+Una regla especialmente importante:
+
+> **no se presume la solidaridad.**
+
+Salvo disposición contractual en contrario, los miembros no son solidariamente responsables:
+
+- por los actos y operaciones de la unión;
+- ni por las obligaciones contraídas frente a terceros.
+
+Esto debe recordarse porque suele asumirse erróneamente:
+
+> “si varias empresas realizan juntas una obra, necesariamente responden solidariamente”.
+
+No es la regla general del CCyC.
+
+---
+
+# Unión transitoria — Decisiones
+
+El art. 1468 establece:
+
+> los acuerdos se adoptan por unanimidad,
+
+salvo pacto en contrario.
+
+La estructura contractual permite, por lo tanto, modificar esta regla.
+
+Además, la quiebra, muerte o incapacidad de un integrante:
+
+> no extingue necesariamente la unión.
+
+Puede continuar con los restantes si éstos acuerdan cómo cumplir las prestaciones pendientes frente a terceros.
+
+---
+
+# Consorcio de cooperación
+
+## Artículo 1470
+
+Existe cuando las partes crean una organización común para:
+
+- facilitar;
+- desarrollar;
+- incrementar;
+- concretar;
+
+operaciones relacionadas con la actividad económica de sus miembros,
+
+con el objetivo de:
+
+> **mejorar o acrecentar sus resultados.**
+
+Su formulación es más amplia que la de la unión transitoria.
+
+---
+
+# Consorcio y agrupación
+
+Las figuras presentan similitudes, pero no son idénticas.
+
+| Agrupación | Consorcio |
+|---|---|
+| Facilita o desarrolla fases de las actividades | Facilita, desarrolla, incrementa o concreta operaciones |
+| No puede tener finalidad lucrativa propia | Los resultados se distribuyen entre miembros |
+| Beneficios recaen directamente sobre integrantes | Art. 1472 regula distribución de resultados |
+| Organización auxiliar | Organización de cooperación económica |
+
+En ambos casos:
+
+> **no nace una persona jurídica nueva.**
+
+---
+
+# Consorcio — Dirección y control
+
+El art. 1471 establece una prohibición importante:
+
+> el consorcio no puede ejercer funciones de **dirección o control** sobre la actividad de sus miembros.
+
+Esto preserva la independencia de las empresas participantes.
+
+Pueden coordinar operaciones comunes.
+
+Pero el consorcio no debe convertirse en una estructura de control empresarial sobre quienes lo integran.
+
+---
+
+# Consorcio — Resultados
+
+El art. 1472 establece:
+
+> los resultados generados por la actividad del consorcio se distribuyen según la proporción fijada en el contrato.
+
+Si el contrato guarda silencio:
+
+> **se distribuyen por partes iguales.**
+
+Aquí existe una diferencia visible con la agrupación de colaboración.
+
+El Código regula expresamente el resultado económico producido por la actividad consorcial.
+
+---
+
+# Consorcio — Forma y organización
+
+El contrato debe:
+
+- otorgarse por instrumento público;
+- o por instrumento privado con firma certificada;
+- inscribirse en el Registro Público.
+
+Además debe establecer, entre otras cuestiones:
+
+- objeto;
+- plazo;
+- denominación;
+- domicilio;
+- fondo común operativo;
+- derechos y obligaciones;
+- participación en resultados;
+- mecanismos de decisión;
+- representación.
+
+La cooperación puede ser flexible, pero requiere una organización contractual clara.
+
+---
+
+# Consorcio — Responsabilidad
+
+El art. 1477 permite que el contrato determine:
+
+> la proporción en que cada miembro responde por las obligaciones asumidas en nombre del consorcio.
+
+Pero si el contrato **no dice nada**:
+
+> **todos los miembros responden solidariamente.**
+
+Esta regla contrasta con la unión transitoria.
+
+| Unión transitoria | Consorcio |
+|---|---|
+| Solidaridad **no presumida** | Solidaridad si el contrato guarda silencio |
+
+---
+
+# Comparación de las cuatro figuras
+
+| Figura | Finalidad principal | Organización | Inscripción |
+|---|---|---:|:---:|
+| Negocio en participación | Operaciones determinadas | Gestor | No |
+| Agrupación | Mejorar fases de actividad | Organización común | Sí |
+| Unión transitoria | Obra, servicio o suministro concreto | Organización temporal | Sí |
+| Consorcio | Mejorar operaciones de los miembros | Organización común | Sí |
+
+Todas comparten una idea:
+
+> **cooperación económica sin constituir sociedad.**
+
+---
+
+# ¿Cuál elegir?
+
+La elección depende del objetivo.
+
+### Operación puntual y discreta
+
+→ **Negocio en participación**
+
+### Compartir estructura para mejorar actividades permanentes
+
+→ **Agrupación de colaboración**
+
+### Ejecutar una obra o proyecto concreto
+
+→ **Unión transitoria**
+
+### Organizar cooperación económica estable y distribuir resultados
+
+→ **Consorcio de cooperación**
+
+La figura jurídica debe responder a la **realidad económica del proyecto**.
+
+---
+
+# Cooperación versus concentración
+
+Los contratos asociativos no deben confundirse con los grupos societarios estudiados anteriormente.
+
+### Grupo societario
+
+Puede existir:
+
+- control;
+- subordinación;
+- dirección económica común.
+
+### Contrato asociativo
+
+Existe:
+
+- coordinación;
+- cooperación;
+- finalidad común;
+
+sin que necesariamente una parte controle a las demás.
+
+El consorcio, incluso, tiene expresamente prohibido ejercer funciones de dirección o control sobre sus integrantes.
+
+---
+
+# Agencia, sucursal y filial
+
+Estas figuras responden a un problema distinto.
+
+Ya no preguntamos:
+
+> “¿cómo cooperan varias empresas?”
+
+sino:
+
+> **“¿cómo organiza una empresa su presencia territorial?”**
+
+Debemos diferenciar tres formas habituales:
+
+- agencia;
+- sucursal;
+- filial.
+
+No son contratos asociativos.
+
+---
+
+# Agencia
+
+En sentido organizacional, una **agencia** es un establecimiento dependiente de la organización principal.
+
+Como regla conceptual:
+
+- carece de personalidad jurídica propia;
+- actúa por cuenta de la empresa principal;
+- posee menor autonomía administrativa que una sucursal;
+- funciona como una prolongación territorial de la empresa.
+
+No debe confundirse con el **contrato de agencia** regulado por el CCyC.
+
+Aquí usamos la expresión en sentido de **establecimiento empresario**.
+
+---
+
+# Sucursal
+
+La sucursal constituye un:
+
+> **establecimiento secundario de la misma persona jurídica.**
+
+Presenta normalmente una organización más estable y cierta autonomía operativa.
+
+Pero:
+
+### casa matriz y sucursal son el mismo sujeto jurídico.
+
+Por eso:
+
+- no existe una nueva persona jurídica;
+- el patrimonio pertenece a la misma sociedad;
+- las obligaciones se imputan al mismo sujeto.
+
+En sociedades extranjeras, su actuación se conecta con el **art. 118 LGS**.
+
+---
+
+# Filial
+
+La filial presenta una diferencia decisiva.
+
+Es una:
+
+> **sociedad jurídicamente distinta de la sociedad controlante.**
+
+Puede estar totalmente controlada por otra empresa, pero conserva:
+
+- personalidad jurídica propia;
+- patrimonio propio;
+- órganos propios;
+- relaciones jurídicas propias.
+
+El material que ya habíamos elaborado lo sintetizaba correctamente:
+
+> la sociedad controlada local es una **filial**, no una sucursal. :contentReference[oaicite:3]{index=3}
+
+---
+
+# Agencia, sucursal y filial — Comparación
+
+| Característica | Agencia | Sucursal | Filial |
+|---|---|---|---|
+| Persona jurídica propia | No | No | **Sí** |
+| Misma persona que casa matriz | Sí | Sí | No |
+| Autonomía operativa | Baja | Mayor | Propia |
+| Patrimonio jurídicamente separado | No | No | **Sí** |
+| Organización propia | Limitada | Establecimiento organizado | Órganos societarios |
+| Puede existir control societario | No corresponde | No corresponde | **Sí** |
+
+La diferencia principal es:
+
+> **filial = nuevo sujeto jurídico; sucursal/agencia = misma persona.**
+
+---
+
+# Caso integrador
+
+Una empresa constructora y dos proveedoras desean participar en una obra ferroviaria durante cuatro años.
+
+No quieren constituir una sociedad nueva.
+
+Además, una de ellas decide abrir una oficina permanente en Mendoza y otra constituye una SA local controlada en un 100 %.
+
+### Preguntas
+
+1. ¿Qué contrato asociativo parece adecuado para la obra?
+2. ¿Debe inscribirse?
+3. ¿Se presume solidaridad entre sus miembros?
+4. ¿La oficina permanente constituye necesariamente una nueva sociedad?
+5. ¿La SA controlada es sucursal o filial?
+6. ¿Qué diferencia existe entre cooperación contractual y control societario?
+
+---
+
+# Ideas fuerza
+
+### Contratos asociativos
+
+Permiten:
+
+> **coordinar actividades sin crear una sociedad ni un nuevo sujeto de derecho.**
+
+### Las cuatro figuras
+
+- negocio en participación;
+- agrupación de colaboración;
+- unión transitoria;
+- consorcio de cooperación.
+
+### Organización territorial
+
+- **agencia:** establecimiento dependiente;
+- **sucursal:** establecimiento secundario de la misma persona;
+- **filial:** sociedad jurídicamente distinta.
+
+La pregunta clave siempre debe ser:
+
+> **¿hay un nuevo sujeto jurídico o solamente una organización contractual o territorial?**

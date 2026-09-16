@@ -1,0 +1,792 @@
+---
+title: "Sociedades extranjeras y grupos societarios"
+subtitle: "Extraterritorialidad · Participaciones · Control · Grupos económicos"
+author: "Prof. Maximiliano Romei · Derecho Comercial · Universidad Nacional de Moreno"
+format:
+  revealjs:
+    theme: simple
+    slide-number: c/t
+    hash: true
+    navigation-mode: linear
+    scrollable: true
+    slide-level: 1
+    center: false
+    transition: none
+    width: 1600
+    height: 900
+    margin: 0.05
+    controls: true
+    progress: true
+lang: es
+---
+
+# El problema de la actuación extraterritorial
+
+Las sociedades pueden desarrollar actividades fuera del Estado en el cual fueron constituidas.
+
+Esto plantea distintas preguntas:
+
+- ¿qué ley determina su existencia?
+- ¿puede actuar en Argentina?
+- ¿debe inscribirse?
+- ¿es igual realizar un acto aislado que desarrollar actividad habitual?
+- ¿puede participar en una sociedad argentina?
+- ¿qué ocurre si fue constituida en el extranjero pero su verdadera sede o actividad principal se encuentra en Argentina?
+
+Los **arts. 118 a 124 LGS** organizan las respuestas.
+
+---
+
+# ¿Nacionalidad de las sociedades?
+
+Tradicionalmente se habla de **“nacionalidad de las sociedades”**.
+
+Pero la expresión puede inducir a confusión.
+
+Las personas humanas poseen nacionalidad en sentido jurídico-político.
+
+Respecto de las sociedades resulta más preciso analizar:
+
+- **lugar de constitución**;
+- **ley aplicable**;
+- **domicilio o sede**;
+- **lugar de actuación**;
+- **localización de la actividad económica**;
+- **control societario**.
+
+> La pregunta jurídicamente relevante no es simplemente “¿de qué nacionalidad es?”, sino **qué ordenamiento rige su existencia y bajo qué condiciones puede actuar en otro Estado**.
+
+---
+
+# Nacionalidad y control económico
+
+Dos cuestiones deben mantenerse separadas.
+
+### Estatuto jurídico
+
+¿Dónde fue constituida la sociedad y qué ley rige su existencia y forma?
+
+### Realidad económica
+
+¿Quién controla la sociedad?  
+¿Dónde se encuentra su actividad?  
+¿Dónde se toman efectivamente las decisiones?
+
+Una sociedad constituida en un Estado puede encontrarse económicamente controlada desde otro.
+
+Por eso:
+
+> **lugar de constitución y control económico no necesariamente coinciden.**
+
+---
+
+# Artículo 118 — Regla general
+
+El art. 118 parte de una regla fundamental:
+
+> La sociedad constituida en el extranjero se rige, en cuanto a su **existencia y forma**, por las leyes del lugar de constitución.
+
+Estamos frente a un criterio de:
+
+### lex societatis
+
+La ley del lugar de constitución determina, en principio:
+
+- si la sociedad existe;
+- cuál es su forma;
+- cuál es su estructura jurídica.
+
+Argentina reconoce esa existencia conforme al criterio establecido por la LGS.
+
+---
+
+# Una sociedad extranjera puede actuar en Argentina
+
+El reconocimiento de su existencia no significa que cualquier modalidad de actuación quede sometida al mismo régimen.
+
+La LGS distingue fundamentalmente:
+
+| Actuación | Régimen |
+|---|---|
+| Actos aislados | Art. 118, segundo párrafo |
+| Estar en juicio | Art. 118, segundo párrafo |
+| Ejercicio habitual de actos comprendidos en su objeto | Art. 118, tercer párrafo |
+| Establecimiento de sucursal, asiento u otra representación permanente | Art. 118 |
+| Participación en sociedad argentina | Art. 123 |
+| Sede o principal objeto en Argentina | Art. 124 |
+
+La **intensidad de la vinculación con el país** determina distintas exigencias.
+
+---
+
+# Actos aislados
+
+El artículo 118 reconoce a la sociedad constituida en el extranjero capacidad para:
+
+> **realizar en el país actos aislados**
+
+y para:
+
+> **estar en juicio.**
+
+Para esos supuestos no se exige el régimen de inscripción previsto para la actuación habitual.
+
+Ejemplo sencillo:
+
+Una sociedad extranjera celebra excepcionalmente una operación en Argentina.
+
+La mera realización de ese acto no significa necesariamente que esté desarrollando aquí actividad habitual.
+
+---
+
+# ¿Qué es un acto aislado?
+
+La LGS **no proporciona una definición exhaustiva**.
+
+Por eso no alcanza con contar mecánicamente el número de operaciones.
+
+Deben analizarse las circunstancias:
+
+- naturaleza del acto;
+- vinculación con el objeto;
+- reiteración;
+- permanencia;
+- organización desplegada en Argentina;
+- finalidad económica de la actuación.
+
+> Lo relevante es distinguir una actuación circunstancial de una **actividad estable o habitual en el país**.
+
+---
+
+# Un problema práctico
+
+Una sociedad extranjera:
+
+1. compra un inmueble en Buenos Aires;
+2. lo destina a renta;
+3. posteriormente adquiere otros inmuebles;
+4. celebra sucesivos contratos de locación;
+5. mantiene permanentemente esa explotación.
+
+La denominación utilizada por la sociedad no resuelve el problema.
+
+No alcanza con afirmar:
+
+> “son actos aislados”.
+
+La realidad de la actuación puede demostrar la existencia de una **actividad habitual**.
+
+---
+
+# Actuación habitual
+
+Cuando la sociedad extranjera pretende realizar habitualmente actos comprendidos en su objeto o establecer:
+
+- sucursal;
+- asiento;
+- cualquier otra especie de representación permanente,
+
+el art. 118 exige determinadas formalidades.
+
+La sociedad pasa de una presencia ocasional a una:
+
+> **actuación estable en el tráfico económico argentino.**
+
+Esa mayor intensidad justifica publicidad y control local.
+
+---
+
+# Artículo 118 — Requisitos
+
+Para la actuación habitual deberá:
+
+1. **acreditar la existencia de la sociedad** conforme a la ley de su país;
+2. **fijar un domicilio en la República**;
+3. cumplir con la **publicación e inscripción** exigidas por la LGS para las sociedades que correspondan;
+4. justificar la decisión de crear la representación;
+5. designar a la persona a cuyo cargo estará.
+
+Si se trata de una sucursal:
+
+> debe determinarse además el **capital asignado**, cuando corresponda por leyes especiales.
+
+---
+
+# Sucursal y filial no son lo mismo
+
+Esta distinción es fundamental.
+
+### Sucursal
+
+Es un establecimiento secundario de la **misma sociedad extranjera**.
+
+No constituye una persona jurídica diferente.
+
+### Filial
+
+Es otra sociedad jurídicamente diferenciada, aunque se encuentre controlada por la sociedad extranjera.
+
+| Sucursal | Filial |
+|---|---|
+| Misma persona jurídica | Persona jurídica diferente |
+| Patrimonio de la sociedad extranjera | Patrimonio propio |
+| Representación local | Órganos propios |
+| Art. 118 | Sociedad local + régimen de participación/control |
+
+---
+
+# Artículo 119 — Tipo desconocido
+
+Puede ocurrir que la sociedad extranjera corresponda a un tipo jurídico:
+
+> **desconocido por las leyes argentinas.**
+
+Esto no implica automáticamente desconocer su existencia.
+
+El artículo 119 dispone que corresponde al juez de la inscripción determinar:
+
+- las formalidades que deberá cumplir;
+- aplicando el criterio de **máximo rigor previsto en la LGS**.
+
+La diversidad de legislaciones societarias extranjeras no impide necesariamente la actuación local.
+
+---
+
+# Artículo 120 — Contabilidad separada
+
+La sociedad comprendida en el art. 118 que desarrolla la actuación prevista legalmente debe llevar en Argentina:
+
+> **contabilidad separada**
+
+y someterse al contralor correspondiente.
+
+¿Por qué?
+
+Porque una sociedad puede desarrollar actividades en numerosos países.
+
+La contabilidad separada permite individualizar:
+
+- operaciones locales;
+- activos;
+- pasivos;
+- resultados;
+- relaciones económicas correspondientes a su actuación argentina.
+
+---
+
+# Artículo 121 — Representante
+
+El representante de la sociedad constituida en el extranjero:
+
+> **contrae las mismas responsabilidades que para los administradores prevé la LGS.**
+
+Y, en determinados supuestos, las correspondientes a los directores de sociedades anónimas.
+
+La sociedad extranjera no puede utilizar la representación local para generar un espacio de actuación sin responsabilidad.
+
+> **Actuar localmente implica también someter la gestión local a reglas de responsabilidad.**
+
+---
+
+# Artículo 122 — Emplazamiento en juicio
+
+La actuación internacional plantea un problema procesal muy concreto:
+
+> **¿dónde se emplaza a la sociedad extranjera?**
+
+El art. 122 contempla el emplazamiento en la República.
+
+Cuando existe un acto aislado:
+
+- puede emplazarse en la persona del apoderado que intervino.
+
+Cuando existe sucursal, asiento o representación:
+
+- puede emplazarse en la persona del representante.
+
+La actuación en Argentina genera así un punto local jurídicamente relevante para el proceso.
+
+---
+
+# Artículo 123 — Participar en una sociedad argentina
+
+Existe otra forma de actuación.
+
+Una sociedad extranjera puede querer:
+
+> **constituir una sociedad en Argentina o participar en una ya existente.**
+
+El art. 123 establece un régimen específico de inscripción.
+
+Debe acreditar:
+
+- que fue constituida conforme a las leyes de su país;
+- e inscribir su contrato social, reformas y demás documentación habilitante;
+
+en el Registro Público correspondiente.
+
+---
+
+# Artículo 118 y artículo 123
+
+No regulan exactamente el mismo supuesto.
+
+| Art. 118 | Art. 123 |
+|---|---|
+| Actuación de la propia sociedad extranjera en Argentina | Participación de la sociedad extranjera en una sociedad local |
+| Actos aislados o actividad habitual | Constitución o participación societaria |
+| Puede existir sucursal o representación | La inversión se canaliza mediante otra sociedad |
+
+Ejemplo:
+
+**Empresa francesa abre sucursal en Buenos Aires → art. 118**
+
+**Empresa francesa adquiere participación en una SA argentina → art. 123**
+
+El material que ya veníamos trabajando identifica expresamente esta inscripción específica del art. 123. :contentReference[oaicite:2]{index=2}
+
+---
+
+# Artículo 124 — La excepción decisiva
+
+La LGS contempla una situación diferente:
+
+> sociedad formalmente constituida en el extranjero, pero cuya **sede se encuentra en Argentina** o cuyo **principal objeto está destinado a cumplirse en el país**.
+
+En ese supuesto será considerada:
+
+> **sociedad local**
+
+a los efectos del cumplimiento de las formalidades de constitución, reforma y contralor de funcionamiento.
+
+---
+
+# ¿Qué busca evitar el artículo 124?
+
+El art. 124 procura impedir que la constitución extranjera sea utilizada para eludir el régimen societario argentino cuando la vinculación sustancial se encuentra aquí.
+
+Puede existir:
+
+### apariencia formal
+
+“Sociedad constituida en el extranjero”
+
+pero:
+
+### realidad societaria
+
+- sede en Argentina;
+- principal objeto destinado a cumplirse en Argentina.
+
+La norma privilegia la **realidad de la localización societaria** sobre la mera constitución formal extranjera.
+
+---
+
+# El sistema de los arts. 118 a 124
+
+| Situación | Norma | Consecuencia básica |
+|---|---|---|
+| Existencia y forma | 118 | Ley del lugar de constitución |
+| Acto aislado | 118 | Actuación admitida |
+| Actuación habitual | 118 | Inscripción y representación local |
+| Tipo desconocido | 119 | Adecuación bajo criterio de máximo rigor |
+| Contabilidad | 120 | Contabilidad separada |
+| Representante | 121 | Responsabilidad |
+| Emplazamiento | 122 | Posibilidad de emplazar localmente |
+| Participación en sociedad argentina | 123 | Inscripción específica |
+| Sede/principal objeto en Argentina | 124 | Tratamiento como sociedad local |
+
+Este esquema coincide con la síntesis que ya teníamos preparada sobre sociedades extranjeras. :contentReference[oaicite:3]{index=3}
+
+---
+
+# Del fenómeno internacional a la concentración
+
+Hasta ahora analizamos:
+
+> **una sociedad actuando fuera del Estado donde fue constituida.**
+
+Pero las empresas también pueden expandirse mediante relaciones entre distintas sociedades.
+
+Aparecen entonces:
+
+- participaciones societarias;
+- sociedades vinculadas;
+- sociedades controlantes y controladas;
+- holdings;
+- grupos económicos.
+
+Ya no interesa solamente **dónde actúa la sociedad**, sino:
+
+> **qué relación económica y jurídica existe entre varias sociedades.**
+
+---
+
+# Concentración e integración empresaria
+
+La concentración económica puede producirse sin eliminar necesariamente la personalidad jurídica de las sociedades involucradas.
+
+Varias sociedades pueden:
+
+- conservar su personalidad;
+- conservar formalmente sus órganos;
+- conservar sus patrimonios;
+
+pero encontrarse sometidas a una:
+
+> **dirección económica común o influencia dominante.**
+
+Por eso debemos distinguir:
+
+### unidad económica
+
+de
+
+### pluralidad jurídica.
+
+---
+
+# Participaciones entre sociedades
+
+Una sociedad puede participar en el capital de otra.
+
+La participación puede perseguir distintos objetivos:
+
+- inversión;
+- cooperación;
+- integración productiva;
+- acceso a mercados;
+- influencia societaria;
+- control.
+
+Pero la LGS establece límites.
+
+Los arts. **30 a 33** regulan aspectos fundamentales de las participaciones y del control entre sociedades.
+
+---
+
+# Artículo 30 — Participación según el tipo
+
+El art. 30 establece restricciones vinculadas con el **tipo societario** de quien participa.
+
+La norma determina qué sociedades pueden formar parte de sociedades de determinados tipos y contempla especialmente la participación de sociedades por acciones y en comandita por acciones.
+
+La cuestión responde a una preocupación básica:
+
+> la participación de una sociedad en otra puede modificar indirectamente el riesgo y la estructura patrimonial asumidos por sus propios socios.
+
+Por eso la LGS no considera indiferente **en qué tipo de sociedad se participa**.
+
+---
+
+# Artículo 31 — Límites a las participaciones
+
+La LGS también limita cuantitativamente determinadas participaciones de una sociedad en otra.
+
+Como regla, ninguna sociedad —salvo aquellas cuyo objeto sea exclusivamente financiero o de inversión— puede adquirir o mantener participaciones por un monto superior al permitido por el art. 31 en relación con:
+
+> **sus reservas libres y una parte de su capital y reservas legales.**
+
+La finalidad es impedir una excesiva inmovilización del patrimonio social en participaciones ajenas a su actividad.
+
+---
+
+# ¿Por qué limitar las participaciones?
+
+Imaginemos una sociedad industrial.
+
+Sus socios aportaron capital para desarrollar determinada actividad productiva.
+
+Si la administración destina prácticamente todo el patrimonio a adquirir participaciones en otras sociedades:
+
+- cambia materialmente la estructura de inversión;
+- aumenta la exposición indirecta a otros negocios;
+- puede desnaturalizar la función económica prevista;
+- puede afectar a socios y acreedores.
+
+El art. 31 establece un límite a esa política de participación.
+
+---
+
+# Artículo 32 — Participaciones recíprocas
+
+Existe un problema todavía más delicado.
+
+### Sociedad A participa en Sociedad B
+
+y simultáneamente:
+
+### Sociedad B participa en Sociedad A.
+
+La LGS prohíbe la constitución de sociedades o aumentos de capital mediante:
+
+> **participaciones recíprocas.**
+
+¿Por qué?
+
+Porque puede generarse una apariencia de capital que no representa recursos económicos efectivamente incorporados al conjunto.
+
+---
+
+# El problema del capital ficticio
+
+Ejemplo simplificado:
+
+**A aporta a B**
+
+y
+
+**B aporta a A**
+
+Formalmente ambas muestran un incremento de capital.
+
+Pero económicamente puede no haber ingresado nuevo patrimonio real al conjunto.
+
+Por eso las participaciones recíprocas pueden producir:
+
+- capitalización meramente aparente;
+- distorsión patrimonial;
+- afectación de la garantía de los acreedores;
+- estructuras circulares de control.
+
+El art. 32 procura impedir estos efectos.
+
+---
+
+# Artículo 33 — Sociedades controladas
+
+Una sociedad es **controlada** cuando otra ejerce sobre ella una influencia dominante en los términos establecidos por el art. 33.
+
+El control puede surgir, fundamentalmente, de:
+
+### participación
+
+posesión de votos suficientes para formar la voluntad social;
+
+o de:
+
+### influencia dominante
+
+ejercida como consecuencia de acciones, cuotas o partes de interés poseídas o por especiales vínculos existentes entre las sociedades.
+
+---
+
+# Control interno y control externo
+
+Didácticamente podemos distinguir:
+
+### Control interno
+
+Surge de la participación en el capital y de los votos.
+
+**A posee una participación que le permite formar la voluntad de B.**
+
+### Control externo
+
+La influencia dominante deriva de **especiales vínculos**.
+
+No depende necesariamente de poseer la mayoría del capital.
+
+Por ejemplo, determinadas relaciones económicas pueden generar una dependencia capaz de otorgar influencia dominante.
+
+---
+
+# Sociedades vinculadas
+
+El propio art. 33 diferencia control de **vinculación**.
+
+Se consideran vinculadas, a los efectos legales, las sociedades cuando una participa en:
+
+> **más del 10 % del capital de otra.**
+
+Cuando la participación supera el **25 %**, debe comunicarse para que la próxima asamblea ordinaria tome conocimiento.
+
+Por lo tanto:
+
+> **vinculación no equivale necesariamente a control.**
+
+Puede existir participación relevante sin influencia dominante.
+
+---
+
+# Vinculación, control y grupo
+
+No son conceptos idénticos.
+
+| Concepto | Idea central |
+|---|---|
+| Participación | Una sociedad posee parte del capital de otra |
+| Vinculación | Participación relevante en los términos legales |
+| Control | Capacidad de ejercer influencia dominante |
+| Grupo económico | Pluralidad jurídica con integración económica o dirección común |
+| Holding | Sociedad cuya función central consiste en poseer participaciones en otras |
+
+La intensidad de la integración aumenta progresivamente, aunque las categorías no forman necesariamente una secuencia obligatoria.
+
+---
+
+# ¿Qué es un holding?
+
+El **holding** es una técnica de organización empresarial.
+
+Una sociedad concentra participaciones en otras sociedades.
+
+Puede utilizarse para:
+
+- controlar distintas empresas;
+- coordinar decisiones;
+- organizar unidades de negocio;
+- separar riesgos;
+- estructurar inversiones.
+
+Ejemplo:
+
+| Holding H | Participación |
+|---|---:|
+| Sociedad Industrial A | 90 % |
+| Sociedad Logística B | 80 % |
+| Sociedad Comercial C | 100 % |
+
+Cada sociedad conserva personalidad jurídica propia.
+
+---
+
+# Grupo económico
+
+El grupo económico presenta una tensión característica:
+
+> **unidad económica + pluralidad jurídica**
+
+Puede existir:
+
+- una política empresarial común;
+- coordinación financiera;
+- dirección estratégica centralizada;
+- utilización conjunta de recursos;
+
+mientras jurídicamente subsisten:
+
+- distintas sociedades;
+- distintos patrimonios;
+- distintos órganos;
+- distintas relaciones con terceros.
+
+La pertenencia a un grupo **no elimina por sí sola la personalidad jurídica de cada integrante**.
+
+---
+
+# Control no significa automáticamente responsabilidad
+
+Éste es un punto importante para evitar confusiones.
+
+Que una sociedad:
+
+- controle a otra;
+- pertenezca al mismo grupo;
+- o integre un holding,
+
+no significa por sí mismo que todas las sociedades pasen a responder automáticamente por todas las obligaciones del conjunto.
+
+El punto de partida sigue siendo:
+
+> **cada sociedad es un sujeto de derecho diferenciado.**
+
+Otra cuestión será determinar las consecuencias de conductas abusivas o de los supuestos específicos previstos por el ordenamiento.
+
+---
+
+# Dos fenómenos diferentes
+
+Podemos cerrar vinculando ambos bloques.
+
+### Extraterritorialidad
+
+Pregunta:
+
+> ¿Cómo actúa en Argentina una sociedad constituida en otro país?
+
+Normas centrales:
+
+**arts. 118–124 LGS**
+
+### Integración societaria
+
+Pregunta:
+
+> ¿Cómo se relacionan patrimonialmente distintas sociedades?
+
+Normas centrales:
+
+**arts. 30–33 LGS**
+
+Ambos fenómenos responden a una misma realidad:
+
+> **la empresa económica puede superar los límites de una única sociedad y de un único territorio.**
+
+---
+
+# Caso integrador
+
+**Global Holding S.p.A.** fue constituida en Italia.
+
+La sociedad:
+
+- adquiere el 70 % de una SA argentina;
+- controla sus decisiones sociales;
+- abre además una sucursal propia en Buenos Aires;
+- la sucursal desarrolla actividad comercial permanente;
+- la sociedad argentina controla, a su vez, una empresa logística local.
+
+### Preguntas
+
+1. ¿Qué ley rige la existencia y forma de Global Holding?
+2. ¿Qué régimen corresponde a su sucursal?
+3. ¿Qué artículo regula su participación en la SA argentina?
+4. ¿Existe vinculación o control?
+5. ¿La sociedad argentina pierde su personalidad por integrar el grupo?
+6. ¿Sucursal y sociedad controlada significan lo mismo?
+
+---
+
+# Ideas fuerza
+
+### Sociedades extranjeras
+
+**Lugar de constitución → actuación → intensidad de la vinculación con Argentina**
+
+No es lo mismo:
+
+- acto aislado;
+- actividad habitual;
+- sucursal;
+- participación en sociedad local;
+- sociedad formalmente extranjera con sede o principal objeto local.
+
+### Grupos societarios
+
+**Participación → vinculación → control → integración empresaria**
+
+La existencia de una unidad económica no elimina automáticamente:
+
+> **la pluralidad de sujetos jurídicos.**
+
+---
+
+# Mapa normativo final
+
+| Tema | Artículo LGS |
+|---|---:|
+| Sociedad constituida en el extranjero | **118** |
+| Tipo desconocido | **119** |
+| Contabilidad | **120** |
+| Representantes | **121** |
+| Emplazamiento | **122** |
+| Participación en sociedad local | **123** |
+| Sociedad con sede/principal objeto local | **124** |
+| Participaciones societarias | **30–31** |
+| Participaciones recíprocas | **32** |
+| Control y vinculación | **33** |
+
+La lectura conjunta permite comprender dos dimensiones del derecho societario moderno:
+
+> **la actuación transnacional y la integración económica entre sociedades.**

@@ -1,0 +1,915 @@
+---
+title: "Derecho aeronáutico"
+subtitle: "Instituciones fundamentales, transporte, responsabilidad y régimen internacional"
+lang: es
+format:
+  revealjs:
+    theme: simple
+    css: styles.css
+    slide-number: c/t
+    transition: fade
+    background-transition: fade
+    center: false
+    controls: true
+    scrollable: true
+    progress: true
+    hash: true
+    history: true
+    width: 1600
+    height: 900
+    margin: 0.06
+    navigation-mode: linear
+    pdf-separate-fragments: false
+execute:
+  echo: false
+---
+
+# Mapa de la clase {.section-title}
+
+::: {.blue-box .centered}
+Ambiente → infraestructura → aeronave → sujetos → transporte → responsabilidad → seguro → jurisdicción internacional.
+:::
+
+1. Sistema y fuentes.
+2. Espacio aéreo e infraestructura.
+3. Aeronave, propiedad, matrícula, privilegios e hipoteca.
+4. Explotador, comandante, piloto y tripulación.
+5. Transporte aéreo y responsabilidad.
+6. Búsqueda, asistencia, salvamento, seguros, jurisdicción y libertades del aire.
+
+::: {.small-source}
+Base exclusiva: Videla Escalada, Folchi, Código Aeronáutico suministrado.
+:::
+
+# Sistema y fuentes {.section-title}
+
+## Derecho aeronáutico: idea inicial
+
+::: {.highlight-box}
+El derecho aeronáutico regula la actividad aeronáutica y las relaciones jurídicas que nacen de ella o resultan modificadas por ella.
+:::
+
+La materia combina normas de derecho público y privado, interno e internacional.
+
+Su punto de partida no es sólo el contrato de transporte, sino la **actividad aérea** como fenómeno técnico, económico y jurídico.
+
+::: {.small-source}
+Videla Escalada, cap. 1; Folchi, t. I.
+:::
+
+## Caracteres principales
+
+- **Dinamismo:** la técnica transforma continuamente la actividad regulada.
+- **Internacionalidad:** la aeronave atraviesa fronteras y exige coordinación normativa.
+- **Reglamentarismo:** la ley necesita normas técnicas complementarias.
+- **Integralidad:** convergen derecho administrativo, comercial, civil, penal, laboral e internacional.
+- **Autonomía:** existen principios, instituciones y método propios.
+
+::: {.small-source}
+Videla Escalada, cap. 1.
+:::
+
+## Fuentes del derecho aeronáutico
+
+| Fuente | Función en la materia |
+|---|---|
+| Tratados internacionales | Ocupan lugar preponderante por la internacionalidad de la actividad. |
+| Código Aeronáutico | Ordenamiento legal interno básico. |
+| Reglamentación técnica | Concreta seguridad, navegación, operación e infraestructura. |
+| Usos y costumbres | Integran soluciones propias de la actividad aérea. |
+| Doctrina y jurisprudencia | Interpretan el sistema y sus instituciones. |
+
+::: {.small-source}
+Código Aeronáutico, art. 2; Videla Escalada, cap. 2.
+:::
+
+## El Código Aeronáutico en la clase
+
+::: {.regla}
+El Código suministrado estructura la materia por títulos: generalidades, circulación, infraestructura, aeronaves, personal, aeronáutica comercial, responsabilidad, búsqueda y salvamento, investigación, seguros, jurisdicción y competencia.
+:::
+
+Esto permite leer la disciplina como un sistema:
+
+```{mermaid}
+flowchart LR
+A[Espacio aéreo] --> B[Infraestructura]
+B --> C[Aeronave]
+C --> D[Sujetos]
+D --> E[Transporte]
+E --> F[Responsabilidad]
+F --> G[Seguro]
+G --> H[Jurisdicción]
+```
+
+::: {.small-source}
+Código Aeronáutico, índice temático y art. 2.
+:::
+
+## Integración ante lagunas
+
+Cuando una cuestión no está prevista por la ley, tratados, reglamentos o normas complementarias, el Código ordena acudir a:
+
+1. principios generales del derecho aeronáutico;
+2. usos y costumbres de la actividad aérea;
+3. leyes análogas;
+4. principios generales del derecho común.
+
+::: {.warning-box}
+La autonomía no significa aislamiento: significa una prelación metodológica propia.
+:::
+
+::: {.small-source}
+Código Aeronáutico, art. 2.
+:::
+
+# Espacio aéreo e infraestructura {.section-title}
+
+## Espacio aéreo: problema jurídico
+
+La actividad aérea se desarrolla en un medio físicamente continuo, pero jurídicamente sometido a soberanías estatales.
+
+Preguntas centrales:
+
+- ¿Qué poder tiene el Estado sobre el espacio aéreo que cubre su territorio?
+- ¿Cómo se compatibiliza esa soberanía con la navegación aérea internacional?
+- ¿Qué límites impone la seguridad del vuelo?
+
+::: {.small-source}
+Videla Escalada, cap. 3; Folchi, t. I.
+:::
+
+## Soberanía sobre el espacio aéreo
+
+::: {.blue-box}
+El Código reconoce soberanía plena y exclusiva de la Argentina sobre el espacio aéreo que cubre su territorio, mar territorial y aguas adyacentes, con reserva de los tratados vigentes.
+:::
+
+La soberanía permite regular circulación, ingreso, salida, seguridad, defensa, fiscalización y responsabilidad.
+
+::: {.small-source}
+Código Aeronáutico, art. 1; Videla Escalada, cap. 3.
+:::
+
+## Libertad de circulación aérea
+
+::: {.green-box}
+El despegue, la circulación y el aterrizaje son libres en el espacio aéreo argentino, mientras no estén limitados por la legislación vigente.
+:::
+
+La libertad opera dentro de un marco de:
+
+- seguridad operacional;
+- ordenamiento del tránsito;
+- defensa nacional;
+- fiscalización estatal.
+
+::: {.small-source}
+Código Aeronáutico, arts. 3, 7, 8, 12 y 13.
+:::
+
+## Aeródromos y aeropuertos
+
+| Figura | Nota distintiva |
+|---|---|
+| Aeródromo público | Destinado al uso público. |
+| Aeródromo privado | No destinado al uso público. |
+| Aeropuerto | Aeródromo público con servicios o intensidad de movimiento que justifican esa denominación. |
+| Aeropuerto internacional | Aeródromo o aeropuerto destinado a tráfico exterior, con sanidad, aduana, migraciones y otros servicios. |
+
+::: {.highlight-box}
+La condición del propietario del inmueble no determina si el aeródromo es público o privado.
+:::
+
+::: {.small-source}
+Código Aeronáutico, arts. 25 y 26.
+:::
+
+## Habilitación y funcionamiento
+
+Todo aeródromo debe ser habilitado por la autoridad aeronáutica.
+
+La autoridad fija el régimen y las condiciones de funcionamiento de cada caso.
+
+Los servicios aeroportuarios son regulados y fiscalizados bajo principios de seguridad, libre competencia y acceso a mercados.
+
+::: {.small-source}
+Código Aeronáutico, arts. 27 a 29 bis.
+:::
+
+## Limitaciones al dominio
+
+Las superficies de despeje de obstáculos son áreas imaginarias, oblicuas y horizontales que se extienden sobre cada aeródromo y sus inmediaciones.
+
+Finalidad:
+
+- limitar altura de construcciones, plantaciones o estructuras;
+- evitar peligros para la circulación aérea;
+- imponer señalamiento de obstáculos.
+
+::: {.small-source}
+Código Aeronáutico, arts. 30 a 35; Videla Escalada, cap. 4.
+:::
+
+# Aeronave y derechos sobre aeronaves {.section-title}
+
+## Concepto legal de aeronave
+
+::: {.highlight-box}
+Son aeronaves tripuladas y no tripuladas los aparatos o mecanismos que puedan circular en el espacio aéreo y sean aptos para transportar personas o cosas.
+:::
+
+Elementos del concepto:
+
+- circulación en el espacio aéreo;
+- aptitud de transporte;
+- inclusión expresa de aeronaves no tripuladas.
+
+::: {.small-source}
+Código Aeronáutico, art. 36; Videla Escalada, cap. 5; Folchi, t. I.
+:::
+
+## Clasificación de aeronaves
+
+| Clase | Criterio |
+|---|---|
+| Públicas | Destinadas al servicio del poder público. |
+| Privadas | Las demás, aunque pertenezcan al Estado. |
+
+::: {.warning-box}
+No interesa sólo la titularidad dominial: importa el destino funcional de la aeronave.
+:::
+
+::: {.small-source}
+Código Aeronáutico, art. 37.
+:::
+
+## Matrícula y nacionalidad
+
+La inscripción en el Registro Nacional de Aeronaves confiere nacionalidad argentina y cancela toda matrícula anterior.
+
+La aeronave pierde nacionalidad argentina al ser inscripta en un Estado extranjero.
+
+Las marcas de nacionalidad y matrícula identifican jurídicamente a la aeronave.
+
+::: {.small-source}
+Código Aeronáutico, arts. 38 a 40; Videla Escalada, cap. 5.
+:::
+
+## Registro Nacional de Aeronaves
+
+Se inscriben, entre otros:
+
+- propiedad, transferencia, modificación o extinción;
+- hipotecas sobre aeronaves y motores;
+- embargos, medidas precautorias e interdicciones;
+- matrículas;
+- contratos de locación y otros oponibles a terceros;
+- hechos o actos que alteren la situación jurídica de la aeronave.
+
+::: {.regla}
+Registro = publicidad + individualización + oponibilidad.
+:::
+
+::: {.small-source}
+Código Aeronáutico, arts. 45 a 47.
+:::
+
+## Propiedad de aeronaves
+
+Las aeronaves son **cosas muebles registrables**.
+
+La transferencia de dominio y los actos previstos por el Código no producen efectos contra terceros si no son seguidos de inscripción registral.
+
+::: {.regla}
+Acto jurídico + forma exigida + inscripción = oponibilidad frente a terceros.
+:::
+
+::: {.small-source}
+Código Aeronáutico, arts. 48 a 51.
+:::
+
+## Hipoteca aeronáutica
+
+La hipoteca puede recaer sobre:
+
+- aeronaves completas;
+- partes indivisas;
+- aeronaves en construcción;
+- motores inscriptos.
+
+Debe constituirse por instrumento público o privado autenticado e inscribirse en el Registro Nacional de Aeronaves.
+
+::: {.small-source}
+Código Aeronáutico, arts. 52 y 53; Videla Escalada, cap. 6.
+:::
+
+## Efectos de la hipoteca
+
+La inscripción confiere al acreedor hipotecario derecho de preferencia según el orden registral.
+
+El privilegio hipotecario se extiende a:
+
+- indemnización del seguro por pérdida o avería;
+- indemnizaciones debidas al propietario por daños causados por terceros;
+- materiales o efectos recuperados en caso de destrucción o inutilización.
+
+::: {.small-source}
+Código Aeronáutico, arts. 53 a 57.
+:::
+
+## Privilegios aeronáuticos
+
+Tienen privilegio sobre la aeronave, entre otros:
+
+1. gastos causídicos que beneficien al acreedor hipotecario;
+2. tasas y tributos vinculados a la aviación civil;
+3. créditos de búsqueda, asistencia o salvamento;
+4. reparaciones extraordinarias fuera del destino para continuar el viaje;
+5. emolumentos de la tripulación por el último mes.
+
+::: {.small-source}
+Código Aeronáutico, arts. 58 a 64; Videla Escalada, cap. 7.
+:::
+
+## Hipoteca y privilegios
+
+| Institución | Rasgo principal |
+|---|---|
+| Hipoteca | Garantía real registral constituida por acto jurídico. |
+| Privilegio | Preferencia legal otorgada a ciertos créditos aeronáuticos. |
+| Registro | Da publicidad y oponibilidad en los supuestos previstos. |
+| Orden de cobro | Los privilegios del Código tienen preferencia especial. |
+
+::: {.small-source}
+Código Aeronáutico, arts. 57 a 64.
+:::
+
+# Sujetos aeronáuticos {.section-title}
+
+## Explotador de aeronave
+
+::: {.highlight-box}
+El explotador es la persona que utiliza legítimamente la aeronave por cuenta propia, aun sin fines de lucro.
+:::
+
+Reglas centrales:
+
+- el propietario se presume explotador;
+- puede transferirse esa calidad por contrato;
+- la transferencia debe inscribirse;
+- sin inscripción, propietario y explotador responden solidariamente por infracciones o daños.
+
+::: {.small-source}
+Código Aeronáutico, arts. 65 a 68; Videla Escalada, cap. 7.
+:::
+
+## Contratos sobre aeronaves
+
+El Código adopta el principio de libertad contractual.
+
+Pero cuando el contrato transfiere la calidad de explotador, debe:
+
+- celebrarse por escrito;
+- inscribirse en el Registro Nacional de Aeronaves;
+- producir efectos conforme los arts. 66 y 67.
+
+::: {.small-source}
+Código Aeronáutico, arts. 68 a 70.
+:::
+
+## Personal aeronáutico
+
+Las personas que cumplen funciones aeronáuticas a bordo o en superficie deben poseer certificación de idoneidad expedida por la autoridad aeronáutica.
+
+La reglamentación determina:
+
+- denominación de los certificados;
+- facultades conferidas;
+- requisitos de obtención;
+- condiciones de fiscalización.
+
+::: {.small-source}
+Código Aeronáutico, arts. 76 y 77; Videla Escalada, cap. 8.
+:::
+
+## Piloto y comandante
+
+| Figura | Función |
+|---|---|
+| Piloto | Persona habilitada técnicamente para conducir la aeronave. |
+| Comandante | Piloto investido de mando, autoridad y representación durante el viaje. |
+
+Toda aeronave tripulada debe tener a bordo un piloto habilitado investido como comandante.
+
+En aeronaves no tripuladas, el piloto a distancia es el comandante.
+
+::: {.small-source}
+Código Aeronáutico, art. 79.
+:::
+
+## Facultades del comandante
+
+El comandante:
+
+- representa al explotador;
+- tiene poder de disciplina sobre la tripulación;
+- ejerce autoridad sobre pasajeros;
+- debe velar por la seguridad de personas y bienes;
+- puede suspender el vuelo bajo su responsabilidad si las condiciones lo justifican.
+
+::: {.small-source}
+Código Aeronáutico, arts. 79 a 84; Videla Escalada, cap. 8.
+:::
+
+## Deberes extraordinarios del comandante
+
+En situaciones críticas, el comandante debe:
+
+- permanecer en su puesto hasta adoptar medidas útiles de salvamento;
+- tomar medidas para salvar pasajeros, tripulación y bienes;
+- evitar daños en la superficie;
+- registrar hechos relevantes ocurridos a bordo;
+- arrojar mercaderías o equipajes si es indispensable para la seguridad.
+
+::: {.small-source}
+Código Aeronáutico, arts. 81 a 86.
+:::
+
+## Tripulación
+
+La autoridad aeronáutica determina la integración mínima de la tripulación de vuelo para aeronaves destinadas al transporte aéreo.
+
+Puede extender exigencias a otras aeronaves cuando lo requiera la seguridad del vuelo.
+
+::: {.regla}
+La seguridad operacional ordena la relación entre idoneidad, mando, tripulación y fiscalización.
+:::
+
+::: {.small-source}
+Código Aeronáutico, art. 78.
+:::
+
+# Transporte aéreo {.section-title}
+
+## Aeronáutica comercial
+
+La aeronáutica comercial comprende:
+
+- servicios de transporte aéreo;
+- servicios de trabajo aéreo.
+
+El servicio de transporte aéreo es una serie de actos destinados a trasladar personas o cosas en aeronave de un aeródromo a otro.
+
+::: {.small-source}
+Código Aeronáutico, arts. 91 y 92; Videla Escalada, caps. 13 y 14.
+:::
+
+## Clasificaciones del transporte aéreo
+
+| Clasificación | Categorías |
+|---|---|
+| Según regularidad | Regular / no regular. |
+| Según ámbito | Interno / internacional. |
+| Según objeto | Personas / equipajes / mercancías. |
+
+El transporte regular se sujeta a itinerario y horario prefijados; el no regular no.
+
+::: {.small-source}
+Código Aeronáutico, arts. 93 y 94.
+:::
+
+## Explotación de servicios aerocomerciales
+
+La explotación de actividad comercial aérea requiere autorización previa.
+
+Para empresas extranjeras, la autorización se sujeta a normas y acuerdos internacionales aplicables.
+
+En el transporte interno se exige autorización y comprobación de capacidad técnica y económico-financiera.
+
+::: {.small-source}
+Código Aeronáutico, arts. 95 a 105.
+:::
+
+## Contrato de transporte aéreo
+
+::: {.highlight-box}
+El contrato de transporte aéreo articula transportador, pasajero o expedidor, aeronave, traslado, documentación y responsabilidad.
+:::
+
+En la práctica, el régimen contractual no puede separarse de:
+
+- seguridad del vuelo;
+- infraestructura utilizada;
+- autorización del servicio;
+- reglas especiales de responsabilidad.
+
+::: {.small-source}
+Videla Escalada, cap. 14; Folchi, t. I y II.
+:::
+
+## Pasajeros, equipajes y mercancías
+
+| Objeto | Riesgo típico |
+|---|---|
+| Pasajero | Muerte, lesión corporal, retraso. |
+| Equipaje | Destrucción, pérdida, avería, retraso. |
+| Mercancía | Destrucción, pérdida, avería, retraso. |
+
+La diferencia afecta hecho generador, período relevante, prueba y límites indemnizatorios.
+
+::: {.small-source}
+Código Aeronáutico, arts. 139 a 145; Videla Escalada, cap. 20.
+:::
+
+# Responsabilidad aeronáutica {.section-title}
+
+## Sistema especial de responsabilidad
+
+La responsabilidad aeronáutica se explica por los riesgos propios de la navegación aérea:
+
+- velocidad;
+- internacionalidad;
+- dependencia técnica;
+- posible daño masivo;
+- intervención de sujetos no vinculados contractualmente.
+
+::: {.warning-box}
+La especialidad del régimen busca equilibrar reparación, previsibilidad económica y aseguramiento.
+:::
+
+::: {.small-source}
+Videla Escalada, caps. 20 a 22; Folchi, t. II.
+:::
+
+## Daños a pasajeros
+
+El transportador responde por muerte o lesión corporal del pasajero cuando el accidente ocurre:
+
+- a bordo de la aeronave;
+- durante operaciones de embarque;
+- durante operaciones de desembarque.
+
+::: {.small-source}
+Código Aeronáutico, art. 139.
+:::
+
+## Equipajes y mercancías
+
+El transportador responde por destrucción, pérdida o avería cuando el hecho causante se produce durante el transporte aéreo.
+
+Ese período comprende el tiempo durante el cual equipajes o mercancías están al cuidado del transportador:
+
+- en aeródromo;
+- a bordo;
+- en lugar de aterrizaje fuera de aeródromo.
+
+::: {.small-source}
+Código Aeronáutico, art. 140.
+:::
+
+## Retraso
+
+El transportador responde por daños resultantes del retraso en el transporte de:
+
+- pasajeros;
+- equipajes;
+- mercancías.
+
+La demora debe ser analizada dentro del régimen especial, con sus eximentes y límites.
+
+::: {.small-source}
+Código Aeronáutico, arts. 141 a 143.
+:::
+
+## Exoneración y atenuación
+
+El transportador puede eximirse si prueba que él y sus dependientes tomaron todas las medidas necesarias para evitar el daño o que fue imposible tomarlas.
+
+La responsabilidad puede atenuarse o excluirse si la víctima causó el daño o contribuyó a causarlo.
+
+::: {.small-source}
+Código Aeronáutico, arts. 142 y 143; Videla Escalada, cap. 20.
+:::
+
+## Límites de responsabilidad
+
+El Código prevé límites cuantitativos para la responsabilidad del transportador.
+
+Estos límites se conectan con:
+
+- previsibilidad del riesgo;
+- asegurabilidad;
+- régimen uniforme;
+- pérdida del beneficio en supuestos especialmente graves.
+
+::: {.small-source}
+Código Aeronáutico, arts. 144 a 163; Videla Escalada, cap. 20.
+:::
+
+## Daños a terceros en la superficie
+
+::: {.highlight-box}
+Quien sufre un daño en la superficie no participa de la actividad aérea, pero soporta sus riesgos.
+:::
+
+El régimen se orienta a proteger al tercero afectado por aeronave en vuelo o por personas o cosas caídas o arrojadas desde ella.
+
+La responsabilidad se estructura alrededor del explotador.
+
+::: {.small-source}
+Código Aeronáutico, arts. 155 a 163; Videla Escalada, cap. 21; Folchi, t. II.
+:::
+
+## Abordaje
+
+El abordaje comprende daños derivados de colisión o interferencia entre aeronaves en movimiento.
+
+Reglas principales:
+
+- culpa de una aeronave: responde su explotador;
+- concurrencia de culpa: distribución proporcional o por partes iguales;
+- dolo: pérdida del beneficio de limitación;
+- solidaridad en ciertos supuestos frente a damnificados.
+
+::: {.small-source}
+Código Aeronáutico, arts. 165 a 174; Videla Escalada, cap. 22.
+:::
+
+## Terceros en superficie por abordaje
+
+Cuando el daño a terceros en superficie proviene del abordaje de dos o más aeronaves en vuelo, los explotadores responden solidariamente.
+
+Luego se habilitan acciones de regreso según:
+
+- culpa de una aeronave;
+- concurrencia de culpa;
+- caso fortuito o fuerza mayor.
+
+::: {.small-source}
+Código Aeronáutico, arts. 170 a 174.
+:::
+
+# Búsqueda, asistencia, salvamento y seguros {.section-title}
+
+## Socorro aeronáutico
+
+La doctrina distingue:
+
+| Figura | Idea central |
+|---|---|
+| Búsqueda | Localizar aeronaves desaparecidas o en peligro. |
+| Asistencia | Ayuda a una aeronave en peligro. |
+| Salvamento | Rescate de personas o bienes. |
+
+::: {.small-source}
+Código Aeronáutico, arts. 175 a 184; Videla Escalada, cap. 19; Folchi, t. II.
+:::
+
+## Deber de colaboración y socorro
+
+Explotadores y comandantes deben colaborar en la búsqueda de aeronaves a requerimiento de la autoridad aeronáutica, en la medida de sus posibilidades.
+
+El comandante debe prestar asistencia a aeronaves en peligro y salvamento de personas a bordo.
+
+::: {.small-source}
+Código Aeronáutico, arts. 175 y 176.
+:::
+
+## Límites al deber de socorro
+
+No hay obligación de prestar socorro cuando:
+
+- el socorro está asegurado en mejores condiciones;
+- la prestación implica riesgos para quienes están a bordo;
+- no existen posibilidades de prestar un socorro útil.
+
+::: {.small-source}
+Código Aeronáutico, art. 177.
+:::
+
+## Consecuencias patrimoniales
+
+Quien colabora en búsqueda, asistencia o salvamento puede tener derecho a:
+
+- indemnización por gastos y daños emergentes;
+- remuneración por salvamento de bienes;
+- participación equitativa cuando se salvan personas y bienes.
+
+La remuneración nunca puede exceder el valor de los bienes salvados.
+
+::: {.small-source}
+Código Aeronáutico, arts. 178 a 184.
+:::
+
+## Seguros aeronáuticos
+
+El régimen de seguros conecta riesgo, responsabilidad y garantía patrimonial.
+
+El explotador debe asegurar:
+
+- personal con función a bordo;
+- daños comprendidos en el régimen de responsabilidad;
+- daños causados a personas o cosas transportadas y terceros, cuando corresponda.
+
+::: {.small-source}
+Código Aeronáutico, arts. 191 a 196; Videla Escalada, cap. 23; Folchi, t. II.
+:::
+
+## Seguro y aeronaves extranjeras
+
+No se autoriza la circulación en el espacio aéreo nacional de aeronaves extranjeras que no justifiquen seguros por daños a:
+
+- personas transportadas;
+- cosas transportadas;
+- terceros en la superficie.
+
+Cuando rigen acuerdos o convenciones internacionales, el seguro debe cubrir los límites allí previstos.
+
+::: {.small-source}
+Código Aeronáutico, art. 193.
+:::
+
+# Jurisdicción, competencia y régimen internacional {.section-title}
+
+## Legislación nacional y competencia federal
+
+El Código declara materia de legislación nacional la regulación de circulación aérea, aeródromos, títulos habilitantes, matrícula, aeronavegabilidad y servicios comerciales aéreos.
+
+Las causas sobre navegación aérea o comercio aéreo corresponden a la Corte Suprema y tribunales inferiores de la Nación.
+
+::: {.small-source}
+Código Aeronáutico, arts. 197 y 198.
+:::
+
+## Aeronave privada argentina
+
+Los hechos, actos y delitos ocurridos en aeronave privada argentina se rigen por ley argentina y son juzgados por tribunales argentinos cuando ocurren:
+
+- en espacio aéreo argentino;
+- donde ningún Estado ejerce soberanía.
+
+También puede haber jurisdicción argentina en territorio extranjero si existe conexión calificada con el Estado argentino o personas domiciliadas en él.
+
+::: {.small-source}
+Código Aeronáutico, art. 199.
+:::
+
+## Aeronave privada extranjera
+
+En aeronave privada extranjera en vuelo sobre espacio aéreo argentino, la jurisdicción argentina y la aplicación de ley nacional proceden en supuestos determinados.
+
+Entre ellos:
+
+- infracción a leyes de seguridad pública, militares o fiscales;
+- infracción a leyes o reglamentos de circulación aérea;
+- afectación de intereses protegidos por el Código.
+
+::: {.small-source}
+Código Aeronáutico, art. 200; Videla Escalada, cap. 27.
+:::
+
+## Aeronave pública extranjera
+
+::: {.green-box}
+Los hechos, actos y delitos cometidos en aeronave pública extranjera en espacio aéreo argentino se rigen por la ley del pabellón y son juzgados por sus tribunales.
+:::
+
+Aquí aparece con especial fuerza la dimensión soberana e interestatal de la aeronáutica.
+
+::: {.small-source}
+Código Aeronáutico, art. 201.
+:::
+
+## Convenciones internacionales
+
+| Instrumento | Eje principal |
+|---|---|
+| París 1919 | Primer gran sistema internacional de navegación aérea. |
+| Chicago 1944 | Marco de aviación civil internacional y OACI. |
+| Varsovia 1929 | Transporte aéreo internacional. |
+| La Haya 1955 / Guadalajara 1961 | Evolución del sistema de Varsovia. |
+| Roma 1952 | Daños a terceros en la superficie. |
+| Montreal 1999 | Régimen moderno del transporte aéreo internacional. |
+
+::: {.small-source}
+Videla Escalada, caps. 2, 20 y 21; Folchi, t. I y II.
+:::
+
+## Chicago 1944 y OACI
+
+El Convenio de Chicago parte de la soberanía estatal sobre el espacio aéreo y organiza cooperación internacional para una aviación civil segura y ordenada.
+
+Ejes:
+
+- soberanía;
+- uniformidad técnica;
+- certificados y estándares;
+- institucionalización mediante OACI.
+
+::: {.small-source}
+Videla Escalada, cap. 2; Folchi, t. I y II.
+:::
+
+## Libertades del aire
+
+::: {.highlight-box}
+Las libertades del aire son derechos de acceso y tráfico reconocidos entre Estados para hacer posible la operación internacional de servicios aéreos.
+:::
+
+No niegan la soberanía: dependen del consentimiento estatal, usualmente mediante tratados o acuerdos bilaterales o multilaterales.
+
+::: {.small-source}
+Folchi, t. II; Videla Escalada, servicios de transporte aéreo internacional.
+:::
+
+## Libertades técnicas
+
+| Libertad | Contenido |
+|---|---|
+| Primera | Sobrevolar territorio de otro Estado sin aterrizar. |
+| Segunda | Aterrizar por razones técnicas o no comerciales. |
+
+No autorizan por sí mismas embarcar o desembarcar tráfico comercial.
+
+::: {.small-source}
+Folchi, t. II.
+:::
+
+## Libertades comerciales clásicas
+
+| Libertad | Contenido |
+|---|---|
+| Tercera | Desembarcar en otro Estado tráfico embarcado en el Estado de nacionalidad del transportista. |
+| Cuarta | Embarcar en otro Estado tráfico con destino al Estado de nacionalidad del transportista. |
+| Quinta | Transportar tráfico entre dos Estados extranjeros dentro de un servicio vinculado al Estado de nacionalidad del transportista. |
+
+::: {.small-source}
+Folchi, t. II; Videla Escalada, transporte aéreo internacional.
+:::
+
+## Libertades sucesivas y cabotaje
+
+Las denominadas sexta, séptima, octava y novena libertades describen combinaciones más amplias de tráfico internacional y cabotaje.
+
+El cabotaje consiste en transportar tráfico entre dos puntos del territorio de un mismo Estado.
+
+::: {.warning-box}
+Cuanto más se avanza hacia libertades comerciales amplias, mayor es el peso de la política aerocomercial y de la autorización estatal.
+:::
+
+::: {.small-source}
+Folchi, t. II; Videla Escalada, servicios internacionales.
+:::
+
+# Cierre {.section-title}
+
+## Cómo se conectan las piezas
+
+```{mermaid}
+flowchart TD
+A[Espacio aéreo soberano] --> B[Circulación regulada]
+B --> C[Infraestructura aeronáutica]
+C --> D[Aeronave matriculada]
+D --> E[Explotador, comandante y tripulación]
+E --> F[Transporte aéreo]
+F --> G[Responsabilidad]
+G --> H[Seguro obligatorio]
+H --> I[Jurisdicción y acuerdos internacionales]
+```
+
+::: {.small-source}
+Síntesis construida sobre Videla Escalada, Folchi y Código Aeronáutico suministrado.
+:::
+
+## Caso integrador
+
+Un vuelo regular Buenos Aires–Madrid permite observar todo el sistema:
+
+1. despega desde infraestructura habilitada;
+2. utiliza una aeronave matriculada y asegurada;
+3. opera bajo responsabilidad de un explotador;
+4. es conducido por comandante y tripulación habilitada;
+5. transporta pasajeros, equipajes y carga;
+6. cruza espacios sometidos a distintas soberanías;
+7. puede generar responsabilidad contractual o extracontractual;
+8. depende de derechos aerocomerciales reconocidos entre Estados.
+
+## Preguntas finales
+
+- ¿Por qué la soberanía aérea no elimina la circulación internacional?
+- ¿Qué diferencia al propietario del explotador?
+- ¿Por qué la matrícula tiene función jurídica y no sólo identificatoria?
+- ¿Qué justifica límites especiales de responsabilidad?
+- ¿Qué función cumple el seguro obligatorio?
+- ¿Por qué las libertades del aire dependen de acuerdos estatales?
+
+## Fuentes utilizadas
+
+- Videla Escalada, Federico N., *Manual de Derecho Aeronáutico*.
+- Folchi, Mario O., *Tratado de derecho aeronáutico y política de la aeronáutica civil*, tomos I y II.
+- Código Aeronáutico, Ley 17.285, texto suministrado por el docente.
+
+::: {.warning-box}
+No se incorporó jurisprudencia ni doctrina externa a los materiales indicados.
+:::

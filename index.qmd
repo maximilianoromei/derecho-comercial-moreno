@@ -36,9 +36,3 @@ subtitle: "Universidad Nacional de Moreno"
 [🎓 Tipos societarios](clase3-tipos-societarios.html){.btn .btn-primary target="_blank"}
 
 [🎓 Sociedades de la Sección IV](clase3-seccion-IV.html){.btn .btn-primary target="_blank"}
-
-## Clase 5 - SRL
-
-[🎓 SRL](clase10-srl.html){.btn .btn-primary target="_blank"}
-
-[🎓 SRL - Descarga](clase10-srl.pdf){.btn .btn-primary target="_blank"}
