@@ -49,4 +49,4 @@ subtitle: "Universidad Nacional de Moreno"
 
 [🎓 SCA](clase16-sca.html){.btn .btn-primary target="_blank"}
 
-[🎓 SOCIEDAD ANONIMA](clase16-sociedad-anonima.html){.btn .btn-primary target="_blank"}
+[🎓 SOCIEDAD ANONIMA](clase6-sa.html){.btn .btn-primary target="_blank"}
