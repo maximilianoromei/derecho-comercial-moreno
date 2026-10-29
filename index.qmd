@@ -50,3 +50,10 @@ subtitle: "Universidad Nacional de Moreno"
 [🎓 SCA](clase16-sca.html){.btn .btn-primary target="_blank"}
 
 [🎓 SOCIEDAD ANONIMA](clase6-sa.html){.btn .btn-primary target="_blank"}
+
+## Clase 7 - Cooperativas 
+
+[🎓 Presentación Cooperativas](clase17-coop.html){.btn .btn-primary target="_blank"}
+
+[🎓 Descarga Presentación](clase17-coop.pdf){.btn .btn-primary target="_blank"}
+

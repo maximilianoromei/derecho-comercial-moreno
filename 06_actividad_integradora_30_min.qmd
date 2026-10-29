@@ -1,0 +1,52 @@
+---
+title: "Actividad integradora: contratos de financiación"
+subtitle: "Resolución jurídica en grupos | 30 minutos"
+lang: es
+format:
+  revealjs:
+    theme: simple
+    slide-number: true
+    smaller: true
+---
+
+## Consigna general
+
+**Tiempo:** lectura 5 minutos, trabajo grupal 20 minutos, puesta en común 5 minutos. Identificar normas, sujetos, obligaciones y solución jurídica. No se piden comparaciones de tasas.
+
+---
+
+## 1. Apertura de crédito
+
+Un banco acuerda con Metalúrgica del Sur S.R.L. mantener disponibles $30 millones durante seis meses. A los dos meses, sin incumplimientos acreditados, impide nuevas disposiciones.
+
+**Responder:** ¿Qué prestación asumió el banco conforme al art. 1410 CCyC? ¿Qué relevancia tiene el plazo? ¿Puede suspender la disponibilidad sin causa? Distinguir apertura de crédito y préstamo bancario.
+
+---
+
+## 2. Factoraje
+
+La sociedad transmite al factor créditos por $40 millones. Uno de los deudores resulta insolvente y el factor reclama reintegro del anticipo.
+
+**Responder:** ¿Cómo varía la solución según el contrato sea con recurso o sin recurso? ¿Qué responsabilidad subsiste por inexistencia o ilegitimidad de los créditos? Fundar en arts. 1421 y ss. CCyC.
+
+---
+
+## 3. Leasing: tres estructuras
+
+**A.** Una financiera compra la máquina elegida por la PyME y se la entrega en leasing. **B.** El fabricante entrega una máquina propia con mantenimiento y opción de compra. **C.** La PyME vende una máquina propia a una financiera y simultáneamente la recibe en leasing.
+
+**Responder:** Identificar leasing financiero, operativo e invertido; comparar titularidad, función y responsabilidades de entrega y saneamiento (arts. 1227, 1231 y 1232 CCyC). Explicar por qué C no es, sin más, un mutuo con garantía.
+
+---
+
+## 4. Fideicomiso financiero
+
+La PyME transmite una cartera de créditos por $200 millones a un fiduciario financiero autorizado. Se emiten valores representativos de deuda por $150 millones y certificados de participación por $50 millones. Parte de la cartera entra en mora y los inversores reclaman a la PyME.
+
+**Responder:** Identificar sujetos y patrimonio separado (arts. 1685 y 1690 CCyC). Distinguir los títulos emitidos (art. 1691). ¿Existe responsabilidad automática del fiduciante? ¿Qué cláusulas y garantías deben examinarse?
+
+---
+
+## Puesta en común
+
+Cada grupo debe justificar una respuesta citando la regla legal concreta. Se valorará la distinción entre obligaciones asumidas y riesgos no garantizados; las conclusiones absolutas sin examinar el contrato no constituyen fundamentación suficiente.

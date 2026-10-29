@@ -1,0 +1,209 @@
+---
+title: "Fideicomiso financiero y underwriting"
+subtitle: "Material de estudio | Derecho Comercial argentino"
+lang: es
+format:
+  revealjs:
+    theme: simple
+    slide-number: true
+    transition: none
+    navigation-mode: linear
+    smaller: true
+    scrollable: true
+    footer: "Derecho Comercial · CCyC y leyes especiales"
+---
+
+## Objeto y método
+
+**Fideicomiso financiero y underwriting.** Esta presentación desarrolla las reglas legales y sus efectos sobre las relaciones entre las partes. Los casos que siguen contienen una solución jurídica orientativa, condicionada por los hechos y por las cláusulas válidas del contrato. Se indican artículos relevantes y leyes especiales; para su aplicación profesional debe consultarse el texto actualizado y la reglamentación vigente.
+
+---
+
+## Concepto de fideicomiso: art. 1666
+
+**Regla jurídica y alcance.** Existe fideicomiso cuando el fiduciante transmite o se compromete a transmitir bienes al fiduciario, quien ejerce la propiedad fiduciaria en beneficio del beneficiario y debe transmitirlos al cumplimiento de plazo o condición al fideicomisario.
+
+---
+
+## Aplicación: Concepto de fideicomiso: art. 1666
+
+**Hechos.** Una sociedad transfiere créditos comerciales para que un fiduciario los cobre y aplique según un programa de emisión.
+
+**Solución jurídica razonada.** No hay una mera administración por mandato: los bienes integran un patrimonio fiduciario separado y se gestionan para una finalidad contractual.
+
+---
+
+## Sujetos y posiciones jurídicas
+
+**Regla jurídica y alcance.** Fiduciante: aporta bienes; fiduciario: titular fiduciario y administrador; beneficiario: recibe prestaciones; fideicomisario: destinatario final de bienes. Una persona puede ocupar más de una posición en los límites legales.
+
+---
+
+## Aplicación: Sujetos y posiciones jurídicas
+
+**Hechos.** La empresa originante conserva certificados subordinados y los inversores adquieren valores de deuda.
+
+**Solución jurídica razonada.** La originante puede ser fiduciante y beneficiaria residual, sin por ello confundirse con el fiduciario.
+
+---
+
+## Patrimonio separado: art. 1685
+
+**Regla jurídica y alcance.** Los bienes fideicomitidos constituyen patrimonio separado de los patrimonios del fiduciario, fiduciante, beneficiario y fideicomisario. La separación sirve a la afectación de bienes al programa y delimita la agresión de acreedores, con excepciones legales.
+
+---
+
+## Aplicación: Patrimonio separado: art. 1685
+
+**Hechos.** El fiduciario tiene deudas propias ajenas al fideicomiso.
+
+**Solución jurídica razonada.** Sus acreedores personales no pueden tratar los créditos fideicomitidos como activos propios del fiduciario; deben examinarse registración, oponibilidad y eventuales acciones de ineficacia.
+
+---
+
+## Responsabilidad patrimonial: art. 1686
+
+**Regla jurídica y alcance.** Los bienes fideicomitidos quedan afectados a obligaciones del fideicomiso y no responden por deudas personales de sus sujetos, conforme a las reglas legales. Separación no significa inmunidad frente a fraude ni ausencia de obligaciones del fiduciario.
+
+---
+
+## Aplicación: Responsabilidad patrimonial: art. 1686
+
+**Hechos.** Un proveedor del fiduciario pretende embargar créditos cedidos al fideicomiso por una deuda personal.
+
+**Solución jurídica razonada.** Debe distinguirse deuda personal de obligación contraída en ejecución del fideicomiso; la fuente de la obligación determina el patrimonio alcanzable.
+
+---
+
+## Fideicomiso financiero: art. 1690
+
+**Regla jurídica y alcance.** El fideicomiso financiero es una modalidad especial en la que el fiduciario es una entidad financiera o una sociedad especialmente autorizada por el organismo de contralor del mercado de valores, y los beneficiarios son titulares de títulos valores garantizados con los bienes transmitidos.
+
+---
+
+## Aplicación: Fideicomiso financiero: art. 1690
+
+**Hechos.** Una empresa desea emitir valores sobre una cartera de créditos por $200 millones.
+
+**Solución jurídica razonada.** Debe intervenir un fiduciario habilitado y estructurarse la emisión de valores; no basta llamar «financiero» a un fideicomiso ordinario.
+
+---
+
+## Valores emitidos: art. 1691
+
+**Regla jurídica y alcance.** El fideicomiso financiero puede emitir valores representativos de deuda y certificados de participación. Sus derechos económicos, prioridad y riesgo dependen de las condiciones de emisión y del patrimonio fiduciario.
+
+---
+
+## Aplicación: Valores emitidos: art. 1691
+
+**Hechos.** Se emiten valores de deuda por $150 millones y certificados de participación por $50 millones.
+
+**Solución jurídica razonada.** Los valores de deuda confieren el crédito previsto en la emisión; los certificados otorgan participación en resultados o patrimonio según condiciones. No son jurídicamente intercambiables.
+
+---
+
+## Oferta pública y CNV
+
+**Regla jurídica y alcance.** Cuando se realiza oferta pública de valores fiduciarios, corresponde cumplir la Ley 26.831 y las Normas de la CNV, incluyendo exigencias de información, documentación de la emisión y actuación de sujetos autorizados.
+
+---
+
+## Aplicación: Oferta pública y CNV
+
+**Hechos.** Un organizador anuncia públicamente certificados de un fideicomiso sin revisar requisitos de oferta pública.
+
+**Solución jurídica razonada.** La validez del contrato fiduciario no sustituye las autorizaciones y obligaciones del régimen del mercado de capitales.
+
+---
+
+## Titulización de créditos
+
+**Regla jurídica y alcance.** La titulización transforma flujos esperados de una cartera de activos en valores negociables. Los cobros ingresan al patrimonio fiduciario y se aplican según el orden de pagos definido en el contrato y suplemento de emisión.
+
+---
+
+## Aplicación: Titulización de créditos
+
+**Hechos.** Una cartera genera $18 millones mensuales; se pagan gastos, intereses y amortizaciones conforme a una cascada de pagos.
+
+**Solución jurídica razonada.** La prioridad contractual determina quién cobra primero. El inversor debe evaluar calidad de créditos, morosidad, sobrecolateralización y garantías adicionales.
+
+---
+
+## Riesgo de incobrabilidad
+
+**Regla jurídica y alcance.** El incumplimiento de deudores de la cartera afecta los flujos del fideicomiso. No implica automáticamente responsabilidad personal del fiduciante ni garantía ilimitada del fiduciario; importan los compromisos de recompra, sustitución y garantías asumidos.
+
+---
+
+## Aplicación: Riesgo de incobrabilidad
+
+**Hechos.** El 15 % de los deudores cedidos deja de pagar y los inversores demandan a la originante.
+
+**Solución jurídica razonada.** Debe revisarse la emisión: si no existe garantía o obligación de recompra aplicable, la sola mora de terceros no funda el reclamo personal.
+
+---
+
+## Deberes del fiduciario
+
+**Regla jurídica y alcance.** El fiduciario debe actuar con prudencia y diligencia, rendir cuentas y cumplir el objeto del fideicomiso (arts. 1674 y ss.). Su responsabilidad por gestión defectuosa se distingue del riesgo comercial inherente a los activos.
+
+---
+
+## Aplicación: Deberes del fiduciario
+
+**Hechos.** El fiduciario omite reclamar créditos vencidos pese a estar obligado a hacerlo.
+
+**Solución jurídica razonada.** La falta de diligencia puede generar responsabilidad por daño causalmente relacionado; distinto es el impago pese a una gestión adecuada.
+
+---
+
+## Fideicomiso de garantía: contraste
+
+**Regla jurídica y alcance.** En el fideicomiso de garantía (art. 1680) los bienes se afectan a asegurar créditos; en el financiero (art. 1690) la estructura incorpora un fiduciario habilitado y emisión de títulos valores. Pueden coexistir funciones económicas de garantía, pero no son sinónimos.
+
+---
+
+## Aplicación: Fideicomiso de garantía: contraste
+
+**Hechos.** Un banco recibe créditos fiduciariamente para garantizar un préstamo bilateral sin emitir valores.
+
+**Solución jurídica razonada.** El encuadre no es automáticamente fideicomiso financiero: debe verificarse la configuración legal específica.
+
+---
+
+## Underwriting: función
+
+**Regla jurídica y alcance.** El underwriting es una técnica de colocación de valores negociables por la cual un intermediario asume compromisos de distribución o adquisición según contrato. Su régimen surge de los acuerdos y las reglas del mercado de capitales, no de un tipo único codificado en el CCyC.
+
+---
+
+## Aplicación: Underwriting: función
+
+**Hechos.** Una sociedad emite obligaciones negociables por $100 millones y contrata un colocador.
+
+**Solución jurídica razonada.** Hay que leer qué riesgo asumió el intermediario: simple esfuerzo de colocación, compromiso firme o garantía de suscripción.
+
+---
+
+## Underwriting: modalidades y riesgo
+
+**Regla jurídica y alcance.** En colocación de mejores esfuerzos el intermediario no asegura el resultado; en compromiso firme adquiere los valores para revenderlos; en colocación garantizada asume el compromiso contractual de cubrir lo no colocado. Las denominaciones comerciales no reemplazan la lectura de cláusulas.
+
+---
+
+## Aplicación: Underwriting: modalidades y riesgo
+
+**Hechos.** Se colocan $70 millones de una emisión de $100 millones.
+
+**Solución jurídica razonada.** Con mejores esfuerzos el emisor soporta normalmente el remanente; con compromiso firme o garantía, el intermediario responde según alcance, precio y condiciones pactadas.
+
+---
+
+## Síntesis jurídica
+
+Para resolver un caso contractual corresponde: (i) identificar el tipo contractual y su fuente normativa; (ii) precisar prestación principal y deberes accesorios; (iii) establecer qué riesgo asumió cada parte; (iv) verificar incumplimiento y remedios; y (v) distinguir reglas imperativas de estipulaciones disponibles. **No se presume que el título comercial de una operación determine por sí solo su calificación jurídica.**
+
+---
+

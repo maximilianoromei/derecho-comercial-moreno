@@ -1,0 +1,209 @@
+---
+title: "Financiamiento bancario, cajas de seguridad y custodia"
+subtitle: "Material de estudio | Derecho Comercial argentino"
+lang: es
+format:
+  revealjs:
+    theme: simple
+    slide-number: true
+    transition: none
+    navigation-mode: linear
+    smaller: true
+    scrollable: true
+    footer: "Derecho Comercial · CCyC y leyes especiales"
+---
+
+## Objeto y método
+
+**Financiamiento bancario, cajas de seguridad y custodia.** Esta presentación desarrolla las reglas legales y sus efectos sobre las relaciones entre las partes. Los casos que siguen contienen una solución jurídica orientativa, condicionada por los hechos y por las cláusulas válidas del contrato. Se indican artículos relevantes y leyes especiales; para su aplicación profesional debe consultarse el texto actualizado y la reglamentación vigente.
+
+---
+
+## Préstamo bancario: art. 1408
+
+**Regla jurídica y alcance.** En el préstamo bancario el banco se obliga a entregar una suma de dinero y el prestatario a restituirla y pagar los intereses convenidos. La obligación de restitución se refiere al capital recibido, con accesorios válidamente pactados.
+
+---
+
+## Aplicación: Préstamo bancario: art. 1408
+
+**Hechos.** Un banco acredita $20 millones y pretende cobrar intereses desde una fecha anterior a la acreditación.
+
+**Solución jurídica razonada.** Hay que identificar el momento de disponibilidad efectiva y el pacto de devengamiento; no basta invocar una fecha administrativa desconectada de la prestación.
+
+---
+
+## Intereses y costo del préstamo
+
+**Regla jurídica y alcance.** Deben diferenciarse interés compensatorio, moratorio y punitorio, así como comisiones y gastos. Los arts. 767 a 771 CCyC contienen reglas generales relevantes sobre intereses; la regulación bancaria y el control de consumo pueden añadir exigencias.
+
+---
+
+## Aplicación: Intereses y costo del préstamo
+
+**Hechos.** Se pacta 60 % nominal anual, interés moratorio y punitorio, además de comisión de cobranza automática.
+
+**Solución jurídica razonada.** Cada rubro exige fundamento contractual y legal. No corresponde sumar tasas y cargos sin verificar su función, información y eventual desproporción.
+
+---
+
+## Préstamo y mutuo: encuadre
+
+**Regla jurídica y alcance.** El préstamo bancario es una figura especial dentro de la financiación dineraria. El mutuo general se regula en los arts. 1525 y ss. CCyC. Identificar al prestamista bancario permite determinar qué reglas especiales se agregan.
+
+---
+
+## Aplicación: Préstamo y mutuo: encuadre
+
+**Hechos.** Una sociedad obtiene $5 millones de su socio y $5 millones de un banco.
+
+**Solución jurídica razonada.** Aunque ambos créditos imponen restitución, el contrato con el banco se encuadra en el régimen especial bancario; el del socio requiere analizar las reglas del mutuo y la relación societaria.
+
+---
+
+## Descuento bancario: art. 1409
+
+**Regla jurídica y alcance.** En el descuento bancario el titular de un crédito contra tercero lo transmite al banco, que anticipa su importe con deducción del interés. La operación permite transformar un crédito futuro en liquidez actual, pero debe determinarse la responsabilidad del descontatario.
+
+---
+
+## Aplicación: Descuento bancario: art. 1409
+
+**Hechos.** Se descuenta un crédito de $10 millones con vencimiento a 90 días; el banco entrega $9,4 millones.
+
+**Solución jurídica razonada.** Los $600.000 representan la deducción pactada por el anticipo, sin perjuicio de otros cargos. Debe verificarse el crédito cedido, su vencimiento y el alcance de la responsabilidad frente al impago.
+
+---
+
+## Descuento e impago del tercero
+
+**Regla jurídica y alcance.** La transmisión del crédito no implica necesariamente que el banco soporte de modo definitivo el riesgo de falta de pago: la regla del art. 1409 contempla el reintegro por el descontatario cuando el tercero no paga, conforme al régimen aplicable.
+
+---
+
+## Aplicación: Descuento e impago del tercero
+
+**Hechos.** El deudor del documento descontado no paga a su vencimiento.
+
+**Solución jurídica razonada.** El banco puede reclamar conforme al contrato de descuento y la regla especial; debe evitarse confundir esta figura con factoraje sin recurso.
+
+---
+
+## Apertura de crédito: art. 1410
+
+**Regla jurídica y alcance.** El banco se obliga a mantener a disposición del cliente un crédito de dinero hasta un límite, por plazo determinado o indeterminado, a cambio de remuneración. No equivale a desembolsar íntegramente el límite desde el inicio.
+
+---
+
+## Aplicación: Apertura de crédito: art. 1410
+
+**Hechos.** Se acuerda una línea de $30 millones y el cliente utiliza sólo $8 millones.
+
+**Solución jurídica razonada.** La deuda por fondos utilizados debe distinguirse de la remuneración por disponibilidad si se pactó. No se presume que los $22 millones restantes fueron prestados.
+
+---
+
+## Disponibilidad y suspensión de la línea
+
+**Regla jurídica y alcance.** Durante el plazo pactado la disponibilidad es una obligación del banco, sujeta a las causales contractuales y legales admisibles. Una facultad de suspensión no puede interpretarse como autorización irrestricta para frustrar el objeto del contrato.
+
+---
+
+## Aplicación: Disponibilidad y suspensión de la línea
+
+**Hechos.** El banco cancela una línea a seis meses sin incumplimiento ni causal invocada.
+
+**Solución jurídica razonada.** La negativa puede constituir incumplimiento; deben revisarse cláusulas, vencimiento, eventos de riesgo y su acreditación.
+
+---
+
+## Apertura de crédito y garantía: art. 1411
+
+**Regla jurídica y alcance.** La utilización del crédito y su eventual garantía se rigen por el contrato y el régimen legal. La garantía asegura las obligaciones cubiertas dentro de los límites convenidos; no debe confundirse el monto máximo disponible con deuda efectivamente utilizada.
+
+---
+
+## Aplicación: Apertura de crédito y garantía: art. 1411
+
+**Hechos.** Una hipoteca garantiza una apertura de crédito de $50 millones, pero el cliente dispuso $12 millones.
+
+**Solución jurídica razonada.** La ejecución debe partir de obligaciones efectivamente exigibles, intereses y accesorios garantizados, no automáticamente del límite nominal de la línea.
+
+---
+
+## Cuenta corriente y descubierto
+
+**Regla jurídica y alcance.** El descubierto en cuenta corriente permite efectuar pagos sin saldo suficiente dentro del límite autorizado. Debe diferenciarse de la apertura de crédito autónoma, aunque pueden articularse.
+
+---
+
+## Aplicación: Cuenta corriente y descubierto
+
+**Hechos.** Una empresa tiene $2 millones de saldo y emite una transferencia por $7 millones con descubierto autorizado de $6 millones.
+
+**Solución jurídica razonada.** La operación consume $5 millones de financiación; corresponde aplicar las condiciones del descubierto y controlar el límite.
+
+---
+
+## Caja de seguridad: art. 1413
+
+**Regla jurídica y alcance.** El prestador responde por la idoneidad de la custodia de los locales, la integridad de las cajas y el contenido, conforme al art. 1413. La responsabilidad se relaciona con la prestación de seguridad asumida, no con una simple obligación de entregar espacio físico.
+
+---
+
+## Aplicación: Caja de seguridad: art. 1413
+
+**Hechos.** Durante una intrusión se violentan varias cajas y desaparecen bienes.
+
+**Solución jurídica razonada.** La cuestión central es el incumplimiento del deber de custodia y las causas legales de exoneración. El prestador no se libera por afirmar genéricamente que actuó con cuidado.
+
+---
+
+## Caja de seguridad: límites, art. 1414
+
+**Regla jurídica y alcance.** El art. 1414 regula las cláusulas de eximición y limitación de responsabilidad. Es inválida la exoneración del prestador; una limitación de monto sólo puede examinarse bajo las condiciones legales, incluida la información adecuada y la ausencia de desnaturalización de la obligación.
+
+---
+
+## Aplicación: Caja de seguridad: límites, art. 1414
+
+**Hechos.** El contrato fija un tope indemnizatorio de $100.000 para cualquier robo, sin explicación previa.
+
+**Solución jurídica razonada.** Debe evaluarse la validez de la limitación a la luz del art. 1414 y, si hay consumo, de las reglas de cláusulas abusivas. No es válido afirmar que cualquier límite es eficaz por estar firmado.
+
+---
+
+## Caja de seguridad: prueba, art. 1415
+
+**Regla jurídica y alcance.** El contenido de la caja de seguridad puede probarse por cualquier medio. La regla atiende a la dificultad de documentar objetos depositados en un espacio privado. Admisibilidad amplia no equivale a tener por probado cualquier valor alegado.
+
+---
+
+## Aplicación: Caja de seguridad: prueba, art. 1415
+
+**Hechos.** Una clienta denuncia joyas y documentación; aporta fotos, facturas, tasaciones y testimonios.
+
+**Solución jurídica razonada.** El juez debe valorar la prueba en conjunto, la existencia, titularidad y valor de los bienes. No corresponde exigir exclusivamente una lista certificada al momento del depósito.
+
+---
+
+## Custodia de títulos: arts. 1418 a 1420
+
+**Regla jurídica y alcance.** La custodia de títulos obliga al banco a guardar los valores y cumplir los actos de conservación y administración que legal o contractualmente correspondan. Debe diferenciarse de la inversión por cuenta del cliente y de la transmisión de propiedad de títulos.
+
+---
+
+## Aplicación: Custodia de títulos: arts. 1418 a 1420
+
+**Hechos.** Un banco conserva obligaciones negociables de un cliente y omite gestionar el cobro de un cupón vencido pese a estar obligado.
+
+**Solución jurídica razonada.** Debe identificarse el deber de custodia y administración asumido, el perjuicio y la causalidad. El riesgo de precio del título no se confunde con incumplimiento de deberes del custodio.
+
+---
+
+## Síntesis jurídica
+
+Para resolver un caso contractual corresponde: (i) identificar el tipo contractual y su fuente normativa; (ii) precisar prestación principal y deberes accesorios; (iii) establecer qué riesgo asumió cada parte; (iv) verificar incumplimiento y remedios; y (v) distinguir reglas imperativas de estipulaciones disponibles. **No se presume que el título comercial de una operación determine por sí solo su calificación jurídica.**
+
+---
+

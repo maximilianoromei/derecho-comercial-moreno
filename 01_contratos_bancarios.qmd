@@ -1,0 +1,209 @@
+---
+title: "Contratos bancarios: régimen, depósitos y cuenta corriente"
+subtitle: "Material de estudio | Derecho Comercial argentino"
+lang: es
+format:
+  revealjs:
+    theme: simple
+    slide-number: true
+    transition: none
+    navigation-mode: linear
+    smaller: true
+    scrollable: true
+    footer: "Derecho Comercial · CCyC y leyes especiales"
+---
+
+## Objeto y método
+
+**Contratos bancarios: régimen, depósitos y cuenta corriente.** Esta presentación desarrolla las reglas legales y sus efectos sobre las relaciones entre las partes. Los casos que siguen contienen una solución jurídica orientativa, condicionada por los hechos y por las cláusulas válidas del contrato. Se indican artículos relevantes y leyes especiales; para su aplicación profesional debe consultarse el texto actualizado y la reglamentación vigente.
+
+---
+
+## Ámbito de aplicación: art. 1378
+
+**Regla jurídica y alcance.** El régimen de contratos bancarios del CCyC se aplica a contratos celebrados con entidades comprendidas en la legislación de entidades financieras y con otras personas cuando el BCRA disponga su aplicación. No toda operación financiera entre particulares se transforma por ello en contrato bancario. Debe identificarse quién presta el servicio y qué normativa especial rige.
+
+---
+
+## Aplicación: Ámbito de aplicación: art. 1378
+
+**Hechos.** Una plataforma no bancaria presta dinero a comerciantes y se presenta comercialmente como «banco digital».
+
+**Solución jurídica razonada.** La denominación publicitaria no decide el encuadre. Corresponde comprobar la autorización, la actividad desarrollada y el régimen de supervisión aplicable; luego, las reglas generales contractuales y de consumo, cuando procedan.
+
+---
+
+## Publicidad e información: arts. 1379 y 1381
+
+**Regla jurídica y alcance.** La publicidad bancaria debe exponer las condiciones económicas relevantes de manera clara. El contrato debe consignar la tasa de interés y las demás condiciones económicas. La transparencia exige distinguir tasa nominal, tasa efectiva, comisiones, gastos y costo total; informar un porcentaje aislado puede distorsionar el precio del crédito.
+
+---
+
+## Aplicación: Publicidad e información: arts. 1379 y 1381
+
+**Hechos.** Se ofrece un préstamo al 45 % nominal anual, pero se cobran comisión de otorgamiento, mantenimiento y seguro obligatorio.
+
+**Solución jurídica razonada.** El análisis del costo no termina en la tasa nominal: deben examinarse cargos y su información previa, su incorporación al contrato y la normativa BCRA aplicable. Un cargo no informado puede dar lugar a impugnación y restitución según el caso.
+
+---
+
+## Forma y copia contractual: art. 1380
+
+**Regla jurídica y alcance.** Los contratos bancarios deben instrumentarse por escrito, admitiéndose soportes electrónicos cuando satisfagan los requisitos legales. El cliente tiene derecho a obtener un ejemplar del contrato. El consentimiento electrónico no elimina la obligación de conservar condiciones accesibles y comprobables.
+
+---
+
+## Aplicación: Forma y copia contractual: art. 1380
+
+**Hechos.** Una entidad afirma que el cliente aceptó una cláusula de ajuste en una pantalla que no puede reproducir.
+
+**Solución jurídica razonada.** La entidad debe poder acreditar el contenido de las condiciones aceptadas y el procedimiento de contratación. La falta de documentación no autoriza a presumir cualquier cláusula a favor del predisponente.
+
+---
+
+## Información periódica: art. 1382
+
+**Regla jurídica y alcance.** El banco debe proporcionar información relativa al desenvolvimiento del contrato, de acuerdo con la periodicidad y medios legalmente previstos. Los resúmenes permiten controlar cargos, intereses y movimientos; su recepción no sustituye automáticamente el consentimiento para modificar prestaciones.
+
+---
+
+## Aplicación: Información periódica: art. 1382
+
+**Hechos.** En un resumen aparece una comisión mensual nueva, no incluida en la documentación original.
+
+**Solución jurídica razonada.** Hay que verificar si existió una modificación válida, cómo se informó y si la cláusula habilitante supera el control de transparencia y abusividad. El mero cargo en un resumen no basta para justificarlo.
+
+---
+
+## Rescisión del cliente: art. 1383
+
+**Regla jurídica y alcance.** El cliente puede rescindir un contrato bancario de duración indeterminada en los términos del art. 1383, sin perjuicio de obligaciones devengadas y de las reglas especiales del producto. Rescindir no extingue automáticamente deudas exigibles anteriores.
+
+---
+
+## Aplicación: Rescisión del cliente: art. 1383
+
+**Hechos.** Una PyME pide cerrar un servicio bancario sin plazo y el banco exige continuar un año más.
+
+**Solución jurídica razonada.** Debe verificarse la naturaleza del vínculo y si el plazo es verdaderamente indeterminado. La facultad de rescisión no puede neutralizarse por una penalidad incompatible con la regla legal.
+
+---
+
+## Consumo bancario: arts. 1384 a 1389
+
+**Regla jurídica y alcance.** En contratos bancarios con consumidores se superponen las reglas especiales del CCyC, el régimen general de consumo (arts. 1092 y ss.) y la Ley 24.240. La finalidad del servicio es decisiva: no toda persona jurídica es consumidora, ni toda persona física actúa siempre como destinataria final.
+
+---
+
+## Aplicación: Consumo bancario: arts. 1384 a 1389
+
+**Hechos.** Una persona obtiene crédito para comprar un automóvil familiar; otra lo obtiene para revender automóviles habitualmente.
+
+**Solución jurídica razonada.** El primer supuesto normalmente presenta destino final de consumo; el segundo se vincula con la actividad empresarial. El encuadre determina los controles de publicidad, información, cláusulas predispuestas y protección del consumidor.
+
+---
+
+## Publicidad de crédito al consumidor: arts. 1385 y 1386
+
+**Regla jurídica y alcance.** Las ofertas de crédito al consumidor deben contener información relevante sobre el costo y las condiciones de contratación. La información precontractual tiene función decisoria: permite comparar alternativas antes de asumir una obligación, no simplemente conocerla después.
+
+---
+
+## Aplicación: Publicidad de crédito al consumidor: arts. 1385 y 1386
+
+**Hechos.** Una publicidad dice «cuota de $180.000», pero omite el número de cuotas y el costo total.
+
+**Solución jurídica razonada.** La cifra aislada no permite conocer el alcance de la deuda. Corresponde analizar los datos obligatorios de la oferta y las consecuencias de su omisión conforme al CCyC y la regulación especial.
+
+---
+
+## Depósito bancario: art. 1390
+
+**Regla jurídica y alcance.** En el depósito bancario de dinero, el depositante transfiere al banco la propiedad de la suma depositada y el banco se obliga a restituir una cantidad equivalente de la misma especie y moneda, según el contrato. No existe deber de conservar los billetes individualizados.
+
+---
+
+## Aplicación: Depósito bancario: art. 1390
+
+**Hechos.** Un cliente deposita $10 millones en billetes identificados y reclama recibir esos mismos billetes.
+
+**Solución jurídica razonada.** El banco debe restituir el equivalente debido, no las piezas monetarias originales. Es una obligación de restitución dineraria, no una guarda de cosas individualizadas.
+
+---
+
+## Depósito a la vista y a plazo: arts. 1391 y 1392
+
+**Regla jurídica y alcance.** En el depósito a la vista la restitución es exigible conforme a su modalidad; en el depósito a plazo se acuerda una disponibilidad temporal diferente. La existencia de intereses, su devengamiento y la cancelación anticipada deben examinarse según el instrumento y la regulación aplicable.
+
+---
+
+## Aplicación: Depósito a la vista y a plazo: arts. 1391 y 1392
+
+**Hechos.** Una sociedad constituye un plazo fijo a 90 días y exige retirarlo a los 15 días con todos los intereses prometidos.
+
+**Solución jurídica razonada.** No puede asimilarse el plazo fijo a un depósito a la vista. Debe revisarse la modalidad contratada y si admite precancelación, así como sus condiciones económicas.
+
+---
+
+## Cuenta corriente bancaria: art. 1393
+
+**Regla jurídica y alcance.** La cuenta corriente bancaria organiza créditos y débitos que modifican un saldo disponible. El banco registra depósitos, extracciones, transferencias, comisiones e intereses conforme al contrato y la regulación aplicable. No es idéntica a la cuenta corriente mercantil.
+
+---
+
+## Aplicación: Cuenta corriente bancaria: art. 1393
+
+**Hechos.** Una empresa recibe transferencias, paga proveedores y utiliza un descubierto autorizado.
+
+**Solución jurídica razonada.** Los movimientos se reflejan en una cuenta única; la disponibilidad resulta del saldo y de las condiciones del descubierto. La deuda por saldo deudor requiere analizar operaciones, intereses y autorizaciones.
+
+---
+
+## Servicio de caja y deber de diligencia
+
+**Regla jurídica y alcance.** En la operatoria de cuenta corriente, el banco debe ejecutar instrucciones auténticas y adoptar medidas de seguridad adecuadas al servicio. La responsabilidad por una transferencia controvertida no se decide sólo por la existencia de una clave válida: importan autenticación, alertas, trazabilidad y conducta de ambas partes.
+
+---
+
+## Aplicación: Servicio de caja y deber de diligencia
+
+**Hechos.** Se debitan tres transferencias extraordinarias desde una cuenta empresarial y el banco invoca una cláusula de exoneración total.
+
+**Solución jurídica razonada.** Debe reconstruirse cómo se ordenaron y validaron las operaciones, qué controles existían y si la cláusula pretende excluir responsabilidad por incumplimientos propios. No puede resolverse sin prueba técnica y contractual.
+
+---
+
+## Cierre y saldo de cuenta: arts. 1404 a 1407
+
+**Regla jurídica y alcance.** El cierre de la cuenta no convierte cualquier cifra informada unilateralmente en una deuda indiscutible. Deben observarse las reglas legales sobre cierre, compensación, determinación del saldo y documentación ejecutiva. El art. 1406 regula el título ejecutivo de saldo deudor bajo requisitos específicos.
+
+---
+
+## Aplicación: Cierre y saldo de cuenta: arts. 1404 a 1407
+
+**Hechos.** El banco cierra una cuenta y ejecuta un saldo que incluye cargos impugnados.
+
+**Solución jurídica razonada.** Debe distinguirse la aptitud ejecutiva del certificado de la posibilidad de discutir los componentes de la deuda por las vías procesales pertinentes. Verificar la conformidad formal del título y los cargos aplicados.
+
+---
+
+## Reglas generales y control de cláusulas
+
+**Regla jurídica y alcance.** La buena fe (arts. 9 y 961), la interpretación de contratos predispuestos (arts. 984 y ss.) y, cuando corresponda, el control de cláusulas abusivas (arts. 1117 y ss.) atraviesan los contratos bancarios. La literalidad no legitima automáticamente cualquier facultad unilateral del banco.
+
+---
+
+## Aplicación: Reglas generales y control de cláusulas
+
+**Hechos.** Una cláusula permite cambiar todas las comisiones «en cualquier momento y sin expresión de causa».
+
+**Solución jurídica razonada.** Examinar si la potestad está delimitada, si existe información previa y posibilidad efectiva de rescisión, y si genera un desequilibrio significativo. La solución depende del tipo de cliente y de la normativa aplicable.
+
+---
+
+## Síntesis jurídica
+
+Para resolver un caso contractual corresponde: (i) identificar el tipo contractual y su fuente normativa; (ii) precisar prestación principal y deberes accesorios; (iii) establecer qué riesgo asumió cada parte; (iv) verificar incumplimiento y remedios; y (v) distinguir reglas imperativas de estipulaciones disponibles. **No se presume que el título comercial de una operación determine por sí solo su calificación jurídica.**
+
+---
+

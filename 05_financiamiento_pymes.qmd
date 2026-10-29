@@ -1,0 +1,209 @@
+---
+title: "Financiamiento jurídico de PyMEs"
+subtitle: "Material de estudio | Derecho Comercial argentino"
+lang: es
+format:
+  revealjs:
+    theme: simple
+    slide-number: true
+    transition: none
+    navigation-mode: linear
+    smaller: true
+    scrollable: true
+    footer: "Derecho Comercial · CCyC y leyes especiales"
+---
+
+## Objeto y método
+
+**Financiamiento jurídico de PyMEs.** Esta presentación desarrolla las reglas legales y sus efectos sobre las relaciones entre las partes. Los casos que siguen contienen una solución jurídica orientativa, condicionada por los hechos y por las cláusulas válidas del contrato. Se indican artículos relevantes y leyes especiales; para su aplicación profesional debe consultarse el texto actualizado y la reglamentación vigente.
+
+---
+
+## Financiamiento PyME: mapa jurídico
+
+**Regla jurídica y alcance.** Una PyME puede financiarse con crédito bancario, cesión y descuento de créditos, leasing, garantías recíprocas o valores negociables. Cada instrumento difiere en quién aporta fondos, qué obligación nace, qué garantía se constituye y qué riesgo se transfiere.
+
+---
+
+## Aplicación: Financiamiento PyME: mapa jurídico
+
+**Hechos.** Una empresa necesita capital de trabajo y equipamiento por $100 millones.
+
+**Solución jurídica razonada.** La respuesta jurídica no es escoger «el más barato», sino determinar el contrato y sus efectos sobre deuda, patrimonio, títulos y responsabilidad.
+
+---
+
+## SGR: Ley 24.467
+
+**Regla jurídica y alcance.** Las sociedades de garantía recíproca tienen por objeto facilitar el acceso al crédito mediante garantías a sus socios partícipes, bajo el régimen de la Ley 24.467 y su normativa reglamentaria. No reemplazan automáticamente al deudor principal.
+
+---
+
+## Aplicación: SGR: Ley 24.467
+
+**Hechos.** Una SGR avala una obligación de una PyME frente a un banco.
+
+**Solución jurídica razonada.** El acreedor obtiene un obligado de garantía según el instrumento; si la SGR paga, debe analizarse el regreso contra el socio y las contragarantías pactadas.
+
+---
+
+## Sujetos de la SGR
+
+**Regla jurídica y alcance.** La estructura distingue socios partícipes y socios protectores, con funciones y límites normativos. La participación en una SGR no equivale a una garantía automática: se requiere una operación aprobada e instrumentada.
+
+---
+
+## Aplicación: Sujetos de la SGR
+
+**Hechos.** Una empresa se incorpora como socio partícipe y supone que todas sus deudas quedaron garantizadas.
+
+**Solución jurídica razonada.** La garantía debe ser emitida para la obligación específica y dentro de las condiciones autorizadas; pertenecer a la SGR no convierte a ésta en codeudora universal.
+
+---
+
+## Aval y obligación garantizada
+
+**Regla jurídica y alcance.** El alcance del aval o garantía depende del instrumento emitido, la obligación principal y el régimen aplicable. Deben examinarse monto máximo, plazo, excepciones y requisitos de ejecución.
+
+---
+
+## Aplicación: Aval y obligación garantizada
+
+**Hechos.** La SGR garantiza un pagaré por $15 millones y el acreedor reclama además otra deuda comercial.
+
+**Solución jurídica razonada.** No puede extenderse la garantía por mera identidad del deudor; hay que interpretar el objeto y límites de la garantía documentada.
+
+---
+
+## Cheque de pago diferido
+
+**Regla jurídica y alcance.** El cheque de pago diferido permite documentar una orden de pago con fecha futura bajo la Ley 24.452. Su negociación puede anticipar liquidez, pero la circulación y las acciones derivadas del título siguen reglas cambiarias especiales.
+
+---
+
+## Aplicación: Cheque de pago diferido
+
+**Hechos.** Una PyME recibe un cheque a 90 días y lo negocia para obtener efectivo.
+
+**Solución jurídica razonada.** El descuento no elimina por sí mismo todas las responsabilidades cambiarias del librador y demás obligados. Deben verificarse endosos, avales y modalidad de negociación.
+
+---
+
+## Negociación de cheques en mercado
+
+**Regla jurídica y alcance.** El mercado de capitales puede ofrecer ámbitos regulados de negociación de cheques de pago diferido, con condiciones de admisión y garantías que dependen de la modalidad.
+
+---
+
+## Aplicación: Negociación de cheques en mercado
+
+**Hechos.** Un cheque se negocia con garantía de una SGR.
+
+**Solución jurídica razonada.** Hay que separar la obligación cambiaria del título, la garantía de la SGR y la operatoria del mercado; son relaciones jurídicas relacionadas pero distintas.
+
+---
+
+## Pagaré bursátil
+
+**Regla jurídica y alcance.** El pagaré es un título valor regulado por el Decreto-Ley 5965/63; su negociación en mercados autorizados responde además a reglas de mercado de capitales. El documento incorpora una promesa de pago con requisitos formales específicos.
+
+---
+
+## Aplicación: Pagaré bursátil
+
+**Hechos.** Una empresa emite un pagaré para financiarse y el inversor lo adquiere en mercado.
+
+**Solución jurídica razonada.** Deben examinarse los requisitos del título, la legitimación del tenedor y la responsabilidad cambiaria, sin confundirla con el contrato económico subyacente.
+
+---
+
+## Obligaciones negociables: Ley 23.576
+
+**Regla jurídica y alcance.** Las obligaciones negociables son títulos de deuda emitidos por sujetos habilitados conforme a la Ley 23.576. El inversor adquiere un crédito frente al emisor en las condiciones de emisión, no una participación societaria por el solo hecho de suscribir.
+
+---
+
+## Aplicación: Obligaciones negociables: Ley 23.576
+
+**Hechos.** Una sociedad emite ON a tres años con intereses semestrales.
+
+**Solución jurídica razonada.** La empresa es deudora del capital e intereses pactados; el tenedor no se convierte en socio ni participa automáticamente en utilidades.
+
+---
+
+## Oferta pública y deber informativo
+
+**Regla jurídica y alcance.** La oferta pública de valores negociables se somete a la Ley 26.831 y Normas CNV. Los regímenes simplificados para PyMEs pueden reducir cargas específicas, pero no suprimen la exigencia de información veraz y suficiente.
+
+---
+
+## Aplicación: Oferta pública y deber informativo
+
+**Hechos.** Una PyME anuncia una emisión en redes sociales sin documentación ni intervención adecuada.
+
+**Solución jurídica razonada.** Debe determinarse si configura oferta pública y cuáles son los requisitos aplicables. La etiqueta «PyME» no equivale a exención general.
+
+---
+
+## Riesgo de crédito y garantías
+
+**Regla jurídica y alcance.** El acreedor analiza la capacidad de pago del emisor o deudor y las garantías. La garantía personal agrega otro obligado; la real afecta un bien; la fiduciaria organiza un patrimonio separado. Sus efectos jurídicos no son intercambiables.
+
+---
+
+## Aplicación: Riesgo de crédito y garantías
+
+**Hechos.** Un banco pide elegir entre fianza, prenda y fideicomiso de garantía.
+
+**Solución jurídica razonada.** Cada opción cambia legitimación, ejecución, oponibilidad y patrimonio afectado. La elección exige analizar el riesgo jurídico, no sólo el costo.
+
+---
+
+## Factura de crédito electrónica
+
+**Regla jurídica y alcance.** La Ley 27.440 regula la factura de crédito electrónica MiPyME para determinadas operaciones con empresas grandes, con mecanismos de aceptación y circulación sujetos a normativa vigente.
+
+---
+
+## Aplicación: Factura de crédito electrónica
+
+**Hechos.** Una PyME emite una factura por servicios prestados y quiere descontarla.
+
+**Solución jurídica razonada.** Debe comprobarse si los sujetos y la operación están alcanzados, si se cumplió la registración y cuál es el estado jurídico del crédito antes de negociar.
+
+---
+
+## Leasing como financiación empresarial
+
+**Regla jurídica y alcance.** El leasing permite usar un activo productivo pagando canon y conservando opción de compra, con el dominio en cabeza del dador mientras no se ejerza y perfeccione la adquisición.
+
+---
+
+## Aplicación: Leasing como financiación empresarial
+
+**Hechos.** Una empresa incorpora una línea de envasado sin comprarla inicialmente.
+
+**Solución jurídica razonada.** La maquinaria no ingresa automáticamente en propiedad de la empresa; deben examinarse obligaciones de mantenimiento, seguros, riesgos y ejercicio de opción.
+
+---
+
+## Factoraje para capital de trabajo
+
+**Regla jurídica y alcance.** El factoraje monetiza créditos comerciales y puede incluir cobranza y cobertura de insolvencia. La distinción con o sin recurso es crucial para determinar si el proveedor conserva el riesgo de impago.
+
+---
+
+## Aplicación: Factoraje para capital de trabajo
+
+**Hechos.** Una empresa cede una cartera de facturas por $80 millones con anticipo de $72 millones.
+
+**Solución jurídica razonada.** La estructura contractual define quién gestiona cobros, qué sucede ante impagos y qué garantías de existencia de créditos mantiene el cedente.
+
+---
+
+## Síntesis jurídica
+
+Para resolver un caso contractual corresponde: (i) identificar el tipo contractual y su fuente normativa; (ii) precisar prestación principal y deberes accesorios; (iii) establecer qué riesgo asumió cada parte; (iv) verificar incumplimiento y remedios; y (v) distinguir reglas imperativas de estipulaciones disponibles. **No se presume que el título comercial de una operación determine por sí solo su calificación jurídica.**
+
+---
+

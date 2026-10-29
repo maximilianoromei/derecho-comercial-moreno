@@ -1,0 +1,209 @@
+---
+title: "Factoraje, leasing y factura de crédito electrónica"
+subtitle: "Material de estudio | Derecho Comercial argentino"
+lang: es
+format:
+  revealjs:
+    theme: simple
+    slide-number: true
+    transition: none
+    navigation-mode: linear
+    smaller: true
+    scrollable: true
+    footer: "Derecho Comercial · CCyC y leyes especiales"
+---
+
+## Objeto y método
+
+**Factoraje, leasing y factura de crédito electrónica.** Esta presentación desarrolla las reglas legales y sus efectos sobre las relaciones entre las partes. Los casos que siguen contienen una solución jurídica orientativa, condicionada por los hechos y por las cláusulas válidas del contrato. Se indican artículos relevantes y leyes especiales; para su aplicación profesional debe consultarse el texto actualizado y la reglamentación vigente.
+
+---
+
+## Factoraje: art. 1421
+
+**Regla jurídica y alcance.** El contrato de factoraje permite adquirir por un precio créditos originados en el giro comercial del factoreado, pudiendo incluir anticipos, gestión de cobranza, administración y garantías. Es un contrato de financiación y servicios cuya distribución de riesgos exige leer las cláusulas.
+
+---
+
+## Aplicación: Factoraje: art. 1421
+
+**Hechos.** Una empresa vende créditos comerciales nominales por $40 millones y recibe $36 millones anticipados.
+
+**Solución jurídica razonada.** Los $4 millones de diferencia pueden comprender descuento, comisión y cobertura de riesgos según contrato. No debe confundirse automáticamente con interés de préstamo.
+
+---
+
+## Créditos comprendidos y determinabilidad
+
+**Regla jurídica y alcance.** Los créditos transmitidos deben estar individualizados o ser determinables conforme a las reglas del contrato y del CCyC. La identificación de deudores, documentos, vencimientos y exclusiones reduce conflictos sobre qué cartera fue transferida.
+
+---
+
+## Aplicación: Créditos comprendidos y determinabilidad
+
+**Hechos.** El contrato dice «todos los créditos presentes y futuros» sin criterio de identificación.
+
+**Solución jurídica razonada.** Debe examinarse si existe un mecanismo suficiente para determinar los créditos comprendidos y cumplir las formalidades de oponibilidad aplicables.
+
+---
+
+## Factoraje con recurso
+
+**Regla jurídica y alcance.** En factoraje con recurso, el factoreado puede asumir el riesgo de falta de pago de los deudores, en los términos acordados. El recurso no debe presumirse ilimitado: requiere identificar causales, plazos y alcance.
+
+---
+
+## Aplicación: Factoraje con recurso
+
+**Hechos.** El deudor de una factura válida se insolventa; el factor exige reintegro.
+
+**Solución jurídica razonada.** Si existe recurso válido y se configura el supuesto contractual, procede el reclamo en sus términos; debe distinguirse de un incumplimiento propio del factor.
+
+---
+
+## Factoraje sin recurso
+
+**Regla jurídica y alcance.** En factoraje sin recurso, el factor asume el riesgo de insolvencia del deudor dentro del ámbito de cobertura pactado. Ello no exonera al factoreado por créditos inexistentes, fraudulentos o viciados.
+
+---
+
+## Aplicación: Factoraje sin recurso
+
+**Hechos.** Una factura cedida resulta ficticia, aunque el contrato diga «sin recurso».
+
+**Solución jurídica razonada.** La falta de recurso por insolvencia no convierte en válido un crédito inexistente. Debe analizarse la responsabilidad por legitimidad y existencia del crédito.
+
+---
+
+## Factoraje y cesión: diferencias
+
+**Regla jurídica y alcance.** La cesión de derechos es el vehículo traslativo general (arts. 1614 y ss.); el factoraje organiza además adquisición sistemática de créditos y servicios financieros. La oponibilidad frente a deudores requiere atender a la forma de circulación de cada crédito.
+
+---
+
+## Aplicación: Factoraje y cesión: diferencias
+
+**Hechos.** Un cliente paga al proveedor sin conocer la transmisión del crédito.
+
+**Solución jurídica razonada.** La liberación del deudor y los efectos frente a terceros dependen de la notificación y del régimen del documento. No basta que el factor y el factoreado hayan firmado.
+
+---
+
+## Leasing: art. 1227
+
+**Regla jurídica y alcance.** El dador conviene transferir al tomador la tenencia de un bien para su uso y goce, contra canon, confiriendo opción de compra por un precio. La propiedad permanece en el dador hasta la adquisición conforme a derecho.
+
+---
+
+## Aplicación: Leasing: art. 1227
+
+**Hechos.** Una empresa usa una máquina durante cuatro años y tiene opción de compra final.
+
+**Solución jurídica razonada.** El pago de cánones no transforma automáticamente la tenencia en dominio; la opción y la transferencia dominial requieren sus presupuestos.
+
+---
+
+## Bienes y modalidades: arts. 1228 y 1231
+
+**Regla jurídica y alcance.** El leasing puede recaer sobre bienes legalmente admitidos y articularse mediante diversas modalidades de adquisición por el dador. La clasificación financiero/operativo/invertido es funcional; las consecuencias concretas se derivan del CCyC y de las obligaciones pactadas.
+
+---
+
+## Aplicación: Bienes y modalidades: arts. 1228 y 1231
+
+**Hechos.** Un fabricante ofrece equipos propios; un banco compra un equipo elegido por el cliente; una empresa vende su equipo y lo toma en leasing.
+
+**Solución jurídica razonada.** Las tres estructuras pueden encuadrar como leasing, pero difieren la procedencia del bien, la función económica y los deberes asumidos.
+
+---
+
+## Leasing financiero
+
+**Regla jurídica y alcance.** Usualmente el dador financia la adquisición de un bien elegido por el tomador, comprándolo a un proveedor para entregarlo en leasing. Debe examinarse el art. 1232 para determinar responsabilidad por entrega y saneamiento según la modalidad concreta.
+
+---
+
+## Aplicación: Leasing financiero
+
+**Hechos.** Una financiera compra a pedido una máquina a un proveedor indicado por el tomador; la máquina llega defectuosa.
+
+**Solución jurídica razonada.** La asignación de acciones y responsabilidad no se resuelve diciendo «siempre responde el banco»: depende de la modalidad del art. 1231 y del art. 1232.
+
+---
+
+## Leasing operativo
+
+**Regla jurídica y alcance.** Habitualmente el dador es fabricante o proveedor y ofrece un bien de su propiedad, con servicios asociados que pueden incluir mantenimiento. El término «operativo» no elimina por sí mismo la opción de compra exigida para el leasing del CCyC.
+
+---
+
+## Aplicación: Leasing operativo
+
+**Hechos.** El fabricante entrega una impresora industrial propia y asume mantenimiento por tres años.
+
+**Solución jurídica razonada.** Debe distinguirse obligación de entrega, aptitud del bien y servicios pactados; la responsabilidad del fabricante-dador no es idéntica a la del financiador que adquiere de tercero.
+
+---
+
+## Leasing invertido: sale and leaseback
+
+**Regla jurídica y alcance.** En el leasing invertido el futuro tomador vende un bien propio al dador y lo recibe inmediatamente en leasing. La operación permite obtener liquidez conservando el uso; el art. 1231 inc. e) contempla esta estructura.
+
+---
+
+## Aplicación: Leasing invertido: sale and leaseback
+
+**Hechos.** Una PyME vende una máquina propia por $60 millones a una entidad y la toma en leasing por cinco años.
+
+**Solución jurídica razonada.** La empresa recibe el precio de venta, deja de ser propietaria y continúa usando el bien como tomadora. Debe examinarse la realidad de la transferencia y la finalidad financiera.
+
+---
+
+## Opción de compra y canon
+
+**Regla jurídica y alcance.** El precio de ejercicio de la opción de compra y el canon deben estar establecidos o ser determinables conforme a las reglas del contrato (arts. 1230 y 1234). El art. 1240 regula cuándo puede ejercerse la opción, salvo pacto de ejercicio anticipado.
+
+---
+
+## Aplicación: Opción de compra y canon
+
+**Hechos.** El tomador pagó tres cuartas partes del canon total y pretende comprar el equipo.
+
+**Solución jurídica razonada.** Debe comprobarse el porcentaje efectivamente pagado, el precio de opción y la existencia de condiciones contractuales válidas.
+
+---
+
+## Incumplimiento en leasing mueble: art. 1249
+
+**Regla jurídica y alcance.** Para bienes muebles el art. 1249 prevé remedios específicos del dador ante la mora, incluyendo secuestro y acciones de cobro bajo requisitos legales. No se debe trasladar mecánicamente el régimen de inmuebles del art. 1248.
+
+---
+
+## Aplicación: Incumplimiento en leasing mueble: art. 1249
+
+**Hechos.** El tomador de una máquina deja de pagar tres cánones y el dador exige restitución y todos los cánones futuros.
+
+**Solución jurídica razonada.** Deben identificarse los remedios legalmente disponibles, el contrato y las limitaciones a una acumulación automática de prestaciones.
+
+---
+
+## Factura de crédito electrónica MiPyME
+
+**Regla jurídica y alcance.** El régimen de factura de crédito electrónica MiPyME fue establecido por la Ley 27.440 y reglamentación complementaria. Su operatividad depende de sujetos, operaciones alcanzadas, registración, aceptación y plazos normativos vigentes.
+
+---
+
+## Aplicación: Factura de crédito electrónica MiPyME
+
+**Hechos.** Una MiPyME factura a una empresa grande y busca negociar el crédito antes del vencimiento.
+
+**Solución jurídica razonada.** Primero debe verificarse si la operación está comprendida en el régimen, el estado de la factura y su aptitud para circular; no toda factura comercial es automáticamente un título negociable.
+
+---
+
+## Síntesis jurídica
+
+Para resolver un caso contractual corresponde: (i) identificar el tipo contractual y su fuente normativa; (ii) precisar prestación principal y deberes accesorios; (iii) establecer qué riesgo asumió cada parte; (iv) verificar incumplimiento y remedios; y (v) distinguir reglas imperativas de estipulaciones disponibles. **No se presume que el título comercial de una operación determine por sí solo su calificación jurídica.**
+
+---
+
