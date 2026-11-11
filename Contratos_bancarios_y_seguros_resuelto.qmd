@@ -1,0 +1,1060 @@
+---
+title: "Contratos bancarios y contrato de seguro"
+subtitle: "Derecho Comercial · Régimen argentino"
+author: "Material de clase"
+lang: es
+format:
+  revealjs:
+    theme: default
+    css: styles.css
+    slide-number: true
+    progress: true
+    scrollable: true
+    transition: slide
+    navigation-mode: linear
+    width: 1280
+    height: 720
+    margin: 0.08
+    smaller: false
+    code-overflow: wrap
+execute:
+  echo: false
+---
+
+# Contratos bancarios y seguros {.centered}
+
+::: {.blue-box}
+**CCCN · Ley 25.065 · Ley 17.418 · Ley 20.091**
+
+Contratos, distribución de riesgos, tutela del cliente y solución de conflictos.
+:::
+
+**Objetivos:** identificar las prestaciones, interpretar las normas especiales y resolver casos jurídicos concretos.
+
+## Mapa de la unidad
+
+| Bloque | Institutos | Pregunta jurídica central |
+|---|---|---|
+| I | Contratos bancarios | ¿Qué obligaciones asume cada parte y cómo se distribuye el riesgo? |
+
+**Respuesta / criterio de resolución:** Identificar deberes de información, restitución, custodia y asignación contractual de riesgos, sujetos a normas imperativas.
+| II | Ahorro previo | ¿Cómo se protege al suscriptor frente al administrador? |
+
+**Respuesta / criterio de resolución:** El suscriptor cuenta con tutela informativa, control administrativo, cláusulas no abusivas y remedios por incumplimiento.
+| III | Seguro: parte general | ¿Cuándo nace y cuándo se torna exigible la cobertura? |
+
+**Respuesta / criterio de resolución:** El contrato se perfecciona por consentimiento; la cobertura depende de vigencia, delimitación del riesgo y pago según régimen aplicable.
+| IV | Seguros especiales | ¿Qué cambia según el interés y el riesgo cubiertos? |
+
+**Respuesta / criterio de resolución:** Varían el interés protegido, el alcance de la indemnización, las exclusiones y la legitimación para reclamar.
+
+::: {.highlight-box}
+**Método:** norma → interpretación → ejemplo → caso → discusión.
+:::
+
+# I. Contratos bancarios
+
+## Sistema de fuentes: ¿qué normas se aplican?
+
+- **CCCN, arts. 1378 y siguientes:** reglas generales y contratos bancarios particulares.
+- **CCCN, arts. 1092 y siguientes:** régimen de consumo, cuando corresponda.
+- **Ley 24.240:** información, trato digno, cláusulas abusivas y responsabilidad.
+- **Ley 25.065:** régimen especial de tarjeta de crédito.
+- **Reglamentación del BCRA:** transparencia, usuarios de servicios financieros y operatoria bancaria.
+
+::: {.highlight-box}
+**Criterio de lectura:** la regulación especial no elimina la aplicación de normas protectorias compatibles.
+:::
+
+## CCCN: ámbito de aplicación y transparencia
+
+**Arts. 1378–1383 CCCN.** El régimen considera contratos celebrados con bancos y otras entidades comprendidas en su ámbito. Impone exigencias de publicidad, información y forma documental.
+
+- Identificación clara de tasas, comisiones y costos.
+- Información suficiente para comparar ofertas.
+- Documentación del contrato y de sus condiciones.
+- Distinción entre **tasa nominal**, **tasa efectiva** y **costo financiero total**.
+
+**Ejemplo:** un préstamo anunciado al 40 % anual puede tener un costo efectivo considerablemente mayor por cargos y seguros asociados.
+
+## Contratos bancarios con consumidores
+
+**Arts. 1384–1389 CCCN.** Las reglas especiales refuerzan el deber de información y la protección frente a costos y condiciones contractuales.
+
+| Punto | Pregunta de control |
+|---|---|
+| Publicidad | ¿El anuncio permite comprender el costo real? |
+
+**Respuesta / criterio de resolución:** Debe revelar tasas, comisiones y costo financiero total de modo claro.
+| Instrumentación | ¿Se entregó un ejemplar del contrato? |
+
+**Respuesta / criterio de resolución:** Debe entregarse documentación contractual conforme al régimen aplicable.
+| Cargos | ¿Fueron pactados e informados de manera válida? |
+
+**Respuesta / criterio de resolución:** Solo proceden cargos válidamente incorporados, informados y no abusivos.
+| Evaluación | ¿Se explicó el costo y la modalidad de restitución? |
+
+**Respuesta / criterio de resolución:** Deben explicarse costo total, intereses, vencimientos y forma de restitución.
+| Interpretación | ¿La ambigüedad debe resolverse a favor del consumidor? |
+
+**Respuesta / criterio de resolución:** En relaciones de consumo, la interpretación favorable al consumidor rige ante ambigüedad.
+
+## Cuenta corriente bancaria: concepto
+
+**Art. 1393 CCCN.** Contrato por el cual el banco se compromete a inscribir diariamente los créditos y débitos, mantener un saldo actualizado y, en su caso, prestar servicio de caja.
+
+- Instrumento de pagos, cobros y compensación de movimientos.
+- Puede operar con **saldo acreedor** o con saldo deudor autorizado.
+- No equivale a la cuenta corriente mercantil entre empresas.
+
+::: {.blue-box}
+**Idea clave:** la cuenta registra operaciones y determina un saldo; no es por sí sola una promesa ilimitada de financiamiento.
+:::
+
+## Cuenta corriente: movimientos y disponibilidad
+
+**Arts. 1394–1396 CCCN:** créditos, débitos, medios de disposición y reglas vinculadas al servicio.
+
+**Ejemplo de movimientos:**
+
+| Concepto | Crédito | Débito | Saldo |
+|---|---:|---:|---:|
+| Saldo inicial | $800.000 | — | $800.000 |
+| Transferencia recibida | $350.000 | — | $1.150.000 |
+| Pago a proveedor | — | $900.000 | $250.000 |
+| Débito autorizado | — | $100.000 | $150.000 |
+
+**Discusión:** ¿qué sucede si el banco ejecuta un débito no autorizado?
+
+**Respuesta / criterio de resolución:** El débito no autorizado puede generar restitución, intereses y daños acreditados; el banco debe justificar su legitimidad.
+
+## Cuenta corriente: intereses y saldo deudor
+
+**Art. 1398 CCCN:** el saldo deudor genera intereses conforme a las condiciones aplicables; distinguir el costo de un descubierto autorizado de la mora por exceder el límite.
+
+- El banco debe permitir identificar el origen de los cargos.
+- Un descubierto no se presume ilimitado.
+- Intereses, comisiones y penalidades requieren análisis de su fuente y razonabilidad.
+
+**Ejemplo:** empresa con autorización para girar en descubierto hasta $2 millones utiliza $2,4 millones. ¿Es idéntico el tratamiento de ambos tramos?
+
+**Respuesta / criterio de resolución:** No. El tramo autorizado se rige por la apertura; el exceso requiere aceptación bancaria y puede generar consecuencias y tasas diferentes, sujetas a límites legales.
+
+## Resúmenes, observaciones y cierre
+
+**Arts. 1403–1407 CCCN:** examen de resúmenes, cierre de cuenta y cobro del saldo.
+
+- Revisar el procedimiento contractual y legal de observación.
+- Diferenciar cierre de la cuenta y cancelación de obligaciones pendientes.
+- La emisión de un certificado de saldo deudor exige cumplir requisitos legales; su fuerza ejecutiva no impide defensas admisibles.
+
+::: {.highlight-box}
+**Pregunta:** ¿la falta de impugnación del resumen convalida cualquier cargo, incluso uno abusivo o no autorizado? Fundamente.
+
+**Respuesta / criterio de resolución:** No. El silencio frente al resumen no sanea automáticamente cargos ilegales o abusivos; deben ponderarse el régimen de observación y las normas imperativas.
+:::
+
+## Caso 1 · Cuenta corriente y cargos discutidos
+
+Una pyme detecta durante cuatro meses un cargo mensual por “mantenimiento premium” que nunca solicitó. El banco sostiene que los resúmenes fueron enviados y no se impugnaron oportunamente. Además, amenaza con cerrar la cuenta si se reclama el reintegro.
+
+**Resolver:**
+
+1. ¿Qué normas del CCCN y de consumo deben examinarse?
+
+**Respuesta / criterio de resolución:** CCCN sobre contratos bancarios y cuenta corriente, deber de información, buena fe y, si corresponde, Ley 24.240.
+2. ¿La falta de observación excluye toda revisión judicial?
+
+**Respuesta / criterio de resolución:** No. El silencio no impide revisar cargos ilegítimos, aunque puede afectar la prueba y los plazos de observación.
+3. ¿Qué documentación pediría al banco?
+
+**Respuesta / criterio de resolución:** Contrato, tarifario, comunicaciones, resúmenes, autorizaciones y trazabilidad de los débitos.
+4. ¿Puede el cierre utilizarse como represalia?
+
+**Respuesta / criterio de resolución:** El cierre debe respetar ley, contrato, preaviso y buena fe; una represalia puede constituir ejercicio abusivo.
+
+## Préstamo bancario
+
+**Art. 1408 CCCN.** El banco se obliga a entregar una suma de dinero y el prestatario a restituirla y pagar intereses en la moneda y condiciones convenidas.
+
+- El banco **entrega fondos**: hay disponibilidad patrimonial para el cliente.
+- El prestatario **restituye capital** y paga la remuneración pactada.
+- Importan vencimiento, amortización, intereses y garantías.
+
+**Ejemplo:** préstamo de $12 millones en 24 cuotas. Analizar qué ocurre ante cancelación anticipada, mora y aceleración de vencimientos.
+
+## Préstamo: estructura económica y jurídica
+
+| Aspecto | Pregunta |
+|---|---|
+| Capital | ¿Cuánto dinero recibe efectivamente el prestatario? |
+
+**Respuesta / criterio de resolución:** El capital efectivamente acreditado, diferenciándolo de cargos y retenciones.
+| Intereses | ¿Compensatorios, moratorios, punitorios? |
+
+**Respuesta / criterio de resolución:** Identificar intereses compensatorios, moratorios y punitorios y verificar pacto y límites aplicables.
+| Plazo | ¿Cuándo vence cada obligación? |
+
+**Respuesta / criterio de resolución:** Determinar cronograma de vencimientos, plazo final y eventual caducidad válida.
+| Garantía | ¿Personal, prendaria o hipotecaria? |
+
+**Respuesta / criterio de resolución:** Precisar garantías personales o reales y su alcance.
+| Incumplimiento | ¿Qué habilita la caducidad de plazos? |
+
+**Respuesta / criterio de resolución:** Examinar causales pactadas y legales, gravedad del incumplimiento y buena fe.
+
+::: {.highlight-box}
+**No confundir:** la existencia de una garantía no transforma la naturaleza del contrato de préstamo.
+:::
+
+## Descuento bancario
+
+**Art. 1409 CCCN.** El titular de un crédito contra un tercero lo cede al banco, que anticipa su importe con deducción del interés correspondiente.
+
+- Existe un **crédito previo** contra un tercero.
+- El banco adelanta liquidez antes del vencimiento.
+- La cesión y la responsabilidad del descontatario deben leerse conforme al régimen aplicable.
+
+**Ejemplo:** factura a cobrar de $1.000.000 a 90 días; el banco anticipa $930.000. Los $70.000 representan descuento y eventuales cargos según lo pactado.
+
+## Préstamo versus descuento
+
+| Variable | Préstamo | Descuento |
+|---|---|---|
+| Base | Entrega de dinero | Crédito contra tercero |
+| Contraprestación | Restituir capital e intereses | Ceder crédito y asumir obligaciones legales/contractuales |
+| Liquidez | Financiamiento directo | Anticipo de cobro |
+| Riesgo principal | Solvencia del prestatario | Cobro del tercero y régimen de regreso |
+| Uso frecuente | Capital de trabajo | Facturas y documentos a plazo |
+
+## Caso 2 · Descuento y falta de pago
+
+Una distribuidora descuenta ante un banco un crédito de $8 millones contra un supermercado, con vencimiento a 60 días. El banco adelanta el neto convenido. Al vencimiento, el supermercado rechaza el pago alegando mercadería defectuosa.
+
+**Consignas:** identificar la relación de origen, la cesión, las defensas del deudor cedido y la eventual acción del banco contra la distribuidora. ¿Cambiaría algo si el crédito fuera inexistente?
+
+**Respuesta / criterio de resolución:** El descuento presupone crédito preexistente cedido al banco; verificar notificación, defensas oponibles y responsabilidad del cedente. Si el crédito es inexistente, puede operar responsabilidad por incumplimiento de la garantía de existencia y por el contrato.
+
+## Apertura de crédito
+
+**Art. 1410 CCCN.** El banco se obliga, a cambio de una remuneración, a mantener a disposición de otra persona un crédito de dinero, dentro de un límite y por un tiempo determinado o indeterminado.
+
+- La prestación principal es la **disponibilidad** del crédito.
+- Puede existir remuneración por mantener la línea abierta.
+- El cliente puede utilizar todo, parte o nada del límite.
+
+::: {.blue-box}
+**Distinción central:** apertura de crédito ≠ préstamo ya desembolsado.
+:::
+
+## Disponibilidad, uso y restitución
+
+**Arts. 1411–1412 CCCN.** Examinar disponibilidad de fondos, utilización y el carácter del derecho de acceso al crédito.
+
+**Ejemplo:** banco abre una línea de $10 millones por seis meses; el cliente utiliza $3 millones.
+
+- ¿Qué obligación asumió el banco desde la apertura?
+
+**Respuesta / criterio de resolución:** El banco debe mantener fondos disponibles hasta el límite y durante el plazo acordados.
+- ¿Sobre qué importe se devengan intereses por fondos utilizados?
+
+**Respuesta / criterio de resolución:** Los intereses por utilización se calculan sobre los importes efectivamente dispuestos, según el contrato.
+- ¿Existe comisión por disponibilidad sobre la parte no utilizada?
+
+**Respuesta / criterio de resolución:** La comisión por disponibilidad puede pactarse de modo válido y transparente; no se presume.
+- ¿Puede cederse libremente el derecho a utilizar la línea?
+
+**Respuesta / criterio de resolución:** El derecho de utilización no es libremente cedible salvo pacto y régimen aplicable.
+
+## Comparación de tres formas de financiación
+
+| Operación | ¿Qué recibe el cliente inicialmente? | Dato distintivo |
+|---|---|---|
+| Préstamo | Dinero | Deuda de restitución desde la entrega |
+| Descuento | Anticipo contra cesión de crédito | Crédito frente a tercero |
+| Apertura | Derecho a disponer de un cupo | Disponibilidad sin desembolso total necesario |
+
+**Actividad:** una empresa necesita financiar sueldos estacionales y otra tiene facturas a cobrar. ¿Qué instrumento conviene a cada una y por qué?
+
+**Respuesta / criterio de resolución:** Para sueldos estacionales, apertura de crédito; para facturas a cobrar, descuento o factoraje según cesión, servicios y asunción del riesgo.
+
+## Servicio de caja de seguridad
+
+**Arts. 1413–1417 CCCN.** El prestador proporciona un espacio protegido para guardar bienes, con deberes de seguridad, custodia del ámbito y control de acceso.
+
+- No es un depósito ordinario de bienes individualizados.
+- El banco normalmente desconoce el contenido.
+- La seguridad ofrecida integra el objeto central del contrato.
+- Analizar responsabilidad, prueba del contenido y límites contractuales.
+
+## Responsabilidad y cláusulas limitativas
+
+**Art. 1413 CCCN:** responsabilidad del prestador por idoneidad de custodia, integridad de cajas y contenido, con eximentes legalmente delimitadas.
+
+**Art. 1414 CCCN:** validez condicionada de la limitación cuantitativa, siempre que el usuario haya sido debidamente informado y no se desnaturalicen las obligaciones del prestador.
+
+**Art. 1415 CCCN:** medios de prueba del contenido.
+
+::: {.highlight-box}
+**Debate:** una cláusula que exonera al banco por cualquier robo, ¿limita razonablemente la responsabilidad o vacía el contrato?
+
+**Respuesta / criterio de resolución:** Una exoneración general por robo vacía el deber esencial de custodia y resulta inválida; deben evaluarse los límites razonables y las normas imperativas.
+:::
+
+## Caso 3 · Robo de caja de seguridad
+
+Una clienta denuncia que desaparecieron joyas y documentación de una caja bancaria. El banco invoca un límite indemnizatorio que figuraba en un anexo no destacado y afirma que no existe inventario de los objetos.
+
+1. ¿Qué debe probar cada parte?
+
+**Respuesta / criterio de resolución:** Cliente: vínculo, daño y circunstancias; banco: diligencia, defensas y presupuestos de exoneración.
+2. ¿Es indispensable un inventario previo?
+
+**Respuesta / criterio de resolución:** No necesariamente; el contenido puede acreditarse por otros medios de prueba.
+3. ¿Cómo se analiza la validez del límite contractual?
+
+**Respuesta / criterio de resolución:** Controlar razonabilidad, información, negociación y prohibición de desnaturalizar obligaciones esenciales.
+4. ¿Qué relevancia tiene la previsibilidad de robos y el estándar profesional de seguridad?
+
+**Respuesta / criterio de resolución:** El robo es un riesgo propio del servicio; se exige seguridad profesional reforzada.
+
+## Custodia de títulos
+
+**Arts. 1418–1420 CCCN.** El banco recibe títulos para su guarda y debe cumplir las obligaciones de custodia y administración previstas legalmente y en el contrato.
+
+- Conservación y restitución de títulos.
+- Cobro de rendimientos o ejercicio de derechos cuando corresponda.
+- Deber de información y diligencia profesional.
+- Diferencia con el asesoramiento de inversiones o la gestión discrecional de cartera.
+
+**Ejemplo:** el banco omite cobrar un cupón vencido pese a haber asumido esa tarea. ¿Qué daño debe acreditarse?
+
+**Respuesta / criterio de resolución:** Debe acreditarse perjuicio causalmente ligado al incumplimiento, por ejemplo pérdida de cobro o intereses.
+
+## Custodia versus otras operaciones
+
+| Contrato | Objeto central | ¿Quién decide invertir? |
+
+**Respuesta / criterio de resolución:** En custodia, la decisión de inversión corresponde en principio al cliente, salvo mandato de administración separado.
+|---|---|---|
+| Custodia de títulos | Guarda y servicios accesorios | Titular, salvo mandato específico |
+| Caja de seguridad | Espacio seguro y acceso | Usuario decide qué guardar |
+| Administración de cartera | Gestión de inversiones | Gestor dentro de facultades otorgadas |
+
+**Clave:** la denominación comercial del servicio no sustituye el examen de las obligaciones efectivamente asumidas.
+
+## Tarjeta de crédito: marco normativo
+
+**Ley 25.065**, con aplicación complementaria del CCCN y de las normas de consumo.
+
+- Sistema integrado por emisor, titular, usuarios adicionales y comercios adheridos.
+- Financiación y mecanismo de pago.
+- Contrato de adhesión con especial deber de información.
+- Importancia del resumen, impugnación, intereses y procedimientos de cobro.
+
+**Pregunta:** ¿una tarjeta de débito y una tarjeta de crédito crean idéntica relación jurídica?
+
+**Respuesta / criterio de resolución:** No. La tarjeta de débito moviliza fondos disponibles; la de crédito instrumenta financiación y un sistema contractual específico.
+
+## Relaciones jurídicas en el sistema
+
+```{mermaid}
+flowchart LR
+  E[Emisor] -->|Contrato de emisión| T[Titular]
+  E -->|Contrato de adhesión comercial| C[Comercio]
+  T -->|Compra| C
+  E -->|Liquidación| C
+  T -->|Pago del resumen| E
+```
+
+**Análisis:** la compra subyacente y el financiamiento del emisor son relaciones distintas, aunque conectadas.
+
+## Resumen, impugnación y deuda
+
+**Ley 25.065:** examinar especialmente el contenido obligatorio del resumen y el procedimiento legal de cuestionamiento de liquidaciones.
+
+- Revisar consumos, fecha, cuotas, intereses y cargos.
+- Identificar plazos y formalidades de impugnación.
+- Distinguir pago mínimo, financiación del saldo y mora.
+- La aceptación tácita del resumen no convalida automáticamente prácticas ilícitas.
+
+**Ejemplo:** un consumo duplicado se detecta al recibir el resumen. ¿Qué pasos debe seguir el titular?
+
+**Respuesta / criterio de resolución:** Impugnar el resumen por los canales y plazos de la Ley 25.065, conservar prueba y exigir investigación y rectificación.
+
+## Intereses y cobro de tarjeta
+
+- Diferenciar **interés financiero** por saldo financiado de **interés punitorio** por incumplimiento.
+- Verificar límites y condiciones previstos por la Ley 25.065.
+- Examinar la documentación exigida para reclamar judicialmente.
+- Controlar cargos no autorizados y seguros incorporados unilateralmente.
+
+::: {.highlight-box}
+**Problema:** el pago mínimo puede evitar algunas consecuencias inmediatas de mora, pero no significa que la deuda restante desaparezca.
+:::
+
+## Caso 4 · Tarjeta y consumo desconocido
+
+El resumen incluye una compra online de $1.200.000 que el titular desconoce. El emisor exige pagar primero la totalidad y luego iniciar el reclamo. El titular cuestiona el consumo dentro del procedimiento legal.
+
+**Resolver:** obligaciones de emisor y titular, tratamiento del importe cuestionado, documentación técnica relevante y posible aplicación de las normas de consumo.
+
+# II. Ahorro con fines determinados
+
+## Ahorro previo: estructura contractual
+
+Sistema por el que suscriptores aportan cuotas periódicas para acceder, bajo condiciones regladas, a un bien o servicio determinado, frecuentemente automotores.
+
+- Empresa administradora del plan.
+- Grupo de suscriptores y fondo común.
+- Adjudicación por sorteo, licitación u otros mecanismos autorizados.
+- Vinculación con proveedor/fabricante y eventual concesionaria.
+
+**Fuentes:** condiciones aprobadas, regulación y fiscalización de la IGJ cuando corresponda, CCCN y tutela del consumidor.
+
+## Plan de ahorro: economía y riesgos
+
+| Variable | Riesgo o conflicto |
+|---|---|
+| Cuota móvil | Variación del valor de referencia del bien |
+| Adjudicación | Expectativas de entrega y condiciones pendientes |
+| Gastos administrativos | Transparencia y proporcionalidad |
+| Renuncia/rescisión | Momento y fórmula de reintegro |
+| Integración del grupo | Sustentabilidad y administración del fondo |
+
+::: {.highlight-box}
+**No confundir:** cuota de plan de ahorro y cuota fija de préstamo bancario no responden necesariamente a la misma lógica.
+:::
+
+## Caso 5 · Aumento de cuota del plan
+
+Un consumidor suscribe un plan de 84 cuotas para adquirir un automóvil. A los 18 meses, la cuota se duplica por el aumento del valor móvil. La publicidad original enfatizaba “cuotas accesibles”, sin explicar claramente el mecanismo de ajuste.
+
+1. ¿El aumento es automáticamente ilícito?
+
+**Respuesta / criterio de resolución:** No necesariamente: depende de la fórmula contractual, transparencia, regulación y eventual abusividad.
+2. ¿Qué deberes de información son decisivos?
+
+**Respuesta / criterio de resolución:** Información previa, fórmula de ajuste, cargos, plazos, adjudicación y cambios del valor móvil.
+3. ¿Cómo se examinan cláusulas de determinación del precio?
+
+**Respuesta / criterio de resolución:** Control de determinabilidad, buena fe, transparencia y desequilibrio significativo.
+4. ¿Qué soluciones pueden discutirse sin desconocer el funcionamiento colectivo del sistema?
+
+**Respuesta / criterio de resolución:** Información y revisión de cláusulas, adecuación de cargos ilegítimos y remedios por incumplimiento, sin desconocer la mutualidad del plan.
+
+# III. Contrato de seguro: parte general
+
+## Seguro: concepto legal
+
+**Art. 1, Ley 17.418.** Existe contrato de seguro cuando el asegurador se obliga, mediante una prima o cotización, a resarcir un daño o cumplir la prestación convenida si ocurre el evento previsto.
+
+**Elementos estructurales:**
+
+- Riesgo cubierto.
+- Prestación del asegurador.
+- Prima a cargo del tomador.
+- Evento incierto previsto en el contrato.
+
+::: {.blue-box}
+**Función económica:** trasladar contractualmente las consecuencias de un riesgo a una empresa que organiza su cobertura técnicamente.
+:::
+
+## Caracteres y naturaleza jurídica
+
+- **Consensual:** el contrato se perfecciona por consentimiento (art. 4).
+- **Oneroso:** existe prima como contraprestación.
+- **Aleatorio:** la prestación depende de un evento incierto.
+- **De ejecución continuada:** cobertura durante un período.
+- **De buena fe:** relevancia intensificada de información veraz.
+- **Por adhesión**, frecuentemente, sin excluir controles sobre cláusulas predispuestas.
+
+**Discusión:** ¿por qué el carácter aleatorio no significa que el asegurador carezca de obligaciones hasta el siniestro?
+
+**Respuesta / criterio de resolución:** Desde el contrato nacen deberes de información, emisión de póliza y mantenimiento de cobertura; el siniestro activa la prestación eventual.
+
+## Riesgo: delimitación de la cobertura
+
+**Ley 17.418, arts. 2 y 3:** el contrato puede cubrir diversas clases de riesgos, dentro de los límites legales.
+
+- Riesgo **posible, incierto y previsto**.
+- Delimitación temporal, espacial y objetiva.
+- Exclusiones expresas y su interpretación.
+- Distinción entre riesgo no cubierto, caducidad y nulidad.
+
+**Ejemplo:** una póliza cubre robo del vehículo, pero excluye apropiación cometida por determinados sujetos. ¿Qué hecho debe probarse?
+
+**Respuesta / criterio de resolución:** El asegurado prueba el siniestro comprendido prima facie; quien invoca una exclusión debe acreditar sus presupuestos.
+
+## Interés asegurable
+
+**Art. 2 y régimen de seguros de daños, Ley 17.418.** En los seguros patrimoniales debe existir un interés económico lícito en que el siniestro no ocurra.
+
+- Puede pertenecer al propietario, acreedor u otro sujeto expuesto al perjuicio.
+- No se identifica necesariamente con la titularidad dominial.
+- La indemnización se relaciona con el daño al interés protegido.
+
+**Ejemplo:** un acreedor prendario puede tener interés asegurable respecto del bien dado en garantía.
+
+## Prima: precio del seguro
+
+- Remunera la asunción y administración del riesgo.
+- Debe distinguirse prima técnica, premio total y conceptos tributarios o accesorios.
+- La falta de pago puede provocar consecuencias sobre la cobertura según ley y condiciones aplicables.
+- **Arts. 27 y siguientes, Ley 17.418:** obligaciones de pago y sus efectos.
+
+**Caso breve:** el tomador paga por transferencia el último día; la aseguradora registra el pago 48 horas después. Ocurre el siniestro en el intervalo. ¿Qué hechos deben precisarse?
+
+**Respuesta / criterio de resolución:** Precisar vencimiento, momento de pago, acreditación, condiciones de cobranza, eventual suspensión y momento exacto del siniestro.
+
+## Tomador, asegurado y beneficiario
+
+| Sujeto | Función | ¿Siempre coincide? |
+
+**Respuesta / criterio de resolución:** No. Tomador, asegurado y beneficiario pueden ser personas diferentes.
+|---|---|---|
+| Tomador | Celebra contrato y asume obligaciones | No |
+| Asegurado | Titular del interés o persona expuesta al riesgo | No |
+| Beneficiario | Recibe prestación cuando corresponda | No |
+| Asegurador | Asume contractualmente el riesgo | Persona autorizada |
+
+**Ejemplo:** una empresa contrata seguro de vida colectivo para sus empleados y designa beneficiarios conforme a la póliza.
+
+## Celebración: propuesta y aceptación
+
+**Art. 4, Ley 17.418:** contrato consensual; los derechos y obligaciones recíprocos comienzan desde la celebración, aun antes de emitirse la póliza, salvo estipulación aplicable.
+
+**Art. 5 y siguientes:** declaración del riesgo y reticencia.
+
+- La propuesta no debe confundirse automáticamente con aceptación.
+- Examinar cobertura provisional, fecha de inicio y aceptación.
+- Diferenciar constancia de cobertura de póliza definitiva.
+
+## Póliza: función y contenido
+
+**Art. 11, Ley 17.418.** Instrumento probatorio del contrato, con condiciones generales y particulares.
+
+- Identificación de partes y riesgo.
+- Vigencia y suma asegurada.
+- Prima y forma de pago.
+- Exclusiones, franquicias y límites.
+- Procedimientos ante siniestros.
+
+::: {.highlight-box}
+**Clave:** la póliza documenta el acuerdo; no convierte por sí sola al seguro en un contrato solemne.
+:::
+
+## Reticencia: art. 5 de la Ley 17.418
+
+Toda declaración falsa o reticencia sobre circunstancias conocidas por el asegurado, aun de buena fe, que a juicio de peritos hubiese impedido el contrato o modificado sus condiciones de haberse conocido el verdadero estado del riesgo, puede producir nulidad en los términos legales.
+
+**Analizar:**
+
+1. Circunstancia conocida y omitida o falsamente declarada.
+2. Relevancia técnica para la selección del riesgo.
+3. Plazos legales de impugnación.
+4. Efectos según buena o mala fe.
+
+## Reticencia versus agravación del riesgo
+
+| Aspecto | Reticencia | Agravación |
+|---|---|---|
+| Momento | Al declarar riesgo para contratar | Durante vigencia |
+| Problema | Información inicial inexacta | Cambio posterior relevante |
+| Examen | Materialidad y conocimiento | Cambio del estado del riesgo |
+| Efecto | Régimen de nulidad y consecuencias | Suspensión, rescisión u otros efectos legales |
+
+**Fuentes:** arts. 5–10 y 37 y siguientes de la Ley 17.418.
+
+## Caso 6 · Reticencia médica
+
+Una persona contrata seguro de vida. El formulario pregunta por diagnósticos cardiovasculares previos. Omite informar una afección diagnosticada dos años antes. Fallece en un accidente de tránsito durante la vigencia.
+
+**Debatir:** ¿es relevante que la muerte no haya sido causada por la enfermedad? ¿Qué prueba técnica exige el art. 5? ¿Qué importancia tienen el conocimiento de la aseguradora y los plazos legales?
+
+**Respuesta / criterio de resolución:** La causa de muerte no decide por sí sola; la reticencia requiere materialidad según juicio pericial y cumplimiento de plazos de impugnación.
+
+## Aseguradores y control estatal
+
+**Ley 20.091:** régimen de entidades aseguradoras y su control.
+
+- Autorización para operar y control de solvencia.
+- Reservas, capitales y condiciones técnicas.
+- Supervisión de pólizas y prácticas conforme al régimen vigente.
+- Facultades de fiscalización y sanción.
+
+**Autoridad:** Superintendencia de Seguros de la Nación (SSN).
+
+::: {.blue-box}
+**Diferenciar:** la SSN controla el mercado; no sustituye sin más al juez competente para resolver una controversia indemnizatoria.
+:::
+
+## Productores asesores de seguros
+
+**Ley 22.400:** régimen de intermediación de productores asesores.
+
+- Asesoramiento e intermediación profesional.
+- Matrícula y exigencias regulatorias.
+- Deberes frente a asegurados y aseguradoras.
+- Distinguir productor, agente institorio y asegurador.
+
+**Caso:** un productor asegura verbalmente que “todo está cubierto”, pero la póliza excluye cierto riesgo. ¿Qué relevancia tienen sus facultades y la información suministrada?
+
+**Respuesta / criterio de resolución:** Las facultades del productor y su actuación concreta importan; la publicidad engañosa o información inexacta puede generar responsabilidades, sin alterar automáticamente la póliza.
+
+## Siniestro: denuncia y colaboración
+
+**Art. 46, Ley 17.418:** deber de comunicar el siniestro dentro del plazo legal de tres días de conocerlo, salvo excepciones y reglas aplicables; aportar información y documentación razonablemente necesaria.
+
+- Precisar **cuándo se conoció** el siniestro.
+- Examinar medio y constancia de comunicación.
+- Evitar confundir denuncia con prueba definitiva del daño.
+- Analizar consecuencias legales del incumplimiento.
+
+## Cargas del asegurado y caducidad
+
+**Arts. 46–48, Ley 17.418:** denuncia, información y consecuencias de incumplimientos, según los supuestos previstos.
+
+**Distinguir:**
+
+- Incumplimiento de la carga de denunciar.
+- Información complementaria solicitada razonablemente.
+- Exageración fraudulenta de daños o empleo de pruebas falsas.
+- Causales legales o contractuales de caducidad.
+
+**Pregunta:** ¿toda demora de un día permite rechazar automáticamente la cobertura, sin examinar el régimen legal?
+
+**Respuesta / criterio de resolución:** No. Debe examinarse el plazo legal, la información requerida, la imputabilidad y las consecuencias expresamente previstas.
+
+## Pronunciamiento del asegurador
+
+**Art. 56, Ley 17.418:** el asegurador debe pronunciarse sobre el derecho del asegurado dentro de los treinta días de recibida la información complementaria prevista legalmente; la omisión de pronunciamiento importa aceptación.
+
+- Identificar cuándo se completó la información pertinente.
+- Distinguir solicitud legítima de maniobra dilatoria.
+- Conservar prueba de comunicaciones.
+
+::: {.highlight-box}
+**Problema práctico:** la aseguradora pide sucesivamente documentos irrelevantes para prolongar el plazo. ¿Qué control jurídico corresponde?
+
+**Respuesta / criterio de resolución:** La información complementaria debe ser pertinente y razonable; requerimientos dilatorios no deben neutralizar el art. 56.
+:::
+
+## Mora del asegurador
+
+**Art. 49, Ley 17.418:** regula la exigibilidad del pago según el tipo de seguro y el proceso de determinación de la prestación.
+
+- Diferenciar **aceptación de cobertura**, **liquidación del daño** y **vencimiento del pago**.
+- La mora exige identificar el momento de exigibilidad.
+- El incumplimiento puede generar intereses y consecuencias resarcitorias según el caso.
+
+**Ejemplo:** cobertura reconocida el 1 de junio; liquidación concluida el 10 de junio. ¿Desde cuándo corresponde analizar la mora?
+
+**Respuesta / criterio de resolución:** Distinguir el vencimiento del plazo legal de pago desde la aceptación o determinación pertinente; la mora no surge necesariamente en la fecha de reconocimiento.
+
+## Determinación de la indemnización
+
+- Verificar ocurrencia del riesgo y cobertura.
+- Acreditar existencia, entidad y causalidad del daño.
+- Aplicar suma asegurada, franquicia, infraseguro o límites pertinentes.
+- Considerar salvamento y eventuales recuperos.
+- Evitar enriquecimiento en seguros de daños.
+
+**Ejemplo:** daño probado $7 millones; suma asegurada $6 millones; franquicia $300.000. El cálculo requiere examinar modalidad de cobertura y orden de aplicación de límites.
+
+## Prescripción de acciones del seguro
+
+**Art. 58, Ley 17.418:** plazo especial de prescripción de un año, computado desde que la obligación correspondiente es exigible, con reglas especiales según el derecho ejercido.
+
+- Examinar interacción con normativa de consumo y criterios jurisprudenciales.
+- Identificar suspensión e interrupción cuando procedan.
+- No equiparar automáticamente fecha del siniestro con inicio del cómputo de todas las acciones.
+
+::: {.highlight-box}
+**Advertencia:** el plazo aplicable puede ser controvertido en litigios de consumo; no resolver sin identificar pretensión, normativa y jurisprudencia pertinente.
+:::
+
+## Caso 7 · Rechazo tardío del siniestro
+
+El asegurado denuncia un incendio y entrega toda la documentación solicitada. Cuarenta y cinco días después, la compañía rechaza la cobertura por una exclusión que figuraba en la póliza. No se acredita pedido complementario pendiente.
+
+**Resolver:** art. 56, aceptación por silencio, posibilidad de oponer exclusiones y exigibilidad del pago. Distinguir la discusión sobre existencia de cobertura de la determinación del monto.
+
+**Respuesta / criterio de resolución:** El art. 56 establece aceptación por silencio ante falta de pronunciamiento oportuno, con controversias sobre alcance frente a riesgos no cubiertos; la cuantía y el plazo de pago se analizan separadamente.
+
+# IV. Seguros de daños patrimoniales
+
+## Principio indemnizatorio
+
+**Ley 17.418, arts. 60 y siguientes.** La cobertura de daños patrimoniales busca resarcir el perjuicio sufrido dentro de los límites del contrato.
+
+- Debe existir interés asegurable.
+- La indemnización no constituye, en principio, fuente de ganancia.
+- Suma asegurada y valor del interés pueden diferir.
+- La subrogación permite, en determinados casos, reclamar al tercero responsable.
+
+**Pregunta:** ¿por qué este principio no se traslada mecánicamente al seguro de vida?
+
+**Respuesta / criterio de resolución:** Porque el seguro de vida es típicamente de suma y no estrictamente indemnizatorio del valor de un bien.
+
+## Sobreseguro e infraseguro
+
+**Arts. 62 y 65, Ley 17.418:** examinar la relación entre valor del interés y suma asegurada, así como la regla proporcional cuando corresponda.
+
+| Situación | Valor del bien | Suma asegurada | Consecuencia básica |
+|---|---:|---:|---|
+| Seguro pleno | $10 M | $10 M | Cobertura hasta límites pactados |
+| Infraseguro | $10 M | $6 M | Posible regla proporcional |
+| Sobreseguro | $10 M | $15 M | No habilita lucro indemnizatorio |
+
+## Infraseguro: ejemplo numérico
+
+Bien asegurado con valor real de **$20.000.000**; suma asegurada **$12.000.000**; daño parcial **$5.000.000**.
+
+Si rige la regla proporcional:
+
+\[
+I = D \times \frac{S}{V} = 5.000.000 \times \frac{12}{20}
+\]
+
+::: {.blue-box}
+**Indemnización: $3.000.000**, antes de considerar franquicias u otras estipulaciones aplicables.
+:::
+
+**Discusión:** ¿cómo cambia el resultado si la póliza contiene cláusula válida de primer riesgo absoluto?
+
+**Respuesta / criterio de resolución:** Con primer riesgo absoluto, dentro del límite pactado no se aplica la regla proporcional ordinaria.
+
+## Sobreseguro: ejemplo y límites
+
+Una máquina vale $8 millones, pero fue asegurada por $14 millones. Un siniestro la destruye totalmente.
+
+- En seguro de daños, la indemnización no asciende automáticamente a $14 millones.
+- Examinar valor del interés al momento relevante y modalidad de valuación.
+- Analizar consecuencias de sobreseguro según buena o mala fe y disposiciones legales.
+
+**Pregunta:** ¿qué incentivo contrario al principio indemnizatorio generaría pagar siempre la suma declarada?
+
+**Respuesta / criterio de resolución:** Incentivaría enriquecimiento por encima del daño efectivo y riesgo moral.
+
+## Seguro de incendio
+
+**Arts. 85 y siguientes, Ley 17.418:** cobertura de daños materiales causados por incendio en los términos de la ley y la póliza.
+
+- Delimitar bienes asegurados y riesgos comprendidos.
+- Identificar daños directos y gastos asociados cubiertos.
+- Verificar exclusiones y franquicias.
+- Evaluar daño parcial, total y valor del interés.
+
+**Ejemplo:** incendio de local comercial afecta mercaderías, instalaciones y paraliza actividad. ¿Está cubierta automáticamente la pérdida de ganancias?
+
+**Respuesta / criterio de resolución:** No. Lucro cesante o interrupción de explotación requiere cobertura específica.
+
+## Caso 8 · Incendio y pérdida de beneficios
+
+Una fábrica tiene seguro de incendio sobre edificio y maquinaria. Un cortocircuito provoca daños por $30 millones y la actividad se detiene 45 días. Reclama además $12 millones por ganancias dejadas de percibir.
+
+**Resolver:** distinguir daño material y lucro cesante; analizar si existe cobertura específica de interrupción de negocios; determinar prueba y límites indemnizatorios.
+
+## Seguros agrícolas
+
+**Arts. 90 y siguientes, Ley 17.418:** reglas especiales para riesgos de la actividad agrícola, con atención a la naturaleza del cultivo, tiempo de cobertura y determinación del daño.
+
+- Granizo, helada u otros riesgos según póliza.
+- Declaración de superficie, cultivo y ubicación.
+- Peritaje de daño y momento de valuación.
+- Franquicias y exclusiones climáticas.
+
+**Ejemplo:** un productor contrata cobertura de granizo; la pérdida se origina en sequía. ¿Qué significa que ambos sean riesgos agrícolas?
+
+**Respuesta / criterio de resolución:** Granizo y sequía son riesgos distintos; solo se cubre el expresamente contratado.
+
+## Seguro de robo
+
+**Ley 17.418 y condiciones de póliza:** examinar el riesgo cubierto, sus exclusiones y el régimen general de daños patrimoniales.
+
+- Distinguir robo, hurto y apropiación indebida según definiciones legales y contractuales.
+- Verificar medidas de seguridad exigidas.
+- Examinar prueba del hecho y valor de bienes.
+- Diferenciar exclusión de incumplimiento de carga.
+
+**Caso:** mercadería desaparece de un depósito sin signos de violencia. ¿Alcanza con afirmar que hubo “robo”?
+
+**Respuesta / criterio de resolución:** No necesariamente; revisar definición contractual de robo, prueba del hecho y eventual cobertura de hurto.
+
+## Seguro de caución
+
+Garantiza al acreedor/beneficiario el cumplimiento de determinadas obligaciones del tomador, conforme a las condiciones de la póliza y el régimen aplicable.
+
+- **Tomador:** quien debe cumplir la obligación garantizada.
+- **Asegurado/beneficiario:** quien recibe protección frente al incumplimiento.
+- **Asegurador:** responde en condiciones y límites pactados.
+- Frecuente en obra pública, contratos y obligaciones aduaneras.
+
+**Precisión:** su funcionamiento difiere del seguro indemnizatorio clásico y requiere examinar cuidadosamente la póliza.
+
+## Caución versus fianza
+
+| Criterio | Seguro de caución | Fianza |
+|---|---|---|
+| Instrumento | Póliza | Contrato de garantía |
+| Sujetos | Asegurador, tomador y asegurado | Fiador, deudor y acreedor |
+| Régimen | Seguro y condiciones especiales | CCCN, régimen de fianza |
+| Exigibilidad | Condiciones de configuración del siniestro | Alcance y modalidades de obligación afianzada |
+
+**Debate:** ¿la denominación “seguro” resuelve por sí sola todos los problemas de accesoriedad y defensas?
+
+**Respuesta / criterio de resolución:** No. Debe examinarse función de garantía, sujetos, autonomía y defensas bajo el texto contractual y régimen aplicable.
+
+## Seguro de responsabilidad civil
+
+**Art. 109, Ley 17.418.** El asegurador se obliga a mantener indemne al asegurado por cuanto deba a un tercero en razón de la responsabilidad prevista en el contrato, a consecuencia de un hecho acaecido en el plazo convenido.
+
+- Protege el patrimonio del asegurado frente a responsabilidad cubierta.
+- Existe un tercero damnificado.
+- Son centrales suma asegurada, franquicia, exclusiones y gastos de defensa.
+
+## Defensa del asegurado y gastos
+
+**Arts. 110 y siguientes, Ley 17.418:** analizar gastos y costas, dirección de defensa y obligaciones de comunicación.
+
+- El asegurado debe informar reclamos judiciales y extrajudiciales.
+- La aseguradora puede asumir dirección del proceso en los términos del régimen aplicable.
+- Examinar conflicto de intereses entre asegurado y compañía.
+- La transacción requiere considerar facultades y efectos sobre la cobertura.
+
+**Ejemplo:** la compañía rechaza defender al asegurado y luego discute los honorarios del abogado elegido por este.
+
+## Citación en garantía
+
+**Art. 118, Ley 17.418.** El damnificado puede citar en garantía al asegurador en las condiciones y oportunidades procesales previstas; la sentencia puede hacerse ejecutable contra este en la medida del seguro.
+
+- Participación de la aseguradora en el proceso.
+- Límites objetivos de la cobertura.
+- Defensas oponibles conforme al régimen.
+- Diferenciar condena al responsable y alcance patrimonial de la garantía.
+
+::: {.highlight-box}
+**Punto de examen:** “en la medida del seguro” exige estudiar condiciones, límites y jurisprudencia; no significa cobertura universal de cualquier condena.
+:::
+
+## Caso 9 · Accidente y citación en garantía
+
+Un transportista ocasiona daños a un tercero por $40 millones. Tiene póliza de responsabilidad civil con límite de $25 millones y una franquicia. El damnificado demanda al transportista y cita en garantía a la aseguradora.
+
+**Resolver:** legitimación, alcance de la sentencia, límites oponibles y diferencia entre responsabilidad civil del asegurado y obligación contractual de la aseguradora.
+
+## Seguro de directores y administradores (D&O)
+
+Cobertura de responsabilidad patrimonial derivada de actos de gestión de directores, gerentes y otros administradores, dentro de condiciones pactadas.
+
+- Reclamos por decisiones de administración y presuntos incumplimientos de deberes.
+- Importancia de modalidad **claims made** y períodos de retroactividad/extensión.
+- Exclusiones habituales: dolo probado, beneficios indebidos y sanciones no asegurables.
+- Interacción con deberes societarios de diligencia y lealtad.
+
+**No confundir:** el seguro no elimina la responsabilidad del administrador.
+
+## Caso 10 · D&O y reclamo societario
+
+Accionistas reclaman a directores por aprobar una adquisición sin diligencia suficiente. La decisión se tomó en 2024; el reclamo se formula en 2026. La póliza vigente en 2026 opera bajo modalidad claims made.
+
+**Analizar:** fecha del hecho, fecha de reclamo, retroactividad, notificación, exclusiones y gastos de defensa. ¿Basta con que la demanda se presente durante la vigencia?
+
+**Respuesta / criterio de resolución:** No. En modalidad claims made también deben verificarse fecha del hecho, retroactividad, reclamo y notificación, además de validez de cláusulas.
+
+## Seguros de transporte
+
+**Arts. 121 y siguientes, Ley 17.418**, con normas específicas según modalidad y riesgos.
+
+- Mercaderías, trayecto y duración del riesgo.
+- Daños, pérdidas y riesgos cubiertos durante traslado.
+- Relevancia del embalaje, documentación y custodia.
+- Subrogación contra transportista responsable, cuando corresponda.
+
+**Ejemplo:** mercadería refrigerada se deteriora por falla del equipo durante el viaje. ¿Qué póliza y qué exclusiones deben revisarse?
+
+**Respuesta / criterio de resolución:** Revisar cobertura de transporte, cadena de frío, avería de maquinaria, vicio propio y exclusiones.
+
+## Transporte: relaciones concurrentes
+
+```{mermaid}
+flowchart TD
+  R[Remitente o cargador] -->|Contrato de transporte| P[Transportista]
+  R -->|Póliza de mercaderías| A[Aseguradora]
+  P -->|Responsabilidad por daños| R
+  A -->|Indemnización cubierta| R
+  A -.->|Eventual subrogación| P
+```
+
+**Discusión:** pago del seguro de mercaderías no equivale a liberar automáticamente al transportista responsable.
+
+# V. Seguros de personas
+
+## Seguros de personas: rasgos
+
+**Ley 17.418, arts. 128 y siguientes.** Coberturas vinculadas a vida, integridad física y otros riesgos personales.
+
+- Prestaciones frecuentemente fijadas por suma convenida.
+- No se aplica mecánicamente el principio indemnizatorio patrimonial.
+- Especial relevancia de beneficiarios y declaraciones personales.
+- Reglas particulares sobre edad, consentimiento y designación.
+
+## Seguro de vida
+
+Puede cubrir fallecimiento, supervivencia o modalidades combinadas, según la póliza y las normas aplicables.
+
+- Vida individual y vida colectiva.
+- Prima y capital asegurado.
+- Designación y sustitución de beneficiarios.
+- Exclusiones y supuestos especialmente regulados.
+
+**Ejemplo:** una persona contrata seguro de vida y designa a su pareja como beneficiaria. Años después se separan. ¿Qué hechos y reglas deben verificarse para determinar quién cobra?
+
+**Respuesta / criterio de resolución:** Determinar designación vigente, revocación o modificación válida y reglas contractuales; la separación no revoca automáticamente toda designación.
+
+## Seguro de vida: tomador y beneficiario
+
+| Supuesto | Tomador | Asegurado | Beneficiario |
+|---|---|---|---|
+| Vida individual propia | Persona A | Persona A | Persona B |
+| Seguro contratado por tercero | Persona A | Persona B | Persona C |
+| Vida colectivo laboral | Empleador/organizador | Empleado | Designado según régimen |
+
+**Cuestión:** no confundir titularidad del contrato con titularidad del derecho a la prestación.
+
+## Seguro colectivo
+
+Seguro que agrupa personas bajo una cobertura organizada, habitualmente por un tomador colectivo.
+
+- Identificar grupo asegurado y criterios de incorporación.
+- Examinar certificados individuales y deberes informativos.
+- Reglas sobre alta, baja, continuidad y beneficiarios.
+- Distinguir seguro colectivo voluntario de coberturas obligatorias especiales.
+
+**Ejemplo:** empleado se desvincula y fallece 20 días después. ¿Qué documentación determina si conservaba cobertura?
+
+**Respuesta / criterio de resolución:** Revisar póliza colectiva, fecha de baja, continuidad, conversión, certificado individual y pago.
+
+## Caso 11 · Seguro colectivo y exclusión
+
+Una empresa contrata seguro de vida colectivo. Un trabajador incorporado hace dos meses fallece; la aseguradora rechaza el pago por una exclusión médica que nunca fue comunicada individualmente. El empleador afirma haber recibido solamente las condiciones generales.
+
+**Resolver:** deberes de información, incorporación del asegurado, eficacia de exclusiones, carga probatoria y eventual responsabilidad de los intervinientes.
+
+# VI. Integración y evaluación
+
+## Cuadro general de contratos bancarios
+
+| Contrato | Prestación principal | Conflicto frecuente |
+|---|---|---|
+| Cuenta corriente | Registro y servicio de caja | Débitos y saldo |
+| Préstamo | Entrega de fondos | Intereses y mora |
+| Descuento | Anticipo contra crédito | Incumplimiento del cedido |
+| Apertura de crédito | Disponibilidad de fondos | Uso y comisiones |
+| Caja de seguridad | Seguridad del espacio | Robo y prueba |
+| Custodia de títulos | Guarda y servicios | Pérdida de derechos |
+| Tarjeta | Pago y financiación | Resumen y cargos |
+
+## Cuadro general de seguros
+
+| Tipo | Interés protegido | Particularidad |
+|---|---|---|
+| Incendio | Patrimonio material | Valor del bien y daño |
+| Agrícola | Producción | Riesgos climáticos delimitados |
+| Robo | Bienes | Modalidad del hecho |
+| Caución | Cumplimiento | Beneficiario-acreedor |
+| Responsabilidad civil | Patrimonio del responsable | Tercero damnificado |
+| D&O | Patrimonio del administrador | Reclamos por gestión |
+| Transporte | Mercaderías en tránsito | Trayecto y custodia |
+| Vida | Riesgo personal | Capital y beneficiario |
+
+## Caso integrador 12 · Empresa y cobertura
+
+Una sociedad financia maquinaria mediante préstamo bancario, guarda títulos en custodia y contrata seguro de incendio por una suma inferior al valor de reposición. Tras un incendio parcial, la compañía aplica regla proporcional. Paralelamente, el banco debita una comisión no pactada.
+
+**Trabajo en grupos:**
+
+1. Identificar cada contrato y su fuente normativa.
+2. Calcular una indemnización si valor = $40 M, suma = $24 M y daño = $10 M.
+3. Indicar qué hechos y documentos deben probarse.
+4. Separar reclamos contra banco y aseguradora.
+
+## Solución orientativa · Caso integrador
+
+- **Préstamo:** art. 1408 CCCN; verificar saldo, intereses y garantías.
+- **Custodia:** arts. 1418–1420 CCCN; identificar deberes asumidos.
+- **Incendio:** aplicar cobertura y regla proporcional si corresponde.
+- **Cálculo:** $10 M × ($24 M / $40 M) = **$6 M**, antes de otras condiciones aplicables.
+- **Comisión:** exigir fuente contractual y adecuada información; considerar régimen de consumo si corresponde.
+
+::: {.highlight-box}
+La solución numérica presupone una póliza sometida a regla proporcional, sin cláusula de primer riesgo ni franquicia.
+:::
+
+## Caso integrador 13 · Accidente, seguro y tarjeta
+
+Una persona paga con tarjeta un servicio turístico. Durante la excursión sufre lesiones por negligencia del prestador. Este tiene seguro de responsabilidad civil; la tarjeta ofrece una cobertura adicional de accidentes con exclusiones propias.
+
+**Consignas:** distinguir responsabilidad del prestador, citación en garantía del asegurador, cobertura accesoria de la tarjeta y eventual acumulación de prestaciones sin confundir sus distintas fuentes.
+
+## Solución orientativa · Caso integrador 13
+
+- **Prestador turístico:** analizar responsabilidad por incumplimiento y/o daño conforme al CCCN.
+- **Seguro de RC:** verificar hecho cubierto, límites y posibilidad de citación (art. 118).
+- **Cobertura de tarjeta:** identificar asegurador real, asegurado, riesgo y requisitos específicos.
+- **Prestaciones:** distinguir indemnización de daños de capital pactado en seguro de personas.
+- **Prueba:** contrato turístico, pólizas, resumen de tarjeta, denuncia, historia clínica y cuantificación del daño.
+
+## Caso integrador 14 · Reticencia y plazo
+
+Una aseguradora recibió una solicitud de vida con antecedentes médicos omitidos. Conoció la supuesta reticencia durante una auditoría, pero comunicó la impugnación meses después. El asegurado fallece por una causa ajena a la enfermedad.
+
+**Debatir:**
+
+1. Presupuestos materiales del art. 5.
+2. Plazos de impugnación y conocimiento de la reticencia.
+3. Relevancia del vínculo causal entre omisión y fallecimiento.
+4. Documentación y pericia necesarias.
+
+## Solución orientativa · Caso 14
+
+- No alcanza con probar que existía una enfermedad: debe examinarse el **carácter material** de la información omitida.
+- El art. 5 exige valoración técnica de si el conocimiento real habría impedido contratar o modificado condiciones.
+- El asegurador debe respetar el régimen de impugnación y sus plazos.
+- La causa concreta de fallecimiento no reemplaza el análisis legal de la reticencia.
+
+**Cierre:** fundamentar siempre con texto legal, hechos probados y régimen aplicable.
+
+## Repaso con respuestas
+
+1. **Apertura frente a préstamo:** la apertura obliga a mantener crédito disponible; el préstamo implica entrega de fondos y restitución con intereses.
+2. **Infraseguro:** salvo pacto de primer riesgo, si la suma asegurada es inferior al valor asegurable, se aplica proporcionalidad sobre el daño (art. 65 Ley 17.418).
+3. **Art. 56:** el silencio ante la carga de pronunciarse dentro del plazo legal importa aceptación del derecho del asegurado, con las precisiones jurisprudenciales sobre riesgos ajenos a la cobertura.
+4. **Art. 118:** permite citar al asegurador en garantía en el proceso de responsabilidad civil y extenderle la sentencia en la medida del seguro.
+5. **Caución:** el tomador garantiza una obligación frente al asegurado/beneficiario; son posiciones distintas, con consecuencias para el reclamo y el recupero.
+6. **Caja de seguridad:** una cláusula no puede desnaturalizar el deber esencial de seguridad y custodia del prestador.
+
+## Normativa principal para lectura
+
+- **Código Civil y Comercial de la Nación:** arts. 1378–1420; 1092 y siguientes; reglas generales de obligaciones y contratos.
+- **Ley 25.065:** tarjetas de crédito.
+- **Ley 17.418:** contrato de seguro.
+- **Ley 20.091:** entidades aseguradoras y control.
+- **Ley 22.400:** productores asesores de seguros.
+- **Ley 24.240:** defensa del consumidor.
+- **Regulación BCRA y SSN; regulación IGJ** pertinente a planes de ahorro.
+
+::: {.small-source}
+Material didáctico. Para casos reales, consultar texto normativo vigente, reglamentación específica, condiciones contractuales y jurisprudencia aplicable.
+:::
+
+# Cierre {.centered}
+
+::: {.blue-box}
+**Pregunta final:** ¿qué riesgos asume el profesional que redacta, comercializa o interpreta estos contratos cuando no identifica correctamente su régimen jurídico?
+
+**Respuesta / criterio de resolución:** Riesgos de nulidad o ineficacia de cláusulas, incumplimiento informativo, responsabilidad civil, sanciones administrativas y litigios.
+:::
+
+**Consigna de salida:** elegir uno de los casos y resolverlo en diez líneas, citando al menos dos disposiciones normativas.

@@ -1,0 +1,1469 @@
+---
+title: "Contrato de seguro · Ley 17.418"
+subtitle: "Teoría general, seguros patrimoniales y seguros de personas · 80 diapositivas"
+author: "Derecho Comercial"
+lang: es
+format:
+  revealjs:
+    theme: default
+    slide-level: 1
+    slide-number: true
+    scrollable: true
+    transition: slide
+    center: false
+    width: 1600
+    height: 900
+    margin: 0.07
+    css: seguros_estilo.css
+    footer: "Derecho Comercial · Ley 17.418 · Sobrino (2016)"
+---
+
+# 01 · Contrato de seguro: función económica
+
+::: {.norma}
+**BASE NORMATIVA:** Ley 17.418, art. 1
+:::
+
+::: {.regla}
+**Regla jurídica.** El asegurador, mediante una prima o cotización, se obliga a resarcir un daño o cumplir la prestación convenida si ocurre el evento previsto.
+:::
+
+**Explicación y consecuencias.** El contrato transfiere consecuencias económicas de un riesgo, no elimina la posibilidad del hecho. La prestación depende del ramo: indemnización de un perjuicio o capital/renta pactados.
+
+::: {.ejemplo}
+**HECHOS, REGLA Y SOLUCIÓN:** Una panadería asegura su horno por $18 millones contra incendio. Un cortocircuito destruye piezas por $4 millones: no corresponde pagar automáticamente la suma asegurada; debe verificarse el daño efectivamente cubierto y el límite contratado.
+:::
+
+::: {.doctrina}
+**LECTURA DOCTRINARIA:** Sobrino, t. I, cap. V: función social del seguro y tutela del asegurado.
+:::
+
+
+# 02 · Caracteres y naturaleza jurídica
+
+::: {.norma}
+**BASE NORMATIVA:** Ley 17.418, arts. 1 y 4
+:::
+
+::: {.regla}
+**Regla jurídica.** Contrato consensual, bilateral, oneroso, aleatorio y de ejecución continuada.
+:::
+
+**Explicación y consecuencias.** Consensual: existe por acuerdo, no por la entrega de la póliza. Aleatorio: el siniestro es incierto. Adhesión frecuente: condiciones predispuestas por asegurador, sujetas a control jurídico.
+
+::: {.ejemplo}
+**HECHOS, REGLA Y SOLUCIÓN:** El 3 de marzo la aseguradora comunica por correo la aceptación de una cobertura que comienza el 5; la póliza se entrega el 12. Si el siniestro ocurre el 7, la falta de entrega del documento no impide por sí sola la existencia del contrato consensual: se debe probar el acuerdo y su vigencia.
+:::
+
+::: {.doctrina}
+**LECTURA DOCTRINARIA:** Sobrino, t. I, caps. III, V y VII: contratos de adhesión y consumo.
+:::
+
+
+# 03 · Mapa de fuentes y método
+
+::: {.norma}
+**BASE NORMATIVA:** Ley 17.418; leyes 20.091, 22.400, 24.240; CCyC
+:::
+
+::: {.regla}
+**Regla jurídica.** La Ley de Seguros disciplina el contrato; la Ley 20.091 regula a las entidades; la Ley 22.400 a los productores asesores.
+:::
+
+**Explicación y consecuencias.** En relaciones de consumo también interesan información, trato digno, cláusulas predispuestas y control judicial (CCyC arts. 984–989, 1092–1122). No toda contratación empresarial es automáticamente de consumo.
+
+::: {.ejemplo}
+**HECHOS, REGLA Y SOLUCIÓN:** Un asegurado recibe condiciones generales que excluyen daños por agua en una tipografía ilegible. La discusión no se resuelve diciendo que «firmó»: deben examinarse los requisitos de incorporación y claridad de cláusulas predispuestas (CCyC arts. 985, 988 y 989).
+:::
+
+::: {.doctrina}
+**LECTURA DOCTRINARIA:** Sobrino, t. I, caps. I, V–VII; t. II, caps. XIII–XIV. Su lectura protectoria debe distinguirse de la jurisprudencia.
+:::
+
+
+# 04 · Riesgo asegurable
+
+::: {.norma}
+**BASE NORMATIVA:** Ley 17.418, arts. 2–3
+:::
+
+::: {.regla}
+**Regla jurídica.** El riesgo debe corresponder a un evento posible e incierto; la inexistencia o desaparición del riesgo afecta el contrato.
+:::
+
+**Explicación y consecuencias.** Distinguir riesgo (posibilidad del hecho), siniestro (realización del hecho) y daño (consecuencia patrimonial). Las exclusiones delimitan qué riesgos asumió el asegurador.
+
+::: {.ejemplo}
+**HECHOS, REGLA Y SOLUCIÓN:** Una persona solicita el 20 de mayo un seguro para un depósito que ardió el 18 y oculta ese dato. El incendio ya ocurrido no es un riesgo futuro incierto: hay que distinguir la inexistencia del riesgo de una declaración falsa sobre riesgos aún existentes.
+:::
+
+
+# 05 · Interés asegurable
+
+::: {.norma}
+**BASE NORMATIVA:** Ley 17.418, arts. 2 y 60
+:::
+
+::: {.regla}
+**Regla jurídica.** En seguros de daños, debe existir un interés económico lícito en que el siniestro no ocurra.
+:::
+
+**Explicación y consecuencias.** No se exige necesariamente propiedad: puede tener interés el locatario, acreedor o depositario según su exposición patrimonial. En seguros de personas la estructura es diferente.
+
+::: {.ejemplo}
+**HECHOS, REGLA Y SOLUCIÓN:** Una empresa alquila una máquina valuada en $40 millones y asume contractualmente devolverla en buen estado. Aunque no sea propietaria, puede tener interés económico asegurable en su conservación; el alcance concreto depende del perjuicio que soportaría.
+:::
+
+
+# 06 · Interés asegurable: propietario, locatario y acreedor
+
+::: {.norma}
+**BASE NORMATIVA:** Arts. 60 y 61
+:::
+
+::: {.regla}
+**Regla jurídica.** El interés se mide por la pérdida económica que sufriría cada sujeto; no equivale necesariamente al valor total del bien.
+:::
+
+::: {.ejemplo}
+**CASO — HECHOS.** Un inmueble vale $120 millones. El propietario lo asegura contra incendio. El locatario instaló equipos propios por $15 millones y debe reparar los daños que cause por culpa. Un banco tiene hipoteca por $50 millones.
+
+**SOLUCIÓN FUNDADA.** El propietario puede asegurar su interés sobre el inmueble; el locatario, sus equipos y su eventual responsabilidad; el banco, su interés crediticio conforme a la estructura contractual. No corresponde sumar tres indemnizaciones por un mismo perjuicio: hay que individualizar el interés y evitar enriquecimiento.
+:::
+
+
+# 07 · Propuesta: alcance jurídico
+
+::: {.norma}
+**BASE NORMATIVA:** Ley 17.418, art. 4
+:::
+
+::: {.regla}
+**Regla jurídica.** La propuesta del contrato de seguro, cualquiera sea su forma, no obliga al asegurado ni al asegurador.
+:::
+
+**Explicación y consecuencias.** La propuesta inicia el proceso de contratación; su recepción no equivale a aceptación. Debe distinguirse de la propuesta de prórroga y de modificaciones contractuales, que tienen reglas particulares.
+
+::: {.ejemplo}
+**HECHOS, REGLA Y SOLUCIÓN:** El 2 de abril una persona completa una solicitud para asegurar su local por $30 millones; la aseguradora no responde y el 4 ocurre un robo. La sola propuesta no perfecciona el contrato: debe acreditarse aceptación anterior al hecho, sin confundir recepción de la solicitud con cobertura.
+:::
+
+::: {.doctrina}
+**LECTURA DOCTRINARIA:** Sobrino, t. II, cap. XVIII, analiza críticamente el art. 4 en diálogo con el CCyC.
+:::
+
+
+# 08 · Perfeccionamiento: acuerdo y cobertura
+
+::: {.norma}
+**BASE NORMATIVA:** Ley 17.418, art. 4
+:::
+
+::: {.regla}
+**Regla jurídica.** El contrato es consensual: los derechos y obligaciones comienzan desde la celebración, aun antes de emitirse la póliza.
+:::
+
+**Explicación y consecuencias.** No confundir fecha de acuerdo con inicio temporal del riesgo: revisar vigencia pactada, aceptación y constancias de la operación.
+
+::: {.ejemplo}
+**HECHOS, REGLA Y SOLUCIÓN:** El 6 de junio la aseguradora acepta por escrito cubrir incendio desde las 00:00 del 7. La póliza se imprime el 15; un incendio ocurre el 10. La fecha de emisión documental no desplaza automáticamente el comienzo de cobertura convenido.
+:::
+
+
+# 09 · Propuesta rechazada y cobertura provisoria
+
+::: {.norma}
+**BASE NORMATIVA:** Art. 4
+:::
+
+::: {.regla}
+**Regla jurídica.** La solicitud no obliga por sí sola al asegurador; la cobertura provisional requiere acuerdo acreditable.
+:::
+
+::: {.ejemplo}
+**CASO — HECHOS.** El 2/4 una empresa solicita seguro de incendio. El productor entrega formulario y dice «ya estás cubierto», pero no hay aceptación de la compañía. El 4/4 ocurre el incendio. El 5/4 la aseguradora rechaza la solicitud.
+
+**SOLUCIÓN FUNDADA.** No alcanza con mostrar el formulario para exigir la indemnización. Debe probarse aceptación o cobertura provisional atribuible al asegurador. La actuación del productor y sus facultades pueden originar otra discusión de responsabilidad, distinta de la existencia de cobertura.
+:::
+
+
+# 10 · Reticencia: presupuesto
+
+::: {.norma}
+**BASE NORMATIVA:** Ley 17.418, art. 5
+:::
+
+::: {.regla}
+**Regla jurídica.** La declaración falsa o reticencia sobre circunstancias conocidas por el asegurado puede provocar nulidad si, a juicio de peritos, el asegurador no habría contratado o lo habría hecho en otras condiciones.
+:::
+
+**Explicación y consecuencias.** Importan conocimiento, relevancia causal para la apreciación del riesgo y prueba. No toda omisión irrelevante permite invalidar.
+
+::: {.ejemplo}
+**HECHOS, REGLA Y SOLUCIÓN:** En un cuestionario médico se pregunta por internaciones en los últimos cinco años. El solicitante omite una cirugía cardíaca reciente; un perito concluye que, de conocerla, la aseguradora habría contratado bajo otras condiciones. Ese juicio de relevancia es central para el art. 5; no basta cualquier omisión.
+:::
+
+
+# 11 · Reticencia: qué debía declarar el asegurado
+
+::: {.norma}
+**BASE NORMATIVA:** Arts. 5 y 6
+:::
+
+::: {.regla}
+**Regla jurídica.** La declaración inexacta debe ser relevante: según peritos, habría impedido contratar o modificado las condiciones.
+:::
+
+::: {.ejemplo}
+**CASO — HECHOS.** Al solicitar seguro de incendio, un taller declara que solo almacena repuestos. En realidad guarda solventes inflamables. Un informe técnico acredita que la prima habría sido 70% mayor.
+
+**SOLUCIÓN FUNDADA.** La inexactitud es material para la evaluación del riesgo. La aseguradora debe probarla y observar el régimen legal de impugnación; no basta con calificar de «grave» cualquier omisión.
+:::
+
+
+# 12 · Reticencia: impugnación y buena fe
+
+::: {.norma}
+**BASE NORMATIVA:** Ley 17.418, arts. 5–7
+:::
+
+::: {.regla}
+**Regla jurídica.** El asegurador debe impugnar el contrato dentro de los tres meses de conocer la reticencia o falsedad.
+:::
+
+**Explicación y consecuencias.** Cuando la reticencia no es dolosa, la ley prevé soluciones especiales; examinar posibilidad de reajuste o rescisión y efectos según se haya producido o no el siniestro.
+
+::: {.ejemplo}
+**HECHOS, REGLA Y SOLUCIÓN:** La aseguradora recibe el 1 de agosto un informe médico que revela una posible reticencia y recién pretende impugnar el 15 de diciembre. Debe verificarse el plazo legal contado desde el conocimiento de la reticencia, además de su prueba y relevancia; no alcanza invocar la omisión en abstracto.
+:::
+
+::: {.doctrina}
+**LECTURA DOCTRINARIA:** Sobrino relaciona reticencia con deber profesional de información; t. II, cap. XVIII.
+:::
+
+
+# 13 · Reticencia no dolosa: alternativas legales
+
+::: {.norma}
+**BASE NORMATIVA:** Arts. 5–7
+:::
+
+::: {.regla}
+**Regla jurídica.** La consecuencia no es siempre idéntica: importan buena fe, posibilidad de reajuste y momento del siniestro.
+:::
+
+::: {.ejemplo}
+**CASO — HECHOS.** Una casa se declaró de 100 m², pero tiene 125 m². El asegurado copió una superficie antigua y la aseguradora descubre la diferencia durante la vigencia.
+
+**SOLUCIÓN FUNDADA.** Debe examinarse si el dato era determinante según la pericia, si hubo dolo y si procede la rescisión o reajuste bajo los artículos aplicables. No se puede concluir nulidad automática por una diferencia de metros.
+:::
+
+
+# 14 · Reticencia: dolo y siniestro
+
+::: {.norma}
+**BASE NORMATIVA:** Ley 17.418, arts. 8–10
+:::
+
+::: {.regla}
+**Regla jurídica.** Las consecuencias varían según mala fe, momento del siniestro y carácter divisible de los riesgos.
+:::
+
+**Explicación y consecuencias.** El análisis debe ser cronológico: declaración inicial → conocimiento por aseguradora → impugnación → eventual siniestro. No reemplazar este examen por «cualquier omisión anula».
+
+::: {.ejemplo}
+**HECHOS, REGLA Y SOLUCIÓN:** Un solicitante declara deliberadamente no fumar aunque consume dos paquetes diarios. Fallece durante la vigencia. La solución exige acreditar la declaración falsa, su incidencia en la aceptación del riesgo, el elemento subjetivo y las consecuencias de los arts. 5 a 10; no puede rechazarse solo por una discrepancia irrelevante.
+:::
+
+
+# 15 · Reticencia: conocimiento del asegurador y plazo
+
+::: {.norma}
+**BASE NORMATIVA:** Art. 5
+:::
+
+::: {.regla}
+**Regla jurídica.** El plazo legal para impugnar se vincula con el conocimiento de la reticencia o falsedad, no con la fecha de contratación.
+:::
+
+::: {.ejemplo}
+**CASO — HECHOS.** La compañía recibe el 3/8 un informe que demuestra una declaración relevante falsa; recién el 20/12 comunica que impugna el contrato.
+
+**SOLUCIÓN FUNDADA.** Debe controlarse el plazo de tres meses desde que conoció la reticencia. Si lo dejó transcurrir sin impugnar, no puede invocar tardíamente esa causal en los términos del art. 5. Se debe acreditar cuándo tuvo conocimiento efectivo.
+:::
+
+
+# 16 · Póliza: prueba y contenido
+
+::: {.norma}
+**BASE NORMATIVA:** Ley 17.418, art. 11
+:::
+
+::: {.regla}
+**Regla jurídica.** La póliza documenta el contrato y debe contener datos de partes, riesgo, vigencia, prima y suma asegurada, entre otros.
+:::
+
+**Explicación y consecuencias.** Se redacta en idioma nacional y de modo claro y fácilmente legible; se entrega al tomador. Es medio de prueba, no requisito constitutivo del contrato.
+
+::: {.ejemplo}
+**HECHOS, REGLA Y SOLUCIÓN:** La póliza identifica un vehículo distinto al solicitado y fija una suma asegurada inferior. El asegurado conserva correos y propuesta firmada: esos documentos sirven para discutir el contenido efectivamente acordado, pues la póliza prueba el contrato pero no sustituye automáticamente el consentimiento.
+:::
+
+::: {.doctrina}
+**LECTURA DOCTRINARIA:** Sobrino, t. II, cap. XIII: claridad y legibilidad como protección contractual.
+:::
+
+
+# 17 · Reticencia y agravación: no son sinónimos
+
+::: {.norma}
+**BASE NORMATIVA:** Arts. 5 y 37–40
+:::
+
+::: {.regla}
+**Regla jurídica.** Reticencia se refiere a información relevante al contratar; agravación, a cambios posteriores del riesgo.
+:::
+
+::: {.ejemplo}
+**CASO — HECHOS.** Una fábrica contrata seguro el 1/3 sin usar sustancias inflamables. El 1/7 comienza a almacenar pinturas con solvente sin comunicarlo. El 1/9 hay incendio.
+
+**SOLUCIÓN FUNDADA.** No es reticencia originaria si la declaración de marzo era verdadera. Corresponde estudiar agravación del riesgo, su entidad, la obligación de comunicarla y los efectos legales según quién la provocó y el momento del siniestro.
+:::
+
+
+# 18 · Propuesta versus póliza
+
+::: {.norma}
+**BASE NORMATIVA:** Ley 17.418, arts. 4, 11 y 12
+:::
+
+::: {.regla}
+**Regla jurídica.** Propuesta: solicitud de contratar. Póliza: instrumento que expresa y prueba el contrato celebrado.
+:::
+
+**Explicación y consecuencias.** La propuesta no obliga por sí sola; la póliza debe reflejar el acuerdo. Una diferencia entre ambas no se resuelve automáticamente por la mera emisión del documento.
+
+::: {.ejemplo}
+**HECHOS, REGLA Y SOLUCIÓN:** Una solicitud incluye robo e incendio; la aseguradora entrega póliza solo de incendio. Antes de hablar de aceptación tácita debe determinarse si hubo una diferencia con la propuesta aceptada y si se cumplieron los requisitos del art. 12 para la advertencia de diferencias.
+:::
+
+
+# 19 · Diferencias entre propuesta y póliza
+
+::: {.norma}
+**BASE NORMATIVA:** Ley 17.418, art. 12
+:::
+
+::: {.regla}
+**Regla jurídica.** Las diferencias se consideran aceptadas si el tomador no reclama dentro de un mes de recibir la póliza, siempre que el asegurador advierta ese derecho mediante cláusula destacada en el anverso.
+:::
+
+**Explicación y consecuencias.** No puede utilizarse para validar sin examen cualquier cambio sustancial; se deben comprobar los requisitos formales y materiales del artículo 12. Revisar además información y cláusulas abusivas.
+
+::: {.ejemplo}
+**HECHOS, REGLA Y SOLUCIÓN:** El tomador recibe el 10 de marzo una póliza con una modificación destacada respecto de su propuesta y reclama el 18 de marzo. El reclamo dentro del mes impide tratar la diferencia como aceptada por mero silencio bajo el mecanismo del art. 12.
+:::
+
+::: {.doctrina}
+**LECTURA DOCTRINARIA:** Sobrino, t. II, cap. XVIII: lectura del art. 12 desde buena fe e información.
+:::
+
+
+# 20 · Póliza: cláusulas particulares y generales
+
+::: {.norma}
+**BASE NORMATIVA:** Arts. 11–12; CCyC 985 y 988
+:::
+
+::: {.regla}
+**Regla jurídica.** La póliza documenta el acuerdo y las exclusiones deben ser claras y oponibles conforme a las reglas aplicables.
+:::
+
+::: {.ejemplo}
+**CASO — HECHOS.** Las condiciones particulares cubren «robo de mercadería». En un anexo de letra pequeña se excluye «sustracción sin violencia». Se produce un hurto durante horario comercial.
+
+**SOLUCIÓN FUNDADA.** Primero se identifica el hecho: hurto sin violencia, no robo. Luego se examina el alcance real de la cobertura ofrecida y la incorporación y claridad de la exclusión. No basta afirmar «todo robo cubre cualquier sustracción».
+:::
+
+
+# 21 · Sujetos del contrato
+
+::: {.norma}
+**BASE NORMATIVA:** Ley 17.418, arts. 1, 21–26
+:::
+
+::: {.regla}
+**Regla jurídica.** Asegurador asume riesgo; tomador celebra; asegurado es titular del interés o persona expuesta; beneficiario recibe prestación cuando corresponde.
+:::
+
+**Explicación y consecuencias.** Pueden coincidir o no. En seguro por cuenta ajena hay que identificar quién tiene los derechos de la póliza y quién soporta las cargas.
+
+::: {.ejemplo}
+**HECHOS, REGLA Y SOLUCIÓN:** Una empresa contrata un seguro de vida colectivo para sus empleados: la empresa es tomadora, cada empleado es persona asegurada y los beneficiarios son los designados conforme al contrato. Confundir esas posiciones conduce a pagar al sujeto equivocado.
+:::
+
+
+# 22 · Seguro por cuenta ajena
+
+::: {.norma}
+**BASE NORMATIVA:** Ley 17.418, arts. 21–26
+:::
+
+::: {.regla}
+**Regla jurídica.** Es posible contratar en interés de un tercero, con reglas específicas sobre derechos y disposición de la póliza.
+:::
+
+**Explicación y consecuencias.** Diferenciar «contratar por otro» de «ser beneficiario»: la titularidad del interés y la facultad de reclamar no siempre pertenecen a la misma persona.
+
+::: {.ejemplo}
+**HECHOS, REGLA Y SOLUCIÓN:** Una empresa logística asegura por cuenta de sus clientes mercadería en tránsito. Se pierde un envío de un tercero: hay que identificar quién contrató, por cuenta de quién, quién soportó la pérdida y quién está legitimado para exigir la prestación.
+:::
+
+
+# 23 · Tomador distinto de asegurado y beneficiario
+
+::: {.norma}
+**BASE NORMATIVA:** Arts. 21–26 y reglas del seguro de personas
+:::
+
+::: {.regla}
+**Regla jurídica.** Cada rol produce derechos y obligaciones distintos; el pago de la prima no convierte necesariamente al tomador en beneficiario.
+:::
+
+::: {.ejemplo}
+**CASO — HECHOS.** Una empresa contrata un seguro de vida colectivo sobre empleados. Paga las primas; el trabajador es la persona asegurada y designó beneficiaria a su cónyuge.
+
+**SOLUCIÓN FUNDADA.** Ante el fallecimiento cubierto, el capital corresponde al beneficiario designado conforme al contrato y la ley, no a la empresa por haber pagado las primas. Revisar condiciones de adhesión y designación.
+:::
+
+
+# 24 · Prima: precio y exigibilidad
+
+::: {.norma}
+**BASE NORMATIVA:** Ley 17.418, arts. 27–29
+:::
+
+::: {.regla}
+**Regla jurídica.** El tomador debe pagar la prima; el momento de exigibilidad y el comienzo de cobertura deben analizarse junto con lo pactado.
+:::
+
+**Explicación y consecuencias.** Prima es precio técnico del seguro, no indemnización. Distinguir prima, premio total, cuotas y recargos; la falta de pago puede generar consecuencias sobre cobertura.
+
+::: {.ejemplo}
+**HECHOS, REGLA Y SOLUCIÓN:** La prima anual es de $1.200.000, pagadera en doce cuotas de $100.000. Que la aseguradora financie el pago no cambia por sí mismo la suma asegurada; la prima remunera la asunción del riesgo y las consecuencias del impago dependen de la ley y de las condiciones válidas.
+:::
+
+
+# 25 · Seguro por cuenta ajena: legitimación
+
+::: {.norma}
+**BASE NORMATIVA:** Arts. 21–26
+:::
+
+::: {.regla}
+**Regla jurídica.** El tomador puede contratar por interés de otro; la titularidad de los derechos indemnizatorios requiere identificar el interés protegido.
+:::
+
+::: {.ejemplo}
+**CASO — HECHOS.** Una transportista asegura mercaderías de sus clientes por $80 millones. Se pierde una carga ajena de $12 millones y la transportista pretende cobrar para sí sin acreditar perjuicio propio.
+
+**SOLUCIÓN FUNDADA.** Debe examinarse si contrató por cuenta de los propietarios, por cuenta propia respecto de su responsabilidad o con doble interés. La sola firma de la póliza no prueba derecho a apropiarse de la indemnización ajena.
+:::
+
+
+# 26 · Falta de pago y suspensión
+
+::: {.norma}
+**BASE NORMATIVA:** Ley 17.418, arts. 30–32; condiciones aplicables
+:::
+
+::: {.regla}
+**Regla jurídica.** El impago puede producir suspensión o resolución conforme al régimen legal y contractual aplicable.
+:::
+
+**Explicación y consecuencias.** No confundir falta de pago con reticencia ni con exclusión objetiva del riesgo. Es imprescindible precisar vencimiento, pago, rehabilitación y fecha del siniestro.
+
+::: {.ejemplo}
+**HECHOS, REGLA Y SOLUCIÓN:** Una cuota vence el 10 de junio y no se paga; el 18 ocurre un siniestro. No basta decir «estaba en mora»: hay que reconstruir el vencimiento, el régimen de suspensión aplicable, las comunicaciones y la situación exacta de cobertura al día 18.
+:::
+
+
+# 27 · Prima: vencimiento y período de cobertura
+
+::: {.norma}
+**BASE NORMATIVA:** Arts. 27–31 y condiciones contractuales
+:::
+
+::: {.regla}
+**Regla jurídica.** La obligación de pagar la prima y el efecto de la falta de pago requieren analizar el régimen de exigibilidad y suspensión aplicable.
+:::
+
+::: {.ejemplo}
+**CASO — HECHOS.** La cuota vence el 10/6 y el asegurado paga el 22/6. Un siniestro ocurre el 17/6. La póliza establece suspensión automática conforme a la cláusula aprobada.
+
+**SOLUCIÓN FUNDADA.** Determinar si la cobertura estaba suspendida el día 17 y desde cuándo se rehabilitó. El pago posterior no convierte por sí solo en cubierto un siniestro ocurrido durante suspensión; controlar validez y comunicación de las condiciones.
+:::
+
+
+# 28 · Rescisión y agravación del riesgo
+
+::: {.norma}
+**BASE NORMATIVA:** Ley 17.418, arts. 18 y 37–45
+:::
+
+::: {.regla}
+**Regla jurídica.** El contrato puede rescindirse bajo condiciones legales; la agravación del riesgo debe comunicarse en los supuestos previstos.
+:::
+
+**Explicación y consecuencias.** La agravación modifica la probabilidad o intensidad del riesgo declarado. Distinguir cambio producido por el asegurado de uno ajeno a su voluntad.
+
+::: {.ejemplo}
+**HECHOS, REGLA Y SOLUCIÓN:** Un taller asegurado como reparación de bicicletas empieza a almacenar solventes inflamables. El cambio puede agravar materialmente el riesgo; deben examinarse quién lo causó, cuándo se conoció y qué deberes de comunicación y facultades nacen de los arts. 37 y siguientes.
+:::
+
+
+# 29 · Cargas durante la vigencia
+
+::: {.norma}
+**BASE NORMATIVA:** Ley 17.418, arts. 36–45
+:::
+
+::: {.regla}
+**Regla jurídica.** El asegurado debe cumplir cargas contractuales válidas y deberes de información relativos al riesgo.
+:::
+
+**Explicación y consecuencias.** Caducidad, exclusión y suspensión son categorías distintas: caducidad sanciona incumplimiento de una carga; exclusión delimita el riesgo; suspensión afecta temporalmente cobertura.
+
+::: {.ejemplo}
+**HECHOS, REGLA Y SOLUCIÓN:** En un local asegurado contra incendio se rompe un sistema de alarma y el encargado lo deja desactivado tres semanas. Para decidir si hay consecuencia sobre la cobertura hay que identificar una carga concreta y válida, su incumplimiento y los presupuestos legales de la sanción; no cualquier descuido extingue derechos.
+:::
+
+::: {.doctrina}
+**LECTURA DOCTRINARIA:** Sobrino, t. II, caps. XVI–XVII, critica caducidades y exclusiones desproporcionadas.
+:::
+
+
+# 30 · Agravación causada por el asegurado
+
+::: {.norma}
+**BASE NORMATIVA:** Arts. 37–40
+:::
+
+::: {.regla}
+**Regla jurídica.** La agravación debe ser relevante para el riesgo y se aplican reglas diferenciadas según su origen y conocimiento.
+:::
+
+::: {.ejemplo}
+**CASO — HECHOS.** Un depósito de textiles comienza a almacenar bidones de combustible por decisión del dueño. La póliza solo contemplaba telas. El incendio se inicia en los bidones.
+
+**SOLUCIÓN FUNDADA.** Hay que probar la agravación relevante y su imputabilidad; examinar la comunicación exigible, la facultad de rescindir y el efecto sobre el siniestro. No toda modificación de actividad extingue automáticamente la cobertura.
+:::
+
+
+# 31 · Denuncia del siniestro
+
+::: {.norma}
+**BASE NORMATIVA:** Ley 17.418, art. 46
+:::
+
+::: {.regla}
+**Regla jurídica.** El tomador, asegurado o derechohabiente debe comunicar el siniestro dentro de tres días de conocerlo, salvo plazo mayor concedido.
+:::
+
+**Explicación y consecuencias.** Distinguir denuncia inicial de información complementaria requerida por la aseguradora. Registrar cuándo se conoció el hecho y cuándo se denunció.
+
+::: {.ejemplo}
+**HECHOS, REGLA Y SOLUCIÓN:** El 4 de septiembre se incendia un comercio y el titular conoce el daño ese mismo día. Denuncia el siniestro el 12. El art. 46 establece un plazo de tres días desde que se conoce el siniestro, salvo supuestos legales: hay que analizar el atraso y no confundir denuncia con prueba final del daño.
+:::
+
+
+# 32 · Denuncia: cómputo del plazo
+
+::: {.norma}
+**BASE NORMATIVA:** Art. 46
+:::
+
+::: {.regla}
+**Regla jurídica.** La denuncia debe efectuarse dentro de tres días de conocer el siniestro, salvo plazo mayor; hay excepciones justificadas.
+:::
+
+::: {.ejemplo}
+**CASO — HECHOS.** Un comerciante descubre el robo el lunes 8/6 y denuncia a la aseguradora el jueves 11/6. La póliza no amplía el plazo.
+
+**SOLUCIÓN FUNDADA.** En principio, la denuncia del jueves está dentro del plazo de tres días desde el conocimiento, sujeto al cómputo jurídico correspondiente. Diferenciar denuncia a la policía de comunicación a la aseguradora: no son equivalentes.
+:::
+
+
+# 33 · Incumplimiento de la denuncia
+
+::: {.norma}
+**BASE NORMATIVA:** Ley 17.418, arts. 46–48
+:::
+
+::: {.regla}
+**Regla jurídica.** El incumplimiento puede causar pérdida del derecho en las condiciones legales; existen excepciones y reglas especiales para información adicional y fraude.
+:::
+
+**Explicación y consecuencias.** No toda demora produce idéntico resultado. Debe distinguirse retraso justificado, omisión maliciosa y exageración fraudulenta de daños.
+
+::: {.ejemplo}
+**HECHOS, REGLA Y SOLUCIÓN:** El asegurado avisa por teléfono al productor al día siguiente de un robo, pero la compañía sostiene que nunca recibió denuncia. La solución exige determinar si ese productor tenía facultades para recibir comunicaciones y qué prueba existe; no basta afirmar que «se informó al seguro».
+:::
+
+
+# 34 · Denuncia tardía: cuándo hay caducidad
+
+::: {.norma}
+**BASE NORMATIVA:** Arts. 46–47
+:::
+
+::: {.regla}
+**Regla jurídica.** El incumplimiento de una carga no equivale sin más a inexistencia del riesgo; deben evaluarse presupuestos y excepciones legales.
+:::
+
+::: {.ejemplo}
+**CASO — HECHOS.** Una asegurada internada de urgencia sufre un robo en su domicilio. Se entera por su familia el 4/5 y denuncia el 15/5, acreditando internación e imposibilidad real de gestionar el aviso.
+
+**SOLUCIÓN FUNDADA.** Analizar caso fortuito, fuerza mayor o imposibilidad de hecho sin culpa ni negligencia, conforme al art. 47. No corresponde rechazar mecánicamente solo por contar días sin estudiar la justificación.
+:::
+
+
+# 35 · Salvamento y prevención
+
+::: {.norma}
+**BASE NORMATIVA:** Ley 17.418, arts. 72–74; CCyC art. 1710
+:::
+
+::: {.regla}
+**Regla jurídica.** En seguros de daños, el asegurado debe adoptar medidas razonables para evitar o disminuir daños.
+:::
+
+**Explicación y consecuencias.** La conducta exigible es razonable, no heroica. Los gastos de salvamento tienen régimen específico; no deben confundirse con reparación ordinaria.
+
+::: {.ejemplo}
+**HECHOS, REGLA Y SOLUCIÓN:** Tras una inundación, el comerciante paga $800.000 para trasladar mercadería y evitar pérdidas mayores. Debe diferenciarse el daño causado por el agua de los gastos razonables de salvamento y examinar el régimen de reembolso y los límites aplicables.
+:::
+
+::: {.doctrina}
+**LECTURA DOCTRINARIA:** Sobrino, t. II, cap. XVI: deber de prevención y salvamento.
+:::
+
+
+# 36 · Pronunciamiento del asegurador
+
+::: {.norma}
+**BASE NORMATIVA:** Ley 17.418, arts. 46 y 56
+:::
+
+::: {.regla}
+**Regla jurídica.** El asegurador debe pronunciarse sobre el derecho del asegurado dentro de treinta días de recibida la información complementaria prevista por el art. 46; el silencio importa aceptación.
+:::
+
+**Explicación y consecuencias.** El plazo requiere identificar qué información fue solicitada y recibida; no equivale necesariamente a treinta días desde cualquier aviso inicial.
+
+::: {.ejemplo}
+**HECHOS, REGLA Y SOLUCIÓN:** La aseguradora recibe denuncia e información complementaria el 2 de abril y guarda silencio durante el plazo del art. 56. El análisis exige fijar cuándo quedó cumplida la carga informativa del art. 46 y desde qué fecha corre el término para pronunciarse.
+:::
+
+
+# 37 · Silencio del asegurador: efecto jurídico
+
+::: {.norma}
+**BASE NORMATIVA:** Art. 56
+:::
+
+::: {.regla}
+**Regla jurídica.** La aseguradora debe pronunciarse sobre el derecho del asegurado dentro de treinta días de recibida la información complementaria exigible.
+:::
+
+::: {.ejemplo}
+**CASO — HECHOS.** El 1/8 se entrega denuncia completa de un incendio. El 10/8 la aseguradora pide facturas pertinentes; se entregan el 15/8. No se pronuncia hasta el 30/9.
+
+**SOLUCIÓN FUNDADA.** Verificar cuándo recibió la información complementaria necesaria. Vencido el plazo legal sin pronunciamiento, opera la consecuencia del art. 56: aceptación del derecho del asegurado, sin confundirla con aceptación de cualquier monto unilateralmente reclamado.
+:::
+
+
+# 38 · Determinación de la indemnización
+
+::: {.norma}
+**BASE NORMATIVA:** Ley 17.418, arts. 49–55
+:::
+
+::: {.regla}
+**Regla jurídica.** El daño indemnizable se determina según el interés asegurado, el perjuicio comprobado y los límites de cobertura.
+:::
+
+**Explicación y consecuencias.** En daños patrimoniales rige principio indemnizatorio: no hay enriquecimiento. Importan suma asegurada, franquicia, depreciación, cláusula de reposición y salvamento.
+
+::: {.ejemplo}
+**HECHOS, REGLA Y SOLUCIÓN:** Una fábrica declara daño de $25 millones por incendio. El perito verifica $16 millones en maquinaria, $3 millones en stock cubierto y $2 millones en bienes expresamente no asegurados. La liquidación parte de rubros cubiertos acreditados, no del total reclamado.
+:::
+
+
+# 39 · Liquidación: daño, límite y prueba
+
+::: {.norma}
+**BASE NORMATIVA:** Arts. 61–62
+:::
+
+::: {.regla}
+**Regla jurídica.** El límite de suma asegurada no sustituye la prueba del daño ni permite superar el interés efectivamente perjudicado.
+:::
+
+::: {.ejemplo}
+**CASO — HECHOS.** Una póliza de incendio fija suma de $50 millones. Se dañan existencias por $17 millones, pero el asegurado presenta un presupuesto de reposición por $28 millones que incluye mercadería no afectada.
+
+**SOLUCIÓN FUNDADA.** La base indemnizable es el perjuicio cubierto acreditado, no el máximo de póliza ni el presupuesto global. Corresponde individualizar bienes dañados, valores y eventuales deducciones pactadas.
+:::
+
+
+# 40 · Pago y mora del asegurador
+
+::: {.norma}
+**BASE NORMATIVA:** Ley 17.418, arts. 49–51 y 56
+:::
+
+::: {.regla}
+**Regla jurídica.** El pago se vuelve exigible en los plazos legales luego de fijado el monto o aceptada la indemnización; la mora genera consecuencias obligacionales.
+:::
+
+**Explicación y consecuencias.** Separar tres momentos: denuncia, decisión sobre cobertura y exigibilidad del pago. Los intereses y daños por incumplimiento requieren análisis de cada supuesto.
+
+::: {.ejemplo}
+**HECHOS, REGLA Y SOLUCIÓN:** La aseguradora acepta el siniestro y fija la indemnización en $9 millones, pero demora injustificadamente el pago. Deben distinguirse la aceptación del derecho, la determinación del monto, el plazo de pago y las consecuencias de la mora conforme al régimen aplicable.
+:::
+
+
+# 41 · Mora: plazo para pagar
+
+::: {.norma}
+**BASE NORMATIVA:** Art. 49
+:::
+
+::: {.regla}
+**Regla jurídica.** El plazo para pagar la indemnización se vincula con la aceptación del siniestro y la fijación del monto, según el régimen legal.
+:::
+
+::: {.ejemplo}
+**CASO — HECHOS.** El derecho del asegurado fue aceptado el 2/9 y el monto definitivo de $9 millones quedó fijado el 10/9. La compañía ofrece pagar el 20/11.
+
+**SOLUCIÓN FUNDADA.** Corresponde aplicar el plazo legal de pago del art. 49 y determinar desde cuándo hay mora y qué accesorios proceden. No confundir el plazo para pronunciarse (art. 56) con el plazo para pagar.
+:::
+
+
+# 42 · Prescripción: regla y controversia
+
+::: {.norma}
+**BASE NORMATIVA:** Ley 17.418, art. 58; CCyC arts. 2560 y 2561
+:::
+
+::: {.regla}
+**Regla jurídica.** El art. 58 establece plazo anual para acciones fundadas en el contrato de seguro; existe debate sobre la incidencia del régimen de consumo.
+:::
+
+**Explicación y consecuencias.** No enseñar como regla pacífica la sustitución automática por cinco años. Examinar naturaleza de la acción, doctrina y jurisprudencia aplicable.
+
+::: {.ejemplo}
+**HECHOS, REGLA Y SOLUCIÓN:** Un asegurado reclama por un siniestro ocurrido años atrás y la aseguradora opone el art. 58. La ley especial prevé un año; Sobrino discute su compatibilidad con el régimen de consumo y el CCyC. En clase deben exponerse ambas posiciones y la jurisprudencia aplicable, sin presentar cinco años como regla indiscutida.
+:::
+
+::: {.doctrina}
+**LECTURA DOCTRINARIA:** Sobrino, t. I, caps. X–XI, sostiene una lectura favorable a plazos protectores; identificarla como tesis discutida.
+:::
+
+
+# 43 · Prescripción: reclamo y debate doctrinario
+
+::: {.norma}
+**BASE NORMATIVA:** Art. 58; CCyC 2560
+:::
+
+::: {.regla}
+**Regla jurídica.** El art. 58 establece un plazo especial de un año; existen discusiones sobre su articulación con normas de consumo y CCyC.
+:::
+
+::: {.ejemplo}
+**CASO — HECHOS.** Una aseguradora rechaza una cobertura de hogar el 1/4/2025. El asegurado demanda el 1/10/2026 y alega plazo quinquenal del CCyC.
+
+**SOLUCIÓN FUNDADA.** La respuesta no puede afirmarse automáticamente. Debe analizarse el régimen especial, la eventual relación de consumo, actos suspensivos o interruptivos y jurisprudencia aplicable. La tesis de mayor protección sostenida por Sobrino debe presentarse como postura doctrinaria controvertida.
+:::
+
+::: {.doctrina}
+**MATIZ DOCTRINARIO:** Sobrino discute críticamente el plazo anual frente a la tutela del consumidor; no presentarlo como derogación pacífica del art. 58.
+:::
+
+
+# 44 · Aseguradores y control estatal
+
+::: {.norma}
+**BASE NORMATIVA:** Ley 20.091
+:::
+
+::: {.regla}
+**Regla jurídica.** La actividad aseguradora requiere autorización y está sometida a fiscalización de la Superintendencia de Seguros de la Nación.
+:::
+
+**Explicación y consecuencias.** El control comprende solvencia, reservas, planes y condiciones contractuales según normativa vigente. No confundir control administrativo con garantía estatal de pago.
+
+::: {.ejemplo}
+**HECHOS, REGLA Y SOLUCIÓN:** Una empresa ofrece seguros al público sin autorización de la SSN. La cuestión no es solo contractual: la Ley 20.091 regula habilitación, solvencia y fiscalización. El control estatal de la entidad no significa que cada cláusula de cada póliza sea inmune al control judicial.
+:::
+
+
+# 45 · Productores asesores
+
+::: {.norma}
+**BASE NORMATIVA:** Ley 22.400; Ley 17.418, art. 53
+:::
+
+::: {.regla}
+**Regla jurídica.** El productor asesor intermedia y asesora dentro de un régimen profesional y registral específico.
+:::
+
+**Explicación y consecuencias.** No confundir productor con asegurador: sus facultades para recibir declaraciones, pagos o celebrar contratos dependen de la normativa y representación.
+
+::: {.ejemplo}
+**HECHOS, REGLA Y SOLUCIÓN:** Un productor aconseja contratar «todo riesgo» pero omite explicar una exclusión decisiva para la actividad del cliente. Debe individualizarse qué información brindó, qué función cumplió en la intermediación y qué responsabilidad puede derivar de su conducta bajo la Ley 22.400 y otras normas aplicables.
+:::
+
+::: {.doctrina}
+**LECTURA DOCTRINARIA:** Sobrino vincula intermediación, información y responsabilidad profesional.
+:::
+
+
+# 46 · Dos grandes familias de seguros
+
+::: {.norma}
+**BASE NORMATIVA:** Ley 17.418, arts. 60 y ss.; 128 y ss.
+:::
+
+::: {.regla}
+**Regla jurídica.** Daños patrimoniales: protegen un interés económico frente a perjuicio. Personas: cubren eventos relativos a vida o integridad personal mediante prestaciones pactadas.
+:::
+
+**Explicación y consecuencias.** En daños predomina el principio indemnizatorio. En vida, el capital no se reduce al daño patrimonial probado. Algunas coberturas de accidentes/enfermedad requieren analizar su diseño concreto.
+
+::: {.ejemplo}
+**HECHOS, REGLA Y SOLUCIÓN:** Una misma persona contrata un seguro contra incendio de su vivienda y otro de vida por $80 millones. En el primero se calcula el perjuicio cubierto; en el segundo, ocurrido el fallecimiento cubierto, se paga el capital pactado sin tasar el «valor de la vida».
+:::
+
+
+# 47 · Seguros patrimoniales: principio indemnizatorio
+
+::: {.norma}
+**BASE NORMATIVA:** Ley 17.418, arts. 60–62
+:::
+
+::: {.regla}
+**Regla jurídica.** El asegurador responde por daño patrimonial hasta el límite contratado y conforme al interés asegurado.
+:::
+
+**Explicación y consecuencias.** El valor asegurable, suma asegurada y daño efectivo son magnitudes distintas. La póliza puede establecer modalidad a primer riesgo o valor total.
+
+::: {.ejemplo}
+**HECHOS, REGLA Y SOLUCIÓN:** Un comercio asegura mercadería por $15 millones y un incendio causa pérdida acreditada de $4 millones. En el seguro de daños no se cobran $15 millones por el solo hecho del siniestro: el principio indemnizatorio impide enriquecerse con la cobertura.
+:::
+
+
+# 48 · Sobreseguro
+
+::: {.norma}
+**BASE NORMATIVA:** Ley 17.418, art. 62
+:::
+
+::: {.regla}
+**Regla jurídica.** Si la suma asegurada supera notablemente el valor del interés, pueden corresponder reducción y consecuencias específicas según el caso.
+:::
+
+**Explicación y consecuencias.** La suma asegurada excesiva no autoriza cobrar más que el daño real; analizar dolo y buena fe, momento y efectos sobre prima.
+
+::: {.ejemplo}
+**HECHOS, REGLA Y SOLUCIÓN:** Un depósito vale $50 millones y se asegura por $90 millones. Un incendio produce daños de $12 millones. La suma excesiva no habilita a cobrar $90 millones: debe analizarse el sobreseguro conforme a los arts. 62 y siguientes y el daño realmente cubierto.
+:::
+
+
+# 49 · Sobreseguro: valor y suma asegurada
+
+::: {.norma}
+**BASE NORMATIVA:** Arts. 62–63
+:::
+
+::: {.regla}
+**Regla jurídica.** Asegurar por encima del valor del interés no autoriza enriquecimiento con el siniestro.
+:::
+
+::: {.ejemplo}
+**CASO — HECHOS.** Una máquina usada vale $25 millones, pero fue asegurada por $50 millones. Un incendio la destruye totalmente.
+
+**SOLUCIÓN FUNDADA.** En un seguro indemnizatorio, la pérdida no habilita cobrar $50 millones si el valor del interés dañado era $25 millones, salvo particularidades válidas de valoración pactada. Examinar también las consecuencias legales del sobreseguro según buena o mala fe.
+:::
+
+
+# 50 · Infraseguro ≠ franquicia: cálculo y fundamento
+
+::: {.norma}
+**BASE NORMATIVA:** Ley 17.418, art. 65 (infraseguro). Franquicia: estipulación contractual, sujeta a las normas aplicables.
+:::
+
+::: {.regla}
+**INFR A SEGURO.** La suma asegurada es menor que el valor asegurable. Salvo pacto en contrario, el asegurador paga la proporción entre ambos valores. **FRANQUICIA.** Es la parte del daño o de la prestación que queda a cargo del asegurado según lo convenido: no depende necesariamente del valor del bien.
+:::
+
+**Ejemplo A — infraseguro, sin franquicia.** Comercio de valor asegurable $100 M; suma asegurada $60 M; incendio causa $20 M de daños. **Indemnización: $20 M × 60/100 = $12 M.** El asegurado soporta $8 M del daño.
+
+**Ejemplo B — cobertura suficiente, con franquicia deducible.** Comercio de $100 M asegurado por $100 M; mismo daño de $20 M; franquicia fija deducible de $2 M. **Indemnización: $18 M.** No hay infraseguro.
+
+**Si concurren ambos:** con franquicia deducible de $2 M aplicada después de la regla proporcional, la prestación sería $10 M. El cálculo concreto depende del texto de la cláusula y de si se pactó cobertura a primer riesgo.
+
+::: {.doctrina}
+**SOBRINO:** Cuestiona la aplicación de la regla proporcional sin información suficiente sobre sus consecuencias. Es una tesis interpretativa; no elimina por sí sola el art. 65.
+:::
+
+
+# 51 · Infraseguro y franquicia: coexistencia
+
+::: {.norma}
+**BASE NORMATIVA:** Art. 65; cláusula de franquicia
+:::
+
+::: {.regla}
+**Regla jurídica.** La regla proporcional y la franquicia tienen causas distintas; el cálculo conjunto depende de cómo se pactó la franquicia.
+:::
+
+::: {.ejemplo}
+**CASO — HECHOS.** Edificio de $100 millones, suma asegurada $60 millones, daño de $20 millones. Franquicia deducible de $2 millones aplicada sobre indemnización calculada.
+
+**SOLUCIÓN FUNDADA.** Primero: $20 M × 60/100 = $12 M por infraseguro. Después: $12 M − $2 M = $10 M. Si el contrato pacta otra base de franquicia, el resultado puede variar. La franquicia no es el 40% no asegurado.
+:::
+
+
+# 52 · Seguro de incendio
+
+::: {.norma}
+**BASE NORMATIVA:** Ley 17.418, arts. 85–89
+:::
+
+::: {.regla}
+**Regla jurídica.** Cubre daños materiales causados por incendio conforme al riesgo pactado y reglas legales.
+:::
+
+**Explicación y consecuencias.** Examinar fuego hostil, consecuencias directas, medidas de extinción, exclusiones y valuación. No toda fuente de calor constituye incendio cubierto.
+
+::: {.ejemplo}
+**HECHOS, REGLA Y SOLUCIÓN:** Un incendio destruye paredes por $8 millones y mercadería por $5 millones; la póliza cubre edificio pero no contenido. La aseguradora no debe $13 millones: corresponde separar bienes asegurados, causalidad del incendio y valoración del daño a cada rubro.
+:::
+
+
+# 53 · Seguro agrícola
+
+::: {.norma}
+**BASE NORMATIVA:** Ley 17.418, arts. 90–96
+:::
+
+::: {.regla}
+**Regla jurídica.** Cubre riesgos de producción agrícola según el evento contratado, como granizo.
+:::
+
+**Explicación y consecuencias.** Determinar cultivo, superficie, período de cobertura, suma, momento del siniestro y método de valuación de la pérdida.
+
+::: {.ejemplo}
+**HECHOS, REGLA Y SOLUCIÓN:** Un productor asegura una cosecha de trigo contra granizo por $25 millones. Una sequía reduce el rendimiento y luego una tormenta destruye parte de lo restante. Hay que identificar el riesgo contratado: el seguro de granizo no cubre automáticamente la sequía.
+:::
+
+
+# 54 · Incendio: daño directo y lucro cesante
+
+::: {.norma}
+**BASE NORMATIVA:** Arts. 85 y ss.
+:::
+
+::: {.regla}
+**Regla jurídica.** La cobertura de daño material no implica por sí sola cobertura de interrupción del negocio o lucro cesante.
+:::
+
+::: {.ejemplo}
+**CASO — HECHOS.** Un incendio destruye hornos por $18 millones y obliga a cerrar una panadería durante 45 días, con ganancias dejadas de percibir estimadas en $6 millones.
+
+**SOLUCIÓN FUNDADA.** Si la póliza cubre solo daño material, se analiza indemnización por los hornos; los $6 millones de lucro cesante requieren cobertura específica válida. Separar costo de reparación, mercadería perdida y pérdida de ingresos.
+:::
+
+
+# 55 · Seguro de robo
+
+::: {.norma}
+**BASE NORMATIVA:** Cobertura contractual; Ley 17.418, reglas generales de daños
+:::
+
+::: {.regla}
+**Regla jurídica.** El robo se cubre según definición del riesgo, bienes incluidos, límites y exclusiones pactadas.
+:::
+
+**Explicación y consecuencias.** Distinguir robo, hurto y desaparición; revisar prueba del hecho y condiciones de seguridad. No afirmar que todo faltante es robo cubierto.
+
+::: {.ejemplo}
+**HECHOS, REGLA Y SOLUCIÓN:** Un comercio denuncia faltante de $6 millones al hacer inventario, sin signos de ingreso violento. Si la póliza cubre robo y no hurto, el caso exige reconstruir el hecho y aplicar las definiciones contractuales válidas; el faltante por sí solo no demuestra robo cubierto.
+:::
+
+::: {.doctrina}
+**LECTURA DOCTRINARIA:** Sobrino, t. II, cap. XIV: análisis crítico de exclusiones que vacían la cobertura.
+:::
+
+
+# 56 · Seguro agrícola: granizo y exclusiones
+
+::: {.norma}
+**BASE NORMATIVA:** Arts. 90 y ss.
+:::
+
+::: {.regla}
+**Regla jurídica.** La delimitación del fenómeno cubierto es central: granizo, helada y sequía son riesgos distintos.
+:::
+
+::: {.ejemplo}
+**CASO — HECHOS.** Un productor asegura 40 hectáreas de soja exclusivamente contra granizo. Una helada destruye el 30% del cultivo sin granizo.
+
+**SOLUCIÓN FUNDADA.** No procede extender automáticamente la cobertura de granizo a helada. Debe revisarse el riesgo expresamente contratado, el estado del cultivo y el método de valuación del daño.
+:::
+
+
+# 57 · Seguro de caución
+
+::: {.norma}
+**BASE NORMATIVA:** Póliza de caución; régimen contractual y regulatorio
+:::
+
+::: {.regla}
+**Regla jurídica.** Garantiza frente al beneficiario el incumplimiento de una obligación del tomador en las condiciones pactadas.
+:::
+
+**Explicación y consecuencias.** Es cobertura de garantía, no seguro de vida. Identificar tomador (deudor), asegurador y asegurado/beneficiario (acreedor).
+
+::: {.ejemplo}
+**HECHOS, REGLA Y SOLUCIÓN:** Una constructora entrega caución de cumplimiento por $20 millones a favor de una municipalidad. Incumple un hito contractual: no se paga mecánicamente toda la suma; debe analizarse la obligación garantizada, el incumplimiento, el procedimiento de ejecución y el límite de garantía.
+:::
+
+
+# 58 · Robo: hecho cubierto y prueba
+
+::: {.norma}
+**BASE NORMATIVA:** Póliza; arts. 46, 56 y 61
+:::
+
+::: {.regla}
+**Regla jurídica.** Debe diferenciarse robo con fuerza o violencia, hurto y desaparición inexplicada según las definiciones de la póliza.
+:::
+
+::: {.ejemplo}
+**CASO — HECHOS.** Una joyería denuncia que faltan 15 relojes al abrir. No hay cerraduras violentadas ni cámaras que muestren ingreso; la póliza cubre robo con fuerza.
+
+**SOLUCIÓN FUNDADA.** La falta de mercadería no prueba por sí sola robo cubierto. Deben valorarse denuncia, inventarios, cámaras y definición contractual; la aseguradora debe pronunciarse conforme al art. 56.
+:::
+
+
+# 59 · Responsabilidad civil: objeto
+
+::: {.norma}
+**BASE NORMATIVA:** Ley 17.418, art. 109
+:::
+
+::: {.regla}
+**Regla jurídica.** El asegurador se obliga a mantener indemne al asegurado por cuanto deba a un tercero en razón de responsabilidad prevista en el contrato.
+:::
+
+**Explicación y consecuencias.** El riesgo cubierto es el impacto patrimonial de la responsabilidad civil; no equivale a seguro directo de la cosa de la víctima.
+
+::: {.ejemplo}
+**HECHOS, REGLA Y SOLUCIÓN:** Un conductor asegurado embiste a un ciclista y provoca daños por $14 millones. El seguro de responsabilidad civil protege el patrimonio del asegurado frente a la deuda de responsabilidad comprendida en cobertura; no equivale a un seguro de accidentes personales del ciclista.
+:::
+
+
+# 60 · Caución: tomador, asegurado y siniestro
+
+::: {.norma}
+**BASE NORMATIVA:** Régimen de póliza de caución; Ley 20.091
+:::
+
+::: {.regla}
+**Regla jurídica.** La caución garantiza obligaciones del tomador frente al asegurado; no opera como un seguro de incendio.
+:::
+
+::: {.ejemplo}
+**CASO — HECHOS.** Una constructora (tomadora) garantiza con caución de $15 millones la ejecución de una obra pública. Abandona la obra y la comitente (asegurada) acredita incumplimiento y perjuicio cubierto de $9 millones.
+
+**SOLUCIÓN FUNDADA.** La comitente puede reclamar la prestación conforme a la garantía y condiciones aplicables, hasta el límite. El asegurador podrá tener acción de recupero contra la constructora según el contrato. No confundir prima pagada por tomador con derecho de este a cobrar la garantía.
+:::
+
+
+# 61 · Responsabilidad civil: gastos y defensa
+
+::: {.norma}
+**BASE NORMATIVA:** Ley 17.418, arts. 110–116
+:::
+
+::: {.regla}
+**Regla jurídica.** La ley regula gastos de defensa, dirección del proceso y cargas del asegurado.
+:::
+
+**Explicación y consecuencias.** No reconocer responsabilidad o transigir sin considerar condiciones y reglas legales. Examinar defensa judicial, gastos, intereses y límites.
+
+::: {.ejemplo}
+**HECHOS, REGLA Y SOLUCIÓN:** Un médico es demandado por mala praxis por $40 millones y debe afrontar $3 millones de honorarios de defensa. Hay que separar el eventual monto de condena de los gastos de defensa y verificar el régimen del art. 110 y las condiciones de cobertura.
+:::
+
+
+# 62 · Responsabilidad civil: hecho, daño y cobertura
+
+::: {.norma}
+**BASE NORMATIVA:** Arts. 109–111
+:::
+
+::: {.regla}
+**Regla jurídica.** El seguro cubre, dentro de sus límites, la responsabilidad civil atribuible al asegurado por hechos previstos.
+:::
+
+::: {.ejemplo}
+**CASO — HECHOS.** Un electricista asegurado provoca por negligencia un cortocircuito en la vivienda del cliente, con daños acreditados de $12 millones. La suma asegurada es $20 millones.
+
+**SOLUCIÓN FUNDADA.** Debe probarse responsabilidad, causalidad, cuantía y hecho cubierto. Si concurren, el asegurador responde dentro de los límites aplicables; no paga $20 millones por el solo hecho de existir esa suma.
+:::
+
+
+# 63 · Citación en garantía
+
+::: {.norma}
+**BASE NORMATIVA:** Ley 17.418, art. 118
+:::
+
+::: {.regla}
+**Regla jurídica.** El damnificado puede citar en garantía al asegurador dentro de la oportunidad procesal legal; la sentencia puede ejecutarse contra él en la medida del seguro.
+:::
+
+**Explicación y consecuencias.** La citación incorpora al asegurador al proceso; no equivale a cobertura ilimitada. Las defensas y límites oponibles requieren examen jurídico y jurisprudencial.
+
+::: {.ejemplo}
+**HECHOS, REGLA Y SOLUCIÓN:** Una víctima demanda al automovilista y cita en garantía a la aseguradora conforme al art. 118. La sentencia puede hacerse ejecutable contra esta en la medida del seguro; eso no convierte toda obligación del demandado en deuda ilimitada de la aseguradora.
+:::
+
+::: {.doctrina}
+**LECTURA DOCTRINARIA:** Sobrino, t. I, caps. VIII y XII, desarrolla posición crítica sobre límites y tutela de víctimas.
+:::
+
+
+# 64 · RC: reconocimiento de responsabilidad y defensa
+
+::: {.norma}
+**BASE NORMATIVA:** Arts. 110–116
+:::
+
+::: {.regla}
+**Regla jurídica.** La dirección de la defensa y los gastos se rigen por reglas legales y contractuales; el asegurado debe evitar perjudicar la posición del asegurador.
+:::
+
+::: {.ejemplo}
+**CASO — HECHOS.** Un comercio recibe demanda por caída de cliente. Sin consultar a la aseguradora, firma un reconocimiento de deuda de $25 millones y luego exige reintegro íntegro.
+
+**SOLUCIÓN FUNDADA.** El reconocimiento unilateral no obliga automáticamente a la aseguradora. Debe analizarse responsabilidad real, deberes de información, defensa y los efectos de actos del asegurado frente a la compañía.
+:::
+
+
+# 65 · Franquicias, exclusiones y víctima
+
+::: {.norma}
+**BASE NORMATIVA:** Ley 17.418, art. 118; CCyC arts. 984–989
+:::
+
+::: {.regla}
+**Regla jurídica.** Franquicia es porción del daño a cargo del asegurado; exclusión delimita riesgo no asumido.
+:::
+
+**Explicación y consecuencias.** La oponibilidad a terceros y validez de cláusulas depende del régimen, tipo de seguro y jurisprudencia; evitar soluciones absolutas.
+
+::: {.ejemplo}
+**HECHOS, REGLA Y SOLUCIÓN:** Una póliza de responsabilidad civil tiene franquicia de $1 millón y una exclusión por uso comercial del vehículo. El automóvil se usaba para repartir pedidos. Antes de decidir oponibilidad a la víctima deben determinarse el riesgo efectivamente cubierto, la cláusula y la jurisprudencia aplicable; franquicia y exclusión no son lo mismo.
+:::
+
+::: {.doctrina}
+**LECTURA DOCTRINARIA:** Sobrino, t. II, caps. XIII–XVII, cuestiona restricciones abusivas; separar tesis de criterio judicial.
+:::
+
+
+# 66 · Citación en garantía: sentencia y límites
+
+::: {.norma}
+**BASE NORMATIVA:** Art. 118
+:::
+
+::: {.regla}
+**Regla jurídica.** La víctima puede citar al asegurador en garantía; la sentencia será ejecutable contra él en la medida del seguro.
+:::
+
+::: {.ejemplo}
+**CASO — HECHOS.** Una víctima demanda al conductor por $40 millones y cita a su aseguradora, cuya suma máxima de RC es $25 millones. Se dicta sentencia por $32 millones.
+
+**SOLUCIÓN FUNDADA.** La condena al asegurador se ejecuta en la medida del seguro y bajo límites oponibles conforme al régimen y jurisprudencia aplicables; el conductor puede responder por el saldo. No confundir suma reclamada, sentencia y obligación asegurativa.
+:::
+
+
+# 67 · Claims made: delimitación temporal
+
+::: {.norma}
+**BASE NORMATIVA:** Seguro de responsabilidad civil; condiciones de póliza
+:::
+
+::: {.regla}
+**Regla jurídica.** Algunas pólizas vinculan cobertura a que el reclamo sea formulado durante vigencia o período adicional pactado.
+:::
+
+**Explicación y consecuencias.** Contrastar con cobertura por ocurrencia: hecho dañoso durante vigencia vs. reclamo dentro del período. La validez y alcance deben examinarse caso por caso.
+
+::: {.ejemplo}
+**HECHOS, REGLA Y SOLUCIÓN:** Un D&O se contrata del 1/1 al 31/12/2026 con retroactividad al 1/1/2024. Un hecho negligente ocurre en 2025 y el reclamo se presenta en octubre de 2026: puede entrar temporalmente. Si el reclamo llega en febrero de 2027, cambia el análisis según período adicional de notificación y condiciones válidas.
+:::
+
+::: {.doctrina}
+**LECTURA DOCTRINARIA:** Sobrino, t. II, cap. XV: crítica de cláusulas claims made.
+:::
+
+
+# 68 · Seguro D&O: un reclamo concreto y su solución
+
+::: {.norma}
+**BASE NORMATIVA:** Seguro de responsabilidad civil (Ley 17.418, arts. 109 y ss.); condiciones particulares de la póliza D&O. Sobrino, tomo II, cap. XIX.
+:::
+
+::: {.regla}
+**Qué cubre:** según las condiciones contratadas, responsabilidad patrimonial de directores y administradores por actos de gestión, y eventualmente gastos de defensa. **No es un seguro contra toda pérdida empresarial:** una mala inversión no genera automáticamente una obligación indemnizable del director.
+:::
+
+**HECHOS (hipotéticos).** Una SA contrata D&O con límite de $100 M, cobertura de reclamos formulados durante 2026 y retroactividad desde 2024. En 2025, su director autoriza pagar $30 M por un servicio sin comprobar que fue prestado. En junio de 2026 la sociedad lo demanda por $30 M por negligencia. La póliza incluye gastos de defensa y excluye actos dolosos probados.
+
+**SOLUCIÓN.** El reclamo de junio de 2026 cae dentro del período de reclamación y el acto de 2025 es posterior a la fecha retroactiva. **En principio puede activarse la cobertura de defensa**, si se cumplen las condiciones de notificación. El pago de los $30 M **no es automático**: requiere establecer responsabilidad del director, daño y causalidad; la aseguradora sólo paga dentro del alcance, límites y exclusiones válidas. Si se prueba dolo y la exclusión resulta aplicable, el resultado puede cambiar.
+
+::: {.doctrina}
+**CLAVE DIDÁCTICA:** Distinguir (1) pérdida de la sociedad, (2) responsabilidad personal del administrador y (3) obligación contractual de la aseguradora. Son tres cuestiones distintas.
+:::
+
+
+# 69 · D&O: reclamación y exclusión por dolo
+
+::: {.norma}
+**BASE NORMATIVA:** Póliza D&O; Ley 17.418
+:::
+
+::: {.regla}
+**Regla jurídica.** La negligencia en gestión puede ser asegurable; el dolo y el beneficio personal ilícito exigen examen de exclusiones y límites legales.
+:::
+
+::: {.ejemplo}
+**CASO — HECHOS.** Directora aprueba pago de $12 millones sin verificar documentación. Luego se acredita que no recibió beneficio personal y que omitió controles; la sociedad reclama el perjuicio durante vigencia claims made.
+
+**SOLUCIÓN FUNDADA.** La conducta puede configurar responsabilidad por negligencia y activar defensa/cobertura si se satisfacen las condiciones temporales y materiales. No corresponde aplicar automáticamente una exclusión de fraude sin probar sus presupuestos.
+:::
+
+
+# 70 · Seguros de transporte
+
+::: {.norma}
+**BASE NORMATIVA:** Ley 17.418, arts. 121–127; regímenes especiales
+:::
+
+::: {.regla}
+**Regla jurídica.** Cubren riesgos asociados al traslado de bienes o intereses transportados según modalidad y trayecto.
+:::
+
+**Explicación y consecuencias.** Identificar mercadería, recorrido, inicio/fin del riesgo, carga y descarga, avería y exclusiones. Transporte marítimo/aéreo puede tener regímenes especiales.
+
+::: {.ejemplo}
+**HECHOS, REGLA Y SOLUCIÓN:** Una transportista lleva electrodomésticos por $70 millones y sufre un vuelco. Se dañan bienes por $11 millones y se pierden otros por $4 millones. Hay que identificar si se aseguró la carga o la responsabilidad del transportista, qué tramo cubre y qué exclusiones operan.
+:::
+
+
+# 71 · Transporte: pérdida parcial y legitimación
+
+::: {.norma}
+**BASE NORMATIVA:** Arts. 121 y ss.; póliza de transporte
+:::
+
+::: {.regla}
+**Regla jurídica.** Hay que precisar trayecto, bien asegurado, titular del interés y causa de la pérdida.
+:::
+
+::: {.ejemplo}
+**CASO — HECHOS.** Una empresa envía 100 notebooks, valor unitario $800.000. Durante trayecto asegurado se dañan 12 por vuelco del camión; el deducible pactado es $500.000.
+
+**SOLUCIÓN FUNDADA.** Daño bruto acreditado: $9,6 millones, sujeto a valuación, límite y exclusiones. Si la franquicia es deducible fija, indemnización preliminar $9,1 millones. Determinar quién tiene el interés según contrato de compraventa y transporte.
+:::
+
+
+# 72 · Seguros de personas: lógica distinta
+
+::: {.norma}
+**BASE NORMATIVA:** Ley 17.418, arts. 128 y ss.
+:::
+
+::: {.regla}
+**Regla jurídica.** En seguros de personas se pacta prestación ligada a un evento de vida, integridad o salud; no se calcula necesariamente por pérdida patrimonial.
+:::
+
+**Explicación y consecuencias.** La suma asegurada puede coexistir con otras prestaciones. Distinguir seguros de vida, accidentes personales y coberturas de gastos médicos según estructura.
+
+::: {.ejemplo}
+**HECHOS, REGLA Y SOLUCIÓN:** Una persona contrata seguro de vida por $50 millones y además cobertura de accidentes personales. Fallece por enfermedad: el capital de vida puede resultar exigible si el fallecimiento está cubierto; la cobertura específica de muerte accidental no se activa por el mero deceso.
+:::
+
+
+# 73 · Vida: beneficiario y ausencia de daño patrimonial
+
+::: {.norma}
+**BASE NORMATIVA:** Arts. 128 y ss.
+:::
+
+::: {.regla}
+**Regla jurídica.** En vida se paga el capital pactado ante evento cubierto; el beneficiario no debe acreditar daño equivalente al capital.
+:::
+
+::: {.ejemplo}
+**CASO — HECHOS.** Una persona asegura su vida por $70 millones y designa beneficiaria a su hermana. Fallece por enfermedad cubierta; la hermana no dependía económicamente de ella.
+
+**SOLUCIÓN FUNDADA.** La falta de dependencia económica no reduce por sí misma el capital convenido. Verificar vigencia, designación, exclusiones válidas y documentación del fallecimiento.
+:::
+
+
+# 74 · Seguro de vida: suicidio y liquidación del siniestro
+
+::: {.norma}
+**BASE NORMATIVA:** Ley 17.418, art. 135 (suicidio); arts. 46 y 49 (denuncia y pago); arts. 128 y ss. (seguros de personas).
+:::
+
+::: {.regla}
+**Regla jurídica — art. 135.** El suicidio **voluntario** libera al asegurador, **salvo que el contrato haya estado en vigor ininterrumpidamente durante tres años**. La norma no establece una exclusión perpetua de todo fallecimiento por suicidio: importan la voluntariedad y el tiempo de vigencia continua.
+:::
+
+**Procedimiento ante un fallecimiento por presunto suicidio:**
+
+1. **Denuncia y documentación.** El beneficiario comunica el fallecimiento al asegurador y presenta partida de defunción, póliza o datos de contratación y documentación de su legitimación. Si se investiga la causa de muerte, pueden requerirse constancias pertinentes conforme a la ley.
+2. **Verificación contractual.** Identificar fecha de inicio, continuidad de la cobertura, capital asegurado y beneficiarios. Comprobar si se cumplieron **tres años ininterrumpidos** al momento del fallecimiento.
+3. **Análisis de la causal.** No confundir una muerte inicialmente calificada como sospechosa con suicidio voluntario acreditado. La aseguradora que invoca la exclusión debe sustentar sus presupuestos.
+4. **Decisión y pago.** Si se acredita suicidio voluntario antes de los tres años, opera la liberación legal; si ocurrió después de tres años de vigencia ininterrumpida, esa causal no libera al asegurador. Si corresponde pagar, aplicar el régimen legal de liquidación y pago del seguro de personas.
+
+::: {.ejemplo}
+**CASO RESUELTO.** Seguro de vida iniciado el 1/3/2022, sin interrupciones, por $40 millones. El asegurado fallece por suicidio voluntario el 10/4/2026. **Solución:** transcurrieron más de tres años de vigencia continua; el asegurador **no puede rechazar el capital invocando solamente el suicidio** (art. 135). Si el mismo hecho hubiera ocurrido el 10/4/2023, y se acreditara su voluntariedad, la regla legal sería la liberación del asegurador.
+:::
+
+**Precisión:** el examen de la documentación no autoriza a suspender indefinidamente el trámite; deben respetarse los deberes y plazos legales aplicables. La existencia de otras defensas válidas exige análisis separado.
+
+
+# 75 · Suicidio: secuencia de liquidación
+
+::: {.norma}
+**BASE NORMATIVA:** Art. 135
+:::
+
+::: {.regla}
+**Regla jurídica.** El art. 135 contiene la regla de tres años de vigencia ininterrumpida para el suicidio voluntario, sin perjuicio de las condiciones y prueba del caso.
+:::
+
+::: {.ejemplo}
+**CASO — HECHOS.** Seguro de vida inicia el 1/3/2023. Fallecimiento por suicidio voluntario el 10/4/2026. Capital $40 millones. La aseguradora invoca una exclusión genérica sin considerar el plazo.
+
+**SOLUCIÓN FUNDADA.** Transcurrieron más de tres años de vigencia ininterrumpida. No corresponde rechazar solo por tratarse de suicidio voluntario bajo el art. 135. El beneficiario denuncia, acredita fallecimiento y designación; el asegurador verifica vigencia y se pronuncia, y debe pagar si no existe otro impedimento válido.
+:::
+
+::: {.doctrina}
+**MATIZ DOCTRINARIO:** El análisis es jurídico y contractual; no implica presumir voluntariedad sin prueba.
+:::
+
+
+# 76 · Beneficiarios en vida
+
+::: {.norma}
+**BASE NORMATIVA:** Ley 17.418, arts. 143–148
+:::
+
+::: {.regla}
+**Regla jurídica.** La designación de beneficiario determina quién tiene derecho a la prestación en los términos legales y contractuales.
+:::
+
+**Explicación y consecuencias.** Analizar designación, revocación, pluralidad, falta de beneficiario y efectos de fallecimiento; no asumir que siempre integra herencia.
+
+::: {.ejemplo}
+**HECHOS, REGLA Y SOLUCIÓN:** Una asegurada designa beneficiarios a sus dos hijos por mitades y después modifica la designación conforme a las formas admitidas. Tras su muerte, no corresponde repartir el capital como si necesariamente integrara el acervo hereditario: primero debe determinarse quién era beneficiario vigente.
+:::
+
+
+# 77 · Accidentes personales
+
+::: {.norma}
+**BASE NORMATIVA:** Ley 17.418, arts. 149–152
+:::
+
+::: {.regla}
+**Regla jurídica.** Cobertura de muerte o incapacidad por accidente conforme a definición y condiciones de póliza.
+:::
+
+**Explicación y consecuencias.** La prestación puede ser capital por incapacidad o reembolso de gastos; es crucial el baremo y la relación causal con el accidente.
+
+::: {.ejemplo}
+**HECHOS, REGLA Y SOLUCIÓN:** Una póliza de accidentes personales cubre invalidez permanente por accidente. El asegurado sufre una caída y pierde movilidad parcial; el pago depende de la definición de accidente, la evaluación de incapacidad y la tabla o suma pactada, no de sumar gastos médicos sin más.
+:::
+
+
+# 78 · Seguros colectivos
+
+::: {.norma}
+**BASE NORMATIVA:** Ley 17.418, arts. 153–156
+:::
+
+::: {.regla}
+**Regla jurídica.** Una póliza cubre un grupo de personas con reglas especiales sobre incorporación, información y beneficiarios.
+:::
+
+**Explicación y consecuencias.** Distinguir tomador organizador, integrantes asegurados y beneficiarios. Revisar altas, bajas, certificados y continuidad de cobertura.
+
+::: {.ejemplo}
+**HECHOS, REGLA Y SOLUCIÓN:** Una empresa contrata seguro de vida colectivo para 80 empleados. Una trabajadora ingresa en mayo y fallece en julio; debe determinarse si integraba el grupo asegurable, desde cuándo regía su cobertura, qué capital correspondía y quién fue designado beneficiario.
+:::
+
+
+# 79 · Comparación final: daños versus personas
+
+::: {.norma}
+**BASE NORMATIVA:** Ley 17.418, arts. 60 y ss. / 128 y ss.
+:::
+
+::: {.regla}
+**Regla jurídica.** Daños: interés económico y perjuicio probado. Personas: evento sobre vida/integridad y prestación convenida.
+:::
+
+**Explicación y consecuencias.** Daños: sobreseguro e infraseguro son relevantes. Vida: no se aplica mecánicamente regla proporcional ni techo del daño probado. En ambos: buena fe, información y límites de cobertura.
+
+::: {.ejemplo}
+**HECHOS, REGLA Y SOLUCIÓN:** Un incendio causa daños de $7 millones en un local; el titular también tiene seguro de vida por $40 millones. El seguro patrimonial exige acreditar daño y límite de indemnización; el de vida exige el evento cubierto y la legitimación del beneficiario. No corresponde trasladar la regla proporcional del inmueble al capital de vida.
+:::
+
+
+# 80 · Caso integrador: incendio e infraseguro
+
+::: {.norma}
+**BASE NORMATIVA:** Ley 17.418, arts. 46, 56, 60, 65 y 85
+:::
+
+::: {.regla}
+**Regla jurídica.** Resolver en secuencia: cobertura → denuncia → valuación → regla proporcional → pronunciamiento → pago.
+:::
+
+**Explicación y consecuencias.** Depósito valor $100 M; suma $60 M; incendio provoca daño $20 M; denuncia dentro de tres días. Sin cláusula de primer riesgo ni franquicia: cálculo orientativo $12 M.
+
+::: {.ejemplo}
+**HECHOS, REGLA Y SOLUCIÓN:** Una fábrica vale $120 millones y asegura $72 millones contra incendio. El siniestro destruye bienes cubiertos por $30 millones; con regla proporcional, la indemnización es $18 millones. Si además existe franquicia deducible de $2 millones aplicada después de esa reducción, se pagarían $16 millones; hay que leer el orden contractual de cálculo.
+:::
+
+::: {.doctrina}
+**LECTURA DOCTRINARIA:** Sobrino cuestiona falta de información sobre infraseguro: distinguir su tesis de la regla positiva.
+:::
+
+
+
+::: {.bibliografia}
+**Bibliografía principal:** Waldo Sobrino, *Seguros y el Código Civil y Comercial*, tomos I y II, La Ley, 2016. La exposición sintetiza y comenta la obra sin reproducirla literalmente. Las posiciones doctrinarias se distinguen de la ley. Verificar texto normativo y jurisprudencia vigente al dictar clase.
+:::

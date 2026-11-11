@@ -1,0 +1,14 @@
+/* Derecho Comercial · azul, celeste y blanco */
+:root{--azul:#103c70;--azul2:#1265a6;--celeste:#dcefff;--tinta:#163149}
+.reveal{font-family:Arial,Helvetica,sans-serif;color:var(--tinta);font-size:29px}
+.reveal .slides section{background:#fff;text-align:left}
+.reveal h1,.reveal h2{color:var(--azul);font-weight:800;text-transform:none;letter-spacing:-.03em}
+.reveal h1{font-size:1.55em}.reveal h2{font-size:1.27em;margin-bottom:.4em}
+.reveal .subtitle{color:var(--azul2)}
+.reveal .regla{background:#e8f4ff;border-left:8px solid #267fbd;padding:18px 23px;border-radius:5px;margin:12px 0;font-size:.85em}
+.reveal .caso{background:#f3f8fc;border:1px solid #bfd9ef;border-radius:10px;padding:16px 22px;margin-top:14px;font-size:.81em}
+.reveal .solucion{background:#e8f3ff;border-left:6px solid #0c4f8b;border-radius:4px;padding:14px 20px;margin-top:12px;font-size:.83em}
+.reveal .etiqueta{font-size:.57em;letter-spacing:.12em;text-transform:uppercase;color:#2874aa;font-weight:bold}
+.reveal .slide-number{background:#123f72!important;color:white!important;padding:6px 12px!important;border-radius:5px}
+.reveal .footer{font-size:15px!important;color:#346a99!important}
+.reveal .progress{color:#2475b5}

@@ -1,0 +1,14 @@
+
+:root { --azul:#123F73; --celeste:#D9F0FF; --claro:#F4FAFF; }
+.reveal {font-family: "Aptos", "Segoe UI", Arial, sans-serif; color:#193C60; font-size: 29px; }
+.reveal .slides section { background:linear-gradient(135deg,#fff 0%,#f3faff 100%); text-align:left; padding:24px 34px; box-sizing:border-box; border-top:13px solid #55B8ED; }
+.reveal h1 {font-size:1.48em; color:#123F73; font-weight:800; margin:0 0 17px; border-bottom:3px solid #9AD8FA; padding-bottom:12px;}
+.reveal p {margin: 0.4em 0; line-height:1.23;}
+.reveal strong {color:#103D70;}
+.norma {font-size:.66em; letter-spacing:.02em; color:#23679B; margin-bottom:12px;}
+.regla {background:#DCEFFF; border-left:8px solid #178CCB; padding:13px 20px; border-radius:10px; margin:14px 0;}
+.ejemplo {background:#EAF7FF; border-left:8px solid #6CC7F4; border-radius:10px; padding:13px 20px; margin-top:15px;}
+.doctrina {background:#F0F3F7; border-left:7px solid #637B94; border-radius:8px; padding:10px 18px; font-size:.83em; margin-top:12px;}
+.bibliografia {font-size:.6em; color:#50667D;}
+.reveal .footer {color:#5C7C9C; font-size:14px;}
+.reveal .slide-number {background:#123F73; color:#fff; font-size:16px;}
