@@ -63,6 +63,11 @@ subtitle: "Universidad Nacional de Moreno"
 
 [🎓 Descarga Presentación](transporte.pdf){.btn .btn-primary target="_blank"} 
 
+## Clase 8 - Seguros
+
+[🎓 Presentación Seguros](seguros_80_diapositivas.html){.btn .btn-primary target="_blank"}
+
+[🎓 Descarga Presentación](seguros_80_diapositivas.pdf){.btn .btn-primary target="_blank"} 
 
 
 
