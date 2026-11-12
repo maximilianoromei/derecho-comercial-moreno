@@ -1,0 +1,913 @@
+---
+title: "Guía de lectura · Transporte terrestre, marítimo y aeronáutico"
+subtitle: "10 casos integradores · 100 preguntas y respuestas · Temas 18 y 19"
+author: "Derecho Comercial"
+lang: es
+format:
+  revealjs:
+    theme: default
+    slide-level: 1
+    slide-number: true
+    scrollable: true
+    hash: true
+    transition: slide
+    navigation-mode: linear
+    width: 1600
+    height: 900
+    center: false
+    controls: true
+    progress: true
+    margin: 0.07
+    css: transporte_estilo.css
+    footer: "Derecho Comercial · CCyC · Leyes 20.094 y 17.285"
+execute:
+  echo: false
+---
+
+# Guía de lectura · Contrato de transporte
+
+::: {.regla}
+**Objetivo:** resolver 10 casos basados en la presentación de 85 diapositivas. Cada caso incluye diez preguntas de repaso y diez respuestas explicadas.
+:::
+
+**Distribución:** 3 casos terrestres (pasajeros y mercaderías) · 4 marítimos · 3 aeronáuticos.
+
+**Modo de uso:** leer los hechos y contestar antes de avanzar a las soluciones.
+
+**Material base:** *Contrato de transporte · Navegación · Derecho aeronáutico*, presentación aportada para la clase.
+
+# Orientación normativa
+
+::: {.norma}
+**Fuentes de referencia:** Código Civil y Comercial (transporte terrestre); Ley 20.094 (navegación); Código Aeronáutico, Ley 17.285 (texto actualizado); Convenio de Montreal de 1999, cuando corresponda.
+:::
+
+**Advertencia:** los casos son hipotéticos y las respuestas sintetizan el enfoque de la presentación. La solución de un litigio real puede requerir verificar contratos, pruebas y normativa vigente.
+
+# Caso 1 · La pasajera lesionada en el colectivo
+
+::: {.norma}
+**Eje:** Terrestre · CCyC
+:::
+
+::: {.caso}
+**HECHOS.** Una pasajera viaja en un colectivo interurbano. El chofer frena bruscamente para evitar a un peatón que cruza fuera de la senda. La pasajera cae y se fractura una muñeca. Conserva la reserva digital, pero perdió el boleto. La empresa sostiene que el conductor no tuvo culpa y que el peatón fue el único responsable.
+:::
+
+**Consigna:** respondé las diez preguntas antes de consultar las soluciones.
+
+# Caso 1 · Preguntas 1 a 5
+
+::: {.regla}
+**La pasajera lesionada en el colectivo**
+:::
+
+**1.** ¿Qué contrato celebró la pasajera?
+
+**2.** ¿Quién es el transportista?
+
+**3.** ¿La pérdida del boleto elimina el contrato?
+
+**4.** ¿Qué obligación principal se incumplió?
+
+**5.** ¿Es suficiente que el chofer no haya sido negligente?
+
+# Caso 1 · Preguntas 6 a 10
+
+::: {.regla}
+**La pasajera lesionada en el colectivo**
+:::
+
+**6.** ¿La intervención del peatón exonera automáticamente?
+
+**7.** ¿Qué debe probar la pasajera?
+
+**8.** ¿Qué debe acreditar la empresa para exonerarse?
+
+**9.** ¿Puede reclamar gastos médicos?
+
+**10.** ¿Qué diferencia hay entre incumplimiento horario y lesión?
+
+# Caso 1 · Respuestas 1 a 5
+
+::: {.solucion}
+**La pasajera lesionada en el colectivo**
+:::
+
+**1. ¿Qué contrato celebró la pasajera?**
+Un contrato de transporte de personas: la empresa asumió trasladarla a destino en condiciones de seguridad. No se limita a ofrecer un asiento o un vehículo.
+
+**2. ¿Quién es el transportista?**
+La empresa que asumió el traslado frente a la pasajera. Que el ómnibus sea conducido por un empleado no desplaza, por sí solo, su posición contractual.
+
+**3. ¿La pérdida del boleto elimina el contrato?**
+No. La reserva, el pago y otros registros pueden demostrar la contratación y el viaje. El boleto es una prueba relevante, pero no la única.
+
+**4. ¿Qué obligación principal se incumplió?**
+La obligación de transportar con seguridad. La caída y la lesión durante el trayecto permiten plantear la responsabilidad del transportista conforme al régimen aplicable.
+
+**5. ¿Es suficiente que el chofer no haya sido negligente?**
+No. La responsabilidad por daños al pasajero se analiza bajo un régimen objetivo: la mera ausencia de culpa del conductor no basta para liberar a la empresa.
+
+# Caso 1 · Respuestas 6 a 10
+
+::: {.solucion}
+**La pasajera lesionada en el colectivo**
+:::
+
+**6. ¿La intervención del peatón exonera automáticamente?**
+No. La empresa debe acreditar una causa ajena con aptitud para romper el nexo causal. Un cruce imprudente, por sí solo, no demuestra que la frenada y la caída fueran inevitables.
+
+**7. ¿Qué debe probar la pasajera?**
+Su condición de pasajera, la lesión, su ocurrencia durante el transporte y los daños reclamados. Los comprobantes, testigos y la atención médica son elementos útiles.
+
+**8. ¿Qué debe acreditar la empresa para exonerarse?**
+La causa ajena jurídicamente relevante y su relación causal con el daño. No alcanza una afirmación genérica de que intervino un tercero.
+
+**9. ¿Puede reclamar gastos médicos?**
+Sí, en la medida en que sean consecuencia acreditada de la lesión y procedan según las reglas de reparación. Debe conservar facturas e informes médicos.
+
+**10. ¿Qué diferencia hay entre incumplimiento horario y lesión?**
+La lesión compromete la seguridad del pasajero; una demora exige examinar el incumplimiento y los perjuicios que efectivamente causó. Son daños y presupuestos distintos.
+
+# Caso 6 · Computadoras perdidas y averiadas
+
+::: {.norma}
+**Eje:** Terrestre · Ley 20.094
+:::
+
+::: {.caso}
+**HECHOS.** Una fábrica entrega 200 computadoras a un transportista para llevarlas a una distribuidora. El remito indica 200 cajas sin reservas. Al llegar, hay 190 cajas; diez de las recibidas están mojadas. La entrega se produce tres días tarde. La distribuidora firma la recepción dejando constancia de los faltantes y de los daños visibles.
+:::
+
+**Consigna:** respondé las diez preguntas antes de consultar las soluciones.
+
+# Caso 6 · Preguntas 1 a 5
+
+::: {.regla}
+**Computadoras perdidas y averiadas**
+:::
+
+**1.** ¿Quién es el cargador?
+
+**2.** ¿Quién es la destinataria?
+
+**3.** ¿Qué acredita el remito?
+
+**4.** ¿Qué obligación asumió el transportista?
+
+**5.** ¿Cómo se califica la falta de diez cajas?
+
+# Caso 6 · Preguntas 6 a 10
+
+::: {.regla}
+**Computadoras perdidas y averiadas**
+:::
+
+**6.** ¿Cómo se califica el daño por agua?
+
+**7.** ¿La firma con reservas es importante?
+
+**8.** ¿Qué ocurre con los tres días de demora?
+
+**9.** ¿Se puede reclamar dos veces el mismo daño?
+
+**10.** ¿El transportista se libera diciendo que hubo un robo?
+
+# Caso 6 · Respuestas 1 a 5
+
+::: {.solucion}
+**Computadoras perdidas y averiadas**
+:::
+
+**1. ¿Quién es el cargador?**
+La fábrica que entrega las computadoras para su traslado. Su función se distingue de la del transportista y de la destinataria.
+
+**2. ¿Quién es la destinataria?**
+La distribuidora a la que deben entregarse las mercaderías. Sus facultades para recibir y reclamar dependen de la relación de transporte y la documentación.
+
+**3. ¿Qué acredita el remito?**
+Que se documentó la entrega de 200 cajas al transportista sin reservas aparentes. No demuestra por sí mismo características internas que no se verificaron.
+
+**4. ¿Qué obligación asumió el transportista?**
+Recibir, custodiar, trasladar y entregar la carga conforme a lo pactado. La obligación comprende la conservación durante el período bajo su responsabilidad.
+
+**5. ¿Cómo se califica la falta de diez cajas?**
+Como pérdida parcial de la mercadería transportada. El reclamo debe individualizar las unidades faltantes y acreditar su valor.
+
+# Caso 6 · Respuestas 6 a 10
+
+::: {.solucion}
+**Computadoras perdidas y averiadas**
+:::
+
+**6. ¿Cómo se califica el daño por agua?**
+Como avería de mercadería entregada. Es distinto del faltante: debe probarse el deterioro de las diez computadoras mojadas y su cuantía.
+
+**7. ¿La firma con reservas es importante?**
+Sí. Deja constancia contemporánea de faltantes y daños visibles y facilita la prueba. Una recepción sin reservas tampoco borraría necesariamente un daño oculto.
+
+**8. ¿Qué ocurre con los tres días de demora?**
+Puede existir un incumplimiento temporal adicional. Para obtener una reparación por ese concepto hay que acreditar un perjuicio concreto y su nexo con el retraso.
+
+**9. ¿Se puede reclamar dos veces el mismo daño?**
+No. La pérdida, la avería y la demora deben cuantificarse separadamente, evitando computar una misma consecuencia patrimonial en más de un rubro.
+
+**10. ¿El transportista se libera diciendo que hubo un robo?**
+No automáticamente. Debe probar una causa ajena idónea y explicar las condiciones de custodia. La mera invocación de un robo no demuestra exoneración.
+
+# Caso 11 · Medicamentos dañados durante el transporte terrestre
+
+::: {.norma}
+**Eje:** Transporte terrestre de mercaderías · Código Civil y Comercial
+:::
+
+::: {.caso}
+**HECHOS.** Un laboratorio entrega a una transportista 300 cajas de medicamentos para trasladarlas desde La Plata hasta Rosario. El remito indica la cantidad y exige mantener la carga refrigerada. El chofer firma sin reservas. Durante el viaje, el camión permanece varias horas detenido con el equipo de frío apagado. Al llegar, faltan 12 cajas y otras 40 presentan daños por temperatura. El destinatario recibe la mercadería dejando constancia de los faltantes y del deterioro. La empresa transportista sostiene que no debe responder porque el destinatario aceptó la entrega.
+:::
+
+**Consigna:** respondé las diez preguntas antes de consultar las soluciones.
+
+# Caso 11 · Preguntas 1 a 5
+
+::: {.regla}
+**Medicamentos dañados durante el transporte terrestre**
+:::
+
+**1.** ¿Quién es el cargador?
+
+**2.** ¿Quién es el transportista?
+
+**3.** ¿Quién es el destinatario?
+
+**4.** ¿Para qué sirve el remito firmado?
+
+**5.** ¿Qué obligación asumió la transportista respecto de la temperatura?
+
+# Caso 11 · Preguntas 6 a 10
+
+::: {.regla}
+**Medicamentos dañados durante el transporte terrestre**
+:::
+
+**6.** ¿Qué diferencia hay entre faltante y avería?
+
+**7.** ¿Qué importancia tiene que el chofer no haya formulado reservas?
+
+**8.** ¿La recepción con reservas impide reclamar?
+
+**9.** ¿Qué debe probarse para calcular la indemnización?
+
+**10.** ¿La transportista queda liberada porque el destinatario recibió las cajas?
+
+# Caso 11 · Respuestas 1 a 5
+
+::: {.solucion}
+**Medicamentos dañados durante el transporte terrestre**
+:::
+
+**1. ¿Quién es el cargador?**
+El laboratorio que entrega los medicamentos para su traslado. Es quien contrata o encarga el envío y debe proporcionar la información necesaria sobre la mercadería, incluidas las exigencias de conservación.
+
+**2. ¿Quién es el transportista?**
+La empresa que se obliga a trasladar y entregar las cajas en destino. Su prestación no consiste solo en conducir el camión: también comprende la custodia y conservación de la carga durante el trayecto.
+
+**3. ¿Quién es el destinatario?**
+La persona o empresa designada para recibir los medicamentos en Rosario. Su intervención es importante para verificar el estado de la carga y documentar los problemas observados al momento de la entrega.
+
+**4. ¿Para qué sirve el remito firmado?**
+Sirve como prueba de la entrega de 300 cajas al transportista y de las condiciones informadas para el viaje. No demuestra por sí solo todas las características internas de la mercadería, pero ayuda a comparar lo recibido al inicio y lo entregado al final.
+
+**5. ¿Qué obligación asumió la transportista respecto de la temperatura?**
+Debía respetar la condición de refrigeración comunicada al recibir la carga. Si el equipo de frío se apagó durante el trayecto y ello causó el deterioro, existe un incumplimiento relevante de su deber de conservación.
+
+# Caso 11 · Respuestas 6 a 10
+
+::: {.solucion}
+**Medicamentos dañados durante el transporte terrestre**
+:::
+
+**6. ¿Qué diferencia hay entre faltante y avería?**
+El faltante es la mercadería que no se entrega: aquí, 12 cajas. La avería es el deterioro de bienes que sí llegan: aquí, 40 cajas afectadas por la temperatura. Son perjuicios diferentes y deben acreditarse y valorarse por separado.
+
+**7. ¿Qué importancia tiene que el chofer no haya formulado reservas?**
+Su firma sin observaciones refuerza la prueba de que recibió la cantidad indicada y de que no señaló problemas aparentes. No impide discutir hechos que no pudo comprobar, pero dificulta alegar posteriormente defectos visibles no documentados.
+
+**8. ¿La recepción con reservas impide reclamar?**
+No. Al contrario, dejar constancia de faltantes y daños al recibir facilita el reclamo. La entrega material de las cajas no significa que el destinatario haya renunciado a reclamar por las que faltan o por las que llegaron deterioradas.
+
+**9. ¿Qué debe probarse para calcular la indemnización?**
+La cantidad y el valor de las cajas faltantes, el deterioro real de las 40 cajas afectadas y la relación entre ese daño y el transporte. No corresponde cobrar el valor de toda la carga si solo una parte se perdió o dañó.
+
+**10. ¿La transportista queda liberada porque el destinatario recibió las cajas?**
+No. La recepción no borra un incumplimiento anterior. Para excluir o reducir su responsabilidad, la transportista tendría que acreditar una causa jurídicamente relevante, no limitarse a señalar que el destinatario aceptó físicamente la mercadería.
+
+# Caso 16 · El buque, el armador y la hipoteca
+
+::: {.norma}
+**Eje:** Marítimo · Ley 17.285 y convenios aplicables
+:::
+
+::: {.caso}
+**HECHOS.** Una sociedad es propietaria de un buque de carga y lo entrega a otra empresa para que lo explote comercialmente por su cuenta. Un banco tiene una hipoteca naval registrada sobre el buque. Durante una maniobra, el capitán ordena un desvío para evitar una tormenta. Un acreedor comercial sostiene que puede cobrar antes que el banco porque su factura es anterior.
+:::
+
+**Consigna:** respondé las diez preguntas antes de consultar las soluciones.
+
+# Caso 16 · Preguntas 1 a 5
+
+::: {.regla}
+**El buque, el armador y la hipoteca**
+:::
+
+**1.** ¿Qué norma especial gobierna la navegación por agua?
+
+**2.** ¿Qué es un buque?
+
+**3.** ¿Quién es el propietario?
+
+**4.** ¿Quién es el armador?
+
+**5.** ¿Qué función cumple la matrícula?
+
+# Caso 16 · Preguntas 6 a 10
+
+::: {.regla}
+**El buque, el armador y la hipoteca**
+:::
+
+**6.** ¿Qué es la hipoteca naval?
+
+**7.** ¿El crédito más antiguo siempre cobra primero?
+
+**8.** ¿Qué función tiene el capitán?
+
+**9.** ¿Fue necesariamente ilícito el desvío?
+
+**10.** ¿Por qué no corresponde demandar indistintamente a todos?
+
+# Caso 16 · Respuestas 1 a 5
+
+::: {.solucion}
+**El buque, el armador y la hipoteca**
+:::
+
+**1. ¿Qué norma especial gobierna la navegación por agua?**
+La Ley 20.094. El derecho común cumple un papel subsidiario, pero primero debe identificarse el régimen de navegación.
+
+**2. ¿Qué es un buque?**
+Una construcción flotante destinada a navegar, según la distinción legal. No todo objeto que flota es jurídicamente un buque.
+
+**3. ¿Quién es el propietario?**
+La sociedad titular del dominio. Su calidad de dueña no significa necesariamente que explote comercialmente el buque.
+
+**4. ¿Quién es el armador?**
+La empresa que organiza la explotación del buque por su cuenta y riesgo. Puede ser distinta del propietario.
+
+**5. ¿Qué función cumple la matrícula?**
+Individualiza jurídicamente al buque y se relaciona con su nacionalidad y registración. La posesión material no sustituye las formalidades registrales.
+
+# Caso 16 · Respuestas 6 a 10
+
+::: {.solucion}
+**El buque, el armador y la hipoteca**
+:::
+
+**6. ¿Qué es la hipoteca naval?**
+Una garantía real sobre el buque para asegurar un crédito, sometida a requisitos legales y publicidad registral. No convierte al banco en armador.
+
+**7. ¿El crédito más antiguo siempre cobra primero?**
+No. Debe determinarse si existen privilegios marítimos y cuál es su orden legal frente a la hipoteca y los créditos comunes.
+
+**8. ¿Qué función tiene el capitán?**
+Dirige la navegación y ejerce atribuciones técnicas, de seguridad y representación dentro de los límites legales. No se confunde con propietario ni armador.
+
+**9. ¿Fue necesariamente ilícito el desvío?**
+No. Una decisión adoptada para proteger buque, carga y tripulación se evalúa según el peligro, las facultades del capitán y las exigencias de seguridad.
+
+**10. ¿Por qué no corresponde demandar indistintamente a todos?**
+Porque propiedad, explotación, mando y garantía crediticia son posiciones distintas. Cada reclamo requiere identificar el deber incumplido y su sujeto responsable.
+
+# Caso 21 · Fletamento, conocimiento y fruta refrigerada
+
+::: {.norma}
+**Eje:** Marítimo · Ley 17.285 y convenios aplicables
+:::
+
+::: {.caso}
+**HECHOS.** Una exportadora contrata un buque para transportar 400 pallets de fruta refrigerada desde Rosario hasta Rotterdam. El acuerdo prevé un viaje determinado y temperatura controlada. El conocimiento de embarque deja constancia de que el contenedor fue recibido sellado. Al arribo, la fruta está deteriorada y se comprueba una falla del sistema de frío durante la travesía. La carga del buque se demoró dos días.
+:::
+
+**Consigna:** respondé las diez preguntas antes de consultar las soluciones.
+
+# Caso 21 · Preguntas 1 a 5
+
+::: {.regla}
+**Fletamento, conocimiento y fruta refrigerada**
+:::
+
+**1.** ¿Qué tipo de contratación se aproxima a los hechos?
+
+**2.** ¿Qué diferencia hay con el fletamento por tiempo?
+
+**3.** ¿Qué es el conocimiento de embarque?
+
+**4.** ¿Qué prueba el sello del contenedor?
+
+**5.** ¿La refrigeración integra la prestación?
+
+# Caso 21 · Preguntas 6 a 10
+
+::: {.regla}
+**Fletamento, conocimiento y fruta refrigerada**
+:::
+
+**6.** ¿Qué hecho causó la avería?
+
+**7.** ¿La exportadora cobra automáticamente el valor de toda la fruta?
+
+**8.** ¿Qué son los tiempos de plancha?
+
+**9.** ¿Qué son las sobreestadías?
+
+**10.** ¿Qué documentación sería central?
+
+# Caso 21 · Respuestas 1 a 5
+
+::: {.solucion}
+**Fletamento, conocimiento y fruta refrigerada**
+:::
+
+**1. ¿Qué tipo de contratación se aproxima a los hechos?**
+Un fletamento vinculado a un viaje determinado, según las condiciones acordadas. Debe distinguirse de disponer comercialmente de un buque por un período.
+
+**2. ¿Qué diferencia hay con el fletamento por tiempo?**
+En el fletamento por tiempo se contrata capacidad durante un plazo; en el de viaje, la prestación se refiere a uno o más viajes concretos. Cambian los aspectos relevantes de la organización.
+
+**3. ¿Qué es el conocimiento de embarque?**
+Un documento que acredita recepción o embarque y cumple funciones probatorias; según su clase, también puede permitir circulación jurídica de la mercadería.
+
+**4. ¿Qué prueba el sello del contenedor?**
+Su estado exterior y cierre al recibirlo. No implica necesariamente que el transportador haya contado o revisado cada pallet dentro del contenedor.
+
+**5. ¿La refrigeración integra la prestación?**
+Sí, si fue pactada como condición de conservación. La custodia de fruta perecedera incluye respetar las condiciones de temperatura asumidas.
+
+# Caso 21 · Respuestas 6 a 10
+
+::: {.solucion}
+**Fletamento, conocimiento y fruta refrigerada**
+:::
+
+**6. ¿Qué hecho causó la avería?**
+Según el supuesto, una falla de frío durante la travesía. Debe acreditarse técnicamente el deterioro y su relación con esa falla.
+
+**7. ¿La exportadora cobra automáticamente el valor de toda la fruta?**
+No. Debe demostrar el daño real, la cantidad afectada y su valor, además de considerar el régimen de responsabilidad y las defensas aplicables.
+
+**8. ¿Qué son los tiempos de plancha?**
+Los períodos pactados o aplicables para carga y descarga. Su cómputo permite saber si hubo demoras con consecuencias económicas.
+
+**9. ¿Qué son las sobreestadías?**
+Consecuencias económicas por exceder el tiempo de carga o descarga previsto, cuando proceden según las cláusulas y hechos. No se calculan solo por contar días.
+
+**10. ¿Qué documentación sería central?**
+Contrato o póliza de fletamento, conocimiento, registros de temperatura, reservas de entrega, pericia de la fruta y constancias de tiempos portuarios.
+
+# Caso 26 · Dos buques chocan en el canal
+
+::: {.norma}
+**Eje:** Marítimo · Ley 17.285 y convenios aplicables
+:::
+
+::: {.caso}
+**HECHOS.** Dos buques de carga colisionan en un canal de acceso. Uno circulaba a velocidad excesiva y el otro invadió el sector de navegación contrario. Se dañan ambos cascos y parte de la carga. Una empresa de remolque había asistido a uno de los buques durante una maniobra previa, pero no estaba remolcándolo cuando ocurrió el choque.
+:::
+
+**Consigna:** respondé las diez preguntas antes de consultar las soluciones.
+
+# Caso 26 · Preguntas 1 a 5
+
+::: {.regla}
+**Dos buques chocan en el canal**
+:::
+
+**1.** ¿Qué es un abordaje marítimo?
+
+**2.** ¿Qué ley corresponde examinar?
+
+**3.** ¿La colisión prueba por sí sola culpa de ambos?
+
+**4.** ¿Qué relevancia tiene la velocidad excesiva?
+
+**5.** ¿Qué relevancia tiene invadir el canal contrario?
+
+# Caso 26 · Preguntas 6 a 10
+
+::: {.regla}
+**Dos buques chocan en el canal**
+:::
+
+**6.** ¿Qué es culpa concurrente?
+
+**7.** ¿Qué daños deben distinguirse?
+
+**8.** ¿El remolcador responde necesariamente?
+
+**9.** ¿Qué prueba sería útil?
+
+**10.** ¿Qué diferencia hay entre abordaje y avería gruesa?
+
+# Caso 26 · Respuestas 1 a 5
+
+::: {.solucion}
+**Dos buques chocan en el canal**
+:::
+
+**1. ¿Qué es un abordaje marítimo?**
+La colisión entre buques, sometida a reglas especiales de responsabilidad. No debe confundirse con cualquier daño sufrido por un buque.
+
+**2. ¿Qué ley corresponde examinar?**
+La Ley 20.094 y las reglas de navegación pertinentes. La atribución no se resuelve únicamente con las normas generales de daños del CCyC.
+
+**3. ¿La colisión prueba por sí sola culpa de ambos?**
+No. Deben reconstruirse maniobras, condiciones del canal, velocidades y relación causal entre conductas y choque.
+
+**4. ¿Qué relevancia tiene la velocidad excesiva?**
+Puede constituir una conducta antijurídica causalmente relevante. Hay que demostrar que contribuyó al abordaje y en qué medida.
+
+**5. ¿Qué relevancia tiene invadir el canal contrario?**
+También puede contribuir al choque. Si ambas conductas fueron causales, corresponde estudiar la distribución de responsabilidad según el régimen especial.
+
+# Caso 26 · Respuestas 6 a 10
+
+::: {.solucion}
+**Dos buques chocan en el canal**
+:::
+
+**6. ¿Qué es culpa concurrente?**
+La intervención causal de conductas reprochables de ambos buques. No significa repartir siempre los daños en mitades iguales.
+
+**7. ¿Qué daños deben distinguirse?**
+Daños de los cascos, daños a las mercaderías y eventuales daños a terceros. Cada perjuicio requiere prueba y fundamento de reclamación.
+
+**8. ¿El remolcador responde necesariamente?**
+No. Su responsabilidad depende de la función asumida, de su participación en la maniobra y del nexo causal. La asistencia anterior no basta para atribuirle el choque.
+
+**9. ¿Qué prueba sería útil?**
+Registros de navegación, comunicaciones, trazas, pericias náuticas, testimonios y documentación de maniobras. Permiten reconstruir cómo ocurrió el abordaje.
+
+**10. ¿Qué diferencia hay entre abordaje y avería gruesa?**
+El abordaje es una colisión; la avería gruesa supone un sacrificio o gasto extraordinario deliberado y razonable para la seguridad común. Son instituciones diferentes.
+
+# Caso 31 · Sacrificio de carga y salvamento
+
+::: {.norma}
+**Eje:** Marítimo · Ley 17.285 y convenios aplicables
+:::
+
+::: {.caso}
+**HECHOS.** Durante un temporal grave, un buque queda en peligro de hundimiento. El capitán ordena arrojar al mar contenedores por un valor de $2 millones para estabilizarlo. La maniobra permite salvar el buque y otras mercaderías. Más tarde un remolcador auxilia al buque y lo lleva a puerto seguro. El propietario de la carga sacrificada pretende que solo él no soporte la pérdida.
+:::
+
+**Consigna:** respondé las diez preguntas antes de consultar las soluciones.
+
+# Caso 31 · Preguntas 1 a 5
+
+::: {.regla}
+**Sacrificio de carga y salvamento**
+:::
+
+**1.** ¿Qué es la avería gruesa?
+
+**2.** ¿Arrojar carga es siempre avería gruesa?
+
+**3.** ¿Qué interés protegió la decisión?
+
+**4.** ¿El dueño de la carga arrojada soporta necesariamente todo?
+
+**5.** ¿Se divide el valor sacrificado en partes iguales?
+
+# Caso 31 · Preguntas 6 a 10
+
+::: {.regla}
+**Sacrificio de carga y salvamento**
+:::
+
+**6.** ¿Qué papel cumple el capitán?
+
+**7.** ¿Qué es asistencia y salvamento?
+
+**8.** ¿El remolcador cobra necesariamente un flete?
+
+**9.** ¿Qué se debe probar para la avería gruesa?
+
+**10.** ¿Qué distingue avería particular de gruesa?
+
+# Caso 31 · Respuestas 1 a 5
+
+::: {.solucion}
+**Sacrificio de carga y salvamento**
+:::
+
+**1. ¿Qué es la avería gruesa?**
+Un sacrificio o gasto extraordinario, intencional y razonable, efectuado para preservar la seguridad común de la expedición marítima.
+
+**2. ¿Arrojar carga es siempre avería gruesa?**
+No. Deben concurrir peligro común, razonabilidad y finalidad de salvación. Una pérdida accidental no se convierte por ese solo hecho en avería gruesa.
+
+**3. ¿Qué interés protegió la decisión?**
+La seguridad conjunta del buque y de las cargas expuestas al peligro. Esa comunidad de intereses fundamenta el mecanismo de contribución.
+
+**4. ¿El dueño de la carga arrojada soporta necesariamente todo?**
+No. Si se configuran los presupuestos de avería gruesa, procede estudiar la contribución de los intereses salvados conforme al ajuste aplicable.
+
+**5. ¿Se divide el valor sacrificado en partes iguales?**
+No. La contribución requiere una liquidación técnica según los valores e intereses participantes; no se reparte automáticamente por número de propietarios.
+
+# Caso 31 · Respuestas 6 a 10
+
+::: {.solucion}
+**Sacrificio de carga y salvamento**
+:::
+
+**6. ¿Qué papel cumple el capitán?**
+Adopta decisiones de seguridad en la emergencia dentro de sus facultades. Su orden debe valorarse por la situación concreta y la razonabilidad del sacrificio.
+
+**7. ¿Qué es asistencia y salvamento?**
+La ayuda prestada a buques o bienes en peligro, sometida a reglas propias. No es idéntica a contratar un traslado ordinario.
+
+**8. ¿El remolcador cobra necesariamente un flete?**
+No. La remuneración de una operación de salvamento tiene fundamento distinto del precio del transporte convencional y depende del régimen aplicable.
+
+**9. ¿Qué se debe probar para la avería gruesa?**
+El peligro, la decisión deliberada, su razonabilidad, el sacrificio y los bienes o intereses salvados. Los registros del capitán y la pericia son importantes.
+
+**10. ¿Qué distingue avería particular de gruesa?**
+La avería particular recae sobre un interés sin distribución común por salvación; la gruesa admite contribución por sacrificio extraordinario en beneficio colectivo.
+
+# Caso 36 · Vuelo interno cancelado y equipaje extraviado
+
+::: {.norma}
+**Eje:** Aeronáutico · Ley 17.285 y convenios aplicables
+:::
+
+::: {.caso}
+**HECHOS.** Una pasajera compra un vuelo Buenos Aires–Bariloche. La aerolínea cancela la salida por una falla técnica y la reubica al día siguiente. Cuando finalmente llega, su valija despachada no aparece. La pasajera conserva la etiqueta de equipaje, los comprobantes de gastos esenciales y los mensajes de la compañía.
+:::
+
+**Consigna:** respondé las diez preguntas antes de consultar las soluciones.
+
+# Caso 36 · Preguntas 1 a 5
+
+::: {.regla}
+**Vuelo interno cancelado y equipaje extraviado**
+:::
+
+**1.** ¿Qué contrato existe?
+
+**2.** ¿Es un vuelo interno o internacional?
+
+**3.** ¿Qué norma especial debe consultarse?
+
+**4.** ¿Qué cuestiones genera la cancelación?
+
+**5.** ¿Una falla técnica elimina toda responsabilidad?
+
+# Caso 36 · Preguntas 6 a 10
+
+::: {.regla}
+**Vuelo interno cancelado y equipaje extraviado**
+:::
+
+**6.** ¿Qué es equipaje despachado?
+
+**7.** ¿Para qué sirve la etiqueta de equipaje?
+
+**8.** ¿Los gastos esenciales se indemnizan automáticamente?
+
+**9.** ¿Qué debería hacer la pasajera al llegar?
+
+**10.** ¿Por qué conviene separar cancelación y equipaje?
+
+# Caso 36 · Respuestas 1 a 5
+
+::: {.solucion}
+**Vuelo interno cancelado y equipaje extraviado**
+:::
+
+**1. ¿Qué contrato existe?**
+Un contrato de transporte aéreo de pasajeros. La aerolínea asumió el traslado en las condiciones pactadas y bajo el régimen especial aplicable.
+
+**2. ¿Es un vuelo interno o internacional?**
+Interno: origen y destino se encuentran en Argentina. Esta calificación importa para identificar el régimen jurídico de responsabilidad.
+
+**3. ¿Qué norma especial debe consultarse?**
+El Código Aeronáutico, Ley 17.285, en su texto vigente, junto con las reglas reglamentarias pertinentes. No se aplica Montreal 1999 automáticamente.
+
+**4. ¿Qué cuestiones genera la cancelación?**
+Deben distinguirse reubicación o reembolso, deberes de asistencia y posibles daños por incumplimiento. No todos tienen los mismos presupuestos.
+
+**5. ¿Una falla técnica elimina toda responsabilidad?**
+No necesariamente. Es preciso determinar su naturaleza, las medidas adoptadas por la aerolínea y las reglas especiales aplicables al retraso o cancelación.
+
+# Caso 36 · Respuestas 6 a 10
+
+::: {.solucion}
+**Vuelo interno cancelado y equipaje extraviado**
+:::
+
+**6. ¿Qué es equipaje despachado?**
+El entregado a la aerolínea para su transporte y custodia, normalmente documentado con etiqueta. Su pérdida activa reglas especiales de reclamación.
+
+**7. ¿Para qué sirve la etiqueta de equipaje?**
+Acredita que la valija fue entregada para ese vuelo y facilita identificarla. Es un documento central junto con la denuncia de extravío.
+
+**8. ¿Los gastos esenciales se indemnizan automáticamente?**
+No. Deben justificarse y vincularse causalmente con el incumplimiento, considerando las reglas y límites del régimen aplicable.
+
+**9. ¿Qué debería hacer la pasajera al llegar?**
+Dejar constancia inmediata del extravío ante la aerolínea y conservar comprobantes y comunicaciones. Eso facilita acreditar los hechos y el perjuicio.
+
+**10. ¿Por qué conviene separar cancelación y equipaje?**
+Porque son incumplimientos diferentes: uno afecta el traslado oportuno y otro la custodia de bienes. Sus daños y pruebas no deben confundirse.
+
+# Caso 41 · Hipoteca de aeronave e hipoteca de motor
+
+::: {.norma}
+**Eje:** Derecho aeronáutico · Hipotecas y privilegios · Código Aeronáutico, arts. 52, 53 y 57
+:::
+
+::: {.caso}
+**HECHOS.** AeroSur S.A. compra una aeronave para prestar servicios comerciales. El Banco del Plata le presta USD 900.000 y constituye una **hipoteca sobre la aeronave**, debidamente instrumentada e inscripta. Meses después, la empresa adquiere un **motor aeronáutico individualizado e inscripto** y obtiene otro préstamo de USD 250.000, garantizado con una **hipoteca específica sobre ese motor** a favor de una segunda entidad financiera. Por dificultades económicas, AeroSur deja de pagar ambos créditos. El motor se encuentra instalado en la aeronave cuando los acreedores pretenden ejecutar sus garantías. Además, aparecen créditos que invocan privilegios aeronáuticos.
+:::
+
+**Consigna:** respondé las diez preguntas antes de consultar las soluciones.
+
+# Caso 41 · Preguntas 1 a 5
+
+::: {.regla}
+**Hipoteca de aeronave e hipoteca de motor**
+:::
+
+**1.** ¿Qué es una hipoteca aeronáutica?
+
+**2.** ¿Puede hipotecarse una aeronave?
+
+**3.** ¿Puede hipotecarse un motor por separado?
+
+**4.** ¿Por qué importa que el motor esté individualizado e inscripto?
+
+**5.** ¿Qué requisitos formales y registrales deben cumplir las hipotecas?
+
+# Caso 41 · Preguntas 6 a 10
+
+::: {.regla}
+**Hipoteca de aeronave e hipoteca de motor**
+:::
+
+**6.** ¿La hipoteca del avión y la del motor son la misma garantía?
+
+**7.** ¿Instalar el motor en el avión elimina su hipoteca independiente?
+
+**8.** ¿Qué puede reclamar cada banco ante el incumplimiento?
+
+**9.** ¿La hipoteca prevalece siempre sobre los privilegios aeronáuticos?
+
+**10.** ¿Qué debe comprobarse antes de distribuir el dinero de una ejecución?
+
+# Caso 41 · Respuestas 1 a 5
+
+::: {.solucion}
+**Hipoteca de aeronave e hipoteca de motor**
+:::
+
+**1. ¿Qué es una hipoteca aeronáutica?**
+Es una garantía real que afecta un bien aeronáutico al pago de una deuda sin que el deudor tenga que entregar su posesión al acreedor. Si la obligación no se cumple, el acreedor hipotecario puede perseguir el bien gravado y cobrar con la preferencia que le reconozca la ley.
+
+**2. ¿Puede hipotecarse una aeronave?**
+Sí. El artículo 52 del Código Aeronáutico admite la hipoteca de aeronaves y también contempla otros objetos, como cuotas indivisas y aeronaves en construcción. En el caso, la garantía del primer banco recae sobre el avión identificado en la documentación registral.
+
+**3. ¿Puede hipotecarse un motor por separado?**
+Sí. El mismo artículo 52 contempla la hipoteca de **motores inscriptos**. Por eso el segundo banco puede recibir una garantía sobre un motor determinado, aunque ese motor vaya a utilizarse en una aeronave de la empresa.
+
+**4. ¿Por qué importa que el motor esté individualizado e inscripto?**
+Porque el objeto de la garantía debe poder identificarse con precisión. La inscripción del motor es un presupuesto relevante para su hipoteca autónoma y permite dar publicidad a la afectación frente a terceros. No alcanza con describir genéricamente «un motor del avión».
+
+**5. ¿Qué requisitos formales y registrales deben cumplir las hipotecas?**
+El artículo 53 exige su constitución mediante instrumento público o privado debidamente autenticado y la inscripción registral correspondiente. Esos recaudos permiten acreditar la garantía y determinar su oponibilidad y rango según las reglas legales.
+
+# Caso 41 · Respuestas 6 a 10
+
+::: {.solucion}
+**Hipoteca de aeronave e hipoteca de motor**
+:::
+
+**6. ¿La hipoteca del avión y la del motor son la misma garantía?**
+No. Son garantías constituidas por créditos diferentes y sobre objetos identificados de manera distinta: una sobre la aeronave y otra sobre el motor inscripto. Para establecer su alcance concreto hay que leer cada instrumento y examinar las inscripciones respectivas.
+
+**7. ¿Instalar el motor en el avión elimina su hipoteca independiente?**
+No debe suponerse que la instalación extingue automáticamente la hipoteca del motor. La garantía específica y su publicidad registral deben examinarse conforme al régimen aeronáutico. También hay que estudiar cómo se coordinan los derechos de ambos acreedores sobre los bienes afectados.
+
+**8. ¿Qué puede reclamar cada banco ante el incumplimiento?**
+Cada banco puede exigir el pago de su crédito y, si se cumplen los requisitos legales, promover la ejecución de la garantía que recibió. El primero invoca la hipoteca de la aeronave; el segundo, la del motor. Ninguno adquiere por ese solo hecho la propiedad del bien hipotecado.
+
+**9. ¿La hipoteca prevalece siempre sobre los privilegios aeronáuticos?**
+No. El artículo 57 del Código Aeronáutico establece la relación de la hipoteca con los créditos privilegiados aeronáuticos. Por eso un acreedor hipotecario no puede afirmar que cobrará primero sin identificar los privilegios legales existentes y su prelación.
+
+**10. ¿Qué debe comprobarse antes de distribuir el dinero de una ejecución?**
+Hay que identificar qué bien se ejecuta, qué hipotecas están inscriptas, sus fechas y alcances, qué créditos privilegiados concurren y cuáles son los gastos de la ejecución. Recién entonces puede determinarse el orden de cobro y el eventual saldo que corresponda a cada acreedor.
+
+# Caso 46 · Aeronave arrendada y daño en superficie
+
+::: {.norma}
+**Eje:** Aeronáutico · Ley 17.285 y convenios aplicables
+:::
+
+::: {.caso}
+**HECHOS.** Una empresa de leasing es propietaria de un avión matriculado en el extranjero; una aerolínea lo explota comercialmente. Durante el aterrizaje se desprende una pieza y daña un automóvil estacionado fuera del aeropuerto. En otra operación, la compañía pretende vender pasajes entre dos ciudades de un Estado extranjero sin autorización específica.
+:::
+
+**Consigna:** respondé las diez preguntas antes de consultar las soluciones.
+
+# Caso 46 · Preguntas 1 a 5
+
+::: {.regla}
+**Aeronave arrendada y daño en superficie**
+:::
+
+**1.** ¿Quién es el propietario de la aeronave?
+
+**2.** ¿Quién es el explotador?
+
+**3.** ¿Qué indica la matrícula?
+
+**4.** ¿El dueño responde automáticamente por todo hecho operativo?
+
+**5.** ¿Quién es el damnificado en superficie?
+
+# Caso 46 · Preguntas 6 a 10
+
+::: {.regla}
+**Aeronave arrendada y daño en superficie**
+:::
+
+**6.** ¿Se aplica al automovilista el régimen de equipaje?
+
+**7.** ¿Qué rol cumple la autoridad aeronáutica?
+
+**8.** ¿Qué es la soberanía sobre el espacio aéreo?
+
+**9.** ¿Qué significa cabotaje aéreo?
+
+**10.** ¿Qué debe verificar la aerolínea antes de vender esos pasajes?
+
+# Caso 46 · Respuestas 1 a 5
+
+::: {.solucion}
+**Aeronave arrendada y daño en superficie**
+:::
+
+**1. ¿Quién es el propietario de la aeronave?**
+La empresa de leasing titular del avión. Ser propietaria no significa necesariamente dirigir su operación comercial.
+
+**2. ¿Quién es el explotador?**
+La aerolínea que organiza el uso de la aeronave por su cuenta. Su posición es distinta de la del dueño financiero.
+
+**3. ¿Qué indica la matrícula?**
+La inscripción vincula la aeronave con un Estado y su publicidad registral. No demuestra por sí sola quién la explota.
+
+**4. ¿El dueño responde automáticamente por todo hecho operativo?**
+No por su sola condición de propietario financiero. Debe identificarse el régimen especial y la posición jurídica de cada sujeto.
+
+**5. ¿Quién es el damnificado en superficie?**
+El dueño del automóvil afectado por la pieza desprendida. No es pasajero ni cargador, de modo que su reclamación tiene tratamiento extracontractual especial.
+
+# Caso 46 · Respuestas 6 a 10
+
+::: {.solucion}
+**Aeronave arrendada y daño en superficie**
+:::
+
+**6. ¿Se aplica al automovilista el régimen de equipaje?**
+No. Las normas de equipaje se refieren al transporte de bienes del pasajero; el daño a un vehículo en tierra pertenece a otra categoría jurídica.
+
+**7. ¿Qué rol cumple la autoridad aeronáutica?**
+Regula y fiscaliza condiciones de seguridad operacional y habilitaciones, según el régimen vigente. La demanda comercial no sustituye los requisitos técnicos.
+
+**8. ¿Qué es la soberanía sobre el espacio aéreo?**
+El poder estatal sobre el espacio aéreo de su territorio, que condiciona la circulación internacional conforme a tratados y autorizaciones.
+
+**9. ¿Qué significa cabotaje aéreo?**
+Transporte comercial entre puntos de un mismo Estado realizado por una empresa extranjera. No queda autorizado automáticamente por poder operar vuelos internacionales.
+
+**10. ¿Qué debe verificar la aerolínea antes de vender esos pasajes?**
+Los derechos de tráfico concedidos, tratados y autorizaciones vigentes. La existencia de una ruta o escala técnica no implica permiso para realizar cabotaje.
+
+# Cierre · Método para resolver casos
+
+::: {.regla}
+**Orden de análisis:** (1) identificar medio y tipo de contrato; (2) distinguir partes y obligaciones; (3) seleccionar norma especial; (4) determinar hecho, daño y causalidad; (5) examinar prueba, defensas y límites.
+:::
+
+**Lectura:** repasá las diapositivas de la presentación original que correspondan a cada supuesto.

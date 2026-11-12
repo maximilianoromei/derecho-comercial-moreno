@@ -63,6 +63,10 @@ subtitle: "Universidad Nacional de Moreno"
 
 [🎓 Descarga Presentación](transporte.pdf){.btn .btn-primary target="_blank"} 
 
+[🎓 Guía de Lectura con casos - Transporte](guia_lectura_transporte.html){.btn .btn-primary target="_blank"}
+
+[🎓 Descarga Guía de Lectura](guia_lectura_transporte.pdf){.btn .btn-primary target="_blank"} 
+
 ## Clase 8 - Seguros
 
 [🎓 Presentación Seguros](seguros_80_diapositivas.html){.btn .btn-primary target="_blank"}
