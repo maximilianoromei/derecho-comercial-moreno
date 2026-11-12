@@ -69,6 +69,10 @@ subtitle: "Universidad Nacional de Moreno"
 
 [🎓 Descarga Presentación](seguros_80_diapositivas.pdf){.btn .btn-primary target="_blank"} 
 
+[🎓 Guía de Lectura con casos - Seguros](guia_lectura_seguros_5_casos.html){.btn .btn-primary target="_blank"}
+
+[🎓 Descarga Guía de Lectura](seguros.pdf){.btn .btn-primary target="_blank"} 
+
 
 
 

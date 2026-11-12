@@ -1,0 +1,495 @@
+---
+title: "Guía de lectura · Contrato de seguro"
+subtitle: "Cinco casos prácticos · 50 preguntas y respuestas · Ley 17.418"
+author: "Derecho Comercial"
+lang: es
+format:
+  revealjs:
+    theme: default
+    slide-level: 1
+    slide-number: true
+    scrollable: true
+    transition: slide
+    center: false
+    width: 1600
+    height: 900
+    margin: 0.07
+    css: seguros_estilo.css
+    footer: "Derecho Comercial · Guía de lectura · Ley 17.418"
+---
+
+# Guía de lectura · Contrato de seguro
+
+::: {.regla}
+**Objetivo.** Repasar los conceptos centrales de la Ley 17.418 mediante cinco casos. Leer los hechos, responder primero sin mirar la solución y luego contrastar las respuestas.
+:::
+
+**Modalidad:** estudio individual · carpeta abierta · respuestas breves.
+
+**Bibliografía de referencia:** presentación de 80 diapositivas aportada para la clase; Waldo Sobrino, *Seguros y el Código Civil y Comercial* (2016), como lectura complementaria.
+
+
+# Caso 1 · La panadería y la póliza de incendio
+
+::: {.norma}
+**Normativa de referencia:** Ley 17.418, arts. 1, 4–6, 11–12 y 60–61
+:::
+
+::: {.ejemplo}
+**SUPUESTO.** Lucía tiene una panadería. El 1 de marzo solicita un seguro contra incendio por $30 millones. El 3 de marzo la compañía acepta por correo una cobertura que comienza el 4. La póliza llega el 12. Al contratar, Lucía había declarado que el local solo tenía hornos eléctricos, aunque sabía que también guardaba bidones de combustible. El 20 de marzo se produce un incendio que daña maquinaria por $8 millones. La aseguradora conoce la declaración falsa el 25 de marzo.
+:::
+
+**Consigna:** contestá las diez preguntas antes de avanzar a las respuestas.
+
+# Caso 1 · Preguntas 1 a 5
+
+::: {.regla}
+**La panadería y la póliza de incendio**
+:::
+
+**1.** ¿Qué es el contrato de seguro?
+
+**2.** ¿Quién es la aseguradora?
+
+**3.** ¿Quién es la tomadora y asegurada?
+
+**4.** ¿El contrato requiere que se entregue la póliza para existir?
+
+**5.** ¿Desde cuándo comenzó la cobertura pactada?
+
+# Caso 1 · Preguntas 6 a 10
+
+::: {.regla}
+**La panadería y la póliza de incendio**
+:::
+
+**6.** ¿Qué es el siniestro?
+
+**7.** ¿Qué es la suma asegurada?
+
+**8.** ¿Puede Lucía cobrar automáticamente $30 millones?
+
+**9.** ¿Cómo se llama ocultar un dato relevante al contratar?
+
+**10.** ¿La declaración falsa anula automáticamente el contrato?
+
+# Caso 1 · Respuestas 1 a 5
+
+::: {.ejemplo}
+**1. ¿Qué es el contrato de seguro?**
+Un contrato por el que el asegurador asume un riesgo a cambio de una prima.
+
+**2. ¿Quién es la aseguradora?**
+La compañía que aceptó cubrir el riesgo de incendio.
+
+**3. ¿Quién es la tomadora y asegurada?**
+Lucía, que contrató y tiene interés económico en la panadería.
+
+**4. ¿El contrato requiere que se entregue la póliza para existir?**
+No. Es consensual; la póliza documenta y prueba el acuerdo.
+
+**5. ¿Desde cuándo comenzó la cobertura pactada?**
+Desde el 4 de marzo, fecha acordada en la aceptación.
+
+:::
+
+# Caso 1 · Respuestas 6 a 10
+
+::: {.ejemplo}
+**6. ¿Qué es el siniestro?**
+El incendio ocurrido el 20 de marzo.
+
+**7. ¿Qué es la suma asegurada?**
+El límite de cobertura pactado: $30 millones.
+
+**8. ¿Puede Lucía cobrar automáticamente $30 millones?**
+No. En seguro de daños se indemniza el perjuicio cubierto, dentro del límite.
+
+**9. ¿Cómo se llama ocultar un dato relevante al contratar?**
+Reticencia o declaración falsa del riesgo (art. 5).
+
+**10. ¿La declaración falsa anula automáticamente el contrato?**
+No. Su relevancia debe acreditarse según el art. 5 y la aseguradora debe impugnar dentro del plazo legal desde que la conoce.
+
+:::
+
+# Caso 1 · Ideas para recordar
+
+::: {.doctrina}
+**Caso 1:** La panadería y la póliza de incendio. Las respuestas se basan en los hechos fijados en el supuesto. Una póliza con condiciones distintas o hechos diferentes puede modificar la solución.
+:::
+
+# Caso 2 · El taller: cuota impaga, cambio de actividad y denuncia
+
+::: {.norma}
+**Normativa de referencia:** Ley 17.418, arts. 27–32, 37–40, 46–47 y 56
+:::
+
+::: {.ejemplo}
+**SUPUESTO.** Un taller de bicicletas contrata seguro contra incendio. La cuota vence el 10 de junio y no se paga. El 12 de junio el dueño empieza a almacenar pinturas inflamables, actividad que no había declarado porque comenzó después de contratar. El 17 de junio se produce un incendio. La póliza contiene una cláusula válida de suspensión por falta de pago, aplicable desde antes del siniestro. El dueño paga la cuota el 22 de junio y denuncia el incendio el 24, aunque lo conocía desde el día 17.
+:::
+
+**Consigna:** contestá las diez preguntas antes de avanzar a las respuestas.
+
+# Caso 2 · Preguntas 1 a 5
+
+::: {.regla}
+**El taller: cuota impaga, cambio de actividad y denuncia**
+:::
+
+**1.** ¿Qué es la prima?
+
+**2.** ¿Qué obligación incumplió el dueño el 10 de junio?
+
+**3.** ¿Estaba vigente la cobertura el 17 de junio, según el caso?
+
+**4.** ¿Pagar el 22 de junio cubre retroactivamente el incendio del 17?
+
+**5.** ¿Cómo se llama el aumento posterior del riesgo?
+
+# Caso 2 · Preguntas 6 a 10
+
+::: {.regla}
+**El taller: cuota impaga, cambio de actividad y denuncia**
+:::
+
+**6.** ¿Es reticencia originaria haber comenzado a guardar pinturas el 12?
+
+**7.** ¿Qué debía hacer el asegurado ante la agravación relevante?
+
+**8.** ¿En qué fecha ocurrió el siniestro?
+
+**9.** ¿Cuál es el plazo general para denunciarlo?
+
+**10.** ¿La denuncia del 24 de junio fue tempestiva?
+
+# Caso 2 · Respuestas 1 a 5
+
+::: {.ejemplo}
+**1. ¿Qué es la prima?**
+El precio que se paga por la cobertura del seguro.
+
+**2. ¿Qué obligación incumplió el dueño el 10 de junio?**
+La de pagar la cuota en su vencimiento.
+
+**3. ¿Estaba vigente la cobertura el 17 de junio, según el caso?**
+No: la cláusula válida de suspensión ya era aplicable.
+
+**4. ¿Pagar el 22 de junio cubre retroactivamente el incendio del 17?**
+No. El pago posterior no cubre por sí solo un siniestro ocurrido durante la suspensión.
+
+**5. ¿Cómo se llama el aumento posterior del riesgo?**
+Agravación del riesgo.
+
+:::
+
+# Caso 2 · Respuestas 6 a 10
+
+::: {.ejemplo}
+**6. ¿Es reticencia originaria haber comenzado a guardar pinturas el 12?**
+No, porque el cambio ocurrió después de contratar.
+
+**7. ¿Qué debía hacer el asegurado ante la agravación relevante?**
+Comunicarla conforme a las reglas de la Ley de Seguros.
+
+**8. ¿En qué fecha ocurrió el siniestro?**
+El 17 de junio.
+
+**9. ¿Cuál es el plazo general para denunciarlo?**
+Tres días desde que se conoce, salvo plazo mayor o excepción legal.
+
+**10. ¿La denuncia del 24 de junio fue tempestiva?**
+No, en principio fue tardía; deben considerarse las excepciones del art. 47.
+
+:::
+
+# Caso 2 · Ideas para recordar
+
+::: {.doctrina}
+**Caso 2:** El taller: cuota impaga, cambio de actividad y denuncia. Las respuestas se basan en los hechos fijados en el supuesto. Una póliza con condiciones distintas o hechos diferentes puede modificar la solución.
+:::
+
+# Caso 3 · El depósito: incendio, infraseguro y franquicia
+
+::: {.norma}
+**Normativa de referencia:** Ley 17.418, arts. 46, 56, 60–65 y 85–89
+:::
+
+::: {.ejemplo}
+**SUPUESTO.** Una distribuidora tiene un depósito cuyo interés asegurable vale $100 millones. Lo asegura contra incendio por $60 millones, sin cobertura a primer riesgo. La póliza establece una franquicia fija deducible de $2 millones, aplicada después de la regla proporcional. Un incendio causa daños cubiertos por $20 millones. La empresa denuncia el hecho a tiempo y entrega toda la información complementaria solicitada el 1 de agosto. La aseguradora no se pronuncia durante los 30 días siguientes.
+:::
+
+**Consigna:** contestá las diez preguntas antes de avanzar a las respuestas.
+
+# Caso 3 · Preguntas 1 a 5
+
+::: {.regla}
+**El depósito: incendio, infraseguro y franquicia**
+:::
+
+**1.** ¿Qué riesgo contrató la distribuidora?
+
+**2.** ¿Qué es el interés asegurable?
+
+**3.** ¿Cuánto vale el interés asegurable?
+
+**4.** ¿Cuál es la suma asegurada?
+
+**5.** ¿Hay sobreseguro o infraseguro?
+
+# Caso 3 · Preguntas 6 a 10
+
+::: {.regla}
+**El depósito: incendio, infraseguro y franquicia**
+:::
+
+**6.** ¿Qué proporción del valor está asegurada?
+
+**7.** ¿Cuánto resulta antes de aplicar la franquicia?
+
+**8.** ¿Qué es la franquicia deducible?
+
+**9.** ¿Cuánto corresponde pagar según las condiciones del caso?
+
+**10.** ¿Qué efecto tiene el silencio del asegurador por 30 días desde la información complementaria completa?
+
+# Caso 3 · Respuestas 1 a 5
+
+::: {.ejemplo}
+**1. ¿Qué riesgo contrató la distribuidora?**
+El riesgo de incendio del depósito.
+
+**2. ¿Qué es el interés asegurable?**
+El interés económico lícito en que el daño no ocurra.
+
+**3. ¿Cuánto vale el interés asegurable?**
+$100 millones.
+
+**4. ¿Cuál es la suma asegurada?**
+$60 millones.
+
+**5. ¿Hay sobreseguro o infraseguro?**
+Infraseguro: la suma asegurada es menor que el valor asegurable.
+
+:::
+
+# Caso 3 · Respuestas 6 a 10
+
+::: {.ejemplo}
+**6. ¿Qué proporción del valor está asegurada?**
+El 60 % ($60 M / $100 M).
+
+**7. ¿Cuánto resulta antes de aplicar la franquicia?**
+$12 millones: $20 M × 60 %.
+
+**8. ¿Qué es la franquicia deducible?**
+La parte pactada que queda a cargo del asegurado.
+
+**9. ¿Cuánto corresponde pagar según las condiciones del caso?**
+$10 millones: $12 M menos $2 M de franquicia.
+
+**10. ¿Qué efecto tiene el silencio del asegurador por 30 días desde la información complementaria completa?**
+Importa aceptación del derecho del asegurado conforme al art. 56; no fija por sí solo cualquier monto reclamado.
+
+:::
+
+# Caso 3 · Ideas para recordar
+
+::: {.doctrina}
+**Caso 3:** El depósito: incendio, infraseguro y franquicia. Las respuestas se basan en los hechos fijados en el supuesto. Una póliza con condiciones distintas o hechos diferentes puede modificar la solución.
+:::
+
+# Caso 4 · El electricista y el seguro de responsabilidad civil
+
+::: {.norma}
+**Normativa de referencia:** Ley 17.418, arts. 109–118
+:::
+
+::: {.ejemplo}
+**SUPUESTO.** Martín es electricista y tiene un seguro de responsabilidad civil con límite de $20 millones. Durante una reparación provoca por negligencia un cortocircuito que daña la casa de una clienta por $12 millones. La clienta lo demanda y cita en garantía a la aseguradora. Martín, sin consultar a la compañía, firma un documento reconociendo una deuda de $18 millones. La póliza cubre la actividad realizada y no hay franquicia en el supuesto.
+:::
+
+**Consigna:** contestá las diez preguntas antes de avanzar a las respuestas.
+
+# Caso 4 · Preguntas 1 a 5
+
+::: {.regla}
+**El electricista y el seguro de responsabilidad civil**
+:::
+
+**1.** ¿Qué protege el seguro de responsabilidad civil?
+
+**2.** ¿Quién es el asegurado?
+
+**3.** ¿Quién es la tercera damnificada?
+
+**4.** ¿Qué hecho originó el daño?
+
+**5.** ¿Cuánto daño se acreditó en el caso?
+
+# Caso 4 · Preguntas 6 a 10
+
+::: {.regla}
+**El electricista y el seguro de responsabilidad civil**
+:::
+
+**6.** ¿La aseguradora debe pagar automáticamente el límite de $20 millones?
+
+**7.** ¿Qué significa citar en garantía?
+
+**8.** ¿Hasta dónde puede ejecutarse la sentencia contra la aseguradora?
+
+**9.** ¿El reconocimiento unilateral de $18 millones obliga automáticamente a la aseguradora?
+
+**10.** Si se acredita responsabilidad y cobertura por $12 millones, ¿cuál es la prestación básica esperable?
+
+# Caso 4 · Respuestas 1 a 5
+
+::: {.ejemplo}
+**1. ¿Qué protege el seguro de responsabilidad civil?**
+El patrimonio del asegurado frente a su responsabilidad cubierta ante terceros.
+
+**2. ¿Quién es el asegurado?**
+Martín, el electricista.
+
+**3. ¿Quién es la tercera damnificada?**
+La clienta cuya vivienda resultó dañada.
+
+**4. ¿Qué hecho originó el daño?**
+El cortocircuito provocado por la negligencia de Martín.
+
+**5. ¿Cuánto daño se acreditó en el caso?**
+$12 millones.
+
+:::
+
+# Caso 4 · Respuestas 6 a 10
+
+::: {.ejemplo}
+**6. ¿La aseguradora debe pagar automáticamente el límite de $20 millones?**
+No. El límite no reemplaza la cuantificación del daño cubierto.
+
+**7. ¿Qué significa citar en garantía?**
+Incorporar a la aseguradora al juicio según el art. 118.
+
+**8. ¿Hasta dónde puede ejecutarse la sentencia contra la aseguradora?**
+En la medida del seguro, conforme al art. 118.
+
+**9. ¿El reconocimiento unilateral de $18 millones obliga automáticamente a la aseguradora?**
+No. No sustituye la determinación de responsabilidad ni las condiciones de cobertura.
+
+**10. Si se acredita responsabilidad y cobertura por $12 millones, ¿cuál es la prestación básica esperable?**
+La cobertura de los $12 millones, sin perjuicio de gastos y reglas específicas aplicables.
+
+:::
+
+# Caso 4 · Ideas para recordar
+
+::: {.doctrina}
+**Caso 4:** El electricista y el seguro de responsabilidad civil. Las respuestas se basan en los hechos fijados en el supuesto. Una póliza con condiciones distintas o hechos diferentes puede modificar la solución.
+:::
+
+# Caso 5 · Seguro de vida colectivo y accidentes personales
+
+::: {.norma}
+**Normativa de referencia:** Ley 17.418, arts. 128 y ss., 143–156
+:::
+
+::: {.ejemplo}
+**SUPUESTO.** Una empresa contrata y paga un seguro de vida colectivo para sus empleados. Ana está incorporada como asegurada y designa beneficiaria a su hija. La póliza prevé un capital por fallecimiento de $40 millones. Ana fallece por una causa cubierta. La empresa sostiene que, por pagar las primas, debe recibir el capital. Por separado, Bruno tiene un seguro de accidentes personales que paga un capital por incapacidad permanente según el porcentaje previsto en la póliza; sufre una caída cubierta y queda con una incapacidad parcial.
+:::
+
+**Consigna:** contestá las diez preguntas antes de avanzar a las respuestas.
+
+# Caso 5 · Preguntas 1 a 5
+
+::: {.regla}
+**Seguro de vida colectivo y accidentes personales**
+:::
+
+**1.** ¿Qué tipo de seguro cubre el fallecimiento de Ana?
+
+**2.** ¿Quién es la tomadora del seguro colectivo?
+
+**3.** ¿Quién es la persona asegurada?
+
+**4.** ¿Quién es la beneficiaria designada?
+
+**5.** ¿Quién tiene derecho al capital por fallecimiento cubierto?
+
+# Caso 5 · Preguntas 6 a 10
+
+::: {.regla}
+**Seguro de vida colectivo y accidentes personales**
+:::
+
+**6.** ¿La empresa cobra el capital por haber pagado las primas?
+
+**7.** ¿Cuánto capital se pactó para el fallecimiento de Ana?
+
+**8.** ¿Hay que probar una pérdida patrimonial de $40 millones para cobrar ese capital?
+
+**9.** ¿Qué cubre el seguro de accidentes personales de Bruno?
+
+**10.** ¿Bruno cobra necesariamente todo el capital de incapacidad?
+
+# Caso 5 · Respuestas 1 a 5
+
+::: {.ejemplo}
+**1. ¿Qué tipo de seguro cubre el fallecimiento de Ana?**
+Un seguro de vida colectivo.
+
+**2. ¿Quién es la tomadora del seguro colectivo?**
+La empresa que celebra el contrato.
+
+**3. ¿Quién es la persona asegurada?**
+Ana, la empleada incorporada al grupo.
+
+**4. ¿Quién es la beneficiaria designada?**
+La hija de Ana.
+
+**5. ¿Quién tiene derecho al capital por fallecimiento cubierto?**
+La beneficiaria designada, conforme al contrato y la ley.
+
+:::
+
+# Caso 5 · Respuestas 6 a 10
+
+::: {.ejemplo}
+**6. ¿La empresa cobra el capital por haber pagado las primas?**
+No. Pagar las primas no la convierte en beneficiaria.
+
+**7. ¿Cuánto capital se pactó para el fallecimiento de Ana?**
+$40 millones.
+
+**8. ¿Hay que probar una pérdida patrimonial de $40 millones para cobrar ese capital?**
+No. En el seguro de vida se paga el capital convenido si ocurre el evento cubierto.
+
+**9. ¿Qué cubre el seguro de accidentes personales de Bruno?**
+La incapacidad permanente causada por un accidente cubierto.
+
+**10. ¿Bruno cobra necesariamente todo el capital de incapacidad?**
+No. La prestación depende del grado de incapacidad y de la tabla o condiciones pactadas.
+
+:::
+
+# Caso 5 · Ideas para recordar
+
+::: {.doctrina}
+**Caso 5:** Seguro de vida colectivo y accidentes personales. Las respuestas se basan en los hechos fijados en el supuesto. Una póliza con condiciones distintas o hechos diferentes puede modificar la solución.
+:::
+
+# Cierre · Mapa de repaso
+
+::: {.regla}
+**Contrato:** consentimiento, riesgo, prima y póliza.  
+**Vigencia:** pago, reticencia y agravación.  
+**Siniestro:** denuncia, información y pronunciamiento.  
+**Daños:** interés asegurable, infraseguro y franquicia.  
+**Responsabilidad civil:** asegurado, tercero y citación en garantía.  
+**Personas:** asegurado, tomador y beneficiario.
+:::
+
+::: {.bibliografia}
+**Base de la guía:** presentación de clase aportada por el docente, *Contrato de seguro · Ley 17.418* (80 diapositivas). Las soluciones son didácticas y presuponen los hechos y cláusulas expresamente indicados.
+:::
